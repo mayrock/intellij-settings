@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculatedOccupancyTax.java" timestamp="1518324712999">
         <mark key="'" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1523600800393">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1523638804084">
         <mark key="'" line="116" column="32" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/refining/Payment2sAccountingAuditRefiner.scala" timestamp="1523291197079">
@@ -359,6 +359,12 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1511894176192">
         <mark key="'" line="290" column="33" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/SabrixHealthCheckTest.java" timestamp="1523638890932">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="61" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/Conf.scala" timestamp="1516387681678">
         <mark key="'" line="21" column="11" />
@@ -728,11 +734,11 @@
       <jump line="46" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3RDYWxjdWxhdG9yXD4=</text>
@@ -741,12 +747,27 @@
         <text>buildResponseFromInvoice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2NhdGlvbiAtPiByZXNwb25zZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nKEZpbGVzLnJlYWRBbGxCeXRlcyhQYXRocy5nZXQoZmlsZVBhdGgpKSkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEludm9pY2VSZXNwb25zZS5mcm9tWG1sU3RyaW5nKAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgKCkgLT4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>Listing.builder()
                           .listingId(listingId)
                           .hostUserId(1)
@@ -762,23 +783,8 @@
                           .country(&quot;US&quot;)
                           .build());</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBUcnk8Q2FsY3VsYXRlT2NjdXBhbmN5VGF4ZXNSZXNwb25zZT4gZ2V0Q2FsY3VsYXRlVE9UUmVzcG9uc2VGcm9tUmVxdWVzdEFuZExpc3RpbmcoCiAgICAgIENhbGN1bGF0ZVRPVFJlcXVlc3QgcmVxLCBMaXN0aW5nIGxpc3RpbmcpIHsKICAgIHJldHVybiB0b3RDYWxjdWxhdG9yLmNhbGN1bGF0ZVRheGVzKHJlcSwgbGlzdGluZyk7CiAgfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLm1hcChyZXNwb25zZSAtPiB0b3RDYWxjdWxhdG9yLmJ1aWxkUmVzcG9uc2VGcm9tSW52b2ljZShyZXNwb25zZSwgcmVxLCBsaXN0aW5nKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKHJlc3BvbnNlIC0+IHNhYnJpeENsaWVudC5idWlsZFJlc3BvbnNlRnJvbUludm9pY2UocmVzcG9uc2UsIHJlcSwgbGlzdGluZykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
