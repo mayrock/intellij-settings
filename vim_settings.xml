@@ -168,8 +168,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/repositories/tables/SynthesizedPlatformEventsTable.scala" timestamp="1511851613697">
         <mark key="'" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1523830014117">
-        <mark key="'" line="226" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1523917696790">
+        <mark key="'" line="37" column="30" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/Emitter/ReservationEmitterReport.scala" timestamp="1516689893068">
         <mark key="'" line="115" column="36" />
@@ -654,9 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
-      <jump line="119" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" />
-      <jump line="564" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
       <jump line="120" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" />
       <jump line="117" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" />
       <jump line="7" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/RequestStatus.java" />
@@ -754,6 +751,9 @@
       <jump line="32" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculateOccupancyTaxesForTesterRequest.java" />
       <jump line="58" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="7" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculateOccupancyTaxesError.java" />
+      <jump line="62" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="82" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="37" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -763,7 +763,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRWYWx1ZUFkZGVkVGF4UmF0ZVJlcXVlc3RcPg==</text>
+        <text encoding="base64">XDxBUElfUEFUSFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRocm93bi5leHBlY3RNZXNzYWdlKG5ldyBTdHJpbmdTdGFydHNXaXRoKCJBQkMiKSk7Cg==</text>
@@ -800,9 +800,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRWYWx1ZUFkZGVkVGF4UmF0ZVJlcXVlc3RcPg==</last-search>
+      <last-search encoding="base64">XDxBUElfUEFUSFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRWYWx1ZUFkZGVkVGF4UmF0ZVJlcXVlc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBUElfUEFUSFw+</last-pattern>
       <last-replace />
       <last-substitute>Listing</last-substitute>
       <last-dir>1</last-dir>
@@ -832,6 +832,7 @@
         <entry>bad_user</entry>
         <entry encoding="base64">XDxDYWxjdWxhdGVPY2N1cGFuY3lUYXhlc1Jlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxHZXRWYWx1ZUFkZGVkVGF4UmF0ZVJlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxBUElfUEFUSFw+</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
