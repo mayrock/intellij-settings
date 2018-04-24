@@ -315,8 +315,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1511894176192">
         <mark key="'" line="290" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1524607267809">
-        <mark key="'" line="69" column="43" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1524608319096">
+        <mark key="'" line="70" column="43" />
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/Conf.scala" timestamp="1516387681678">
         <mark key="'" line="21" column="11" />
@@ -661,16 +665,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>serviceRequest.getRequest()</text>
+        <text>quest</text>
       </register>
       <register name="-" type="4">
-        <text>serviceRequest.getRequest()</text>
+        <text>quest</text>
       </register>
       <register name="/" type="4">
         <text>getcurre</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgc3RhdGljIEFydWJhQ29udGV4dCBnZXRDdXJyZW50KCkgewogICAgcmV0dXJuIGN1cnJlbnRSZXF1ZXN0Q29udGV4dC5nZXQoKTsKICB9Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuYXBpLkNhbGN1bGF0ZU9jY3VwYW5jeVRheGVzRm9yVGVzdGVyUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -710,14 +714,10 @@
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJpYWxpemVkX3NhYnJpeF9pbnZvaWNlX3Jlc3BvbnNlXD4=</entry>
-        <entry encoding="base64">XDxjYXVzZVw+</entry>
-        <entry>isA</entry>
-        <entry>isa</entry>
         <entry encoding="base64">XDxHZXRWYWx1ZUFkZGVkVGF4RXJyb3JcPg==</entry>
         <entry encoding="base64">XDxtYXBWYXRFcnJvcnNcPg==</entry>
         <entry>containsString</entry>
