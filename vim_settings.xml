@@ -221,6 +221,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1524595754124">
+        <mark key="[" line="207" column="46" />
+        <mark key="]" line="207" column="53" />
+        <mark key="." line="207" column="53" />
+        <mark key="^" line="207" column="53" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/revenue/R2AAToRevenueBuilder.scala" timestamp="1516688771542">
         <mark key="'" line="212" column="43" />
       </file>
@@ -454,6 +460,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/CleanDataProvider.scala" timestamp="1516691106416">
         <mark key="'" line="323" column="70" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_service.thrift" timestamp="1524595495304">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/resources/production2015.conf" timestamp="1516837489715">
         <mark key="'" line="13" column="28" />
       </file>
@@ -652,16 +664,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String.valueOf(m.getCity().isPresent())</text>
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>String.valueOf(m.getCity().isPresent())</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNSUNBU0FfQ0xJRU5UX05BTUVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZXRMaXN0aW5nQnlJZF9ibGFua01pY2FzYVN0YXRlQW5kTnVsbENsZWFuc2VkU3RhdGVfVXNlRW1wdHkoKSB7CiAgICBNYXA8TW9kZWwuRmllbGQsIE9iamVjdD4gZmllbGRzID0gZ2V0RmllbGRzTWFwKCk7CiAgICBmaWVsZHMucHV0KE1vZGVsLkZpZWxkLlNUQVRFLCAiIik7CiAgICBMaXN0aW5nIGxpc3RpbmcgPSBnZXRMaXN0aW5nKGZpZWxkcywgZ2V0Um93QnVpbGRlcigpLnN0YXRlKE9wdGlvbi5ub25lKCkpKTsKICAgIGFzc2VydEVxdWFscygiU29tZVN0cmluZyIsIGxpc3RpbmcuZ2V0U3RhdGUoKSk7CiAgfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3RydWN0IENhbGN1bGF0ZU9jY3VwYW5jeVRheGVzUmVzcG9uc2Ugewo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0R2V0TGlzdGluZ0J5SWRfYmxhbmtNaWNhc2FDb3VudHJ5QW5kTnVsbENsZWFuc2VkQ291bnRyeV9Vc2VFbXB0eSgpIHsKICAgIE1hcDxNb2RlbC5GaWVsZCwgT2JqZWN0PiBmaWVsZHMgPSBnZXRGaWVsZHNNYXAoKTsKICAgIGZpZWxkcy5wdXQoTW9kZWwuRmllbGQuQ09VTlRSWSwgIiIpOwogICAgTGlzdGluZyBsaXN0aW5nID0gZ2V0TGlzdGluZyhmaWVsZHMsIGdldFJvd0J1aWxkZXIoKS5jb3VudHJ5Q29kZShPcHRpb24ubm9uZSgpKSk7CiAgICBhc3NlcnRFcXVhbHMoIiIsIGxpc3RpbmcuZ2V0Q291bnRyeSgpKTsKICB9Cg==</text>
