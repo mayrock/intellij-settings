@@ -69,12 +69,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" timestamp="1524605754487">
         <mark key="'" line="1259" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.java" timestamp="1524702177146">
-        <mark key="'" line="13" column="62" />
-        <mark key="[" line="47" column="62" />
-        <mark key="]" line="47" column="76" />
-        <mark key="." line="47" column="76" />
-        <mark key="^" line="47" column="76" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.java" timestamp="1524847592297">
+        <mark key="'" line="15" column="62" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculatedOccupancyTax.java" timestamp="1518324712999">
         <mark key="'" line="238" column="14" />
@@ -119,10 +119,10 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/rules/RulesModel.scala" timestamp="1507186727744">
         <mark key="'" line="109" column="8" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1524812515095">
-        <mark key="'" line="70" column="37" />
-        <mark key="[" line="127" column="24" />
-        <mark key="]" line="127" column="24" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1524847559986">
+        <mark key="'" line="150" column="11" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="6" />
         <mark key="^" line="127" column="24" />
         <mark key="." line="127" column="24" />
       </file>
@@ -584,7 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="95" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="50" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" />
       <jump line="61" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" />
@@ -684,10 +683,11 @@
       <jump line="173" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="17" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/request/InvoiceLine.java" />
       <jump line="164" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="150" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHNqZgo=</text>
       </register>
       <register name="-" type="4">
         <text>dataStr</text>
@@ -696,37 +696,37 @@
         <text encoding="base64">XDxidWlsZEludm9pY2VSZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFydWJhQ29udGV4dC5sb2dEZWJ1Z0luZm8oIlJhd1NhYnJpeFhtbFJlcXVlc3QiLCBkYXRhU3RyKTsK</text>
+        <text encoding="base64">QFNsZjRqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHNqZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoaW5mbywgYWxsT2YoCiAgICAgICAgaGFzU2l6ZSgxKSwKICAgICkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydE5vdE51bGwoaW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoaW5mbywgYWxsT2YoCiAgICAgICAgaGFzU2l6ZSgxKSwKICAgICkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFzc2VydE5vdE51bGwoaW5mbyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5kZWJ1Z0luZm8gPSBPcHRpb24ub2YoY29udGV4dC5kZWJ1Z0luZm8pLmdldE9yRWxzZShuZXcgSGFzaE1hcDw+KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5kZWJ1Z0luZm8K</text>
+        <text encoding="base64">ICAgICAgY29udGV4dC5kZWJ1Z0luZm8gPSBPcHRpb24ub2YoY29udGV4dC5kZWJ1Z0luZm8pLmdldE9yRWxzZShuZXcgSGFzaE1hcDw+KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dC5kZWJ1Z0luZm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -779,9 +779,9 @@
         <entry>%s/98765/SomeString/g</entry>
         <entry>%s/Province/State/g</entry>
         <entry>%s/var /Listing /g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
