@@ -429,9 +429,9 @@
         <mark key="'" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" timestamp="1524865156964">
-        <mark key="'" line="81" column="43" />
+        <mark key="'" line="80" column="43" />
         <mark key="[" line="78" column="0" />
-        <mark key="]" line="79" column="81" />
+        <mark key="]" line="78" column="81" />
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/revenue/R2AAToAcceptedRevenueBuilderSpec.scala" timestamp="1516689305157">
@@ -476,6 +476,12 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/build/libs/api-dropwizard1.0.jar!/com/airbnb/micasa/api/TypedModel.class" timestamp="1524073678416">
         <mark key="'" line="648" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponseTest.java" timestamp="1524866105067">
+        <mark key="[" line="89" column="67" />
+        <mark key="]" line="89" column="67" />
+        <mark key="." line="89" column="67" />
+        <mark key="^" line="89" column="43" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/model/braavos_data/helper/MagicalTripPlatformEventConverter.scala" timestamp="1511852991184">
         <mark key="'" line="20" column="11" />
@@ -698,17 +704,17 @@
       <jump line="81" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRUYXhhYmxlQ2l0eSgKICAgICAgICAgICAgICAgICAgICBPcHRpb24ub2YodGF4LmdldFRheGFibGVDaXR5KCkpLmdldE9yRWxzZShsaXN0aW5nLmdldENpdHkoKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>TAXABLE_CITY</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tm9uTnVsbCA=</text>
+        <text>TAXABLE_CITY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZEludm9pY2VSZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+      <register name="0" type="4">
+        <text>TAXABLE_COUNTRY</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRUYXhhYmxlQ2l0eSgKICAgICAgICAgICAgICAgICAgICBPcHRpb24ub2YodGF4LmdldFRheGFibGVDaXR5KCkpLmdldE9yRWxzZShsaXN0aW5nLmdldENpdHkoKSkpCg==</text>
