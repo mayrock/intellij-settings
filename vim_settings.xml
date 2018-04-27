@@ -119,7 +119,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/rules/RulesModel.scala" timestamp="1507186727744">
         <mark key="'" line="109" column="8" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/PricingItemType.java" timestamp="1524727991782" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1524592566901">
         <mark key="'" line="70" column="37" />
         <mark key="[" line="127" column="24" />
@@ -727,7 +726,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -737,23 +736,10 @@
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>containsString</entry>
-        <entry>bad_user</entry>
-        <entry encoding="base64">XDxDYWxjdWxhdGVPY2N1cGFuY3lUYXhlc1Jlc3BvbnNlXD4=</entry>
-        <entry encoding="base64">XDxHZXRWYWx1ZUFkZGVkVGF4UmF0ZVJlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxBUElfUEFUSFw+</entry>
-        <entry>log</entry>
-        <entry encoding="base64">XDxzZXRVcE1vY2tXaXRoRmllbGRzXD4=</entry>
-        <entry encoding="base64">XDxnZXRSb3dCdWlsZGVyXD4=</entry>
-        <entry>98765</entry>
-        <entry>Province</entry>
-        <entry>var</entry>
-        <entry encoding="base64">dmFyIA==</entry>
-        <entry encoding="base64">XDxyb2xlXD4=</entry>
         <entry encoding="base64">XDxNSUNBU0FfQ0xJRU5UX05BTUVcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50UmVxdWVzdENvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxBaXJibmJSZXF1ZXN0Q29udGV4dFw+</entry>
@@ -790,12 +776,12 @@
         <entry>Q!</entry>
         <entry>q!</entry>
         <entry>we</entry>
-        <entry>q</entry>
         <entry>%s/98765/SomeString/g</entry>
         <entry>%s/Province/State/g</entry>
         <entry>%s/var /Listing /g</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
