@@ -552,8 +552,8 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos2/data/ReservationPlatformEventConverterSpec.scala" timestamp="1511850735348">
         <mark key="'" line="43" column="65" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" timestamp="1524864331435">
-        <mark key="'" line="18" column="18" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" timestamp="1525198233713">
+        <mark key="'" line="61" column="12" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/transactional_tests/ReservationEventsTest.scala" timestamp="1511895802525">
         <mark key="'" line="51" column="31" />
@@ -602,9 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="19" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
-      <jump line="603" column="11" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
-      <jump line="1263" column="10" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
       <jump line="1262" column="23" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
       <jump line="1266" column="20" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
       <jump line="1260" column="62" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
@@ -702,6 +699,9 @@
       <jump line="10" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/MetricRegistry.java" />
       <jump line="20" column="20" filename="$USER_HOME$/airlab/repos/treehouse/common/dropwizard1.0/src/main/java/com/airbnb/common/metrics/module/TaggedMetricsRegistryModule.java" />
       <jump line="48" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="18" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" />
+      <jump line="50" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" />
+      <jump line="61" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -711,7 +711,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>raw</text>
+        <text encoding="base64">XDxyb2xlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>TAXABLE_CITY</text>
@@ -748,9 +748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>raw</last-search>
+      <last-search encoding="base64">XDxyb2xlXD4=</last-search>
       <last-offset />
-      <last-pattern>raw</last-pattern>
+      <last-pattern encoding="base64">XDxyb2xlXD4=</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -779,6 +779,7 @@
         <entry encoding="base64">XDxidWlsZEludm9pY2VcPg==</entry>
         <entry encoding="base64">XDxidWlsZEludm9pY2VSZXF1ZXN0XD4=</entry>
         <entry>raw</entry>
+        <entry encoding="base64">XDxyb2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
