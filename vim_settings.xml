@@ -72,12 +72,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" timestamp="1524605754487">
         <mark key="'" line="1259" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.java" timestamp="1524848325971">
-        <mark key="'" line="15" column="62" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="30" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.java" timestamp="1525211687290">
+        <mark key="'" line="16" column="62" />
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculatedOccupancyTax.java" timestamp="1518324712999">
         <mark key="'" line="238" column="14" />
@@ -552,7 +552,7 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos2/data/ReservationPlatformEventConverterSpec.scala" timestamp="1511850735348">
         <mark key="'" line="43" column="65" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" timestamp="1525198233713">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientConfig.java" timestamp="1525211507082">
         <mark key="'" line="61" column="12" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/transactional_tests/ReservationEventsTest.scala" timestamp="1511895802525">
@@ -705,10 +705,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>System.getProperty(&quot;line.separator&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>System.getProperty(&quot;line.separator&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb2xlXD4=</text>
