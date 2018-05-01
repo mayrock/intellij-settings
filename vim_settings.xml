@@ -165,8 +165,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/repositories/tables/SynthesizedPlatformEventsTable.scala" timestamp="1511851613697">
         <mark key="'" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1524865068320">
-        <mark key="'" line="269" column="35" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1525193798056">
+        <mark key="'" line="48" column="72" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/Emitter/ReservationEmitterReport.scala" timestamp="1516689893068">
         <mark key="'" line="115" column="36" />
@@ -195,8 +195,11 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/HiveTable.scala" timestamp="1516819150994">
         <mark key="'" line="234" column="39" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1512067757501">
-        <mark key="'" line="178" column="9" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1525121675977">
+        <mark key="'" line="38" column="22" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" timestamp="1525121662345">
+        <mark key="'" line="50" column="37" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/income_tax/Irs1099UserForm.scala" timestamp="1516295248215">
         <mark key="'" line="203" column="14" />
@@ -498,12 +501,6 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/CleanDataProvider.scala" timestamp="1516691106416">
         <mark key="'" line="323" column="70" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_service.thrift" timestamp="1524595495304">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="44" />
-      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/resources/production2015.conf" timestamp="1516837489715">
         <mark key="'" line="13" column="28" />
       </file>
@@ -570,6 +567,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.10/1.6.2/54b4f502ba12626731d990aea2a7e3172bce8880/spark-catalyst_2.10-1.6.2-sources.jar!/org/apache/spark/sql/Row.scala" timestamp="1516300151110">
         <mark key="'" line="292" column="58" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/dropwizard1.0/src/main/java/com/airbnb/common/metrics/module/TaggedMetricsRegistryModule.java" timestamp="1525121703740">
+        <mark key="'" line="20" column="20" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/InjectMocks.java" timestamp="1509657163221">
         <mark key="'" line="162" column="18" />
       </file>
@@ -602,14 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="59" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/extern/slf4j/Slf4j.java" />
-      <jump line="54" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="1270" column="30" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoader.java" />
-      <jump line="68" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoader.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
-      <jump line="75" column="9" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
       <jump line="563" column="19" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
       <jump line="603" column="11" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
       <jump line="1263" column="10" filename="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" />
@@ -673,7 +665,6 @@
       <jump line="90" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="63" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="80" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="66" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="70" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="93" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="71" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
@@ -699,9 +690,18 @@
       <jump line="75" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Invoice.java" />
       <jump line="42" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceLine.java" />
       <jump line="72" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="269" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="52" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" />
       <jump line="81" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" />
+      <jump line="269" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="66" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="6" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/metrics/FunctionTimer.java" />
+      <jump line="43" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-core/1.0.6/829d443a3dc564495d7e7ff8514077a3f7dec3ea/dropwizard-core-1.0.6-sources.jar!/io/dropwizard/setup/Environment.java" />
+      <jump line="50" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" />
+      <jump line="38" column="22" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/MetricRegistry.java" />
+      <jump line="20" column="20" filename="$USER_HOME$/airlab/repos/treehouse/common/dropwizard1.0/src/main/java/com/airbnb/common/metrics/module/TaggedMetricsRegistryModule.java" />
+      <jump line="48" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -711,7 +711,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZEludm9pY2VSZXF1ZXN0XD4=</text>
+        <text>raw</text>
       </register>
       <register name="0" type="4">
         <text>TAXABLE_CITY</text>
@@ -748,13 +748,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZEludm9pY2VSZXF1ZXN0XD4=</last-search>
+      <last-search>raw</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZEludm9pY2VSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern>raw</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -778,6 +778,7 @@
         <entry encoding="base64">XDxidWlsZEludm9pY2VMaW5lc1w+</entry>
         <entry encoding="base64">XDxidWlsZEludm9pY2VcPg==</entry>
         <entry encoding="base64">XDxidWlsZEludm9pY2VSZXF1ZXN0XD4=</entry>
+        <entry>raw</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
