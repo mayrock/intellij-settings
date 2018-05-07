@@ -373,8 +373,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Validation.java" timestamp="1517550771212">
         <mark key="'" line="720" column="16" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" timestamp="1525709356734">
-        <mark key="'" line="39" column="14" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" timestamp="1525710673922">
+        <mark key="'" line="243" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1510697891647">
         <mark key="'" line="932" column="22" />
@@ -640,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-core/1.0.6/829d443a3dc564495d7e7ff8514077a3f7dec3ea/dropwizard-core-1.0.6-sources.jar!/io/dropwizard/setup/Environment.java" />
       <jump line="50" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" />
       <jump line="38" column="22" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
       <jump line="10" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/MetricRegistry.java" />
@@ -740,6 +739,7 @@
       <jump line="115" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
       <jump line="39" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
       <jump line="116" column="27" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
+      <jump line="243" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -749,7 +749,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYXlvdXRCYXRjaERldGFpbFw+</text>
+        <text>enum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiRXhjZXB0aW9uOiglcyk7IERlYnVnIGluZm86KCVzKSIsIG9yaWdpbmFsTWVzc2FnZSwgZ2V0RGVidWdJbmZvKCkudG9TdHJpbmcoKSk7Cg==</text>
@@ -786,9 +786,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYXlvdXRCYXRjaERldGFpbFw+</last-search>
+      <last-search>enum</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYXlvdXRCYXRjaERldGFpbFw+</last-pattern>
+      <last-pattern>enum</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -824,6 +824,7 @@
         <entry>replace</entry>
         <entry encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</entry>
         <entry encoding="base64">XDxQYXlvdXRCYXRjaERldGFpbFw+</entry>
+        <entry>enum</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
