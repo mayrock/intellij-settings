@@ -69,6 +69,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/request/InvoiceLine.java" timestamp="1523985736795">
         <mark key="'" line="21" column="28" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1525971022993">
+        <mark key="'" line="61" column="59" />
+        <mark key="[" line="131" column="54" />
+        <mark key="]" line="131" column="54" />
+        <mark key="." line="131" column="54" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/runners/DenormalizedEventsToAccountingEventsRunner.scala" timestamp="1511848981922">
         <mark key="'" line="39" column="40" />
       </file>
@@ -178,8 +184,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/dropwizard1.0/src/main/java/com/airbnb/common/dropwizard/config/AirbnbConfiguration.java" timestamp="1522278288226">
         <mark key="'" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1525969563467">
-        <mark key="'" line="350" column="31" />
+      <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1525970652618">
+        <mark key="'" line="350" column="52" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1525743166021">
         <mark key="'" line="65" column="32" />
@@ -625,12 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1047" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/concurrent/Future.java" />
-      <jump line="150" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="151" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="370" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" />
-      <jump line="170" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="63" column="26" filename="$USER_HOME$/airlab/repos/treehouse/common/utils/build/libs/utils-0.1.0-dropwizard1.0.jar!/com/airbnb/common/utils/misc/StringUtil.class" />
       <jump line="307" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/build/libs/api-dropwizard1.0.jar!/com/airbnb/micasa/api/Model.class" />
       <jump line="145" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="239" column="6" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Map.java" />
@@ -717,7 +717,6 @@
       <jump line="423" column="62" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/ReservationEventBuilder.scala" />
       <jump line="73" column="54" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservationPriceVersionItem.scala" />
       <jump line="368" column="88" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/CleanDataProvider.scala" />
-      <jump line="350" column="31" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
       <jump line="302" column="75" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/ReservationAccountingEventHandler.scala" />
       <jump line="28" column="6" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservationPriceVersionItem.scala" />
       <jump line="72" column="28" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservationPriceVersionItem.scala" />
@@ -725,16 +724,23 @@
       <jump line="112" column="6" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservationPriceVersionItem.scala" />
       <jump line="169" column="31" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservationPriceVersionItem.scala" />
       <jump line="150" column="18" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservationPriceVersionItem.scala" />
+      <jump line="158" column="56" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
+      <jump line="317" column="21" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
+      <jump line="335" column="21" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
+      <jump line="337" column="34" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
+      <jump line="372" column="44" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
+      <jump line="350" column="52" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
+      <jump line="61" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YmFzZSA=</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmFzZSA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPY2N1cGFuY3lUYXhOZXdcPg==</text>
+        <text>exepct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBUYXhhYmxlIGJhc2UgYW1vdW50IGluIG1pY3JvcywgaW4gdGhlIGdpdmVuIGN1cnJlbmN5Cg==</text>
@@ -771,9 +777,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPY2N1cGFuY3lUYXhOZXdcPg==</last-search>
+      <last-search>exepct</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPY2N1cGFuY3lUYXhOZXdcPg==</last-pattern>
+      <last-pattern>exepct</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -812,6 +818,10 @@
         <entry>raw</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUFjY291bnRpbmdFdmVudElkXD4=</entry>
         <entry encoding="base64">XDxPY2N1cGFuY3lUYXhOZXdcPg==</entry>
+        <entry>thismonth</entry>
+        <entry>ThisMonth</entry>
+        <entry>tot</entry>
+        <entry>exepct</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
