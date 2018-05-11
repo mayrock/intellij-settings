@@ -138,11 +138,11 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1525929559588">
-        <mark key="'" line="64" column="20" />
-        <mark key="[" line="56" column="51" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1525998273508">
+        <mark key="'" line="53" column="34" />
+        <mark key="[" line="295" column="29" />
+        <mark key="]" line="295" column="29" />
+        <mark key="." line="295" column="29" />
         <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
@@ -184,11 +184,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1525970652618">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1525743166021">
-        <mark key="'" line="65" column="32" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1525998331199">
+        <mark key="'" line="70" column="50" />
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="28" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/base/BaseEvent.scala" timestamp="1516477554295">
         <mark key="'" line="40" column="6" />
@@ -565,8 +566,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/raw/TaxInfo.scala" timestamp="1516914568934">
         <mark key="'" line="77" column="40" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" timestamp="1525997441214">
-        <mark key="[" line="24" column="39" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" timestamp="1525998207578">
+        <mark key="[" line="231" column="0" />
         <mark key="]" line="24" column="46" />
         <mark key="^" line="24" column="46" />
         <mark key="." line="24" column="46" />
@@ -615,9 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="161" column="23" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
-      <jump line="214" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
       <jump line="288" column="9" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
       <jump line="27" column="13" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
       <jump line="115" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
@@ -715,16 +713,19 @@
       <jump line="244" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="249" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="254" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
+      <jump line="70" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="53" column="34" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QE5vbk51bGwg</text>
+        <text>(request.getListing());</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>(request.getListing());</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRMaXN0aW5nXD4=</text>
+        <text>fortester</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QE5vbk51bGwg</text>
@@ -761,9 +762,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRMaXN0aW5nXD4=</last-search>
+      <last-search>fortester</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRMaXN0aW5nXD4=</last-pattern>
+      <last-pattern>fortester</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -795,6 +796,7 @@
         <entry>model</entry>
         <entry encoding="base64">XDxzZXRVcE1vY2tXaXRoRmllbGRzXD4=</entry>
         <entry encoding="base64">XDxnZXRMaXN0aW5nXD4=</entry>
+        <entry>fortester</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
