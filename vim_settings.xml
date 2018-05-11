@@ -184,12 +184,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1525970652618">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1525998331199">
-        <mark key="'" line="70" column="50" />
-        <mark key="[" line="72" column="29" />
-        <mark key="]" line="72" column="28" />
-        <mark key="." line="72" column="28" />
-        <mark key="^" line="72" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1526002652766">
+        <mark key="'" line="105" column="80" />
+        <mark key="[" line="107" column="19" />
+        <mark key="]" line="107" column="24" />
+        <mark key="^" line="107" column="24" />
+        <mark key="." line="107" column="24" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/base/BaseEvent.scala" timestamp="1516477554295">
         <mark key="'" line="40" column="6" />
@@ -616,13 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="9" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
-      <jump line="27" column="13" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
-      <jump line="115" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
-      <jump line="39" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
-      <jump line="116" column="27" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
-      <jump line="243" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
-      <jump line="86" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="100" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="53" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="100" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
@@ -716,55 +709,62 @@
       <jump line="70" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="53" column="34" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="73" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="102" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="2839" column="36" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/API.java" />
+      <jump line="71" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="139" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="52" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="105" column="80" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(request.getListing());</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(request.getListing());</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>fortester</text>
+        <text encoding="base64">XDxjYWxjdWxhdGVUYXhlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QE5vbk51bGwg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb20uYWlyYm5iLmFydWJhLmFwaS5MaXN0aW5nIHJlcXVlc3RMaXN0aW5nID0gcmVxdWVzdC5nZXRMaXN0aW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBCdWlsZGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAuZmxhdE1hcCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZW4oZGF0YVJlcG9zaXRvcnkuZ2V0Q2xlYW5zZWRBZGRyZXNzKGFueSgpKSkudGhlbkFuc3dlcihpbnZvY2F0aW9uIC0+IE9wdGlvbi5ub25lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob25OdWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCkgLT4gKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZW4oZGF0YVJlcG9zaXRvcnkuZ2V0Q2xlYW5zZWRBZGRyZXNzKGFueSgpKSkudGhlbkFuc3dlcihpbnZvY2F0aW9uIC0+IE9wdGlvbi5ub25lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUcnkub2YoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENsZWFuc2VkQWRkcmVzc2VzLlJvdy5Sb3dCdWlsZGVyIG5vbk51bGxCdWlsZGVyID0gT3B0aW9uLm9mKCkuZ2V0T3JFbHNlKGdldFJvd0J1aWxkZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAocmVxdWVzdExpc3RpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBcnViYUNvbnRleHQuc2V0Q3VycmVudChBcnViYUNvbnRleHQuYnVpbGRlcigpLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gTWF0Y2goT3B0aW9uLm9mKHJlcXVlc3RMaXN0aW5nKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIkRlYnVnIGluZm86KHtXaG9Jc1RoZXJlPVNvbWVEZWJ1Z0luZm9ybWF0aW9ufSkiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRMaXN0aW5nKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fortester</last-search>
+      <last-search encoding="base64">XDxjYWxjdWxhdGVUYXhlc1w+</last-search>
       <last-offset />
-      <last-pattern>fortester</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjdWxhdGVUYXhlc1w+</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -797,6 +797,7 @@
         <entry encoding="base64">XDxzZXRVcE1vY2tXaXRoRmllbGRzXD4=</entry>
         <entry encoding="base64">XDxnZXRMaXN0aW5nXD4=</entry>
         <entry>fortester</entry>
+        <entry encoding="base64">XDxjYWxjdWxhdGVUYXhlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
