@@ -184,12 +184,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1525970652618">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1526002719910">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1526011324445">
         <mark key="'" line="105" column="77" />
-        <mark key="[" line="107" column="19" />
-        <mark key="]" line="107" column="24" />
-        <mark key="^" line="107" column="24" />
-        <mark key="." line="107" column="24" />
+        <mark key="[" line="105" column="8" />
+        <mark key="]" line="105" column="8" />
+        <mark key="^" line="105" column="19" />
+        <mark key="." line="105" column="8" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/base/BaseEvent.scala" timestamp="1516477554295">
         <mark key="'" line="40" column="6" />
@@ -719,10 +719,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjdWxhdGVUYXhlc1w+</text>
@@ -731,31 +731,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBjb20uYWlyYm5iLmFydWJhLmFwaS5MaXN0aW5nIHJlcXVlc3RMaXN0aW5nID0gcmVxdWVzdC5nZXRMaXN0aW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZmxhdE1hcCgpCg==</text>
+        <text encoding="base64">ICAgIE9iamVjdCBzb21ldGhpZ247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZmxhdE1hcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCkgLT4gKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUcnkub2YoCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKCkgLT4gKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUcnkub2YoCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAocmVxdWVzdExpc3RpbmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gTWF0Y2goT3B0aW9uLm9mKHJlcXVlc3RMaXN0aW5nKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAocmVxdWVzdExpc3RpbmcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gTWF0Y2goT3B0aW9uLm9mKHJlcXVlc3RMaXN0aW5nKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRMaXN0aW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
