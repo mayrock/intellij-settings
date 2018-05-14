@@ -98,6 +98,7 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/processor/ReservationEventProcessingReport.scala" timestamp="1516691369585">
         <mark key="'" line="153" column="45" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculatorTest.java" timestamp="1526340894458" />
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationEventBuilderSpecBase.scala" timestamp="1511827877920">
         <mark key="'" line="38" column="22" />
       </file>
@@ -411,6 +412,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/LossAccountSubledgersGenerationTest.scala" timestamp="1511326179729">
         <mark key="'" line="86" column="49" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/models/TotDetails.java" timestamp="1526340683661">
+        <mark key="[" line="52" column="67" />
+        <mark key="]" line="52" column="71" />
+        <mark key="." line="52" column="71" />
+        <mark key="^" line="52" column="71" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/clients/picasso/src/test/java/com/airbnb/common/clients/picasso/PicassoClientTest.java" timestamp="1509660140450">
         <mark key="'" line="35" column="11" />
       </file>
@@ -514,6 +521,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1524592450706">
         <mark key="'" line="71" column="29" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculator.java" timestamp="1526340638773">
+        <mark key="'" line="244" column="39" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/Conf.scala" timestamp="1516387681678">
         <mark key="'" line="21" column="11" />
       </file>
@@ -613,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="21" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
       <jump line="337" column="34" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
       <jump line="372" column="44" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
       <jump line="350" column="52" filename="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" />
@@ -713,10 +722,11 @@
       <jump line="98" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
       <jump line="30" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/balboa_service.thrift" />
       <jump line="16" column="39" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/balboa_service.thrift" />
+      <jump line="244" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAxMzogb3B0aW9uYWwgZG91YmxlIHRheEFtb3VudE5hdGl2ZQogIDE0OiBvcHRpb25hbCBkb3VibGUgdGF4YWJsZUFtb3VudE5hdGl2ZQogIDE1OiBvcHRpb25hbCBkb3VibGUgZXhlbXB0QW1vdW50TmF0aXZlCiAgMTY6IG9wdGlvbmFsIGRvdWJsZSBub25UYXhhYmxlQW1vdW50TmF0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAudGF4QW1vdW50TmF0aXZlKGl0ZW0uZ2V0VGF4QW1vdW50TmF0aXZlKCkpCiAgICAgICAgLnRheGFibGVBbW91bnROYXRpdmUoaXRlbS5nZXRUYXhhYmxlQW1vdW50TmF0aXZlKCkpCiAgICAgICAgLmV4ZW1wdEFtb3VudE5hdGl2ZShpdGVtLmdldEV4ZW1wdEFtb3VudE5hdGl2ZSgpKQogICAgICAgIC5ub25UYXhhYmxlQW1vdW50TmF0aXZlKGl0ZW0uZ2V0Tm9uVGF4YWJsZUFtb3VudE5hdGl2ZSgpKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
@@ -725,7 +735,7 @@
         <text encoding="base64">XDxnZXRDYWxjdWxhdGVUT1RSZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAxMzogb3B0aW9uYWwgZG91YmxlIHRheEFtb3VudE5hdGl2ZQogIDE0OiBvcHRpb25hbCBkb3VibGUgdGF4YWJsZUFtb3VudE5hdGl2ZQogIDE1OiBvcHRpb25hbCBkb3VibGUgZXhlbXB0QW1vdW50TmF0aXZlCiAgMTY6IG9wdGlvbmFsIGRvdWJsZSBub25UYXhhYmxlQW1vdW50TmF0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAudGF4QW1vdW50TmF0aXZlKGl0ZW0uZ2V0VGF4QW1vdW50TmF0aXZlKCkpCiAgICAgICAgLnRheGFibGVBbW91bnROYXRpdmUoaXRlbS5nZXRUYXhhYmxlQW1vdW50TmF0aXZlKCkpCiAgICAgICAgLmV4ZW1wdEFtb3VudE5hdGl2ZShpdGVtLmdldEV4ZW1wdEFtb3VudE5hdGl2ZSgpKQogICAgICAgIC5ub25UYXhhYmxlQW1vdW50TmF0aXZlKGl0ZW0uZ2V0Tm9uVGF4YWJsZUFtb3VudE5hdGl2ZSgpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKSAtPgo=</text>
@@ -765,12 +775,10 @@
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFBvc3RSZXF1ZXN0XD4=</entry>
-        <entry>resplace</entry>
         <entry>replace</entry>
         <entry encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</entry>
         <entry encoding="base64">XDxQYXlvdXRCYXRjaERldGFpbFw+</entry>
