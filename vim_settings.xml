@@ -223,6 +223,10 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/AccountingEventHandler.scala" timestamp="1511893682721">
         <mark key="'" line="52" column="19" />
       </file>
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1526600412204">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="42" column="25" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/AlterEventBuilder.scala" timestamp="1516736039543">
         <mark key="'" line="38" column="25" />
       </file>
@@ -621,9 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="156" column="64" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="61" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="84" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="106" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="91" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
@@ -721,6 +722,9 @@
       <jump line="192" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculator.java" />
       <jump line="244" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculator.java" />
       <jump line="31" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/models/TotDetails.java" />
+      <jump line="42" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="78" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="0" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -730,7 +734,7 @@
         <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text>totdetails</text>
+        <text encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGV4cGVjdGVkRGV0YWlsID0gIntcInN1Yl90eXBlXCI6XCJBbXN0ZXJkYW1fVEFYQUJMRV83ODI5MF80MTVcIixcInRheF9ydWxlX2lkXCI6XCI0MTVcIiwiICsKICAgICAgICAiXCJqdXJpc2RpY3Rpb25faWRcIjpcIjc4MjkwXCIsXCJqdXJpc2RpY3Rpb25fbGV2ZWxcIjpcIkNPVU5UUllcIiwiICsKICAgICAgICAiXCJqdXJpc2RpY3Rpb25fbmFtZVwiOlwiTkVUSEVSTEFORFNcIixcInJlbWl0dGFuY2VfY3VycmVuY3lcIjpcIlVTRFwiLCIgKwogICAgICAgICJcInRheF9hcmVhX2lkXCI6XCIzMTQwMVwiLFwidGF4X3R5cGVcIjpcIlZBVFwiLFwiaW1wb3NpdGlvbl90eXBlXCI6XCJUb3VyaXN0IFRheFwiLCIgKwogICAgICAgICJcImltcG9zaXRpb25fbmFtZVwiOlwiVG91cmlzdCBUYXhcIixcInByb2R1Y3RfY2xhc3NcIjpcIkFtc3RlcmRhbVwiLCIgKwogICAgICAgICJcInRheF9yZXN1bHRcIjpcIlRBWEFCTEVcIixcInRheF9hbW91bnRfbmF0aXZlXCI6NDAuMCxcInRheGFibGVfYW1vdW50X25hdGl2ZVwiOjQwMC4wLCIgKwogICAgICAgICJcImV4ZW1wdF9hbW91bnRfbmF0aXZlXCI6MC4wLFwibm9uX3RheGFibGVfYW1vdW50X25hdGl2ZVwiOjAuMCwiICsKICAgICAgICAiXCJ0YXhfYW1vdW50X25hdGl2ZV90b3RhbFwiOjQwLjAsXCJ0YXhhYmxlX2Ftb3VudF9uYXRpdmVfdG90YWxcIjoxNDAwLjAsIiArCiAgICAgICAgIlwiZXhlbXB0X2Ftb3VudF9uYXRpdmVfdG90YWxcIjowLjAsXCJub25fdGF4YWJsZV9hbW91bnRfbmF0aXZlX3RvdGFsXCI6MC4wLCIgKwogICAgICAgICJcInBheW1lbnRfcHJpY2luZ19pdGVtX3R5cGVcIjpcIk9DQ1VQQU5DWV9UQVhfTkVXXCJ9IjsKICAgIGFzc2VydEVxdWFscygKICAgICAgICBleHBlY3RlZERldGFpbCwKICAgICAgICB0b3RQcmljZUl0ZW0uZ2V0RGV0YWlscygpLmdldFJlc2VydmF0aW9uUHJpY2VJdGVtRGV0YWlscygpLmdldFNlcmlhbGl6ZWRQYXltZW50UHJpY2luZ0l0ZW1EZXRhaWxzKCkpOw==</text>
@@ -767,9 +771,9 @@
       </register>
     </registers>
     <search>
-      <last-search>totdetails</last-search>
+      <last-search encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>totdetails</last-pattern>
+      <last-pattern encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -777,8 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>replace</entry>
-        <entry encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</entry>
         <entry encoding="base64">XDxQYXlvdXRCYXRjaERldGFpbFw+</entry>
         <entry>enum</entry>
         <entry>raw</entry>
@@ -799,6 +801,7 @@
         <entry encoding="base64">XDxnZXRDYWxjdWxhdGVUT1RSZXNwb25zZVw+</entry>
         <entry>paymentPeriodTotResponseFuture</entry>
         <entry>totdetails</entry>
+        <entry encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
