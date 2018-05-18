@@ -223,12 +223,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/AccountingEventHandler.scala" timestamp="1511893682721">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1526620637963">
-        <mark key="'" line="259" column="2" />
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="397" column="24" />
-        <mark key="." line="264" column="1" />
-        <mark key="^" line="264" column="1" />
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1526685020106">
+        <mark key="'" line="127" column="2" />
+        <mark key="[" line="294" column="38" />
+        <mark key="]" line="294" column="38" />
+        <mark key="." line="294" column="38" />
+        <mark key="^" line="127" column="23" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/AlterEventBuilder.scala" timestamp="1516736039543">
         <mark key="'" line="38" column="25" />
@@ -565,11 +565,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/constants/SubledgerAccount.scala" timestamp="1516212104507">
         <mark key="'" line="60" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" timestamp="1526620640531">
-        <mark key="[" line="360" column="0" />
-        <mark key="]" line="361" column="24" />
-        <mark key="^" line="359" column="22" />
-        <mark key="." line="360" column="0" />
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" timestamp="1526684779771">
+        <mark key="'" line="228" column="22" />
+        <mark key="[" line="226" column="44" />
+        <mark key="]" line="226" column="46" />
+        <mark key="^" line="226" column="46" />
+        <mark key="." line="226" column="46" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/income_tax/Irs1099KForm.scala" timestamp="1516299435521">
         <mark key="'" line="16" column="28" />
@@ -634,36 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="158" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="124" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="211" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="216" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="221" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="226" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="241" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="246" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="251" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="256" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="152" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="22" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/CleansedAddresses.java" />
-      <jump line="133" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="108" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Builder.java" />
-      <jump line="129" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Builder.java" />
-      <jump line="15" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="38" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
-      <jump line="12" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/CleansedAddresses.java" />
-      <jump line="16" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/CleansedAddresses.java" />
-      <jump line="50" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" />
-      <jump line="161" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="206" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="236" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="97" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="260" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="39" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="41" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="44" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="88" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="110" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="155" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="258" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
@@ -734,19 +705,49 @@
       <jump line="128" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="201" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="186" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="426" column="60" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="258" column="44" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="394" column="26" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="23" column="36" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="26" column="57" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="54" column="36" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="57" column="57" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="41" column="21" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="71" column="21" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="108" column="21" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="226" column="46" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="259" column="22" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="291" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="311" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="361" column="6" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="42" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="72" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="109" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="228" column="22" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" />
+      <jump line="395" column="22" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="261" column="56" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="263" column="58" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="294" column="38" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="295" column="22" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="327" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="347" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="397" column="6" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="44" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="82" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="127" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0b3QubnVtYmVyX29mX2d1ZXN0cywKICB0b3QubnVtYmVyX29mX2JlZHJvb21zCg==</text>
+      <register name="&quot;" type="4">
+        <text>number_of_bedrooms</text>
       </register>
       <register name="-" type="4">
-        <text>ff</text>
+        <text>number_of_bedrooms</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZFVzZXJFbGVtZW50XD4=</text>
+        <text encoding="base64">XDxudW1iZXJfb2ZfYmVkcm9vbXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB0b3QubnVtYmVyX29mX2d1ZXN0cywKICB0b3QubnVtYmVyX29mX2JlZHJvb21zCg==</text>
+      <register name="0" type="4">
+        <text>number_of_guests</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -780,9 +781,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZFVzZXJFbGVtZW50XD4=</last-search>
+      <last-search encoding="base64">XDxudW1iZXJfb2ZfYmVkcm9vbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZFVzZXJFbGVtZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxudW1iZXJfb2ZfYmVkcm9vbXNcPg==</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -815,6 +816,8 @@
         <entry>documentdate</entry>
         <entry>document</entry>
         <entry encoding="base64">XDxidWlsZFVzZXJFbGVtZW50XD4=</entry>
+        <entry encoding="base64">XDxCSUdJTlRcPg==</entry>
+        <entry encoding="base64">XDxudW1iZXJfb2ZfYmVkcm9vbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
