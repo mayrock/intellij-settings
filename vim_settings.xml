@@ -223,12 +223,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/AccountingEventHandler.scala" timestamp="1511893682721">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1526619919705">
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1526620637963">
         <mark key="'" line="259" column="2" />
-        <mark key="[" line="396" column="2" />
-        <mark key="]" line="396" column="5" />
-        <mark key="." line="396" column="5" />
-        <mark key="^" line="396" column="5" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="397" column="24" />
+        <mark key="." line="264" column="1" />
+        <mark key="^" line="264" column="1" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/AlterEventBuilder.scala" timestamp="1516736039543">
         <mark key="'" line="38" column="25" />
@@ -565,6 +565,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/constants/SubledgerAccount.scala" timestamp="1516212104507">
         <mark key="'" line="60" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts/tot.hql" timestamp="1526620640531">
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="361" column="24" />
+        <mark key="^" line="359" column="22" />
+        <mark key="." line="360" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/income_tax/Irs1099KForm.scala" timestamp="1516299435521">
         <mark key="'" line="16" column="28" />
       </file>
@@ -731,43 +737,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0b3QubnVtYmVyX29mX2d1ZXN0cywKICB0b3QubnVtYmVyX29mX2JlZHJvb21zCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QVMg</text>
+        <text>ff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT0FMRVNDRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBudW1iZXJfb2ZfZ3Vlc3RzLAogIG51bWJlcl9vZl9iZWRyb29tcwo=</text>
+        <text encoding="base64">ICB0b3QubnVtYmVyX29mX2d1ZXN0cywKICB0b3QubnVtYmVyX29mX2JlZHJvb21zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDT0FMRVNDRShDQVNUKG1ldGFbJ251bWJlcl9vZl9iZWRyb29tcyddIEFTIElOVCksIDApCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtZXRhWydudW1iZXJfb2ZfYmVkcm9vbXMnXSBBUyBJTlQpLCAwKSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDT0FMRVNDRShDQVNUKG1ldGFbJ251bWJlcl9vZl9iZWRyb29tcyddIEFTIElOVCksIDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBtZXRhWydudW1iZXJfb2ZfYmVkcm9vbXMnXSBBUyBJTlQpLCAwKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA6IElOVCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
