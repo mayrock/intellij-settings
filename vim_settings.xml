@@ -223,9 +223,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/AccountingEventHandler.scala" timestamp="1511893682721">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1526600412204">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="42" column="25" />
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1526619919705">
+        <mark key="'" line="259" column="2" />
+        <mark key="[" line="396" column="2" />
+        <mark key="]" line="396" column="5" />
+        <mark key="." line="396" column="5" />
+        <mark key="^" line="396" column="5" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/AlterEventBuilder.scala" timestamp="1516736039543">
         <mark key="'" line="38" column="25" />
@@ -625,7 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="106" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="91" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="113" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
@@ -725,58 +727,59 @@
       <jump line="42" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="78" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="0" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="259" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICJcInBheW1lbnRfcHJpY2luZ19pdGVtX3R5cGVcIjpcIk9DQ1VQQU5DWV9UQVhfTkVXXCJ9IjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text encoding="base64">QVMg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</text>
+        <text encoding="base64">XDxDT0FMRVNDRVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGV4cGVjdGVkRGV0YWlsID0gIntcInN1Yl90eXBlXCI6XCJBbXN0ZXJkYW1fVEFYQUJMRV83ODI5MF80MTVcIixcInRheF9ydWxlX2lkXCI6XCI0MTVcIiwiICsKICAgICAgICAiXCJqdXJpc2RpY3Rpb25faWRcIjpcIjc4MjkwXCIsXCJqdXJpc2RpY3Rpb25fbGV2ZWxcIjpcIkNPVU5UUllcIiwiICsKICAgICAgICAiXCJqdXJpc2RpY3Rpb25fbmFtZVwiOlwiTkVUSEVSTEFORFNcIixcInJlbWl0dGFuY2VfY3VycmVuY3lcIjpcIlVTRFwiLCIgKwogICAgICAgICJcInRheF9hcmVhX2lkXCI6XCIzMTQwMVwiLFwidGF4X3R5cGVcIjpcIlZBVFwiLFwiaW1wb3NpdGlvbl90eXBlXCI6XCJUb3VyaXN0IFRheFwiLCIgKwogICAgICAgICJcImltcG9zaXRpb25fbmFtZVwiOlwiVG91cmlzdCBUYXhcIixcInByb2R1Y3RfY2xhc3NcIjpcIkFtc3RlcmRhbVwiLCIgKwogICAgICAgICJcInRheF9yZXN1bHRcIjpcIlRBWEFCTEVcIixcInRheF9hbW91bnRfbmF0aXZlXCI6NDAuMCxcInRheGFibGVfYW1vdW50X25hdGl2ZVwiOjQwMC4wLCIgKwogICAgICAgICJcImV4ZW1wdF9hbW91bnRfbmF0aXZlXCI6MC4wLFwibm9uX3RheGFibGVfYW1vdW50X25hdGl2ZVwiOjAuMCwiICsKICAgICAgICAiXCJ0YXhfYW1vdW50X25hdGl2ZV90b3RhbFwiOjQwLjAsXCJ0YXhhYmxlX2Ftb3VudF9uYXRpdmVfdG90YWxcIjoxNDAwLjAsIiArCiAgICAgICAgIlwiZXhlbXB0X2Ftb3VudF9uYXRpdmVfdG90YWxcIjowLjAsXCJub25fdGF4YWJsZV9hbW91bnRfbmF0aXZlX3RvdGFsXCI6MC4wLCIgKwogICAgICAgICJcInBheW1lbnRfcHJpY2luZ19pdGVtX3R5cGVcIjpcIk9DQ1VQQU5DWV9UQVhfTkVXXCJ9IjsKICAgIGFzc2VydEVxdWFscygKICAgICAgICBleHBlY3RlZERldGFpbCwKICAgICAgICB0b3RQcmljZUl0ZW0uZ2V0RGV0YWlscygpLmdldFJlc2VydmF0aW9uUHJpY2VJdGVtRGV0YWlscygpLmdldFNlcmlhbGl6ZWRQYXltZW50UHJpY2luZ0l0ZW1EZXRhaWxzKCkpOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBudW1iZXJfb2ZfZ3Vlc3RzLAogIG51bWJlcl9vZl9iZWRyb29tcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICJcInBheW1lbnRfcHJpY2luZ19pdGVtX3R5cGVcIjpcIk9DQ1VQQU5DWV9UQVhfTkVXXCJ9IjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICJ7XCJzdWJfdHlwZVwiOlwiQW1zdGVyZGFtX1RBWEFCTEVfNzgyOTBfNDE1XCIsXCJ0YXhfcnVsZV9pZFwiOlwiNDE1XCIsIiArCiAgICAgICAgIlwianVyaXNkaWN0aW9uX2lkXCI6XCI3ODI5MFwiLFwianVyaXNkaWN0aW9uX2xldmVsXCI6XCJDT1VOVFJZXCIsIiArCiAgICAgICAgIlwianVyaXNkaWN0aW9uX25hbWVcIjpcIk5FVEhFUkxBTkRTXCIsXCJyZW1pdHRhbmNlX2N1cnJlbmN5XCI6XCJVU0RcIiwiICsKICAgICAgICAiXCJ0YXhfYXJlYV9pZFwiOlwiMzE0MDFcIixcInRheF90eXBlXCI6XCJWQVRcIixcImltcG9zaXRpb25fdHlwZVwiOlwiVG91cmlzdCBUYXhcIiwiICsKICAgICAgICAiXCJpbXBvc2l0aW9uX25hbWVcIjpcIlRvdXJpc3QgVGF4XCIsXCJwcm9kdWN0X2NsYXNzXCI6XCJBbXN0ZXJkYW1cIiwiICsKICAgICAgICAiXCJ0YXhfcmVzdWx0XCI6XCJUQVhBQkxFXCIsXCJ0YXhfYW1vdW50X25hdGl2ZVwiOjQwLjAsXCJ0YXhhYmxlX2Ftb3VudF9uYXRpdmVcIjo0MDAuMCwiICsKICAgICAgICAiXCJleGVtcHRfYW1vdW50X25hdGl2ZVwiOjAuMCxcIm5vbl90YXhhYmxlX2Ftb3VudF9uYXRpdmVcIjowLjAsIiArCiAgICAgICAgIlwidGF4X2Ftb3VudF9uYXRpdmVfdG90YWxcIjo0MC4wLFwidGF4YWJsZV9hbW91bnRfbmF0aXZlX3RvdGFsXCI6MTQwMC4wLCIgKwogICAgICAgICJcImV4ZW1wdF9hbW91bnRfbmF0aXZlX3RvdGFsXCI6MC4wLFwibm9uX3RheGFibGVfYW1vdW50X25hdGl2ZV90b3RhbFwiOjAuMCwiICsKICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBDT0FMRVNDRShDQVNUKG1ldGFbJ251bWJlcl9vZl9iZWRyb29tcyddIEFTIElOVCksIDApCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBtZXRhWydudW1iZXJfb2ZfYmVkcm9vbXMnXSBBUyBJTlQpLCAwKSwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIFN0cmluZyBleHBlY3RlZERldGFpbCA9ICJ7XCJzdWJfdHlwZVwiOlwiQW1zdGVyZGFtX1RBWEFCTEVfNzgyOTBfNDE1XCIsXCJ0YXhfcnVsZV9pZFwiOlwiNDE1XCIsIiArCiAgICAgICAgIlwianVyaXNkaWN0aW9uX2lkXCI6XCI3ODI5MFwiLFwianVyaXNkaWN0aW9uX2xldmVsXCI6XCJDT1VOVFJZXCIsIiArCiAgICAgICAgIlwianVyaXNkaWN0aW9uX25hbWVcIjpcIk5FVEhFUkxBTkRTXCIsXCJyZW1pdHRhbmNlX2N1cnJlbmN5XCI6XCJVU0RcIiwiICsKICAgICAgICAiXCJ0YXhfYXJlYV9pZFwiOlwiMzE0MDFcIixcInRheF90eXBlXCI6XCJWQVRcIixcImltcG9zaXRpb25fdHlwZVwiOlwiVG91cmlzdCBUYXhcIiwiICsKICAgICAgICAiXCJpbXBvc2l0aW9uX25hbWVcIjpcIlRvdXJpc3QgVGF4XCIsXCJwcm9kdWN0X2NsYXNzXCI6XCJBbXN0ZXJkYW1cIiwiICsKICAgICAgICAiXCJ0YXhfcmVzdWx0XCI6XCJUQVhBQkxFXCIsXCJ0YXhfYW1vdW50X25hdGl2ZVwiOjQwLjAsXCJ0YXhhYmxlX2Ftb3VudF9uYXRpdmVcIjo0MDAuMCwiICsKICAgICAgICAiXCJleGVtcHRfYW1vdW50X25hdGl2ZVwiOjAuMCxcIm5vbl90YXhhYmxlX2Ftb3VudF9uYXRpdmVcIjowLjAsIiArCiAgICAgICAgIlwidGF4X2Ftb3VudF9uYXRpdmVfdG90YWxcIjo0MC4wLFwidGF4YWJsZV9hbW91bnRfbmF0aXZlX3RvdGFsXCI6MTQwMC4wLCIgKwogICAgICAgICJcImV4ZW1wdF9hbW91bnRfbmF0aXZlX3RvdGFsXCI6MC4wLFwibm9uX3RheGFibGVfYW1vdW50X25hdGl2ZV90b3RhbFwiOjAuMCwiICsKICAgICAgICAiXCJwYXltZW50X3ByaWNpbmdfaXRlbV90eXBlXCI6XCJPQ0NVUEFOQ1lfVEFYX05FV1wifSI7</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKSAtPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiBUcnkub2YoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRPckVsc2VUaHJvdygpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICA6IElOVCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</last-search>
+      <last-search encoding="base64">XDxDT0FMRVNDRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDT0FMRVNDRVw+</last-pattern>
       <last-replace encoding="base64">TGlzdGluZyA=</last-replace>
       <last-substitute encoding="base64">dmFyIA==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -802,6 +805,7 @@
         <entry>paymentPeriodTotResponseFuture</entry>
         <entry>totdetails</entry>
         <entry encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</entry>
+        <entry encoding="base64">XDxDT0FMRVNDRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
