@@ -49,10 +49,11 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/AddressNormalizer.java" timestamp="1527045414330">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/AddressNormalizer.java" timestamp="1527049792917">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservation2sAccountingAudit.scala" timestamp="1516750888008">
         <mark key="'" line="44" column="6" />
@@ -228,6 +229,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/models/cleaned/CleanHostingSpec.scala" timestamp="1518131875103">
         <mark key="'" line="36" column="33" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/SabrixHealthCheck.java" timestamp="1527049403693">
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="25" />
+        <mark key="^" line="85" column="16" />
+        <mark key="." line="85" column="25" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/reservation/ReservationEvent.scala" timestamp="1516691405405">
         <mark key="'" line="22" column="24" />
       </file>
@@ -246,6 +253,12 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/AlterEventBuilder.scala" timestamp="1516736039543">
         <mark key="'" line="38" column="25" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" timestamp="1527049311355">
+        <mark key="[" line="78" column="76" />
+        <mark key="]" line="78" column="88" />
+        <mark key="^" line="78" column="88" />
+        <mark key="." line="78" column="88" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/revenue/R2AAToAcceptedRevenueBuilderSpec.scala" timestamp="1516689305157">
         <mark key="'" line="331" column="24" />
@@ -765,44 +778,44 @@
       <jump line="149" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>getprovince</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAiRXhjZXB0aW9uOihBbGwgY2FsY3VsYXRvcnMgZmFpbGVkOiAoQ2FsY3VsYXRvciBmYWlsZWQ6ICIKICAgICAgICAgICAgICAgICsgImNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5leHRlcm5hbC5zYWJyaXgucmVzcG9uc2UuSW52b2ljZVJlc3BvbnNlRXJyb3I6ICIKICAgICAgICAgICAgICAgICsgIlNhYnJpeCBzZXJ2ZXIgcmV0dXJuZWQgZmFpbHVyZS4gQ2F1c2U6IFByZWRpY2F0ZSBkb2VzIG5vdCBob2xkICIKICAgICAgICAgICAgICAgICsgImZvciBSZXF1ZXN0U3RhdHVzKGlzU3VjY2Vzcz1mYWxzZSwgaXNQYXJ0aWFsU3VjY2Vzcz1mYWxzZSk7IFJlcXVlc3Qgc3RhdHVzIGVycm9yOiAiCiAgICAgICAgICAgICAgICArICJYbWxSZXF1ZXN0U3RhdHVzRXJyb3IoY29kZT1udWxsLCBkZXNjcmlwdGlvbj1DYWxjdWxhdGlvbiBhdXRoZW50aWNhdGlvbiBpcyAiCiAgICAgICAgICAgICAgICArICJlbmFibGVkIGJ1dCB0aGUgc3lzdGVtIGNvdWxkIG5vdCB2YWxpZGF0ZSB0aGUgcGFzc2VkIGNyZWRlbnRpYWxzLiwgIgogICAgICAgICAgICAgICAgKyAiZXJyb3JMb2NhdGlvblBhdGg9L09VVERBVEEvSU5WT0lDRVtJTlZPSUNFX05VTUJFUj0nbnVsbCddKSk7KQ==</text>
+        <text>getNormalizedAddress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9yaWdpbmFsTGlzdGluZy4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgQE5vbk51bGwgcHJpdmF0ZSBTdHJpbmcgc3RhdGU7CgogIEBOb25OdWxsIHByaXZhdGUgU3RyaW5nIHppcENvZGU7IC8vIFRPRE86IEN1c3RvbSB0eXBlID8KCiAgQE5vbk51bGwgcHJpdmF0ZSBTdHJpbmcgY291bnRyeTsgLy8gVE9ETzogSVNPIENvdW50cnkgQ3VzdG9tIFR5cGUgKHB1dCBpbiB1dGlscz8pCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIExpc3RpbmdBZGRyZXNzLkxpc3RpbmdBZGRyZXNzQnVpbGRlciBidWlsZGVyID0gb3JpZ2luYWxMaXN0aW5nLnRvQnVpbGRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiZWRyb29tQ291bnQgKyBiYXRocm9vbUNvdW50Owo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjb3VudHJ5ID0gb3JpZ2luYWxMaXN0aW5nLmdldENvdW50cnkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgRG91YmxlIGdldFJvb21Db3VudCgpIHsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjaXR5ID0gb3JpZ2luYWxMaXN0aW5nLmdldENvdW50cnkoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzdGF0ZSA9IG9yaWdpbmFsTGlzdGluZy5nZXRTdGF0ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjb3VudHJ5ID0gb3JpZ2luYWxMaXN0aW5nLmdldENvdW50cnkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBATm9uTnVsbCBwcml2YXRlIEludGVnZXIgcGVyc29uQ2FwYWNpdHk7CgogIEBOb25OdWxsIHByaXZhdGUgSW50ZWdlciBiZWRyb29tQ291bnQ7CgogIEBOb25OdWxsIHByaXZhdGUgRG91YmxlIGJhdGhyb29tQ291bnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5kYXRhbG9hZGVyLmxpc3RpbmcubW9kZWwuTGlzdGluZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBATm9uTnVsbCBwcml2YXRlIExvbmcgbGlzdGluZ0lkOwoKICBATm9uTnVsbCBwcml2YXRlIEludGVnZXIgaG9zdFVzZXJJZDsKCiAgQE5vbk51bGwgcHJpdmF0ZSBPcHRpb248SW50ZWdlcj4gcHJvcGVydHlUeXBlSWQ7CgogIEBOb25OdWxsIHByaXZhdGUgU3RyaW5nIHJvb21UeXBlOwoKICBATm9uTnVsbCBwcml2YXRlIEJvb2xlYW4gZW50aXJlQXBhcnRtZW50OwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
