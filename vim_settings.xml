@@ -563,6 +563,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/repositories/TextFileDataProvider.scala" timestamp="1516432696029">
         <mark key="'" line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1527116365628">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="12" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="61" column="1" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculator.java" timestamp="1526342153185">
         <mark key="'" line="244" column="56" />
       </file>
@@ -653,6 +659,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" timestamp="1527116806873">
+        <mark key="'" line="705" column="34" />
+        <mark key="[" line="705" column="55" />
+        <mark key="]" line="705" column="56" />
+        <mark key="." line="705" column="56" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_response.xml" timestamp="1523574678237">
         <mark key="'" line="11" column="19" />
       </file>
@@ -680,8 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="73" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="118" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="13" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculateOccupancyTaxesError.java" />
       <jump line="137" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
@@ -780,19 +790,21 @@
       <jump line="10" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.java" />
       <jump line="43" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.java" />
       <jump line="91" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
+      <jump line="705" column="34" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAUHJvdmlkZXMKICBAU2luZ2xldG9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>zipwi</text>
+        <text>oyster</text>
       </register>
-      <register name="0" type="4">
-        <text>TOTCalculatorProvider.CalculatorType.SabrixProd</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBAUHJvdmlkZXMKICBAU2luZ2xldG9uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVHVwbGUyPFRPVENhbGN1bGF0b3IsIEludGVnZXI+IHR1cGxlID0gaXRlci5uZXh0KCk7Cg==</text>
@@ -826,9 +838,9 @@
       </register>
     </registers>
     <search>
-      <last-search>zipwi</last-search>
+      <last-search>oyster</last-search>
       <last-offset />
-      <last-pattern>zipwi</last-pattern>
+      <last-pattern>oyster</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -873,6 +885,7 @@
         <entry encoding="base64">XDxhcnViYVw+</entry>
         <entry encoding="base64">XDxjb250YWluc1w+</entry>
         <entry>zipwi</entry>
+        <entry>oyster</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+946q</entry>
