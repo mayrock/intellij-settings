@@ -80,7 +80,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/request/InvoiceLine.java" timestamp="1523985736795">
         <mark key="'" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1527055385318" />
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/runners/DenormalizedEventsToAccountingEventsRunner.scala" timestamp="1511848981922">
         <mark key="'" line="39" column="40" />
       </file>
@@ -320,11 +319,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/methods/HttpPost.java" timestamp="1510697744122">
         <mark key="'" line="67" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526965160250">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanHosting.scala" timestamp="1518131891906">
         <mark key="'" line="22" column="25" />
       </file>
@@ -468,9 +462,8 @@
         <mark key="'" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1527191939358">
-        <mark key="[" line="252" column="50" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/Emitter/ReservationEmitterReport.scala" timestamp="1516689893068">
         <mark key="'" line="115" column="36" />
@@ -642,7 +635,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/Value.java" timestamp="1523930078940">
         <mark key="'" line="323" column="17" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" timestamp="1527056520884" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/micasa/MicasaDataLoader.java" timestamp="1510695805207">
         <mark key="'" line="51" column="31" />
       </file>
@@ -849,29 +841,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub25OdWxsQnVpbGRlclw+</entry>
-        <entry>ref</entry>
-        <entry>model</entry>
-        <entry encoding="base64">XDxzZXRVcE1vY2tXaXRoRmllbGRzXD4=</entry>
-        <entry encoding="base64">XDxjYWxjdWxhdGVUYXhlc1w+</entry>
-        <entry>fortester</entry>
-        <entry encoding="base64">XDxnZXRMaXN0aW5nQnlJZFw+</entry>
-        <entry>paymentPeriodTotResponseFuture</entry>
-        <entry>totdetails</entry>
-        <entry encoding="base64">XDx0YXhhYmxlX3Byb3ZpbmNlXD4=</entry>
-        <entry encoding="base64">XDxDT0FMRVNDRVw+</entry>
-        <entry>documentdate</entry>
-        <entry>document</entry>
-        <entry encoding="base64">XDxidWlsZFVzZXJFbGVtZW50XD4=</entry>
-        <entry encoding="base64">XDxCSUdJTlRcPg==</entry>
-        <entry encoding="base64">XDxudW1iZXJfb2ZfYmVkcm9vbXNcPg==</entry>
-        <entry>====</entry>
-        <entry encoding="base64">XDxmaW5hbFw+</entry>
-        <entry encoding="base64">XDxjYWxjdWxhdG9yXD4=</entry>
         <entry encoding="base64">XDx0b3RDYWxjdWxhdG9yXD4=</entry>
         <entry encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</entry>
         <entry>testCalculateOccupancyTaxes_exception_WrappedInValueAddedTaxError</entry>
@@ -894,8 +867,6 @@
         <entry encoding="base64">XDxGYWlsdXJlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+946q</entry>
-        <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlbGVjdGlvbignZicsICcnKQ==</entry>
         <entry encoding="base64">JzwsJz5zLzovID0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xbU3RyaW5nXF0vKCIxMjM0NSIpL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wuZ2V0XCgvKC9n</entry>
