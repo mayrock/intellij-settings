@@ -155,12 +155,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1527141115977">
-        <mark key="'" line="53" column="34" />
-        <mark key="[" line="347" column="4" />
-        <mark key="]" line="365" column="37" />
-        <mark key="." line="365" column="37" />
-        <mark key="^" line="365" column="37" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1527197661687">
+        <mark key="'" line="366" column="34" />
+        <mark key="[" line="226" column="10" />
+        <mark key="]" line="226" column="18" />
+        <mark key="." line="226" column="18" />
+        <mark key="^" line="226" column="18" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.java" timestamp="1527098415397">
         <mark key="[" line="42" column="49" />
@@ -689,8 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="109" column="108" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="223" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="228" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="233" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
@@ -789,16 +787,18 @@
       <jump line="74" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="247" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="110" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/List.java" />
+      <jump line="350" column="30" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="366" column="34" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNvbWUobnVsZGRsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGYWlsdXJlXD4=</text>
+        <text>taxst</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBOdW1iZXIgb2YgbmlnaHRzIHVzZWQgaW4gdGhpcyBUT1QgZGV0ZXJtaW5hdGlvbgo=</text>
@@ -835,13 +835,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGYWlsdXJlXD4=</last-search>
+      <last-search>taxst</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGYWlsdXJlXD4=</last-pattern>
+      <last-pattern>taxst</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -865,6 +865,7 @@
         <entry>oyster</entry>
         <entry encoding="base64">XDxnZXRDYWxjdWxhdGVUT1RSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxGYWlsdXJlXD4=</entry>
+        <entry>taxst</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzovID0vZw==</entry>
