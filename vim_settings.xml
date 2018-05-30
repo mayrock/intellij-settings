@@ -350,11 +350,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlResponse.java" timestamp="1523901388883">
         <mark key="'" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1527664240486">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1527665029392">
         <mark key="'" line="29" column="32" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="98" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" timestamp="1527191437406">
         <mark key="'" line="1012" column="52" />
@@ -482,13 +483,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/MicroHelper.scala" timestamp="1516688548345">
         <mark key="'" line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1527632072565" />
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" timestamp="1527664797919">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" timestamp="1527664976127">
         <mark key="'" line="18" column="25" />
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="53" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/LossAccountSubledgersGenerationTest.scala" timestamp="1511326179729">
         <mark key="'" line="86" column="49" />
@@ -575,7 +575,6 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/repositories/serde/ReservationEventSerializer.scala" timestamp="1516383911422">
         <mark key="'" line="56" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingNormalizerTest.java" timestamp="1527609430546" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/methods/HttpUriRequest.java" timestamp="1510694666026">
         <mark key="'" line="40" column="43" />
       </file>
@@ -846,7 +845,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShmYWxzZSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>citiesMap</text>
@@ -858,31 +857,31 @@
         <text encoding="base64">ICBwcml2YXRlIFNldDxTdHJpbmc+IGNpdGllc01hcDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShmYWxzZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChsaXN0IC0+IGxpc3QuY29udGFpbnMobGlzdGluZy5nZXRaaXBDb2RlKCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCBPcHRpb24ub2YoYy5nZXRQb3N0YWxfY29kZXMoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShmYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExpc3Q8U3RyaW5nPiBwb3N0YWxfY29kZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChsaXN0IC0+IGxpc3QuY29udGFpbnMobGlzdGluZy5nZXRDaXR5KCkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExpc3Q8U3RyaW5nPiBjaXRpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbi5vZihjLmdldENpdGllcygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEJ1aWxkZXIodG9CdWlsZGVyID0gdHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGVyQ291bnRyeUNvbmZpZy5zZXQK</text>
+        <text encoding="base64">QFZhbHVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -895,17 +894,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0Q2FsY3VsYXRlT2NjdXBhbmN5VGF4ZXNcPg==</entry>
-        <entry encoding="base64">XDx0b3RcPg==</entry>
-        <entry encoding="base64">XDxnZXRQcm92aW5jZUZyb21MaXN0aW5nXD4=</entry>
-        <entry>getprovince</entry>
-        <entry encoding="base64">XDxVU1ppcFBsdXM0UGF0dGVyblw+</entry>
-        <entry encoding="base64">XDxMaXN0aW5nQWRkcmVzc1w+</entry>
-        <entry encoding="base64">XDxnZXRMaXN0aW5nXD4=</entry>
         <entry>ListingAddress</entry>
         <entry>originalAddress</entry>
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
