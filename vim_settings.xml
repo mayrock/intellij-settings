@@ -273,11 +273,11 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/stages/data/refining/Reservation2sAccountingAuditRefinerSpec.scala" timestamp="1511894354881">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/cleansed_addresses.sql" timestamp="1527656410101">
-        <mark key="[" line="28" column="149" />
-        <mark key="]" line="28" column="149" />
-        <mark key="." line="28" column="149" />
-        <mark key="^" line="28" column="149" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/cleansed_addresses.sql" timestamp="1527701574216">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/AccountingEventHandler.scala" timestamp="1511893682721">
         <mark key="'" line="52" column="19" />
@@ -459,6 +459,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/refining/Payment2sAccountingAuditRefiner.scala" timestamp="1523291197079">
         <mark key="'" line="135" column="6" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" timestamp="1527701488146">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="48" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" timestamp="1527666360894">
         <mark key="[" line="56" column="56" />
         <mark key="]" line="56" column="57" />
@@ -552,6 +558,12 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/ReservationAccountingEventHandler.scala" timestamp="1525969669979">
         <mark key="'" line="302" column="75" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAOTest.java" timestamp="1527701566011">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="52" />
+        <mark key="." line="44" column="52" />
+        <mark key="^" line="44" column="52" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/staging_data/ReservationEventsTable.scala" timestamp="1516690866871">
         <mark key="'" line="3" column="45" />
@@ -844,17 +856,17 @@
       <jump line="155" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashSet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>AirbnbTeam</text>
       </register>
       <register name="-" type="4">
-        <text>zipCodeList</text>
+        <text>AirbnbTeam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldHVwU2l0YXJDbGllbnQobGlzdGluZy5nZXRDb3VudHJ5KCksIG51bGwsIHppcENvZGVMaXN0KTsK</text>
+      <register name="0" type="4">
+        <text>AirbnbTaxTeam</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
