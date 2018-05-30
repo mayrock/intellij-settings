@@ -273,8 +273,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/runners/EventProcessingRunner.scala" timestamp="1516692866016">
         <mark key="'" line="83" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1527637899351">
-        <mark key="'" line="79" column="83" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1527651175365">
+        <mark key="'" line="30" column="61" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -421,12 +421,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/refining/Payment2sAccountingAuditRefiner.scala" timestamp="1523291197079">
         <mark key="'" line="135" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" timestamp="1527637614088">
-        <mark key="'" line="31" column="55" />
-        <mark key="[" line="31" column="61" />
-        <mark key="]" line="31" column="65" />
-        <mark key="^" line="31" column="65" />
-        <mark key="." line="31" column="65" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" timestamp="1527651185783">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/SubledgerGenerator.scala" timestamp="1516691350593">
         <mark key="'" line="20" column="40" />
@@ -700,9 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
-      <jump line="130" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
-      <jump line="209" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
       <jump line="22" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" />
       <jump line="26" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" />
       <jump line="36" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" />
@@ -792,7 +789,6 @@
       <jump line="36" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="28" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="24" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
-      <jump line="25" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdbi/jdbi/2.75/cd63e9e5000fff4665f57b124b9aac07f1e91f89/jdbi-2.75-sources.jar!/org/skife/jdbi/v2/sqlobject/SqlQuery.java" />
       <jump line="34" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
       <jump line="24" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdbi/jdbi/2.75/cd63e9e5000fff4665f57b124b9aac07f1e91f89/jdbi-2.75-sources.jar!/org/skife/jdbi/v2/tweak/ResultSetMapper.java" />
       <jump line="32" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
@@ -800,13 +796,17 @@
       <jump line="412" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdbi/jdbi/2.75/cd63e9e5000fff4665f57b124b9aac07f1e91f89/jdbi-2.75-sources.jar!/org/skife/jdbi/v2/DBI.java" />
       <jump line="108" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java" />
       <jump line="79" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="26" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
+      <jump line="30" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
+      <jump line="25" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdbi/jdbi/2.75/cd63e9e5000fff4665f57b124b9aac07f1e91f89/jdbi-2.75-sources.jar!/org/skife/jdbi/v2/sqlobject/SqlQuery.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>priorities.toString()</text>
       </register>
       <register name="-" type="4">
-        <text>RowBuilder());</text>
+        <text>priorities.toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</text>
@@ -815,31 +815,31 @@
         <text encoding="base64">ICAgIHJvd0J1aWxkZXIuY2l0eSgiRGUtSmEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN1cGVyLnB1dChrZXksIHZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBPYmplY3QgcHV0KE9iamVjdCBrZXksIE9iamVjdCB2YWx1ZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICsgIk9SREVSIEJZIGNyZWF0ZWRfYXQgREVTQyBMSU1JVCAxIikK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgbW9yZSB0ZXN0IGNhc2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuYXBpLlJhd1NhYnJpeFRheDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuYXBpLlByaWNpbmdJdGVtVHlwZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuYXBpLk9jY3VwYW5jeVRheEF1dGhvcml0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICsgIk9SREVSIEJZIGNyZWF0ZWRfYXQgREVTQyBMSU1JVCAxIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuYXBpLkxpc3RpbmdPY2N1cGFuY3lUYXhTdGF0dXM7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgbW9yZSB0ZXN0IGNhc2VzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
