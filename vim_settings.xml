@@ -32,6 +32,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/3.1.2/e7ea6428a95c689bbfbc426e0e5257f3e63eaca5/metrics-healthchecks-3.1.2-sources.jar!/com/codahale/metrics/health/HealthCheck.java" timestamp="1509658437497">
         <mark key="'" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfig.java" timestamp="1527285994028">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/Emitter/PlatformWithPaymentEmitterReport.scala" timestamp="1516692280604">
         <mark key="'" line="105" column="28" />
       </file>
@@ -52,6 +58,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaConfig.java" timestamp="1527285091884">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
@@ -120,6 +132,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/HiveTable.scala" timestamp="1516819150994">
         <mark key="'" line="234" column="39" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutManager.java" timestamp="1527263398683">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1525121675977">
         <mark key="'" line="38" column="22" />
       </file>
@@ -158,6 +176,12 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1527631952582">
         <mark key="'" line="36" column="26" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.java" timestamp="1527098415397">
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="61" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
         <mark key="'" line="28" column="67" />
@@ -237,6 +261,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/models/cleaned/CleanHostingSpec.scala" timestamp="1518131875103">
         <mark key="'" line="36" column="33" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/SabrixHealthCheck.java" timestamp="1527049403693">
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="25" />
+        <mark key="^" line="85" column="16" />
+        <mark key="." line="85" column="25" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/reservation/ReservationEvent.scala" timestamp="1516691405405">
         <mark key="'" line="22" column="24" />
       </file>
@@ -244,10 +274,10 @@
         <mark key="'" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/cleansed_addresses.sql" timestamp="1527656410101">
-        <mark key="[" line="30" column="149" />
-        <mark key="]" line="30" column="149" />
-        <mark key="." line="30" column="149" />
-        <mark key="^" line="30" column="149" />
+        <mark key="[" line="28" column="149" />
+        <mark key="]" line="28" column="149" />
+        <mark key="." line="28" column="149" />
+        <mark key="^" line="28" column="149" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/AccountingEventHandler.scala" timestamp="1511893682721">
         <mark key="'" line="52" column="19" />
@@ -429,10 +459,11 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/refining/Payment2sAccountingAuditRefiner.scala" timestamp="1523291197079">
         <mark key="'" line="135" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" timestamp="1527657040328">
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="39" />
-        <mark key="." line="55" column="39" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" timestamp="1527289970984">
+        <mark key="[" line="53" column="86" />
+        <mark key="]" line="53" column="96" />
+        <mark key="." line="53" column="96" />
+        <mark key="^" line="53" column="96" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/SubledgerGenerator.scala" timestamp="1516691350593">
         <mark key="'" line="20" column="40" />
@@ -453,6 +484,12 @@
         <mark key="'" line="45" column="36" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1527632072565" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" timestamp="1527286016005">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="13" column="2" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/LossAccountSubledgersGenerationTest.scala" timestamp="1511326179729">
         <mark key="'" line="86" column="49" />
       </file>
@@ -515,13 +552,6 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/ReservationAccountingEventHandler.scala" timestamp="1525969669979">
         <mark key="'" line="302" column="75" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAOTest.java" timestamp="1527656282043">
-        <mark key="'" line="36" column="44" />
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="48" column="52" />
-        <mark key="^" line="48" column="52" />
-        <mark key="." line="48" column="52" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/staging_data/ReservationEventsTable.scala" timestamp="1516690866871">
         <mark key="'" line="3" column="45" />
