@@ -350,12 +350,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlResponse.java" timestamp="1523901388883">
         <mark key="'" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1527665029392">
-        <mark key="'" line="29" column="32" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="98" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1527665441926">
+        <mark key="'" line="27" column="29" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="5" column="98" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" timestamp="1527191437406">
         <mark key="'" line="1012" column="52" />
@@ -438,8 +438,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Validation.java" timestamp="1517550771212">
         <mark key="'" line="720" column="16" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" timestamp="1527663166138">
-        <mark key="'" line="105" column="23" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" timestamp="1527665459111">
+        <mark key="'" line="214" column="60" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" timestamp="1527630001973">
         <mark key="'" line="178" column="27" />
@@ -459,11 +459,11 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/refining/Payment2sAccountingAuditRefiner.scala" timestamp="1523291197079">
         <mark key="'" line="135" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" timestamp="1527289970984">
-        <mark key="[" line="53" column="86" />
-        <mark key="]" line="53" column="96" />
-        <mark key="." line="53" column="96" />
-        <mark key="^" line="53" column="96" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" timestamp="1527666360894">
+        <mark key="[" line="56" column="56" />
+        <mark key="]" line="56" column="57" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="56" column="57" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/SubledgerGenerator.scala" timestamp="1516691350593">
         <mark key="'" line="20" column="40" />
@@ -483,12 +483,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/MicroHelper.scala" timestamp="1516688548345">
         <mark key="'" line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" timestamp="1527664976127">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="53" />
-        <mark key="^" line="15" column="53" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" timestamp="1527666350764">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/LossAccountSubledgersGenerationTest.scala" timestamp="1511326179729">
         <mark key="'" line="86" column="49" />
@@ -742,11 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="196" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="288" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="30" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingNormalizer.java" />
-      <jump line="750" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
       <jump line="548" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
       <jump line="755" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
       <jump line="159" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/Normalizer.java" />
@@ -833,7 +828,6 @@
       <jump line="46" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAOTest.java" />
       <jump line="36" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAOTest.java" />
       <jump line="24" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" />
-      <jump line="96" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
       <jump line="213" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
       <jump line="91" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
       <jump line="105" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
@@ -842,46 +836,52 @@
       <jump line="29" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" />
       <jump line="19" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" />
       <jump line="94" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashSet.java" />
+      <jump line="26" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" />
+      <jump line="27" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" />
+      <jump line="96" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
+      <jump line="214" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
+      <jump line="17" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" />
+      <jump line="155" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashSet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShmYWxzZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>zipCodeList</text>
       </register>
       <register name="-" type="4">
-        <text>citiesMap</text>
+        <text>zipCodeList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFNldDxTdHJpbmc+IGNpdGllc01hcDsK</text>
+        <text encoding="base64">ICAgIHNldHVwU2l0YXJDbGllbnQobGlzdGluZy5nZXRDb3VudHJ5KCksIG51bGwsIHppcENvZGVMaXN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShmYWxzZSkpCg==</text>
+        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBTaXRhckFydWJhTGF1bmNoQ29uZmlnUGVyQ291bnRyeT4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChsaXN0IC0+IGxpc3QuY29udGFpbnMobGlzdGluZy5nZXRaaXBDb2RlKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihtYXApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCBPcHRpb24ub2YoYy5nZXRQb3N0YWxfY29kZXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBheW1lbnRzLWNvbmZpZyIsICJhcnViYSIsICJhcnViYV9sYXVuY2hfY29uZmlnIiwgU2l0YXJSb2xsb3V0TWFuYWdlci5Db25maWdUeXBlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShmYWxzZSkK</text>
+        <text encoding="base64">ICAgIHdoZW4oc2l0YXJDbGllbnQuZ2V0QXNPYmplY3QoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChsaXN0IC0+IGxpc3QuY29udGFpbnMobGlzdGluZy5nZXRDaXR5KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0aW5nLmdldENvdW50cnkoKSwgbmV3ICkuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbi5vZihjLmdldENpdGllcygpKQo=</text>
+        <text encoding="base64">ICAgIG1hcC5wdXQoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgIHdoZW4oc2l0YXJDbGllbnQuZ2V0QXNPYmplY3QoCiAgICAgICAgICAgICJwYXltZW50cy1jb25maWciLCAiYXJ1YmEiLCAiYXJ1YmFfbGF1bmNoX2NvbmZpZyIsIFNpdGFyUm9sbG91dE1hbmFnZXIuQ29uZmlnVHlwZSkpCiAgICAgICAgLnRoZW5SZXR1cm4obWFwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFZhbHVlCg==</text>
+        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBTaXRhckFydWJhTGF1bmNoQ29uZmlnUGVyQ291bnRyeT4gbWFwID0gZ2VuZXJhdGVTaXRhck9iamVjdChsaXN0aW5nLmdldENvdW50cnkoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
