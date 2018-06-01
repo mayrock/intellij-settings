@@ -531,6 +531,9 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" timestamp="1527821174128">
+        <mark key="'" line="146" column="42" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/Emitter/ReservationEmitterReport.scala" timestamp="1516689893068">
         <mark key="'" line="115" column="36" />
       </file>
@@ -634,11 +637,11 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/SitarAddressAliasManager.java" timestamp="1527820194352">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/SitarAddressAliasManager.java" timestamp="1527821426664">
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="59" />
+        <mark key="." line="28" column="59" />
+        <mark key="^" line="28" column="59" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/repositories/TextFileDataProvider.scala" timestamp="1516432696029">
         <mark key="'" line="9" column="34" />
@@ -768,15 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
-      <jump line="755" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
-      <jump line="159" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/Normalizer.java" />
-      <jump line="516" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" />
-      <jump line="542" column="33" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" />
-      <jump line="805" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" />
-      <jump line="544" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" />
-      <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" />
-      <jump line="31" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingNormalizer.java" />
       <jump line="754" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
       <jump line="41" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingNormalizer.java" />
       <jump line="570" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/regex/Matcher.java" />
@@ -868,59 +862,68 @@
       <jump line="214" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/build/libs/sitar-client-0.0.2-dropwizard1.0.jar!/com/airbnb/sitar/client/SitarClient.class" />
       <jump line="17" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" />
       <jump line="155" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashSet.java" />
+      <jump line="21" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/SitarAddressAliasManager.java" />
+      <jump line="47" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" />
+      <jump line="22" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/SitarAddressAliasManager.java" />
+      <jump line="359" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Map.java" />
+      <jump line="626" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" />
+      <jump line="23" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/SitarAddressAliasManager.java" />
+      <jump line="110" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" />
+      <jump line="130" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" />
+      <jump line="146" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Map</text>
+        <text>alias</text>
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text>alias</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</text>
+        <text encoding="base64">XDxvZkFsbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgU3RyaW5nPiBjaXR5QWxpYXNUb0Zvcm1hbE5hbWVNYXA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgU3RyaW5nPiBjaXR5QWxpYXNUb0Zvcm1hbE5hbWVNYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwLm9mQWxsKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBARGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwLm9mQWxsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">ICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gcmV2ZXJzZWRNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHNpdGFyQ2xpZW50LmdldEFzU3RyaW5nKCJwYXltZW50cy1jb25maWciLCAiYXJ1YmEiLCAiYXJ1YmFfbGF1bmNoX2NvbmZpZyIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwLm9mCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGNvbmZpZy50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBwZXJDaXR5QWxpYXNlcy5nZXRWYWx1ZSgpLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBTaXRhckFydWJhTGF1bmNoQ29uZmlnUGVyQ291bnRyeT4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2l0eUFsaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</last-search>
+      <last-search encoding="base64">XDxvZkFsbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxvZkFsbFw+</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -944,6 +947,7 @@
         <entry encoding="base64">XDxQcmljZUl0ZW1UeXBlXD4=</entry>
         <entry encoding="base64">XDxQcm9kdWN0RGF0YVw+</entry>
         <entry encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</entry>
+        <entry encoding="base64">XDxvZkFsbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzovID0vZw==</entry>
