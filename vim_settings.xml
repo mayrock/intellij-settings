@@ -724,13 +724,13 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/repositories/TextFileDataProvider.scala" timestamp="1516432696029">
         <mark key="'" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1528177351193">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1528178581461">
         <mark key="'" line="94" column="63" />
         <mark key="h" line="90" column="9" />
-        <mark key="[" line="94" column="49" />
-        <mark key="]" line="94" column="63" />
-        <mark key="^" line="94" column="63" />
-        <mark key="." line="94" column="63" />
+        <mark key="[" line="83" column="16" />
+        <mark key="]" line="83" column="24" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="83" column="24" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ChainedListingNormalizerTest.java" timestamp="1527833537079">
         <mark key="[" line="40" column="64" />
@@ -997,43 +997,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SabrixPrimary</text>
+        <text>Primary</text>
       </register>
       <register name="-" type="4">
-        <text>SabrixPrimary</text>
+        <text>Primary</text>
       </register>
       <register name="/" type="4">
         <text>fallback</text>
       </register>
-      <register name="0" type="4">
-        <text>TOTCalculatorProvider.CalculatorType.SabrixPrimary</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBAUHJvdmlkZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIENlcnRpZmljYXRlQ29uZmlnIGNsaWVudENlcnRpZmljYXRlQ29uZmlnOwo=</text>
+        <text encoding="base64">ICBATmFtZWQoIlNhYnJpeFByaW1hcnkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASnNvblByb3BlcnR5KCJjbGllbnQtY2VydGlmaWNhdGUtY29uZmlndXJhdGlvbiIpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIENlcnRpZmljYXRlQ29uZmlnIGNsaWVudENlcnRpZmljYXRlQ29uZmlnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICBASnNvblByb3BlcnR5KCJjbGllbnQtY2VydGlmaWNhdGUtY29uZmlndXJhdGlvbiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnZhdnIuY29udHJvbC5PcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
