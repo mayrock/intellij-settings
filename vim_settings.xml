@@ -264,12 +264,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1528237077258">
-        <mark key="'" line="204" column="60" />
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="15" column="63" />
-        <mark key="^" line="15" column="63" />
-        <mark key="." line="15" column="63" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1528260873879">
+        <mark key="'" line="218" column="60" />
+        <mark key="[" line="59" column="59" />
+        <mark key="]" line="59" column="59" />
+        <mark key="^" line="59" column="59" />
+        <mark key="." line="59" column="59" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/base/BaseEvent.scala" timestamp="1516477554295">
         <mark key="'" line="40" column="6" />
@@ -583,7 +583,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/balboa_service.thrift" timestamp="1526338495731">
         <mark key="'" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1528237006297">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1528260620701">
         <mark key="'" line="48" column="18" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="50" />
@@ -985,16 +985,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>retryTimer</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>retryTimer</text>
       </register>
       <register name="/" type="4">
         <text>counter</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0FCUklYX1JFUVVFU1RfVElNRV9NRVRSSUMgPQogICAgICAiYXJ1YmEuc2Ficml4X2NsaWVudC54bWxfaW52b2ljZS5zdWJtaXQubXMiOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENBTENVTEFUT1JfUkVUUllfVElNRVIgPQogICAgICAiYXJ1YmEudG90LmNhbGN1bGF0b3IucmV0cnkubXMiOwogIHByaXZhdGUgVGltZXIgcmV0cnlUaW1lcjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFRpbWVyIHJldHJ5VGltZXI7Cg==</text>
@@ -1034,23 +1034,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250YWluc1w+</entry>
-        <entry>zipwi</entry>
-        <entry>oyster</entry>
-        <entry encoding="base64">XDxnZXRDYWxjdWxhdGVUT1RSZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxGYWlsdXJlXD4=</entry>
-        <entry>taxst</entry>
-        <entry>todo</entry>
-        <entry>istoten</entry>
-        <entry>noten</entry>
-        <entry encoding="base64">XDxMaXN0aW5nT2NjdXBhbmN5VGF4U3RhdHVzXD4=</entry>
-        <entry>====</entry>
-        <entry encoding="base64">XDxQcmljZUl0ZW1UeXBlXD4=</entry>
-        <entry encoding="base64">XDxQcm9kdWN0RGF0YVw+</entry>
         <entry encoding="base64">XDxEZWZhdWx0UHJvZHVjdERldGFpbFw+</entry>
         <entry encoding="base64">XDxvZkFsbFw+</entry>
         <entry encoding="base64">XDxsaXN0aW5nTm9ybWFsaXplclw+</entry>
