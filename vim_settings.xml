@@ -398,6 +398,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/gradle/service-cli.gradle" timestamp="1510614653479">
         <mark key="'" line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/clients/picasso/src/main/java/com/airbnb/common/clients/picasso/PicassoClient.java" timestamp="1528305166205" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.swift/swift-codec/0.28.4/649822271721b9542428a7d320446cfec7ce27e7/swift-codec-0.28.4-sources.jar!/com/airbnb/services/exceptions/ServiceException.java" timestamp="1522135921378">
         <mark key="'" line="31" column="42" />
       </file>
@@ -718,7 +719,7 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/repositories/TextFileDataProvider.scala" timestamp="1516432696029">
         <mark key="'" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1528266556637">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1528304806543">
         <mark key="'" line="70" column="14" />
         <mark key="h" line="96" column="9" />
         <mark key="[" line="76" column="32" />
@@ -828,10 +829,6 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/builders/state/ProductStateConverter.scala" timestamp="1511849134598">
         <mark key="'" line="19" column="12" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/trebuchet-client/src/main/java/com/airbnb/trebuchet/client/FeatureHelper.java" timestamp="1528172939019">
-        <mark key="'" line="17" column="25" />
-        <mark key="[" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/CleanDataProvider.scala" timestamp="1525969231008">
         <mark key="'" line="369" column="88" />
@@ -977,8 +974,8 @@
       <jump line="293" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="63" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="162" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/InjectMocks.java" />
-      <jump line="70" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="22" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" />
+      <jump line="70" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
