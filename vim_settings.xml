@@ -24,11 +24,6 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/ReservationEventBuilder.scala" timestamp="1525968740751">
         <mark key="'" line="423" column="62" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" timestamp="1527654425355">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/3.1.2/e7ea6428a95c689bbfbc426e0e5257f3e63eaca5/metrics-healthchecks-3.1.2-sources.jar!/com/codahale/metrics/health/HealthCheck.java" timestamp="1509658437497">
         <mark key="'" line="10" column="24" />
       </file>
@@ -409,11 +404,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/methods/HttpPost.java" timestamp="1510697744122">
         <mark key="'" line="67" column="12" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/SitarAddressAliasManagerTest.java" timestamp="1527831466003">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1528173545818">
         <mark key="[" line="0" column="0" />
       </file>
@@ -573,10 +563,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/MicroHelper.scala" timestamp="1516688548345">
         <mark key="'" line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarArubaLaunchConfigPerCountry.java" timestamp="1528172640281">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" timestamp="1528303873320">
+        <mark key="'" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/LossAccountSubledgersGenerationTest.scala" timestamp="1511326179729">
         <mark key="'" line="86" column="49" />
@@ -817,11 +805,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" timestamp="1527530864886">
         <mark key="'" line="544" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressCaseNormalizerTest.java" timestamp="1527832081065">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/Value.java" timestamp="1523930078940">
         <mark key="'" line="323" column="17" />
       </file>
@@ -896,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="85" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="37" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculatorProvider.java" />
       <jump line="94" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
@@ -996,6 +978,7 @@
       <jump line="63" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="162" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/InjectMocks.java" />
       <jump line="70" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1005,7 +988,7 @@
         <text>totRolloutManager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXRyeVN1Y2Nlc3NUaW1lclw+</text>
+        <text>tagged</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBATW9jayBwcml2YXRlIFRvdFJvbGxvdXRNYW5hZ2VyIHRvdFJvbGxvdXRNYW5hZ2VyOwo=</text>
@@ -1042,9 +1025,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXRyeVN1Y2Nlc3NUaW1lclw+</last-search>
+      <last-search>tagged</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXRyeVN1Y2Nlc3NUaW1lclw+</last-pattern>
+      <last-pattern>tagged</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1074,6 +1057,8 @@
         <entry>functiontim</entry>
         <entry encoding="base64">XDxjbG9ja1w+</entry>
         <entry encoding="base64">XDxyZXRyeVN1Y2Nlc3NUaW1lclw+</entry>
+        <entry>timer</entry>
+        <entry>tagged</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzovID0vZw==</entry>
