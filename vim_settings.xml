@@ -123,6 +123,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/processor/ReservationEventProcessingReport.scala" timestamp="1516691369585">
         <mark key="'" line="153" column="45" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Constant.java" timestamp="1528401775959">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculatorTest.java" timestamp="1526341864633">
         <mark key="'" line="145" column="1107" />
       </file>
@@ -324,12 +330,12 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" timestamp="1528144966532">
-        <mark key="'" line="22" column="27" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="32" column="42" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" timestamp="1528401936060">
+        <mark key="'" line="23" column="27" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="32" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/AccountingEventHandler.scala" timestamp="1511893682721">
         <mark key="'" line="52" column="19" />
@@ -424,11 +430,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlResponse.java" timestamp="1523901388883">
         <mark key="'" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1528263458023">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1528401946901">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" timestamp="1527191437406">
         <mark key="'" line="1012" column="52" />
@@ -1006,47 +1012,47 @@
       <jump line="56" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>missing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImFydWJhIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>missing</text>
+        <text>SITAR_GROUP</text>
       </register>
       <register name="/" type="4">
         <text>recover</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZXRDbGVhbnNlZEFkZHJlc3Nfc2F2ZVRvQ2FjaGUoKSB7CiAgICB0ZXN0RGJpID0gbW9jayhEQkkuY2xhc3MpOwogICAgbWNyb3V0ZXJDbGllbnQgPSBtb2NrKE1jcm91dGVyQ2xpZW50LmNsYXNzKTsKICAgIHRlc3RSZXBvc2l0b3J5ID0gbmV3IEFydWJhRGF0YVJlcG9zaXRvcnkodGVzdERiaSwgbWNyb3V0ZXJDbGllbnQpOwoKICAgIFN0cmluZyBleHBlY3RlZENhY2hlS2V5ID0gIkNsZWFuc2VkQWRkcmVzc18xMCI7CiAgICAvLyBXZSBuZWVkIGEgZmluYWwgdmFyaWFibGUgdG8gY2FwdHVyZSB0aGUgYXJndW1lbnQgaW4gdGhlIGxhbWJkYQogICAgZmluYWwgT2JqZWN0W10gYWN0dWFsQ2FjaGVkVmFsdWUgPSB7bnVsbH07CiAgICBmaW5hbCBDb21wbGV0YWJsZUZ1dHVyZTxCb29sZWFuPiBmdXR1cmUgPSBuZXcgQ29tcGxldGFibGVGdXR1cmU8PigpOwogICAgd2hlbihtY3JvdXRlckNsaWVudC5zZXQoZXEoZXhwZWN0ZWRDYWNoZUtleSksIGVxKDg2NDAwIC8qMSBkYXkgaW4gc2VjcyovKSwgYW55KCkpKQogICAgICAgIC50aGVuQW5zd2VyKGludm9jYXRpb24gLT4gewogICAgICAgICAgYWN0dWFsQ2FjaGVkVmFsdWVbMF0gPSBpbnZvY2F0aW9uLmdldEFyZ3VtZW50cygpWzJdOwogICAgICAgICAgZnV0dXJlLmNvbXBsZXRlKHRydWUpOwogICAgICAgICAgcmV0dXJuIGZ1dHVyZTsKICAgICAgICB9KTsKCiAgICBPcHRpb248Q2xlYW5zZWRBZGRyZXNzZXMuUm93PiBvcHRBZGRyZXNzID0gdGVzdFJlcG9zaXRvcnkuZ2V0Q2xlYW5zZWRBZGRyZXNzKDEwTCk7CiAgICBmdXR1cmUuam9pbigpOwoKICAgIGFzc2VydEVxdWFscyhvcHRBZGRyZXNzLmdldCgpLCBhY3R1YWxDYWNoZWRWYWx1ZVswXSk7CiAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc3RhbnQuU0lUQVJfR1JPVVAsCiAgICAgICAgICAgIENvbnN0YW50LlNJVEFSX0NPTkZJRywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3REYmkgPSBtb2NrKERCSS5jbGFzcyk7CiAgICBtY3JvdXRlckNsaWVudCA9IG1vY2soTWNyb3V0ZXJDbGllbnQuY2xhc3MpOwogICAgdGVzdFJlcG9zaXRvcnkgPSBuZXcgQXJ1YmFEYXRhUmVwb3NpdG9yeSh0ZXN0RGJpLCBtY3JvdXRlckNsaWVudCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFydWJhIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1dHVyZS5qb2luKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBheW1lbnRzLWNvbmZpZyIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFydWJhIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmdXR1cmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBheW1lbnRzLWNvbmZpZyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZ1dHVyZS5jb21wbGV0ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGRyZXNzX2FsaWFzIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdHVhbENhY2hlZFZhbHVlWzBdID0gaW52b2NhdGlvbi5nZXRBcmd1bWVudHMoKVsyXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhcnViYSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbkFuc3dlcihpbnZvY2F0aW9uIC0+IHsK</text>
+        <text encoding="base64">ICAgIHRlc3REYmkgPSBtb2NrKERCSS5jbGFzcyk7CiAgICBtY3JvdXRlckNsaWVudCA9IG1vY2soTWNyb3V0ZXJDbGllbnQuY2xhc3MpOwogICAgdGVzdFJlcG9zaXRvcnkgPSBuZXcgQXJ1YmFEYXRhUmVwb3NpdG9yeSh0ZXN0RGJpLCBtY3JvdXRlckNsaWVudCk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyAK</text>
+        <text encoding="base64">ICAgIGZ1dHVyZS5qb2luKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIENvbXBsZXRhYmxlRnV0dXJlPEJvb2xlYW4+IGZ1dHVyZSA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1100,8 +1106,8 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>fw</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
