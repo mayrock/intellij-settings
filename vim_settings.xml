@@ -287,7 +287,6 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/base/BaseEvent.scala" timestamp="1516477554295">
         <mark key="'" line="40" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/clients/picasso/src/main/java/com/airbnb/common/clients/picasso/McrouterClient.java" timestamp="1528266671081" />
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/refining/ReservationPriceCents.scala" timestamp="1516688585571">
         <mark key="'" line="85" column="28" />
       </file>
@@ -387,6 +386,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/59a2c8e455540a16432725d6a1a1579dd952a476/scala-library-2.10.6-sources.jar!/scala/Long.scala" timestamp="1516326935243">
         <mark key="'" line="21" column="43" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1528351195003">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="^" line="56" column="26" />
+        <mark key="." line="56" column="26" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" timestamp="1527190328278">
         <mark key="'" line="16" column="60" />
@@ -993,11 +998,11 @@
       <jump line="56" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.0/961359f8352b791c6443a207c847e25d6d3ca7cd/guice-4.0-sources.jar!/com/google/inject/Inject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihDb21wbGV0YWJsZUZ1dHVyZS5jb21wbGV0ZWRGdXR1cmUodHJ1ZSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>McrouterClient</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhUmVwb3NpdG9yeVw+</text>
@@ -1005,32 +1010,33 @@
       <register name="0" type="4">
         <text>this.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihDb21wbGV0YWJsZUZ1dHVyZS5jb21wbGV0ZWRGdXR1cmUodHJ1ZSkpOwo=</text>
+      <register name="1" type="4">
+        <text>obj != null) {
+      log.in</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWNyb3V0ZXJDbGllbnQuc2V0KGFueSgpLCBhbnkoKSwgYW55KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlblJldHVybihDb21wbGV0YWJsZUZ1dHVyZS5jb21wbGV0ZWRGdXR1cmUodHJ1ZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4obWNyb3V0ZXJDbGllbnQuc2V0KGFueSgpLCBhbnkoKSwgYW55KCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgc3RhdGljICBtY3JvdXRlckNsaWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASW5qZWN0CiAgcHJpdmF0ZSBzdGF0aWMgTWNyb3V0ZXJDbGllbnQgbWNyb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgc3RhdGljICBtY3JvdXRlckNsaWVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBASW5qZWN0CiAgcHJpdmF0ZSBzdGF0aWMgTWNyb3V0ZXJDbGllbnQgbWNyb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBASW5qZWN0CiAgTWNyb3V0ZXJDbGllbnQgbWNyb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmQoQXJ1YmFEYXRhUmVwb3NpdG9yeS5jbGFzcykudG9JbnN0YW5jZShuZXcgQXJ1YmFEYXRhUmVwb3NpdG9yeShhcnViYUFpcmJlZERCSSkpOwo=</text>
+        <text encoding="base64">ICBASW5qZWN0CiAgTWNyb3V0ZXJDbGllbnQgbWNyb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJpbmQoQXJ1YmFEYXRhUmVwb3NpdG9yeS5jbGFzcykudG9JbnN0YW5jZShuZXcgQXJ1YmFEYXRhUmVwb3NpdG9yeShhcnViYUFpcmJlZERCSSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1043,15 +1049,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>anynon</entry>
-        <entry>anyobject</entry>
-        <entry>rollout</entry>
-        <entry encoding="base64">XDx0b3RSb2xsb3V0TWFuYWdlclw+</entry>
-        <entry encoding="base64">XDxyb2xsb3V0TWFuYWdlclw+</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry encoding="base64">XDxzZXR1cFNpdGFyQ2xpZW50XD4=</entry>
         <entry>string</entry>
