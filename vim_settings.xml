@@ -617,8 +617,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/balboa_service.thrift" timestamp="1526338495731">
         <mark key="'" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1528261269953">
-        <mark key="'" line="68" column="40" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1528392029994">
+        <mark key="'" line="56" column="37" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="50" />
         <mark key="." line="3" column="54" />
@@ -924,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="30" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="46" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="9" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/oyster/model/src/main/java/com/airbnb/oyster/model/common/ModelObject.java" />
@@ -1024,6 +1023,7 @@
       <jump line="299" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" />
       <jump line="234" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="40" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java" />
+      <jump line="56" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1066,7 +1066,7 @@
         <text encoding="base64">ICAgIGZpbmFsIENvbXBsZXRhYmxlRnV0dXJlPEJvb2xlYW4+IGZ1dHVyZSA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1120,10 +1120,10 @@
         <entry>%s/ListingAddress/Listing/g</entry>
         <entry>%s/originalAddress/originalListing/g</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>q!</entry>
         <entry>fw</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
