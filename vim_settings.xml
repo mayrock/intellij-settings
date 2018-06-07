@@ -388,8 +388,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/59a2c8e455540a16432725d6a1a1579dd952a476/scala-library-2.10.6-sources.jar!/scala/Long.scala" timestamp="1516326935243">
         <mark key="'" line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1528352781734">
-        <mark key="'" line="47" column="59" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1528353391770">
+        <mark key="'" line="24" column="31" />
         <mark key="[" line="50" column="55" />
         <mark key="]" line="50" column="69" />
         <mark key="." line="50" column="69" />
@@ -558,8 +558,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/refining/Payment2sAccountingAuditRefiner.scala" timestamp="1523291197079">
         <mark key="'" line="135" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" timestamp="1528351975442">
-        <mark key="'" line="59" column="25" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" timestamp="1528353401871">
+        <mark key="'" line="72" column="41" />
         <mark key="[" line="25" column="36" />
         <mark key="]" line="25" column="48" />
         <mark key="^" line="25" column="44" />
@@ -850,6 +850,13 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/model/braavos_data/helper/MagicalTripPlatformEventConverter.scala" timestamp="1511852991184">
         <mark key="'" line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/CleansedAddresses.java" timestamp="1528353456105">
+        <mark key="'" line="16" column="50" />
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/builders/state/ProductStateConverter.scala" timestamp="1511849134598">
         <mark key="'" line="19" column="12" />
       </file>
@@ -899,11 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="15" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/Counter.java" />
-      <jump line="24" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/Counter.java" />
-      <jump line="211" column="17" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
-      <jump line="202" column="18" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
-      <jump line="340" column="30" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
       <jump line="14" column="23" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/RegistryUtils.java" />
       <jump line="106" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="27" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ChainedListingNormalizer.java" />
@@ -999,10 +1001,15 @@
       <jump line="59" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
       <jump line="46" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
       <jump line="28" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" />
+      <jump line="24" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="26" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
+      <jump line="72" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
+      <jump line="16" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/CleansedAddresses.java" />
+      <jump line="168" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/Serializable.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWNyb3V0ZXJDbGllbnQuc2V0KAogICAgICAgICAgICAgICAgbGlzdGluZ0lkLnRvU3RyaW5nKCksIENMRUFOU0VEX0FERFJFU1NfQ0FDSEVfVFRMX0lOX1NFQ09ORFMsIGopKTsK</text>
+        <text encoding="base64">ICBAU2VyaWFsaQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">SW5qZWN0IA==</text>
@@ -1014,32 +1021,32 @@
         <text>this.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWNyb3V0ZXJDbGllbnQuc2V0KAogICAgICAgICAgICAgICAgbGlzdGluZ0lkLnRvU3RyaW5nKCksIENMRUFOU0VEX0FERFJFU1NfQ0FDSEVfVFRMX0lOX1NFQ09ORFMsIGopKTsK</text>
+        <text encoding="base64">ICBAU2VyaWFsaQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWNyb3V0ZXJDbGllbnQuc2V0KAogICAgICAgICAgICAgICAgbGlzdGluZ0lkLnRvU3RyaW5nKCksIENMRUFOU0VEX0FERFJFU1NfQ0FDSEVfVFRMX0lOX1NFQ09ORFMsIGopKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiBPcHRpb24ub2YoY2xlYW5zZWRBZGRyZXNzZXNEQU8uZ2V0Q2xlYW5zZWRBZGRyZXNzRm9yTGlzdGluZyhsaXN0aW5nSWQpKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>obj != null) {
       log.in</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAudGhlblJldHVybihDb21wbGV0YWJsZUZ1dHVyZS5jb21wbGV0ZWRGdXR1cmUodHJ1ZSkpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHdoZW4obWNyb3V0ZXJDbGllbnQuc2V0KGFueSgpLCBhbnkoKSwgYW55KCkpKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgc3RhdGljICBtY3JvdXRlckNsaWVudDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBASW5qZWN0CiAgcHJpdmF0ZSBzdGF0aWMgTWNyb3V0ZXJDbGllbnQgbWNyb3V0ZXJDbGllbnQ7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBASW5qZWN0CiAgcHJpdmF0ZSBzdGF0aWMgTWNyb3V0ZXJDbGllbnQgbWNyb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
