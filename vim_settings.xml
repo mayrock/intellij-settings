@@ -271,12 +271,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/Timer.java" timestamp="1528263805049">
         <mark key="'" line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/FRListingAddressNormalizerTest.java" timestamp="1528433814773">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/FRListingAddressNormalizerTest.java" timestamp="1528473452568">
         <mark key="'" line="15" column="30" />
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="34" />
-        <mark key="^" line="55" column="34" />
-        <mark key="." line="55" column="34" />
+        <mark key="[" line="62" column="59" />
+        <mark key="]" line="62" column="63" />
+        <mark key="^" line="62" column="63" />
+        <mark key="." line="62" column="63" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/stages/data/refining/Reservation2sAccountingAuditRefinerSpec.scala" timestamp="1511894354881">
         <mark key="'" line="14" column="6" />
@@ -927,16 +927,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>listing</text>
+        <text>SAINT</text>
       </register>
       <register name="-" type="4">
-        <text>listing</text>
+        <text>SAINT</text>
       </register>
       <register name="/" type="4">
         <text>recover</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3RpbmcgZXhwZWN0ZWROb3JtYWxpemVkID0gbGlzdGluZy50b0J1aWxkZXIoKS5jaXR5KCJwYXJpcyIpLmJ1aWxkKCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBnZXROb3JtYWxpemVkTGlzdGluZ19GUl9TVF9Db252ZXJ0VG9TQUlOVCgpIHsKICAgIExpc3RpbmcgbGlzdGluZyA9IHV0aWwuYnVpbGRMaXN0aW5nKCkudG9CdWlsZGVyKCkuY291bnRyeSgiRlIiKS5jaXR5KCJTVCBMQVJZIFNPVUxBTiIpLmJ1aWxkKCk7CiAgICBMaXN0aW5nIG5vcm1hbGl6ZWQgPSBsaXN0aW5nTm9ybWFsaXplci5nZXROb3JtYWxpemVkTGlzdGluZyhsaXN0aW5nKTsKICAgIExpc3RpbmcgZXhwZWN0ZWROb3JtYWxpemVkID0gbGlzdGluZy50b0J1aWxkZXIoKS5jaXR5KCJTQUlOVCBMQVJZIFNPVUxBTiIpLmJ1aWxkKCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWROb3JtYWxpemVkLCBub3JtYWxpemVkKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
