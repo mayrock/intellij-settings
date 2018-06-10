@@ -277,13 +277,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/Timer.java" timestamp="1528263805049">
         <mark key="'" line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/FRListingAddressNormalizerTest.java" timestamp="1528656980481">
-        <mark key="'" line="118" column="49" />
-        <mark key="[" line="116" column="40" />
-        <mark key="]" line="116" column="40" />
-        <mark key="^" line="116" column="40" />
-        <mark key="." line="116" column="40" />
-      </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/stages/data/refining/Reservation2sAccountingAuditRefinerSpec.scala" timestamp="1511894354881">
         <mark key="'" line="14" column="6" />
       </file>
@@ -819,13 +812,6 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/transactional_tests/ReservationEventsTest.scala" timestamp="1511895802525">
         <mark key="'" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/FRListingAddressNormalizer.java" timestamp="1528657223759">
-        <mark key="'" line="56" column="28" />
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="36" />
-        <mark key="^" line="48" column="36" />
-        <mark key="." line="48" column="36" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" timestamp="1526338645245">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="216" column="44" />
@@ -999,12 +985,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rate</entry>
-        <entry>counter</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUxpc3RpbmdCdWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxtYXBNb2RlbFRvTGlzdGluZ1w+</entry>
         <entry encoding="base64">XDxtaWNhc2FUaW1lclw+</entry>
