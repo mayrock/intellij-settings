@@ -292,8 +292,8 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/stages/data/refining/Reservation2sAccountingAuditRefinerSpec.scala" timestamp="1511894354881">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" timestamp="1528868861364">
-        <mark key="'" line="58" column="16" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" timestamp="1529032129631">
+        <mark key="'" line="24" column="29" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="49" column="12" />
@@ -322,6 +322,9 @@
         <mark key="^" line="78" column="88" />
         <mark key="." line="78" column="88" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/callbacks/ValueUpdateRegistrar.java" timestamp="1529032296520">
+        <mark key="'" line="23" column="28" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/revenue/R2AAToAcceptedRevenueBuilderSpec.scala" timestamp="1516689305157">
         <mark key="'" line="331" column="24" />
       </file>
@@ -342,6 +345,9 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/build/libs/api-dropwizard1.0.jar!/com/airbnb/micasa/api/TypedModel.class" timestamp="1524073678416">
         <mark key="'" line="648" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/SitarCallbackManager.java" timestamp="1529032135697">
+        <mark key="'" line="98" column="19" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1528313796491">
         <mark key="'" line="223" column="8" />
@@ -709,7 +715,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/repositories/TextFileDataProvider.scala" timestamp="1516432696029">
         <mark key="'" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1528647822479">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1529031768031">
+        <mark key="'" line="107" column="32" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="8" />
         <mark key="." line="108" column="8" />
@@ -864,17 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
-      <jump line="288" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="303" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="304" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="305" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="344" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="345" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="393" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="394" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="419" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="420" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="445" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="446" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="67" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -906,7 +902,6 @@
       <jump line="49" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/FRListingAddressNormalizer.java" />
       <jump line="19" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizerTest.java" />
       <jump line="22" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizerTest.java" />
-      <jump line="24" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
       <jump line="89" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/SitarCallbackManager.java" />
       <jump line="22" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
       <jump line="23" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
@@ -940,7 +935,6 @@
       <jump line="37" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizerTest.java" />
       <jump line="264" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/Traversable.java" />
       <jump line="73" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizerTest.java" />
-      <jump line="58" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
       <jump line="8" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/GeoRegion.java" />
       <jump line="45" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Data.java" />
       <jump line="29" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizerTest.java" />
@@ -964,6 +958,19 @@
       <jump line="202" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="56" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="34" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculateOccupancyTaxesResponse.java" />
+      <jump line="107" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
+      <jump line="38" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
+      <jump line="58" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/GeoRegion.java" />
+      <jump line="24" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
+      <jump line="98" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/SitarCallbackManager.java" />
+      <jump line="131" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/callbacks/ValueUpdateRegistrar.java" />
+      <jump line="22" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/callbacks/ValueUpdateRegistrar.java" />
+      <jump line="54" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/callbacks/ValueUpdateRegistrar.java" />
+      <jump line="153" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/callbacks/ValueUpdateRegistrar.java" />
+      <jump line="135" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/callbacks/ValueUpdateRegistrar.java" />
+      <jump line="23" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/callbacks/ValueUpdateRegistrar.java" />
+      <jump line="40" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-client/src/main/java/com/airbnb/sitar/client/SitarCallbackManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
