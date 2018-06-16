@@ -400,12 +400,10 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlResponse.java" timestamp="1523901388883">
         <mark key="'" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1529176135910">
-        <mark key="'" line="48" column="28" />
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="18" column="70" />
-        <mark key="." line="18" column="70" />
-        <mark key="^" line="18" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1529178400679">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" timestamp="1529040809477">
         <mark key="'" line="0" column="0" />
@@ -698,6 +696,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/bdacf4f82ce9b29cd474bfde2e91eeb0ca623d28/config-1.2.1-sources.jar!/com/typesafe/config/impl/ConfigReference.java" timestamp="1516861671742">
         <mark key="'" line="72" column="44" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/BaseRolloutManager.java" timestamp="1529178514734">
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="69" />
+        <mark key="." line="18" column="69" />
+        <mark key="^" line="21" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
@@ -971,44 +975,44 @@
       <jump line="17" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/simple-strategy/src/main/java/com/airbnb/trebuchet/simplestrategy/parser/BaseStrategyParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>use_aruba_for_tot_rollout</text>
       </register>
       <register name="-" type="4">
-        <text>trebuchetClient</text>
+        <text>use_aruba_for_tot_rollout</text>
       </register>
       <register name="/" type="4">
         <text>====</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvdW50cnkobS5nZXRDb3VudHJ5KCkubWFwKExpc3RpbmdEYXRhTG9hZGVyOjpudWxsSWZCbGFuaykub3JFbHNlKG51bGwpKQo=</text>
+        <text encoding="base64">ICAgIGlmICghdHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkgewogICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGlzVG90RW5hYmxlZEZvckxpc3RpbmdfdHJlYnVjaGV0Tm90TGF1bmNoZWRfcmV0dXJuc1RydWUoKSB7CiAgICBMaXN0aW5nIGxpc3RpbmcgPSB1dGlsLmJ1aWxkTGlzdGluZygpOwogICAgYXNzZXJ0VHJ1ZShtYW5hZ2VyLmlzVG90RW5hYmxlZEZvckxpc3RpbmcobGlzdGluZykpOwogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybih0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybihmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1RvdEVuYWJsZWRGb3JMaXN0aW5nKExpc3RpbmcgbGlzdGluZykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBATW9jayBUcmVidWNoZXRDbGllbnQgdHJlYnVjaGV0Q2xpZW50Owo=</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgYm9vbGVhbiBpc1RvdEVuYWJsZWRGb3JMaXN0aW5nSW50ZXJuYWwoTGlzdGluZyBsaXN0aW5nKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJlYnVjaGV0Q2xpZW50ID0gdHJlYnVjaGV0Q2xpZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBUcmVidWNoZXRDbGllbnQgdHJlYnVjaGV0Q2xpZW50Owo=</text>
+        <text encoding="base64">ICAgIGJhc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBiYXNlKHRyZWJ1Y2hldENsaWVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
