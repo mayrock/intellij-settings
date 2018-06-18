@@ -554,12 +554,6 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/MicroHelper.scala" timestamp="1516688548345">
         <mark key="'" line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" timestamp="1529076648711">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1529194564224">
         <mark key="'" line="133" column="34" />
       </file>
@@ -666,6 +660,11 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/models/cleaned/CleanReservationPriceVersionSpec.scala" timestamp="1518131799014">
         <mark key="'" line="25" column="35" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/clients/picasso/src/main/java/com/airbnb/common/clients/picasso/CacheCluster.java" timestamp="1529358141939">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/repositories/serde/ReservationEventSerializer.scala" timestamp="1516383911422">
         <mark key="'" line="56" column="14" />
       </file>
@@ -712,7 +711,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/bdacf4f82ce9b29cd474bfde2e91eeb0ca623d28/config-1.2.1-sources.jar!/com/typesafe/config/impl/ConfigReference.java" timestamp="1516861671742">
         <mark key="'" line="72" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/BaseRolloutManager.java" timestamp="1529180682634">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/BaseRolloutManager.java" timestamp="1529358335278">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="73" />
         <mark key="." line="18" column="69" />
@@ -731,11 +730,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/repositories/TextFileDataProvider.scala" timestamp="1516432696029">
         <mark key="'" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1529344456107">
-        <mark key="'" line="71" column="46" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="8" />
-        <mark key="." line="108" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1529357855656">
+        <mark key="'" line="70" column="46" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="43" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationTotCalculator.java" timestamp="1526342153185">
         <mark key="'" line="244" column="56" />
@@ -995,44 +995,44 @@
       <jump line="107" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBBUlVCQSgiYXJ1YmEiKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>CACHE_TESTER</text>
       </register>
       <register name="/" type="4">
         <text>istot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybih0cnVlKTsK</text>
+        <text encoding="base64">ICBBSVJFVkVOVFNfSElTVE9SWSgiYWlyZXZlbnRzLWhpc3RvcnkiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldHVwTWFuYWdlckZvclRlc3QodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICBBUlVCQSgiYXJ1YmEiKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWFuYWdlci5pc1RvdEVuYWJsZWRGb3JMaXN0aW5nKGFueSgpKSkudGhlbkNhbGxSZWFsTWV0aG9kKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCB5b3VyIGNhY2hlIHRvIHBpY2Fzc28ncyBDYWNoZUNsdXN0ZXIuamF2YS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXIgPSBtb2NrKEJhc2VSb2xsb3V0TWFuYWdlci5jbGFzcywgKTsK</text>
+        <text encoding="base64">ICAgIHNldHVwTWFuYWdlckZvclRlc3QodHJ1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWFuYWdlci5pc1RvdEVuYWJsZWRGb3JMaXN0aW5nSW50ZXJuYWwoYW55KCkpKS50aGVuUmV0dXJuKGlzRW5hYmxlZEludGVybmFsbHkpOwo=</text>
+        <text encoding="base64">ICAgIHdoZW4obWFuYWdlci5pc1RvdEVuYWJsZWRGb3JMaXN0aW5nKGFueSgpKSkudGhlbkNhbGxSZWFsTWV0aG9kKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldHVwTWFuYWdlckZvclRlc3QoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIG1hbmFnZXIgPSBtb2NrKEJhc2VSb2xsb3V0TWFuYWdlci5jbGFzcywgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldHVwTWFuYWdlckZvclRlc3QoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIHdoZW4obWFuYWdlci5pc1RvdEVuYWJsZWRGb3JMaXN0aW5nSW50ZXJuYWwoYW55KCkpKS50aGVuUmV0dXJuKGlzRW5hYmxlZEludGVybmFsbHkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsbG93Zgo=</text>
+        <text encoding="base64">ICAgIHNldHVwTWFuYWdlckZvclRlc3QoZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHNldHVwTWFuYWdlckZvclRlc3QoZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGFsbG93Zgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
