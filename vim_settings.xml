@@ -49,12 +49,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1528355634614">
         <mark key="'" line="209" column="22" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1529389487736">
-        <mark key="'" line="247" column="63" />
-        <mark key="[" line="248" column="73" />
-        <mark key="]" line="248" column="86" />
-        <mark key="^" line="248" column="86" />
-        <mark key="." line="248" column="86" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1529427145872">
+        <mark key="[" line="240" column="59" />
+        <mark key="]" line="240" column="60" />
+        <mark key="^" line="240" column="59" />
+        <mark key="." line="240" column="60" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
@@ -257,12 +256,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1529425106269">
-        <mark key="'" line="61" column="28" />
-        <mark key="[" line="56" column="43" />
-        <mark key="]" line="59" column="88" />
-        <mark key="." line="59" column="88" />
-        <mark key="^" line="59" column="88" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1529427172780">
+        <mark key="'" line="260" column="66" />
+        <mark key="[" line="61" column="58" />
+        <mark key="]" line="61" column="59" />
+        <mark key="." line="61" column="59" />
+        <mark key="^" line="61" column="59" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/BaseRolloutManagerTest.java" timestamp="1529178598604">
         <mark key="[" line="0" column="40" />
@@ -300,7 +299,7 @@
         <mark key="'" line="63" column="38" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/normalizer/FRListingAddressNormalizerTest.java" timestamp="1529387849001">
-        <mark key="'" line="171" column="2" />
+        <mark key="'" line="178" column="2" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/stages/data/refining/Reservation2sAccountingAuditRefinerSpec.scala" timestamp="1511894354881">
         <mark key="'" line="14" column="6" />
@@ -653,10 +652,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" timestamp="1529388529161">
         <mark key="'" line="28" column="29" />
-        <mark key="[" line="55" column="85" />
-        <mark key="]" line="55" column="103" />
-        <mark key="." line="55" column="103" />
-        <mark key="^" line="55" column="103" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingNormalizer.java" timestamp="1527826455428">
         <mark key="'" line="56" column="25" />
@@ -907,7 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/simple-strategy/src/main/java/com/airbnb/trebuchet/simplestrategy/module/SimpleStrategyModule.java" />
       <jump line="15" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/simple-strategy/src/main/java/com/airbnb/trebuchet/simplestrategy/parser/UserIdStrategyParser.java" />
       <jump line="9" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/simple-strategy/src/main/java/com/airbnb/trebuchet/simplestrategy/utils/Constants.java" />
       <jump line="20" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/simple-strategy/src/main/java/com/airbnb/trebuchet/simplestrategy/parser/UserIdStrategyParser.java" />
@@ -1007,19 +1001,20 @@
       <jump line="103" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/ArgumentCaptor.java" />
       <jump line="61" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="14" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/trebuchet-client/src/main/java/com/airbnb/trebuchet/client/TrebuchetClient.java" />
+      <jump line="260" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getDocumentDate</text>
+        <text>tax_team_only_use_start_date_as_document_date</text>
       </register>
       <register name="-" type="4">
-        <text>getDocumentDate</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJpZnlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhMb2NhbERhdGUub2YoMjAxNywgMSwgMSksIHJlcy5nZXRTYWJyaXhJbnZvaWNlRGF0ZSgpKTsK</text>
+      <register name="0" type="4">
+        <text>tax_team_only_use_start_date_as_document_date</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIENhbGN1bGF0ZU9jY3VwYW5jeVRheGVzUmVzcG9uc2UgcmVzID0K</text>
