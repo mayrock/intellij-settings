@@ -395,8 +395,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlResponse.java" timestamp="1523901388883">
         <mark key="'" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1529471843316">
-        <mark key="'" line="13" column="46" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" timestamp="1529532578906">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" timestamp="1529040809477">
         <mark key="'" line="0" column="0" />
@@ -885,8 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
-      <jump line="11" column="2" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/picasso/src/main/java/com/airbnb/common/clients/picasso/CacheCluster.java" />
       <jump line="36" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="16" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="107" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
@@ -985,10 +986,12 @@
       <jump line="86" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="6" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/metrics/FunctionTimer.java" />
       <jump line="13" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" />
+      <jump line="48" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManager.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/Listing.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybih0cnVlKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbmFibGVNYXAKICAgICAgICAuZ2V0KGxpc3RpbmcuZ2V0Q291bnRyeSgpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>launchedAndN</text>
@@ -1000,31 +1003,31 @@
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFRpbWVyIGNsZWFuc2VkQWRkcmVzc1RpbWVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybih0cnVlKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbmFibGVNYXAKICAgICAgICAuZ2V0KGxpc3RpbmcuZ2V0Q291bnRyeSgpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybih0cnVlKTsK</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBpc1RvdEVuYWJsZWRGb3JMaXN0aW5nX25vdExhdW5jaGVkX3JldHVybnNUcnVlKCkgewogICAgTGlzdGluZyBsaXN0aW5nID0gdXRpbC5idWlsZExpc3RpbmcoKTsKICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkudGhlblJldHVybihmYWxzZSk7CiAgICBhc3NlcnRUcnVlKG1hbmFnZXIuaXNUb3RFbmFibGVkRm9yTGlzdGluZyhsaXN0aW5nKSk7CiAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIGlmICghdHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9hcnViYV9mb3JfdG90X3JvbGxvdXQiKSkgewogICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBBZGQgdGVzdHMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXIgPSBuZXcgU2l0YXJSb2xsb3V0TWFuYWdlcihzaXRhckNhbGxiYWNrTWFuYWdlcik7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIG1hbmFnZXIgPSBuZXcgU2l0YXJSb2xsb3V0TWFuYWdlcihzaXRhckNhbGxiYWNrTWFuYWdlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
