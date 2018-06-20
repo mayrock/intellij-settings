@@ -80,6 +80,13 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/request/InvoiceLine.java" timestamp="1523985736795">
         <mark key="'" line="21" column="28" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1529471295269">
+        <mark key="'" line="86" column="33" />
+        <mark key="[" line="117" column="79" />
+        <mark key="]" line="117" column="78" />
+        <mark key="^" line="117" column="78" />
+        <mark key="." line="117" column="78" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/runners/DenormalizedEventsToAccountingEventsRunner.scala" timestamp="1511848981922">
         <mark key="'" line="39" column="40" />
       </file>
@@ -883,9 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="133" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
-      <jump line="90" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="223" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="71" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="11" column="2" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/picasso/src/main/java/com/airbnb/common/clients/picasso/CacheCluster.java" />
@@ -983,6 +987,9 @@
       <jump line="68" column="77" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/sitar/SitarRolloutManagerTest.java" />
       <jump line="54" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="39" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="154" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="86" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="6" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/metrics/FunctionTimer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -992,7 +999,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>not cach</text>
+        <text>timed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFRpbWVyIGNsZWFuc2VkQWRkcmVzc1RpbWVyOwo=</text>
@@ -1029,9 +1036,9 @@
       </register>
     </registers>
     <search>
-      <last-search>not cach</last-search>
+      <last-search>timed</last-search>
       <last-offset />
-      <last-pattern>not cach</last-pattern>
+      <last-pattern>timed</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1060,6 +1067,9 @@
         <entry>===</entry>
         <entry>====</entry>
         <entry>not cach</entry>
+        <entry>function</entry>
+        <entry>Timed</entry>
+        <entry>timed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wuZ2V0XCgvKC9n</entry>
