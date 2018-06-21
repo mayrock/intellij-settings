@@ -242,10 +242,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1529611750478">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1529616313707">
         <mark key="'" line="65" column="31" />
-        <mark key="[" line="345" column="40" />
-        <mark key="]" line="345" column="84" />
+        <mark key="[" line="91" column="68" />
+        <mark key="]" line="91" column="71" />
+        <mark key="." line="91" column="71" />
+        <mark key="^" line="91" column="71" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/base/BaseEvent.scala" timestamp="1516477554295">
         <mark key="'" line="40" column="6" />
@@ -987,16 +989,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>payments.tot.test_to_be_rollout_jurisdictions</text>
+        <text>includeDebugInfo</text>
       </register>
       <register name="-" type="4">
-        <text>use_oyster_rollout_manager</text>
+        <text>includeDebugInfo</text>
       </register>
       <register name="/" type="4">
         <text>to_be</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKCkgLT4gbWljYXNhQ2xpZW50LmdldExpc3RpbmdzQnlMaXN0aW5nSWRzKHJlcXVlc3QpLCBtaWNhc2FUaW1lcikK</text>
+        <text encoding="base64">ICAgIEFydWJhQ29udGV4dC5zZXRDdXJyZW50KEFydWJhQ29udGV4dC5idWlsZGVyKCkuaW5jbHVkZURlYnVnSW5mbyhpbmNsdWRlRGVidWdJbmZvKS5idWlsZCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
