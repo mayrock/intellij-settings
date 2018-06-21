@@ -213,10 +213,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/Iterator.java" timestamp="1526971842444">
         <mark key="'" line="1148" column="20" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" timestamp="1528313940562">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" timestamp="1529559526099">
         <mark key="'" line="37" column="50" />
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="63" />
+        <mark key="[" line="325" column="35" />
+        <mark key="]" line="325" column="65" />
         <mark key="." line="37" column="63" />
         <mark key="^" line="37" column="63" />
       </file>
@@ -564,8 +564,12 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1529428570458">
-        <mark key="'" line="5" column="34" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1529559458106">
+        <mark key="'" line="138" column="39" />
+        <mark key="[" line="138" column="31" />
+        <mark key="]" line="138" column="23" />
+        <mark key="^" line="138" column="23" />
+        <mark key="." line="138" column="23" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/LossAccountSubledgersGenerationTest.scala" timestamp="1511326179729">
         <mark key="'" line="86" column="49" />
@@ -903,8 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="59" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculateOccupancyTaxesForTesterRequest.java" />
       <jump line="755" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="137" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="756" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -1003,46 +1005,48 @@
       <jump line="6" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/BaseRolloutManager.java" />
       <jump line="163" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="49" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="138" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
+      <jump line="164" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>getActivatedTimeForJurisdiction</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>isTotEnabledForJurisdiction</text>
       </register>
       <register name="/" type="4">
         <text>istot</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgLyoqCiAgICogQ2hlY2sgd2hldGhlciBvbmUgbGlzdGluZyBoYXMgYmVlbiBlbmFibGVkIGZvciBUT1QuIE9uZSBsaXN0aW5nIGlzIGVuYWJsZWQgaWYgaXRzIGFkZHJlc3MgY2FuCiAgICogYmUgbWFwcGVkIHRvIGp1cmlzZGljdGlvbnMgd2hpY2ggaGF2ZSBhbHJlYWR5IGJlZW4gZW5hYmxlZCBmb3IgVE9ULgogICAqCiAgICogQHBhcmFtIGxpc3RpbmcgdGhlIGxpc3Rpbmcgb2JqZWN0IGNvbnRhaW5pbmcgaXRzIGFkZHJlc3MgaW5mbwogICAqIEBwYXJhbSBhc09mVGltZSB0aGUgc3BlY2lmaWVkIHRpbWUgdG8gY2hlY2sgd2hldGhlciBUT1QgaXMgZW5hYmxlZCB0aGVuCiAgICogQHJldHVybiBFbmFibGUgc3RhdHVzIG9mIHRoaXMgbGlzdGluZy4KICAgKi8=</text>
+        <text>getActivatedTimeForJurisdiction</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBiZSBtYXBwZWQgdG8ganVyaXNkaWN0aW9ucyB3aGljaCBoYXZlIGFscmVhZHkgYmVlbiBlbmFibGVkIGZvciBUT1QuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1RvdEVuYWJsZWRGb3JMaXN0aW5nKExpc3RpbmcgbGlzdGluZykgewo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGFzT2ZUaW1lLmlzQWZ0ZXIocm9sbG91dC5hY3RpdmF0ZUF0KCkpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBpc1RvdEVuYWJsZWRGb3JMaXN0aW5nKExpc3RpbmcgbGlzdGluZykgewo=</text>
+        <text encoding="base64">ICAgIGZvciAoVG90Um9sbG91dCByb2xsb3V0IDogcm9sbG91dHNJbmNsdWRpbmdUaGlzSnVyaXNkaWN0aW9uKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1RvdEVuYWJsZWRGb3JMaXN0aW5nKExpc3RpbmcgbGlzdGluZykgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgKiBiZSBtYXBwZWQgdG8ganVyaXNkaWN0aW9ucyB3aGljaCBoYXZlIGFscmVhZHkgYmVlbiBlbmFibGVkIGZvciBUT1QuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
