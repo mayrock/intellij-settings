@@ -85,7 +85,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/request/InvoiceLine.java" timestamp="1523985736795">
         <mark key="'" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1529604909678">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1529605704368">
         <mark key="'" line="27" column="29" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="89" />
@@ -339,10 +339,10 @@
         <mark key="'" line="98" column="19" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1529567536722">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/ArubaConfiguration.java" timestamp="1528177019932">
         <mark key="'" line="15" column="32" />
@@ -879,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutManager.java" />
       <jump line="329" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="12" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutManager.java" />
       <jump line="174" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Enum.java" />
@@ -979,6 +978,7 @@
       <jump line="27" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="55" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/client/src/main/java/com/airbnb/micasa/client/MicasaClientModule.java" />
+      <jump line="332" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -988,7 +988,7 @@
         <text>use_oyster_rollout_manager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWNhc2FDbGllbnRcPg==</text>
+        <text>document</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKCkgLT4gbWljYXNhQ2xpZW50LmdldExpc3RpbmdzQnlMaXN0aW5nSWRzKHJlcXVlc3QpLCBtaWNhc2FUaW1lcikK</text>
@@ -1025,9 +1025,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaWNhc2FDbGllbnRcPg==</last-search>
+      <last-search>document</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWNhc2FDbGllbnRcPg==</last-pattern>
+      <last-pattern>document</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1038,7 +1038,6 @@
         <entry encoding="base64">XDxEb3VibGVcPg==</entry>
         <entry>gettaxrate</entry>
         <entry>start</entry>
-        <entry>document</entry>
         <entry>taxable</entry>
         <entry encoding="base64">XDxnZXRQcm92aW5jZUZyb21MaXN0aW5nXD4=</entry>
         <entry>buildfr</entry>
@@ -1080,6 +1079,7 @@
         <entry>rolloutstatus</entry>
         <entry encoding="base64">XDxyb2xsb3V0TWFuYWdlclw+</entry>
         <entry encoding="base64">XDxtaWNhc2FDbGllbnRcPg==</entry>
+        <entry>document</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wuZ2V0XCgvKC9n</entry>
