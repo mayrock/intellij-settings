@@ -564,12 +564,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/clients/picasso/src/test/java/com/airbnb/common/clients/picasso/PicassoClientTest.java" timestamp="1509660140450">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/rollout/BaseRolloutManagerTest.java" timestamp="1529566128566">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="12" />
-        <mark key="^" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1510698397874">
         <mark key="'" line="476" column="43" />
       </file>
@@ -713,7 +707,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1529625627899">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1529710857556">
+        <mark key="'" line="20" column="13" />
         <mark key="[" line="39" column="72" />
         <mark key="]" line="43" column="51" />
         <mark key="^" line="43" column="51" />
@@ -891,7 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="356" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="334" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="335" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
@@ -991,6 +985,7 @@
       <jump line="106" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="70" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="14" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/metrics/FunctionTimer.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1000,7 +995,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>generate</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIDxUPiBTdXBwbGllcjxUPiB0aW1lZChTdXBwbGllcjxUPiBmdW5jLCBUaW1lciB0aW1lcikgewo=</text>
@@ -1037,9 +1032,9 @@
       </register>
     </registers>
     <search>
-      <last-search>generate</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>generate</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,6 +1109,7 @@
         <entry>datadog</entry>
         <entry encoding="base64">XDxzYWJyaXhUaW1lclw+</entry>
         <entry>generate</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wuZ2V0XCgvKC9n</entry>
