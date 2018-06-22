@@ -505,8 +505,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" timestamp="1528147814951">
         <mark key="'" line="917" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" timestamp="1528923579797">
-        <mark key="'" line="69" column="27" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" timestamp="1529699663768">
+        <mark key="'" line="81" column="14" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculatedOccupancyTax.java" timestamp="1518324712999">
         <mark key="'" line="238" column="14" />
@@ -891,7 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="259" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="87" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="138" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -991,6 +990,7 @@
       <jump line="120" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="410" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="92" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="81" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1000,7 +1000,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</text>
+        <text>amount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnVzZV9veXN0ZXJfcm9sbG91dF9tYW5hZ2VyIikpLnRoZW5SZXR1cm4oZmFsc2UpOwo=</text>
@@ -1037,9 +1037,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</last-search>
+      <last-search>amount</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</last-pattern>
+      <last-pattern>amount</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1107,6 +1107,7 @@
         <entry>valida</entry>
         <entry encoding="base64">XDxwcm9kdWNlRXhjZXB0aW9uTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxtYXBUb3RFcnJvcnNcPg==</entry>
+        <entry>amount</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wuZ2V0XCgvKC9n</entry>
