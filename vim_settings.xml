@@ -50,8 +50,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1528355634614">
         <mark key="'" line="209" column="22" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1529626175422">
-        <mark key="'" line="289" column="6" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1529629394680">
+        <mark key="'" line="178" column="41" />
         <mark key="[" line="279" column="0" />
         <mark key="]" line="279" column="12" />
         <mark key="^" line="280" column="28" />
@@ -901,10 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="28" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
-      <jump line="343" column="37" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
-      <jump line="229" column="37" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
-      <jump line="49" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="46" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="50" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
@@ -1001,6 +997,10 @@
       <jump line="23" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutManager.java" />
       <jump line="155" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="38" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
+      <jump line="288" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="111" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="126" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="178" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1010,7 +1010,7 @@
         <text>verifyNoMoreInteractions</text>
       </register>
       <register name="/" type="4">
-        <text>getactiva</text>
+        <text>_isAudited</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RDYWxjdWxhdGVPY2N1cGFuY3lUYXhlc19ub3RFbmFibGVkX2RvVmFsaWRhdGlvbigpCiAgICAgIHRocm93cyBDYWxjdWxhdGVPY2N1cGFuY3lUYXhlc0Vycm9yIHsKICAgIHdoZW4ocm9sbG91dE1hbmFnZXIuZ2V0Um9sbG91dFN0YXR1c0Zvckxpc3RpbmcoYW55KCksIGFueSgpKSkKICAgICAgICAudGhlblJldHVybihUT19CRV9FTkFCTEVEX1JPTExPVVRfU1RBVFVTKTsKICAgIHdoZW4odHJlYnVjaGV0Q2xpZW50LmxhdW5jaCgicGF5bWVudHMudG90LnRlc3RfdG9fYmVfcm9sbG91dF9qdXJpc2RpY3Rpb25zIikpLnRoZW5SZXR1cm4odHJ1ZSk7CiAgICBUT1RDYWxjdWxhdG9yIGNhbGN1bGF0b3IgPSBtb2NrKFRPVENhbGN1bGF0b3IuY2xhc3MpOwogICAgd2hlbih0b3RDYWxjdWxhdG9yUHJvdmlkZXIuZ2V0RGVmYXVsdENhbGN1bGF0b3JzKCkpLnRoZW5SZXR1cm4oTGlzdC5vZihjYWxjdWxhdG9yKS5pdGVyYXRvcigpKTsKICAgIGZpbmFsIENvbXBsZXRhYmxlRnV0dXJlPEJvb2xlYW4+IGZ1dHVyZSA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7CiAgICB3aGVuKGNhbGN1bGF0b3IuY2FsY3VsYXRlVGF4ZXMoYW55KENhbGN1bGF0ZVRPVFJlcXVlc3QuY2xhc3MpLCBhbnkoTGlzdGluZy5jbGFzcykpKQogICAgICAgIC50aGVuQW5zd2VyKGludm9jYXRpb24gLT4gZnV0dXJlLmNvbXBsZXRlKHRydWUpKTsKCiAgICBDYWxjdWxhdGVPY2N1cGFuY3lUYXhlc1Jlc3BvbnNlIHJlcyA9CiAgICAgICAgYXJ1YmEuY2FsY3VsYXRlT2NjdXBhbmN5VGF4ZXMoCiAgICAgICAgICAgIFNlcnZpY2VSZXF1ZXN0RmFjdG9yeS5jcmVhdGVTZXJ2aWNlUmVxdWVzdFdpdGhFbXB0eVJlcXVlc3RDb250ZXh0KAogICAgICAgICAgICAgICAgb2NjdXBhbmN5VGF4ZXNSZXF1ZXN0QnVpbGRlcigpLmJ1aWxkKCkpKTsKCiAgICAvLyBUaGlzIG1ha2VzIHN1cmUgd2Ugd2FpdCB1bnRpbCBjYWxjdWxhdGVUYXhlcyBpcyBjYWxsZWQKICAgIGZ1dHVyZS5qb2luKCk7CiAgICBhc3NlcnRFcXVhbHMoTGlzdGluZ09jY3VwYW5jeVRheFN0YXR1cy5OT1RfRU5BQkxFRCwgcmVzLmdldFRheFN0YXR1cygpKTsKICB9Cg==</text>
@@ -1047,9 +1047,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getactiva</last-search>
+      <last-search>_isAudited</last-search>
       <last-offset />
-      <last-pattern>getactiva</last-pattern>
+      <last-pattern>_isAudited</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1108,6 +1108,8 @@
         <entry>arub</entry>
         <entry>createjuris</entry>
         <entry>getactiva</entry>
+        <entry>isAudited</entry>
+        <entry>_isAudited</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wuZ2V0XCgvKC9n</entry>
