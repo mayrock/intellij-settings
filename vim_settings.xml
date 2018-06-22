@@ -136,8 +136,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/HiveTable.scala" timestamp="1516819150994">
         <mark key="'" line="234" column="39" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1529700650105">
-        <mark key="'" line="48" column="35" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1529702069723">
+        <mark key="'" line="229" column="28" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/concurrent/Future.java" timestamp="1529555759708">
         <mark key="'" line="433" column="17" />
@@ -891,7 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="273" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="44" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" />
       <jump line="87" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
@@ -991,6 +990,7 @@
       <jump line="22" column="10" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
       <jump line="10" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/MetricRegistry.java" />
       <jump line="48" column="35" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
+      <jump line="229" column="28" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
