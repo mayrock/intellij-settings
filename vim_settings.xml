@@ -263,10 +263,10 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1530120197452">
         <mark key="'" line="397" column="40" />
-        <mark key="[" line="312" column="38" />
-        <mark key="]" line="312" column="45" />
-        <mark key="^" line="312" column="45" />
-        <mark key="." line="312" column="45" />
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="45" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/base/BaseEvent.scala" timestamp="1516477554295">
         <mark key="'" line="40" column="6" />
@@ -896,6 +896,11 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="7" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_service.thrift" timestamp="1530134067532">
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="90" column="25" />
+        <mark key="." line="90" column="25" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
       </file>
@@ -1052,8 +1057,8 @@
       <jump line="211" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/util/EntityUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhbGVydF9ub3RpZnlfcGVvcGxlID0gInNsYWNrLWFydWJhIgo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1065,31 +1070,31 @@
         <text encoding="base64">ICAgIEluc3RhbnQgdmFsaWRhdGlvbkFzT2ZUaW1lID0gYXNPZlRpbWUucGx1cyhDb25zdGFudC5WQUxJREFUSU9OX1BFUklPRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGVydF9ub3RpZnlfcGVvcGxlID0gInNsYWNrLWFydWJhIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRyZWJ1Y2hldENsaWVudC5sYXVuY2goIiIpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEluc3RhbnQgdmFsaWRhdGlvbkFzT2ZUaW1lID0gYWN0dWFsQXNPZlRpbWUucGx1cyhDb25zdGFudC5WQUxJREFUSU9OX1BFUklPRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRyZWJ1Y2hldENsaWVudC5sYXVuY2goIiIpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEluc3RhbnQgdmFsaWRhdGlvbkFzT2ZUaW1lID0gYWN0dWFsQXNPZlRpbWUucGx1cyhDb25zdGFudC5WQUxJREFUSU9OX1BFUklPRCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEluc3RhbnQgdmFsaWRhdGlvbkFzT2ZUaW1lID0gYXNPZlRpbWUucGx1cyhDb25zdGFudC5WQUxJREFUSU9OX1BFUklPRCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEluc3RhbnQgdmFsaWRhdGlvbkFzT2ZUaW1lID0gYXNPZlRpbWUucGx1cyhDb25zdGFudC5WQUxJREFUSU9OX1BFUklPRCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcucG93ZXJtb2NrLmFwaS5tb2NraXRvLlBvd2VyTW9ja2l0by5zcHk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZW4odGVzdFN0b3JlLmdldChrZXkpKS50aGVuUmV0dXJuKG51bGwpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcucG93ZXJtb2NrLmFwaS5tb2NraXRvLlBvd2VyTW9ja2l0by5zcHk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
