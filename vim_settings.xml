@@ -92,8 +92,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" timestamp="1529703618049">
         <mark key="'" line="250" column="54" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1530247986714">
-        <mark key="'" line="83" column="27" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1530295868108">
+        <mark key="'" line="199" column="23" />
         <mark key="[" line="71" column="27" />
         <mark key="]" line="71" column="27" />
         <mark key="." line="71" column="27" />
@@ -299,8 +299,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1530163271681">
-        <mark key="'" line="423" column="52" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1530295792792">
+        <mark key="'" line="311" column="45" />
         <mark key="[" line="17" column="38" />
         <mark key="]" line="17" column="45" />
         <mark key="^" line="17" column="45" />
@@ -630,6 +630,9 @@
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1530295800560">
+        <mark key="'" line="163" column="17" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/time/Instant.java" timestamp="1529562271170">
         <mark key="'" line="1142" column="48" />
@@ -1010,14 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/client/src/main/java/com/airbnb/micasa/client/MicasaClient.java" />
-      <jump line="13" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/response/GetListingsByIdsResponse.java" />
-      <jump line="15" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/response/ListingsResponse.java" />
-      <jump line="112" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="149" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="39" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/TypedModel.java" />
-      <jump line="77" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="964" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
       <jump line="26" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
       <jump line="57" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
       <jump line="37" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
@@ -1110,6 +1105,14 @@
       <jump line="255" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="327" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="7" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
+      <jump line="402" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="311" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="163" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
+      <jump line="99" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="238" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="112" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="86" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="199" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1119,7 +1122,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>verify</text>
+        <text encoding="base64">XDxnZXRMaXN0aW5nQnlJZFNraXBDYWNoZUFuZE5vcm1hbGl6YXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgT3B0aW9uPFQ+IGxvYWRXaXRoQ2FjaGUoU3RyaW5nIGtleSwgaW50IHR0bCwgU3VwcGxpZXI8T3B0aW9uPFQ+PiB2YWx1ZUdlbikgewo=</text>
@@ -1156,13 +1159,13 @@
       </register>
     </registers>
     <search>
-      <last-search>verify</last-search>
+      <last-search encoding="base64">XDxnZXRMaXN0aW5nQnlJZFNraXBDYWNoZUFuZE5vcm1hbGl6YXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>verify</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMaXN0aW5nQnlJZFNraXBDYWNoZUFuZE5vcm1hbGl6YXRpb25cPg==</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1170,7 +1173,6 @@
         <entry>seriali</entry>
         <entry encoding="base64">XDxDTEVBTlNFRF9BRERSRVNTX0NBQ0hFX0tFWV9QUkVGSVhcPg==</entry>
         <entry encoding="base64">XDxnZXROb3JtYWxpemVkTGlzdGluZ1w+</entry>
-        <entry encoding="base64">XDxtYXBNb2RlbFRvTGlzdGluZ1w+</entry>
         <entry>seria</entry>
         <entry>illeg</entry>
         <entry encoding="base64">XDxJbGxlZ2FsQWRkcmVzc0Vycm9yXD4=</entry>
@@ -1186,6 +1188,10 @@
         <entry>isempty</entry>
         <entry encoding="base64">XDxpc0VtcHR5XD4=</entry>
         <entry>verify</entry>
+        <entry>getactivated</entry>
+        <entry>delay</entry>
+        <entry encoding="base64">XDxtYXBNb2RlbFRvTGlzdGluZ1w+</entry>
+        <entry encoding="base64">XDxnZXRMaXN0aW5nQnlJZFNraXBDYWNoZUFuZE5vcm1hbGl6YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
