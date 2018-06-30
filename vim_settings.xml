@@ -607,7 +607,7 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1530295800560">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1530344344433">
         <mark key="'" line="163" column="17" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/time/Instant.java" timestamp="1529562271170">
@@ -762,8 +762,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1530325026776">
-        <mark key="'" line="20" column="13" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1530344358854">
+        <mark key="'" line="53" column="19" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="75" />
         <mark key="^" line="24" column="16" />
@@ -815,7 +815,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java" timestamp="1527285746094">
         <mark key="'" line="67" column="51" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculatorProvider.java" timestamp="1530323547876" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculateOccupancyTaxesRequest.java" timestamp="1525276407596">
         <mark key="'" line="238" column="21" />
       </file>
@@ -969,10 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
-      <jump line="211" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" />
-      <jump line="904" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
-      <jump line="514" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
       <jump line="923" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
       <jump line="996" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
       <jump line="148" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
@@ -989,7 +984,6 @@
       <jump line="7" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="402" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="311" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="163" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="99" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="238" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="86" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
@@ -1069,6 +1063,11 @@
       <jump line="1810" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/time/LocalDate.java" />
       <jump line="391" column="94" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="1787" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/time/LocalDate.java" />
+      <jump line="44" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="61" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="59" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="163" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
+      <jump line="53" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1078,7 +1077,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>getr</text>
+        <text encoding="base64">XDxnZXRBY3RpdmF0ZWRKdXJpc2RpY3Rpb25zRm9yTGlzdGluZ0FkZHJlc3NcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZmluYWwgQ29tcGxldGFibGVGdXR1cmU8Qm9vbGVhbj4gZnV0dXJlID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlPD4oKTsKICAgIA==</text>
@@ -1115,9 +1114,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getr</last-search>
+      <last-search encoding="base64">XDxnZXRBY3RpdmF0ZWRKdXJpc2RpY3Rpb25zRm9yTGlzdGluZ0FkZHJlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern>getr</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRBY3RpdmF0ZWRKdXJpc2RpY3Rpb25zRm9yTGlzdGluZ0FkZHJlc3NcPg==</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1125,18 +1124,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25uTWFuYWdlclw+</entry>
-        <entry>seriali</entry>
-        <entry encoding="base64">XDxDTEVBTlNFRF9BRERSRVNTX0NBQ0hFX0tFWV9QUkVGSVhcPg==</entry>
-        <entry encoding="base64">XDxnZXROb3JtYWxpemVkTGlzdGluZ1w+</entry>
-        <entry>seria</entry>
-        <entry>illeg</entry>
-        <entry encoding="base64">XDxJbGxlZ2FsQWRkcmVzc0Vycm9yXD4=</entry>
-        <entry encoding="base64">XDxsaXN0aW5nRGF0YUxvYWRlclw+</entry>
-        <entry>userele</entry>
-        <entry>night</entry>
-        <entry encoding="base64">XDxnZXROdW1iZXJPZk5pZ2h0c1w+</entry>
-        <entry>group</entry>
         <entry>present</entry>
         <entry>exists</entry>
         <entry>onempty</entry>
@@ -1157,6 +1144,8 @@
         <entry>fortester</entry>
         <entry>validat</entry>
         <entry>getr</entry>
+        <entry>isafter</entry>
+        <entry encoding="base64">XDxnZXRBY3RpdmF0ZWRKdXJpc2RpY3Rpb25zRm9yTGlzdGluZ0FkZHJlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
