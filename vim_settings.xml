@@ -642,12 +642,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/balboa_service.thrift" timestamp="1526338495731">
         <mark key="'" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1531192034465">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1531197157502">
         <mark key="'" line="59" column="36" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="86" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" timestamp="1527821174128">
         <mark key="'" line="146" column="42" />
@@ -1100,8 +1099,8 @@
       <jump line="59" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// 800 milliseconds is equal to timeout used by Monorail</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlcS5zZXRDb25maWcocmVxdWVzdENvbmZpZyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>// 800 milliseconds is equal to timeout used by Monorail</text>
@@ -1113,31 +1112,31 @@
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgQ0xFQU5TRURfQUREUkVTU19DQUNIRV9UVExfSU5fU0VDT05EUyA9CiAgICAgIChpbnQpIER1cmF0aW9uLm9mRGF5cygxKS5nZXRTZWNvbmRzKCk7CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENMRUFOU0VEX0FERFJFU1NfQ0FDSEVfS0VZX1BSRUZJWCA9ICJDbGVhbnNlZEFkZHJlc3MiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEh0dHBDbGllbnRCdWlsZGVyIGJ1aWxkZXIgPTsK</text>
+        <text encoding="base64">ICAgIHJlcS5zZXRDb25maWcocmVxdWVzdENvbmZpZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXIuc2V0RGVmYXVsdFJlcXVlc3RDb25maWcocmVxdWVzdEJ1aWxkZXIuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RCdWlsZGVyID0gcmVxdWVzdEJ1aWxkZXIuc2V0Q29ubmVjdGlvblJlcXVlc3RUaW1lb3V0KHRpbWVvdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFNvY2tldFRpbWVvdXQoQ09OTkVDVElPTl9USU1FT1VUX01TKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RCdWlsZGVyID0gcmVxdWVzdEJ1aWxkZXIuc2V0Q29ubmVjdFRpbWVvdXQodGltZW91dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldENvbm5lY3RUaW1lb3V0KENPTk5FQ1RJT05fVElNRU9VVF9NUykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldENvbm5lY3Rpb25SZXF1ZXN0VGltZW91dChDT05ORUNUSU9OX1RJTUVPVVRfTVMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZSBuZXdEYXRlID0gaWRsUmVxdWVzdC5nZXREb2N1bWVudERhdGUoKS5wbHVzKER1cmF0aW9uLm9mRGF5cygxNSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29uZmlnLmN1c3RvbSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFJlcXVlc3RDb25maWcgcmVxdWVzdENvbmZpZyA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkbFJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIGludCBDT05ORUNUSU9OX1RJTUVPVVRfTVMgPSB0aW1lb3V0U2Vjb25kcyAqIDEwMDA7IC8vIFRpbWVvdXQgaW4gbWlsbGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAub25TdWNjZXNzKGkgLT4gbG9nLmluZm8oIkhpdCIpKQo=</text>
+        <text encoding="base64">ICAgIEh0dHBDbGllbnRCdWlsZGVyIGJ1aWxkZXIgPTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
