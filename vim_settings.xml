@@ -673,8 +673,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.powermock/powermock-api-mockito/1.6.4/4b905ef602077f7f88a20bfcc4a9df6d8cff7655/powermock-api-mockito-1.6.4-sources.jar!/org/powermock/api/mockito/PowerMockito.java" timestamp="1528389169587">
         <mark key="'" line="605" column="43" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" timestamp="1527295514263">
-        <mark key="'" line="52" column="21" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" timestamp="1531419559761">
+        <mark key="'" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutStatus.java" timestamp="1531240373606">
         <mark key="]" line="2" column="61" />
@@ -1007,8 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="932" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="55" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java" />
       <jump line="70" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java" />
       <jump line="59" column="45" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java" />
@@ -1107,6 +1105,8 @@
       <jump line="151" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="187" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="244" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="57" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" />
+      <jump line="20" column="24" filename="$USER_HOME$/airlab/repos/treehouse/common/dropwizard1.0/src/main/java/com/airbnb/common/metrics/module/TaggedMetricsRegistryModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
