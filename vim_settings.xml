@@ -59,6 +59,13 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" timestamp="1531776288078">
+        <mark key="'" line="157" column="25" />
+        <mark key="[" line="153" column="92" />
+        <mark key="]" line="154" column="3" />
+        <mark key="." line="154" column="3" />
+        <mark key="^" line="154" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservation2sAccountingAudit.scala" timestamp="1516750888008">
         <mark key="'" line="44" column="6" />
       </file>
@@ -377,8 +384,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" timestamp="1529604748928">
         <mark key="'" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1531265611388">
-        <mark key="'" line="244" column="40" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1531775919611">
+        <mark key="'" line="285" column="39" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="84" />
       </file>
@@ -619,8 +626,8 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1531265608338">
-        <mark key="'" line="187" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" timestamp="1531775914720">
+        <mark key="'" line="237" column="33" />
         <mark key="[" line="241" column="2" />
         <mark key="]" line="241" column="2" />
         <mark key="." line="241" column="2" />
@@ -784,8 +791,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1531260478962">
-        <mark key="'" line="48" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1531775906603">
+        <mark key="'" line="50" column="37" />
         <mark key="[" line="6" column="70" />
         <mark key="]" line="6" column="79" />
       </file>
@@ -945,6 +952,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" timestamp="1531776372505">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="707" column="55" />
+        <mark key="]" line="707" column="56" />
+        <mark key="." line="707" column="56" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/config/RequestConfig.java" timestamp="1531192025224">
         <mark key="'" line="304" column="15" />
       </file>
@@ -1010,14 +1023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="619" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="972" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="158" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
-      <jump line="79" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="114" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="73" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="48" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="108" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="73" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/methods/HttpPost.java" />
       <jump line="219" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
@@ -1110,59 +1115,67 @@
       <jump line="105" column="41" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="108" column="80" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="142" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="50" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="238" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
+      <jump line="291" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
+      <jump line="237" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
+      <jump line="285" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="157" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdiction.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFRvdEp1cmlzZGljdGlvblppcGNvZGVSZWxhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IG1pbg==</text>
+        <text>oyster</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyBmaW5hbCB2b2lkIHRlc3RHZXRKdXJpc2RpY3Rpb25Gb3JMaXN0aW5nQWRkcmVzc19yZXR1cm5zQ291bnRyeUxldmVsSnVyaXNkaWN0aW9uKCkgewogICAgVG90SnVyaXNkaWN0aW9uIGp1cmlzZGljdGlvbiA9IGNyZWF0ZVRlc3RKdXJpc2RpY3Rpb24obnVsbCwgbnVsbCwgbnVsbCk7CiAgICBMaXN0PEp1cmlzZGljdGlvbj4ganVyaXNkaWN0aW9ucyA9CiAgICAgICAgdGVzdFRvdEp1cmlzZGljdGlvbk1hbmFnZXIuZ2V0SnVyaXNkaWN0aW9uc0Zvckxpc3RpbmdBZGRyZXNzKAogICAgICAgICAgICBuZXcgTGlzdGluZ0FkZHJlc3MoCiAgICAgICAgICAgICAgICAiUmFuZG9tIFppcCBDb2RlIiwKICAgICAgICAgICAgICAgICJSYW5kb20gQ2l0eSIsCiAgICAgICAgICAgICAgICAiUmFuZG9tIFN0YXRlIiwKICAgICAgICAgICAgICAgIGp1cmlzZGljdGlvbi5jb3VudHJ5KCkpKTsKICAgIGFzc2VydEVxdWFscygxLCBqdXJpc2RpY3Rpb25zLnNpemUoKSk7CiAgICBhc3NlcnRFcXVhbHMoanVyaXNkaWN0aW9uLmlkKCksIGp1cmlzZGljdGlvbnMuZ2V0KDApLmdldElkKCkpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhqdXJpc2RpY3Rpb24uZ2V0KTsK</text>
+        <text encoding="base64">ICAgIFRvdEp1cmlzZGljdGlvblppcGNvZGVSZWxhdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJNYXRjaCBTdGF0ZSIsCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhqdXJpc2RpY3Rpb24uZ2V0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeVRlc3RKdXJpc2RpY3Rpb24oanVyaXNkaWN0aW9ucy5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJNYXRjaCBTdGF0ZSIsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHZlcmlmeVRlc3RKdXJpc2RpY3Rpb24oanVyaXNkaWN0aW9ucy5nZXQoMCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGp1cmlzZGljdGlvbi5zdGF0ZSgpLAo=</text>
+        <text encoding="base64">ICAgIHZlcmlmeVRlc3RKdXJpc2RpY3Rpb24oanVyaXNkaWN0aW9ucy5nZXQoMCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGp1cmlzZGljdGlvbi5zdGF0ZSgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuY2l0eSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAuY2l0eSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEl0ZXJhdG9yLml0ZXJhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdGF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IG1pbg==</last-search>
+      <last-search>oyster</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IG1pbg==</last-pattern>
+      <last-pattern>oyster</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1186,6 +1199,7 @@
         <entry>taxablea</entry>
         <entry>min</entry>
         <entry encoding="base64">IG1pbg==</entry>
+        <entry>oyster</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
@@ -1202,12 +1216,12 @@
         <entry>%s/originalAddress/originalListing/g</entry>
         <entry>q!</entry>
         <entry>w2</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>fw</entry>
         <entry>q</entry>
         <entry>2</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
