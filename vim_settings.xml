@@ -59,12 +59,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" timestamp="1531776288078">
-        <mark key="'" line="157" column="25" />
-        <mark key="[" line="153" column="92" />
-        <mark key="]" line="154" column="3" />
-        <mark key="." line="154" column="3" />
-        <mark key="^" line="154" column="3" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" timestamp="1531782393568">
+        <mark key="'" line="158" column="31" />
+        <mark key="[" line="155" column="4" />
+        <mark key="]" line="155" column="33" />
+        <mark key="." line="155" column="33" />
+        <mark key="^" line="155" column="33" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservation2sAccountingAudit.scala" timestamp="1516750888008">
         <mark key="'" line="44" column="6" />
@@ -682,8 +682,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.powermock/powermock-api-mockito/1.6.4/4b905ef602077f7f88a20bfcc4a9df6d8cff7655/powermock-api-mockito-1.6.4-sources.jar!/org/powermock/api/mockito/PowerMockito.java" timestamp="1528389169587">
         <mark key="'" line="605" column="43" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" timestamp="1531419559761">
-        <mark key="'" line="57" column="33" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" timestamp="1531782422102">
+        <mark key="'" line="72" column="22" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="60" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="76" column="52" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutStatus.java" timestamp="1531240373606">
         <mark key="]" line="2" column="61" />
@@ -951,8 +955,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" timestamp="1531776372505">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" timestamp="1531782176176">
+        <mark key="'" line="707" column="34" />
         <mark key="[" line="707" column="55" />
         <mark key="]" line="707" column="56" />
         <mark key="." line="707" column="56" />
@@ -999,8 +1003,8 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdictionModel.java" timestamp="1530157885291">
-        <mark key="'" line="213" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdictionModel.java" timestamp="1531781078481">
+        <mark key="'" line="152" column="35" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/Model.java" timestamp="1521053213977">
         <mark key="'" line="692" column="21" />
@@ -1022,18 +1026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/methods/HttpPost.java" />
-      <jump line="219" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="222" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="949" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="54" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="67" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="95" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="124" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="126" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="127" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="58" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="21" column="52" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" />
       <jump line="12" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculatorProvider.java" />
       <jump line="60" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="377" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
@@ -1120,21 +1112,33 @@
       <jump line="285" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="157" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="26" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdiction.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
       <jump line="63" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="42" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
+      <jump line="152" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdictionModel.java" />
+      <jump line="78" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdictionModel.java" />
+      <jump line="129" column="82" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
+      <jump line="5" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
+      <jump line="707" column="34" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
+      <jump line="155" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
+      <jump line="39" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/oyster-schemas/1.0.137/55509e1ff2fe1301210778e8740aea1aa1d33ad1/oyster-schemas-1.0.137.jar!/com/airbnb/oyster/schema/TotJurisdictionZipcodeRelation.class" />
+      <jump line="158" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
+      <jump line="25" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdiction.java" />
+      <jump line="71" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/ArubaApplication.java" />
+      <jump line="25" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_rollout_jurisdiction_relation/TotRolloutJurisdictionRelationModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRvdEp1cmlzZGljdGlvblppcGNvZGVSZWxhdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub3lzdGVyLnNjaGVtYS5tb2RlbC50b3RfcnVsZS5Ub3RSdWxlTW9kZWw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>TotRuleModel</text>
       </register>
       <register name="/" type="4">
         <text>oyster</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyBmaW5hbCB2b2lkIHRlc3RHZXRKdXJpc2RpY3Rpb25Gb3JMaXN0aW5nQWRkcmVzc19yZXR1cm5zQ291bnRyeUxldmVsSnVyaXNkaWN0aW9uKCkgewogICAgVG90SnVyaXNkaWN0aW9uIGp1cmlzZGljdGlvbiA9IGNyZWF0ZVRlc3RKdXJpc2RpY3Rpb24obnVsbCwgbnVsbCwgbnVsbCk7CiAgICBMaXN0PEp1cmlzZGljdGlvbj4ganVyaXNkaWN0aW9ucyA9CiAgICAgICAgdGVzdFRvdEp1cmlzZGljdGlvbk1hbmFnZXIuZ2V0SnVyaXNkaWN0aW9uc0Zvckxpc3RpbmdBZGRyZXNzKAogICAgICAgICAgICBuZXcgTGlzdGluZ0FkZHJlc3MoCiAgICAgICAgICAgICAgICAiUmFuZG9tIFppcCBDb2RlIiwKICAgICAgICAgICAgICAgICJSYW5kb20gQ2l0eSIsCiAgICAgICAgICAgICAgICAiUmFuZG9tIFN0YXRlIiwKICAgICAgICAgICAgICAgIGp1cmlzZGljdGlvbi5jb3VudHJ5KCkpKTsKICAgIGFzc2VydEVxdWFscygxLCBqdXJpc2RpY3Rpb25zLnNpemUoKSk7CiAgICBhc3NlcnRFcXVhbHMoanVyaXNkaWN0aW9uLmlkKCksIGp1cmlzZGljdGlvbnMuZ2V0KDApLmdldElkKCkpOwogIH0K</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub3lzdGVyLnNjaGVtYS5tb2RlbC50b3RfcnVsZS5Ub3RSdWxlTW9kZWw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFRvdEp1cmlzZGljdGlvblppcGNvZGVSZWxhdGlvbgo=</text>
@@ -1164,7 +1168,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdGF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1174,7 +1178,7 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1218,8 +1222,8 @@
         <entry>fw</entry>
         <entry>q</entry>
         <entry>2</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
