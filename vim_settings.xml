@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/ReservationEventBuilder.scala" timestamp="1525968740751">
         <mark key="'" line="423" column="62" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" timestamp="1531952351095">
-        <mark key="'" line="217" column="26" />
-        <mark key="[" line="986" column="20" />
-        <mark key="]" line="986" column="21" />
-        <mark key="^" line="986" column="21" />
-        <mark key="." line="986" column="21" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" timestamp="1531953729206">
+        <mark key="'" line="219" column="26" />
+        <mark key="[" line="985" column="29" />
+        <mark key="]" line="986" column="0" />
+        <mark key="^" line="984" column="37" />
+        <mark key="." line="986" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/3.1.2/e7ea6428a95c689bbfbc426e0e5257f3e63eaca5/metrics-healthchecks-3.1.2-sources.jar!/com/codahale/metrics/health/HealthCheck.java" timestamp="1509658437497">
         <mark key="'" line="10" column="24" />
@@ -63,6 +63,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/SettingsActivity.java" timestamp="1531953564417" />
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
       </file>
@@ -118,6 +119,9 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/runners/DenormalizedEventsToAccountingEventsRunner.scala" timestamp="1511848981922">
         <mark key="'" line="39" column="40" />
+      </file>
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/BuyMerchantActivity.java" timestamp="1531953685662">
+        <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlInvoice.java" timestamp="1523901393342">
         <mark key="'" line="67" column="21" />
@@ -555,6 +559,9 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/eventgeneration/base/platform/PlatformEventEmitterBase.scala" timestamp="1522902969535">
         <mark key="'" line="132" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1531952691859">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/utils/URIUtils.java" timestamp="1510697981067">
         <mark key="'" line="379" column="44" />
@@ -997,7 +1004,7 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531951836771">
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531952816062">
         <mark key="'" line="169" column="43" />
         <mark key="[" line="164" column="35" />
         <mark key="]" line="165" column="43" />
@@ -1181,7 +1188,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMudmlzaW9uLmJhcmNvZGUuQmFyY29kZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVSTCB1cmwgID0gbmV3IFVSTChtQmFyY29kZS5kaXNwbGF5VmFsdWUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -1193,16 +1200,16 @@
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMudmlzaW9uLmJhcmNvZGUuQmFyY29kZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMudmlzaW9uLmJhcmNvZGUuQmFyY29kZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVSTCB1cmwgID0gbmV3IFVSTChtQmFyY29kZS5kaXNwbGF5VmFsdWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVSTCB1cmwgID0gbmV3IFVSTChtQmFyY29kZS5kaXNwbGF5VmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVVJMIHVybCA9IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMudmlzaW9uLmJhcmNvZGUuQmFyY29kZTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1211,13 +1218,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBMaXN0Lm9mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgLy8gWmlwIGNvZGVzIG9mIHRoZSBqdXJpc2RpY3Rpb25zIHRoYXQgd2lsbCBiZSBpbiB0aGlzIHJvbGxvdXQKICA2OiBvcHRpb25hbCBsaXN0PHN0cmluZz4gemlwQ29kZXMgKG5vbl9udWxsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
