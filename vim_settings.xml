@@ -291,8 +291,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1531846955781">
-        <mark key="'" line="449" column="26" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1531881798399">
+        <mark key="'" line="159" column="27" />
         <mark key="[" line="406" column="108" />
         <mark key="]" line="406" column="108" />
         <mark key="^" line="406" column="108" />
@@ -1049,9 +1049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="352" column="6" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="43" column="22" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="105" column="41" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="108" column="80" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="142" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="238" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
@@ -1149,6 +1146,9 @@
       <jump line="634" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="449" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="582" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="159" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="34" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CreateJurisdictionRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1158,7 +1158,7 @@
         <text>relevant</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJpZnlUZXN0SnVyaXNkaWN0aW9uXD4=</text>
+        <text>createjuris</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBUb3RKdXJpc2RpY3Rpb25aaXBjb2RlUmVsYXRpb25Nb2RlbC5zdG9yZSgpCiAgICAgICAgLmNyZWF0ZSgKICAgICAgICAgICAgVG90SnVyaXNkaWN0aW9uWmlwY29kZVJlbGF0aW9uTW9kZWwuY3JlYXRvcigpCiAgICAgICAgICAgICAgICAuanVyaXNkaWN0aW9uSWQoanVyaXNkaWN0aW9uLmlkKCkpCiAgICAgICAgICAgICAgICAuemlwY29kZSgiOTgwMDQiKSk7Cg==</text>
@@ -1195,9 +1195,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJpZnlUZXN0SnVyaXNkaWN0aW9uXD4=</last-search>
+      <last-search>createjuris</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJpZnlUZXN0SnVyaXNkaWN0aW9uXD4=</last-pattern>
+      <last-pattern>createjuris</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,6 +1231,9 @@
         <entry>withnotre</entry>
         <entry encoding="base64">XDxUb3RKdXJpc2RpY3Rpb25aaXBjb2RlUmVsYXRpb25cPg==</entry>
         <entry encoding="base64">XDx2ZXJpZnlUZXN0SnVyaXNkaWN0aW9uXD4=</entry>
+        <entry>zipcode</entry>
+        <entry>zip</entry>
+        <entry>createjuris</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
