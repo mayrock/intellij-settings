@@ -985,8 +985,8 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531949354878">
-        <mark key="'" line="165" column="31" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531950012617">
+        <mark key="'" line="165" column="33" />
         <mark key="[" line="164" column="35" />
         <mark key="]" line="165" column="43" />
         <mark key="^" line="165" column="43" />
@@ -1066,8 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TaxEngineCalculatorTest.java" />
       <jump line="331" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="23" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutManager.java" />
       <jump line="52" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
@@ -1165,7 +1163,9 @@
       <jump line="83" column="49" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="84" column="57" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="166" column="34" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
-      <jump line="165" column="31" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="399" column="23" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="439" column="16" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="165" column="33" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1175,7 +1175,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>scan</text>
+        <text>scann</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgT3B0aW9uPFN0cmluZz4gZ2V0Q2l0eSgpIHsK</text>
@@ -1212,13 +1212,13 @@
       </register>
     </registers>
     <search>
-      <last-search>scan</last-search>
+      <last-search>scann</last-search>
       <last-offset />
-      <last-pattern>scan</last-pattern>
+      <last-pattern>scann</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1242,6 +1242,7 @@
         <entry encoding="base64">XDxnZXRKdXJpc2RpY3Rpb25Gcm9tT3lzdGVyT2JqZWN0XD4=</entry>
         <entry>createjurisdi</entry>
         <entry>scan</entry>
+        <entry>scann</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
