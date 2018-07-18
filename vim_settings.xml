@@ -37,6 +37,13 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/builders/reservation/ReservationEventBuilder.scala" timestamp="1525968740751">
         <mark key="'" line="423" column="62" />
       </file>
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" timestamp="1531952351095">
+        <mark key="'" line="217" column="26" />
+        <mark key="[" line="986" column="20" />
+        <mark key="]" line="986" column="21" />
+        <mark key="^" line="986" column="21" />
+        <mark key="." line="986" column="21" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/3.1.2/e7ea6428a95c689bbfbc426e0e5257f3e63eaca5/metrics-healthchecks-3.1.2-sources.jar!/com/codahale/metrics/health/HealthCheck.java" timestamp="1509658437497">
         <mark key="'" line="10" column="24" />
       </file>
@@ -96,6 +103,11 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" timestamp="1529703618049">
         <mark key="'" line="250" column="54" />
+      </file>
+      <file name="$USER_HOME$/repos/apps/android/.okbuck/cache/online.devliving.mvbarcodereader-1.1.6-sources.jar!/devliving/online/mvbarcodereader/MVBarcodeScanner.java" timestamp="1531951946063">
+        <mark key="'" line="69" column="12" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="53" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1530298244025">
         <mark key="'" line="247" column="42" />
@@ -985,8 +997,8 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531950055244">
-        <mark key="'" line="165" column="33" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531951836771">
+        <mark key="'" line="169" column="43" />
         <mark key="[" line="164" column="35" />
         <mark key="]" line="165" column="43" />
         <mark key="^" line="165" column="43" />
@@ -1066,23 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
-      <jump line="23" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutManager.java" />
-      <jump line="52" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="8" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Util.java" />
-      <jump line="50" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="237" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
-      <jump line="285" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="611" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="612" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="615" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="82" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="422" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="617" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="428" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="423" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="618" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
       <jump line="298" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
       <jump line="324" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
       <jump line="373" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
@@ -1166,55 +1161,72 @@
       <jump line="399" column="23" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="439" column="16" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="165" column="33" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="97" column="26" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="169" column="43" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/online.devliving.mvbarcodereader-1.1.6-sources.jar!/devliving/online/mvbarcodereader/MVBarcodeScanner.java" />
+      <jump line="982" column="60" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="980" column="57" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="172" column="40" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="983" column="32" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="171" column="40" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="8" column="45" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/online.devliving.mvbarcodereader-1.1.6-sources.jar!/devliving/online/mvbarcodereader/MVBarcodeScanner.java" />
+      <jump line="19" column="48" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/online.devliving.mvbarcodereader-1.1.6-sources.jar!/devliving/online/mvbarcodereader/MVBarcodeScanner.java" />
+      <jump line="67" column="12" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/online.devliving.mvbarcodereader-1.1.6-sources.jar!/devliving/online/mvbarcodereader/MVBarcodeScanner.java" />
+      <jump line="68" column="12" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/online.devliving.mvbarcodereader-1.1.6-sources.jar!/devliving/online/mvbarcodereader/MVBarcodeScanner.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/online.devliving.mvbarcodereader-1.1.6-sources.jar!/devliving/online/mvbarcodereader/MVBarcodeScanner.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
+      <jump line="217" column="26" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMudmlzaW9uLmJhcmNvZGUuQmFyY29kZTsK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>scann</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgT3B0aW9uPFN0cmluZz4gZ2V0Q2l0eSgpIHsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMudmlzaW9uLmJhcmNvZGUuQmFyY29kZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMudmlzaW9uLmJhcmNvZGUuQmFyY29kZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBMaXN0Lm9mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgLy8gWmlwIGNvZGVzIG9mIHRoZSBqdXJpc2RpY3Rpb25zIHRoYXQgd2lsbCBiZSBpbiB0aGlzIHJvbGxvdXQKICA2OiBvcHRpb25hbCBsaXN0PHN0cmluZz4gemlwQ29kZXMgKG5vbl9udWxsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBUb3RKdXJpc2RpY3Rpb25aaXBjb2RlUmVsYXRpb25Nb2RlbC5zdG9yZSgpCiAgICAgICAgLmNyZWF0ZSgKICAgICAgICAgICAgVG90SnVyaXNkaWN0aW9uWmlwY29kZVJlbGF0aW9uTW9kZWwuY3JlYXRvcigpCiAgICAgICAgICAgIC5qdXJpc2RpY3Rpb25JZChqdXJpc2RpY3Rpb24uaWQoKSkKICAgICAgICAgICAgLnppcGNvZGUoIjk4MDA0IikpOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeVRlc3RKdXJpc2RpY3Rpb24oanVyaXNkaWN0aW9ucy5nZXQoMCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBqdXJpc2RpY3Rpb25zLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeVRlc3RKdXJpc2RpY3Rpb24oanVyaXNkaWN0aW9ucy5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBMaXN0Lm9mCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBqdXJpc2RpY3Rpb25zLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">CiAgLy8gWmlwIGNvZGVzIG9mIHRoZSBqdXJpc2RpY3Rpb25zIHRoYXQgd2lsbCBiZSBpbiB0aGlzIHJvbGxvdXQKICA2OiBvcHRpb25hbCBsaXN0PHN0cmluZz4gemlwQ29kZXMgKG5vbl9udWxsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scann</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>scann</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1222,7 +1234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
         <entry>taxablea</entry>
         <entry>min</entry>
         <entry encoding="base64">IG1pbg==</entry>
@@ -1242,7 +1253,13 @@
         <entry encoding="base64">XDxnZXRKdXJpc2RpY3Rpb25Gcm9tT3lzdGVyT2JqZWN0XD4=</entry>
         <entry>createjurisdi</entry>
         <entry>scan</entry>
+        <entry>scanner</entry>
+        <entry>onactivityre</entry>
         <entry>scann</entry>
+        <entry encoding="base64">XDxNVkJhcmNvZGVTY2FubmVyXD4=</entry>
+        <entry>BARCode</entry>
+        <entry encoding="base64">XDxCYXJjb2RlXD4=</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
