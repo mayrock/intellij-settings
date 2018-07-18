@@ -985,6 +985,13 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531948770351">
+        <mark key="'" line="166" column="34" />
+        <mark key="[" line="165" column="20" />
+        <mark key="]" line="165" column="29" />
+        <mark key="^" line="165" column="29" />
+        <mark key="." line="165" column="29" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
       </file>
@@ -1059,10 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" />
-      <jump line="52" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" />
-      <jump line="51" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="64" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
       <jump line="171" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" />
       <jump line="69" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="77" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TaxEngineCalculatorTest.java" />
@@ -1159,6 +1162,10 @@
       <jump line="136" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="37" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="26" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdiction.java" />
+      <jump line="203" column="25" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="83" column="49" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="84" column="57" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="166" column="34" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1168,7 +1175,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>createjurisdi</text>
+        <text>scan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgT3B0aW9uPFN0cmluZz4gZ2V0Q2l0eSgpIHsK</text>
@@ -1205,9 +1212,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createjurisdi</last-search>
+      <last-search>scan</last-search>
       <last-offset />
-      <last-pattern>createjurisdi</last-pattern>
+      <last-pattern>scan</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1215,20 +1222,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IGJ1aWxk</entry>
-        <entry>execute</entry>
-        <entry encoding="base64">XDxkbnNSZXNvbHZlclw+</entry>
-        <entry encoding="base64">XDxzZXREbnNSZXNvbHZlclw+</entry>
-        <entry>https</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry encoding="base64">XDxGYWxsYmFja1RheENhbGN1bGF0b3JcPg==</entry>
-        <entry encoding="base64">XDxzb2NrZXRUaW1lb3V0XD4=</entry>
-        <entry>provider</entry>
-        <entry encoding="base64">XDx0b3RDYWxjdWxhdG9yUHJvdmlkZXJcPg==</entry>
-        <entry encoding="base64">XDxnZXRKdXJpc2RpY3Rpb25zRm9yTGlzdGluZ0FkZHJlc3NcPg==</entry>
-        <entry>iterator</entry>
-        <entry>forlistingadd</entry>
-        <entry>date</entry>
         <entry encoding="base64">XDxkYXRlX3RpbWVcPg==</entry>
         <entry>request</entry>
         <entry>taxablea</entry>
@@ -1249,6 +1242,7 @@
         <entry>zipcodes</entry>
         <entry encoding="base64">XDxnZXRKdXJpc2RpY3Rpb25Gcm9tT3lzdGVyT2JqZWN0XD4=</entry>
         <entry>createjurisdi</entry>
+        <entry>scan</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
