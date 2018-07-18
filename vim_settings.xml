@@ -985,12 +985,12 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531948770351">
-        <mark key="'" line="166" column="34" />
-        <mark key="[" line="165" column="20" />
-        <mark key="]" line="165" column="29" />
-        <mark key="^" line="165" column="29" />
-        <mark key="." line="165" column="29" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1531949354878">
+        <mark key="'" line="165" column="31" />
+        <mark key="[" line="164" column="35" />
+        <mark key="]" line="165" column="43" />
+        <mark key="^" line="165" column="43" />
+        <mark key="." line="165" column="43" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
@@ -1066,7 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" />
       <jump line="69" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="77" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TaxEngineCalculatorTest.java" />
       <jump line="331" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
@@ -1166,6 +1165,7 @@
       <jump line="83" column="49" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="84" column="57" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="166" column="34" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
+      <jump line="165" column="31" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1218,11 +1218,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlX3RpbWVcPg==</entry>
         <entry>request</entry>
         <entry>taxablea</entry>
         <entry>min</entry>
