@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" timestamp="1532018961668">
-        <mark key="'" line="31" column="36" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="31" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" timestamp="1532019767346">
+        <mark key="'" line="36" column="36" />
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="59" column="67" />
+        <mark key="." line="59" column="67" />
+        <mark key="^" line="59" column="67" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
@@ -208,12 +208,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/util/EntityUtils.java" timestamp="1530120917585">
         <mark key="'" line="290" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532019004497">
-        <mark key="'" line="37" column="35" />
-        <mark key="[" line="127" column="24" />
-        <mark key="]" line="127" column="30" />
-        <mark key="." line="127" column="30" />
-        <mark key="^" line="127" column="30" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532019667040">
+        <mark key="'" line="36" column="41" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="58" column="47" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1515098593276">
         <mark key="'" line="219" column="13" />
@@ -392,10 +392,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/methods/HttpPost.java" timestamp="1510697744122">
         <mark key="'" line="67" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" timestamp="1532017256913">
-        <mark key="'" line="427" column="46" />
-        <mark key="[" line="410" column="0" />
-        <mark key="]" line="410" column="0" />
+      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" timestamp="1532019378210">
+        <mark key="'" line="126" column="43" />
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="420" column="131" />
         <mark key="." line="410" column="0" />
         <mark key="^" line="414" column="7" />
       </file>
@@ -874,8 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="41" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="8" column="20" filename="$USER_HOME$/repos/apps/android/reservations/src/main/res/layout/activity_reservation_parent.xml" />
       <jump line="54" column="45" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/HomeReservationFragment.java" />
       <jump line="129" column="59" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
       <jump line="22" column="63" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/GenericReservationFragment.java" />
@@ -946,16 +944,13 @@
       <jump line="401" column="8" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="124" column="43" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="408" column="0" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="126" column="43" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="413" column="17" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="220" column="43" filename="$USER_HOME$/repos/apps/android/buck-out/annotation/core/__src_release_gen__/com/airbnb/android/core/viewcomponents/models/EditorialSectionHeaderEpoxyModel_.java" />
       <jump line="415" column="35" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="419" column="40" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="432" column="33" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="125" column="49" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="420" column="48" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="426" column="65" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="427" column="46" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="104" column="31" filename="$USER_HOME$/repos/apps/android/explore/src/main/java/com/airbnb/android/explore/utils/ExploreEpoxyModelBuilder.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/apps/android/explore/src/main/java/com/airbnb/android/explore/utils/ExploreEpoxyModelBuilder.kt" />
       <jump line="453" column="88" filename="$USER_HOME$/repos/apps/android/explore/src/main/java/com/airbnb/android/explore/utils/ExploreEpoxyModelBuilder.kt" />
@@ -974,55 +969,60 @@
       <jump line="31" column="36" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
       <jump line="106" column="22" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/HomeMarquee.java" />
       <jump line="105" column="16" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/HomeMarquee.java" />
+      <jump line="427" column="46" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
+      <jump line="125" column="49" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
+      <jump line="126" column="43" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
+      <jump line="127" column="26" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
+      <jump line="36" column="41" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QnV0dG9uIA==</text>
+        <text>productUrl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QnV0dG9uIA==</text>
+        <text>productUrl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRJbWFnZXNcPg==</text>
+        <text>des</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZXJyb3JfcmVxdWVzdCIgbGVnYWN5X2tleV9pbnN1ZmZpY2llbnRfZGVzY3JpcHRpb249InRydWUiPlNvbWV0aGluZyB3ZW50IHdyb25nIHdpdGggeW91ciByZXF1ZXN0Ljwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb2R1Y3RUaXRsZS5zZXRUZXh0KHRoaXMucHJvZHVjdFVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQCtpZC9ob21lX21hcnF1ZWVfbmV3X2hvc3RfaW1hZ2UiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkAraWQvaG9tZV9tYXJxdWVlX25ld19ob3N0X25hbWUiCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhMaW5lcz0iMSIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PCEtLTw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6YWlyYm5iPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKICAgIDxjb20uYWlyYm5iLm4yLmNvbGxlY3Rpb25zLlZlcmJvc2VTY3JvbGxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zY3JvbGxfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjUwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICA+CiAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgID4KICAgICAgICAgICAgPGNvbS5haXJibmIubjIucHJpbWl0aXZlcy5pbWFnaW5nLkFpckltYWdlVmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9wcm9kdWN0X2ltYWdlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Byb2R1Y3RfbmFtZSIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV5X2J1dHRvbiIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQnV5IgogICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYnV0dG9uX2dyZWVuIgogICAgICAgICAgICAgICAgLz4KICAgICAgICA8L0xpbmVhckxheW91dD4KICAgIDwvY29tLmFpcmJuYi5uMi5jb2xsZWN0aW9ucy5WZXJib3NlU2Nyb2xsVmlldz4KCiAgICA8Y29tLmFpcmJuYi5uMi5jb21wb25lbnRzLkFpclRvb2xiYXIKICAgICAgICBhbmRyb2lkOmlkPSJAaWQvdG9vbGJhciIKICAgICAgICBhbmRyb2lkOm5leHRGb2N1c0Rvd249IkBpZC9zY3JvbGxfdmlldyIKICAgICAgICBhaXJibmI6bjJfbmF2aWdhdGlvbkljb249ImJhY2siCiAgICAgICAgYWlyYm5iOm4yX3Njcm9sbFdpdGg9IkBpZC9zY3JvbGxfdmlldyIKICAgICAgICBzdHlsZT0iQHN0eWxlL24yX0FpclRvb2xiYXIiIC8+Cgo8L2FuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkNvb3JkaW5hdG9yTGF5b3V0PgotLT4KCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/PgoKCgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iIiBsZWdhY3lfa2V5X2luc3VmZmljaWVudF9kZXNjcmlwdGlvbj0idHJ1ZSI+U29tZXRoaW5nIHdlbnQgd3Jvbmcgd2l0aCB5b3VyIHJlcXVlc3QuPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmlkKCJNZXJjaGFuZGlzZSIpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PCEtLTw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6YWlyYm5iPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKICAgIDxjb20uYWlyYm5iLm4yLmNvbGxlY3Rpb25zLlZlcmJvc2VTY3JvbGxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zY3JvbGxfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjUwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICA+CiAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgID4KICAgICAgICAgICAgPGNvbS5haXJibmIubjIucHJpbWl0aXZlcy5pbWFnaW5nLkFpckltYWdlVmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9wcm9kdWN0X2ltYWdlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Byb2R1Y3RfbmFtZSIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV5X2J1dHRvbiIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQnV5IgogICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYnV0dG9uX2dyZWVuIgogICAgICAgICAgICAgICAgLz4KICAgICAgICA8L0xpbmVhckxheW91dD4KICAgIDwvY29tLmFpcmJuYi5uMi5jb2xsZWN0aW9ucy5WZXJib3NlU2Nyb2xsVmlldz4KCiAgICA8Y29tLmFpcmJuYi5uMi5jb21wb25lbnRzLkFpclRvb2xiYXIKICAgICAgICBhbmRyb2lkOmlkPSJAaWQvdG9vbGJhciIKICAgICAgICBhbmRyb2lkOm5leHRGb2N1c0Rvd249IkBpZC9zY3JvbGxfdmlldyIKICAgICAgICBhaXJibmI6bjJfbmF2aWdhdGlvbkljb249ImJhY2siCiAgICAgICAgYWlyYm5iOm4yX3Njcm9sbFdpdGg9IkBpZC9zY3JvbGxfdmlldyIKICAgICAgICBzdHlsZT0iQHN0eWxlL24yX0FpclRvb2xiYXIiIC8+Cgo8L2FuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkNvb3JkaW5hdG9yTGF5b3V0PgotLT4KCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRpdGxlQmFkZ2Uoc2VjdGlvbi50aXRsZUJhZGdlKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/PgoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRpdGxlQmFkZ2Uoc2VjdGlvbi50aXRsZUJhZGdlKTsK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iIiBsZWdhY3lfa2V5X2luc3VmZmljaWVudF9kZXNjcmlwdGlvbj0idHJ1ZSI+U29tZXRoaW5nIHdlbnQgd3Jvbmcgd2l0aCB5b3VyIHJlcXVlc3QuPC9zdHJpbmc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRJbWFnZXNcPg==</last-search>
+      <last-search>des</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRJbWFnZXNcPg==</last-pattern>
+      <last-pattern>des</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1047,12 +1047,14 @@
         <entry encoding="base64">XDxwYWdpbmF0aW9uTG9hZGluZ01vZGVsXD4=</entry>
         <entry encoding="base64">XDxFZGl0b3JpYWxTZWN0aW9uSGVhZGVyRXBveHlNb2RlbF9cPg==</entry>
         <entry encoding="base64">XDxwZHBSb3dcPg==</entry>
-        <entry encoding="base64">XDxtZXJjaGFuZGlzZVJvd1w+</entry>
-        <entry>merch</entry>
         <entry encoding="base64">XDxtZXJjaGFuZGlzZVRpdGxlXD4=</entry>
         <entry>r\.</entry>
         <entry>R\.</entry>
         <entry encoding="base64">XDxzZXRJbWFnZXNcPg==</entry>
+        <entry>merch</entry>
+        <entry encoding="base64">XDxtZXJjaGFuZGlzZVJvd1w+</entry>
+        <entry>title</entry>
+        <entry>des</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
