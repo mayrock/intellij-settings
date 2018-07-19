@@ -48,6 +48,13 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" timestamp="1532018961668">
+        <mark key="'" line="31" column="36" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
       </file>
@@ -165,8 +172,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdbi/jdbi/2.75/cd63e9e5000fff4665f57b124b9aac07f1e91f89/jdbi-2.75-sources.jar!/org/skife/jdbi/v2/sqlobject/SqlObjectBuilder.java" timestamp="1527651666462">
         <mark key="'" line="63" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/HomeMarquee.java" timestamp="1532017790906">
-        <mark key="'" line="101" column="27" />
+      <file name="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/HomeMarquee.java" timestamp="1532019033437">
+        <mark key="'" line="105" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/request/InvoiceRequest.java" timestamp="1527190691647">
         <mark key="'" line="29" column="21" />
@@ -201,11 +208,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/util/EntityUtils.java" timestamp="1530120917585">
         <mark key="'" line="290" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532018264414">
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532019004497">
         <mark key="'" line="37" column="35" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="127" column="24" />
+        <mark key="]" line="127" column="30" />
+        <mark key="." line="127" column="30" />
+        <mark key="^" line="127" column="30" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1515098593276">
         <mark key="'" line="219" column="13" />
@@ -866,9 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="18" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/ReservationParentActivity.java" />
-      <jump line="240" column="16" filename="$USER_HOME$/repos/apps/android/base/src/main/java/com/airbnb/android/base/activities/AirActivity.java" />
-      <jump line="75" column="47" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/ReservationParentActivity.java" />
       <jump line="161" column="41" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
       <jump line="8" column="20" filename="$USER_HOME$/repos/apps/android/reservations/src/main/res/layout/activity_reservation_parent.xml" />
       <jump line="54" column="45" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/HomeReservationFragment.java" />
@@ -966,16 +971,19 @@
       <jump line="1" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
       <jump line="194" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
       <jump line="37" column="35" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
+      <jump line="31" column="36" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="106" column="22" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/HomeMarquee.java" />
+      <jump line="105" column="16" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/HomeMarquee.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">QnV0dG9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">QnV0dG9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>R\.</text>
+        <text encoding="base64">XDxzZXRJbWFnZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZXJyb3JfcmVxdWVzdCIgbGVnYWN5X2tleV9pbnN1ZmZpY2llbnRfZGVzY3JpcHRpb249InRydWUiPlNvbWV0aGluZyB3ZW50IHdyb25nIHdpdGggeW91ciByZXF1ZXN0Ljwvc3RyaW5nPgo=</text>
@@ -1012,9 +1020,9 @@
       </register>
     </registers>
     <search>
-      <last-search>R\.</last-search>
+      <last-search encoding="base64">XDxzZXRJbWFnZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>R\.</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRJbWFnZXNcPg==</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1044,6 +1052,7 @@
         <entry encoding="base64">XDxtZXJjaGFuZGlzZVRpdGxlXD4=</entry>
         <entry>r\.</entry>
         <entry>R\.</entry>
+        <entry encoding="base64">XDxzZXRJbWFnZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
