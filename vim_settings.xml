@@ -202,8 +202,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/util/EntityUtils.java" timestamp="1530120917585">
         <mark key="'" line="290" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532035393462">
-        <mark key="'" line="135" column="34" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532035727890">
+        <mark key="'" line="20" column="43" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
@@ -623,6 +623,9 @@
       <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/HomeReservationFragment.java" timestamp="1531983998519">
         <mark key="'" line="63" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" timestamp="1532035797656">
+        <mark key="'" line="146" column="8" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/resources/development2015.conf" timestamp="1516837475914">
         <mark key="'" line="16" column="0" />
       </file>
@@ -827,11 +830,6 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/CleanDataProvider.scala" timestamp="1525969231008">
         <mark key="'" line="369" column="88" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/base/src/main/res/values/strings.xml" timestamp="1532017475618">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
       </file>
@@ -879,12 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="31" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
-      <jump line="3043" column="28" filename="$USER_HOME$/repos/apps/android/buck-out/bin/n2/homesguest/__src_release#dummy_r_dot_java_rdotjava_bin__/com/airbnb/n2/homesguest/R2.class" />
-      <jump line="21" column="79" filename="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3BaseFragment.kt" />
-      <jump line="48" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
-      <jump line="194" column="0" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
       <jump line="37" column="35" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
       <jump line="31" column="36" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
       <jump line="106" column="22" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/HomeMarquee.java" />
@@ -979,6 +971,12 @@
       <jump line="416" column="10" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="66" column="24" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
       <jump line="135" column="34" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
+      <jump line="20" column="43" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
+      <jump line="50" column="30" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
+      <jump line="48" column="15" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
+      <jump line="57" column="54" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
+      <jump line="103" column="60" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
+      <jump line="146" column="8" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -988,7 +986,7 @@
         <text>.muscache.com/im/pictures/103981930/6b9d06f7_original.jpg?aki_policy=xx_large</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXJjaGFuZGlzZVJvd1w+</text>
+        <text encoding="base64">XDxTaXplRGV0ZXJtaW5lclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG5hdmlnYXRlVG9Vc2VyUHJvZmlsZShVc2VyIHVzZXIpIHsKICAgICAgICBJbnRlbnQgaW50ZW50ID0gVXNlclByb2ZpbGVJbnRlbnRzLmludGVudEZvclVzZXIoY29udGV4dCwgdXNlcik7CiAgICAgICAgc3RhcnRBY3Rpdml0eVdpdGhBbmltYXRpb24oaW50ZW50KTsKICAgIH0K</text>
@@ -1025,9 +1023,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXJjaGFuZGlzZVJvd1w+</last-search>
+      <last-search encoding="base64">XDxTaXplRGV0ZXJtaW5lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXJjaGFuZGlzZVJvd1w+</last-pattern>
+      <last-pattern encoding="base64">XDxTaXplRGV0ZXJtaW5lclw+</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1062,6 +1060,10 @@
         <entry encoding="base64">XDxyZWN5Y2xlcl92aWV3XD4=</entry>
         <entry>merchan</entry>
         <entry encoding="base64">XDxtZXJjaGFuZGlzZVJvd1w+</entry>
+        <entry>margin</entry>
+        <entry encoding="base64">XDxQUk9QRVJUWV9JTUFHRV9JTlZfUkFUSU9cPg==</entry>
+        <entry>size</entry>
+        <entry encoding="base64">XDxTaXplRGV0ZXJtaW5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
