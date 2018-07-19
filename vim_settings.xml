@@ -424,8 +424,8 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="84" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" timestamp="1531962501824">
-        <mark key="'" line="129" column="59" />
+      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" timestamp="1531977327174">
+        <mark key="'" line="138" column="46" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" timestamp="1527190328278">
         <mark key="'" line="16" column="60" />
@@ -774,11 +774,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.java" timestamp="1527631871926">
         <mark key="'" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/ReservationBaseFragment.java" timestamp="1531962554019">
-        <mark key="'" line="97" column="8" />
+      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/ReservationBaseFragment.java" timestamp="1531977381117">
+        <mark key="'" line="60" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/HomeReservationFragment.java" timestamp="1531962469525">
-        <mark key="'" line="54" column="45" />
+      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/HomeReservationFragment.java" timestamp="1531977350627">
+        <mark key="'" line="42" column="49" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/resources/development2015.conf" timestamp="1516837475914">
         <mark key="'" line="16" column="0" />
@@ -1114,8 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
-      <jump line="642" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/oyster/model/src/main/java/com/airbnb/oyster/model/query/AbstractQueryExecutor.java" />
       <jump line="134" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/oyster/model/src/main/java/com/airbnb/oyster/model/query/AbstractQueryExecutor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/oyster/model/src/main/java/com/airbnb/oyster/model/store/oyster/OysterQueryExecutor.java" />
@@ -1189,10 +1187,8 @@
       <jump line="75" column="47" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/ReservationParentActivity.java" />
       <jump line="161" column="41" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
       <jump line="8" column="20" filename="$USER_HOME$/repos/apps/android/reservations/src/main/res/layout/activity_reservation_parent.xml" />
-      <jump line="138" column="61" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
       <jump line="54" column="45" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/HomeReservationFragment.java" />
       <jump line="129" column="59" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="60" column="54" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/ReservationBaseFragment.java" />
       <jump line="33" column="51" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/ReservationBaseFragment.java" />
       <jump line="71" column="8" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/ReservationBaseFragment.java" />
       <jump line="97" column="8" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/ReservationBaseFragment.java" />
@@ -1214,6 +1210,10 @@
       <jump line="31" column="6" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/epoxy/AirEpoxyController.kt" />
       <jump line="114" column="33" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/GenericReservationEpoxyController.kt" />
       <jump line="116" column="43" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/GenericReservationEpoxyController.kt" />
+      <jump line="138" column="46" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
+      <jump line="42" column="49" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/HomeReservationFragment.java" />
+      <jump line="60" column="59" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/fragments/ReservationBaseFragment.java" />
+      <jump line="7" column="34" filename="$USER_HOME$/repos/apps/android/reservations/src/main/res/layout/fragment_reservation.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
