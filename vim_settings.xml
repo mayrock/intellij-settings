@@ -55,12 +55,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" timestamp="1532058201903">
-        <mark key="'" line="81" column="31" />
-        <mark key="[" line="75" column="43" />
-        <mark key="]" line="75" column="46" />
-        <mark key="." line="75" column="46" />
-        <mark key="^" line="75" column="46" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" timestamp="1532061327515">
+        <mark key="'" line="82" column="31" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
@@ -228,12 +227,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/util/EntityUtils.java" timestamp="1530120917585">
         <mark key="'" line="290" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532056583939">
-        <mark key="'" line="139" column="49" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532061380962">
+        <mark key="'" line="148" column="49" />
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="69" column="39" />
+        <mark key="." line="69" column="39" />
+        <mark key="^" line="69" column="39" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1515098593276">
         <mark key="'" line="219" column="13" />
@@ -1046,52 +1045,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jpg</text>
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>jpg</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
-        <text>mercha</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2lnbl9pbiIgbGVnYWN5X2tleV9pbnN1ZmZpY2llbnRfZGVzY3JpcHRpb249InRydWUiPkxvZyBJbjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb2R1Y3REZXNjcmlwdGlvbi5zZXRUZXh0KCIzNTBtbCBDb2NhIENvbGEgaW4gdGhlIGZyaWRnZS4gRW5qb3kgeW91ciBzdW1tZXIhIDpEIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgbWVyY2hhbmRpc2VUaXRsZQogICAgICAgICAgICAudGl0bGUoIlN0dWZmIHlvdSBjYW4gYnV5IGZyb20gdGhlIGhvc3QiKQogICAgICAgICAgICAuZGVzY3JpcHRpb24oIk5lZWQgZ3JvY2VyeT8gdHJhdmVsIHNvdXZlbmlyPyBwZXJzb25hbGl6ZWQgc2VydmljZT8gTGkgZ290IHlvdSBjb3ZlcmVkISIpCiAgICAgICAgICAgIC5zaG93RGl2aWRlcihmYWxzZSkKICAgICAgICAgICAgLnNob3dXaXRoU21hbGxlclRvcFBhZGRpbmcodHJ1ZSk7Ci8vCi8vICAgICAgICBtZXJjaGFuZGlzZVJvdwovLyAgICAgICAgICAgICAgICAudGl0bGUoIk1lcmNoYW5kaXNlIFRpdGxlIikKLy8gICAgICAgICAgICAgICAgLnN1YnRpdGxlKCJNZXJjaGFuZGlzZSBTdWJ0aXRsZSIpCi8vICAgICAgICAgICAgICAgIC5hY3Rpb25UZXh0KFIuc3RyaW5nLnJlc2VydmF0aW9uc192aWV3X2RldGFpbHMpCi8vICAgICAgICAgICAgICAgIC5vbkNsaWNrTGlzdGVuZXIodiAtPiBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0ZVRvSG9tZVBEUChsaXN0aW5nKSkKLy8gICAgICAgICAgICAgICAgLmltYWdlKG5ldyBTaW1wbGVJbWFnZSgiaHR0cHM6Ly9hMC5tdXNjYWNoZS5jb20vaW0vcGljdHVyZXMvMTAzOTgxOTMwLzZiOWQwNmY3X29yaWdpbmFsLmpwZz9ha2lfcG9saWN5PXh4X2xhcmdlIikpOwogICAgICAgIG1lcmNoYW5kaXNlQ2FyZAogICAgICAgICAgICAudGl0bGUoIk1lcmNoYW5kaXNlIFRpdGxlIikKICAgICAgICAgICAgLnN1YnRpdGxlKCJNZXJjaGFuZGlzZSBTdWJ0aXRsZSIpCiAgICAgICAgICAgIC5pbWFnZShuZXcgU2ltcGxlSW1hZ2UoImh0dHBzOi8vYTAubXVzY2FjaGUuY29tL2ltL3BpY3R1cmVzLzEwMzk4MTkzMC82YjlkMDZmN19vcmlnaW5hbC5qcGc/YWtpX3BvbGljeT14eF9sYXJnZSIpKTsK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb2R1Y3REZXNjcmlwdGlvbjIuc2V0TWluaW11bUhlaWdodCg1MCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEljb25Sb3dNb2RlbF8gZmVlZGJhY2tNb2RlbCA9IGNyZWF0ZVN0eWxlZEljb25Sb3dNb2RlbChSLmRyYXdhYmxlLmNhbWVyYV9pY29uLCBSLnN0cmluZy5xcl9jb2RlKTsK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iQGRpbWVuL24yX2J1dHRvbl9yb3dfaGVpZ2h0Igo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZlZWRiYWNrTW9kZWwsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgbWVyY2hhbmRpc2VUaXRsZQogICAgICAgICAgICAudGl0bGUoIlN0dWZmIHlvdSBjYW4gYnV5IGZyb20gdGhlIGhvc3QiKQogICAgICAgICAgICAuZGVzY3JpcHRpb24oIk5lZWQgZ3JvY2VyeT8gdHJhdmVsIHNvdXZlbmlyPyBwZXJzb25hbGl6ZWQgc2VydmljZT8gTGkgZ290IHlvdSBjb3ZlcmVkISIpCiAgICAgICAgICAgIC5zaG93RGl2aWRlcihmYWxzZSkKICAgICAgICAgICAgLnNob3dXaXRoU21hbGxlclRvcFBhZGRpbmcodHJ1ZSk7Ci8vCi8vICAgICAgICBtZXJjaGFuZGlzZVJvdwovLyAgICAgICAgICAgICAgICAudGl0bGUoIk1lcmNoYW5kaXNlIFRpdGxlIikKLy8gICAgICAgICAgICAgICAgLnN1YnRpdGxlKCJNZXJjaGFuZGlzZSBTdWJ0aXRsZSIpCi8vICAgICAgICAgICAgICAgIC5hY3Rpb25UZXh0KFIuc3RyaW5nLnJlc2VydmF0aW9uc192aWV3X2RldGFpbHMpCi8vICAgICAgICAgICAgICAgIC5vbkNsaWNrTGlzdGVuZXIodiAtPiBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0ZVRvSG9tZVBEUChsaXN0aW5nKSkKLy8gICAgICAgICAgICAgICAgLmltYWdlKG5ldyBTaW1wbGVJbWFnZSgiaHR0cHM6Ly9hMC5tdXNjYWNoZS5jb20vaW0vcGljdHVyZXMvMTAzOTgxOTMwLzZiOWQwNmY3X29yaWdpbmFsLmpwZz9ha2lfcG9saWN5PXh4X2xhcmdlIikpOwogICAgICAgIG1lcmNoYW5kaXNlQ2FyZAogICAgICAgICAgICAudGl0bGUoIk1lcmNoYW5kaXNlIFRpdGxlIikKICAgICAgICAgICAgLnN1YnRpdGxlKCJNZXJjaGFuZGlzZSBTdWJ0aXRsZSIpCiAgICAgICAgICAgIC5pbWFnZShuZXcgU2ltcGxlSW1hZ2UoImh0dHBzOi8vYTAubXVzY2FjaGUuY29tL2ltL3BpY3R1cmVzLzEwMzk4MTkzMC82YjlkMDZmN19vcmlnaW5hbC5qcGc/YWtpX3BvbGljeT14eF9sYXJnZSIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi4K</text>
+        <text encoding="base64">ICAgIEljb25Sb3dNb2RlbF8gZmVlZGJhY2tNb2RlbCA9IGNyZWF0ZVN0eWxlZEljb25Sb3dNb2RlbChSLmRyYXdhYmxlLmNhbWVyYV9pY29uLCBSLnN0cmluZy5xcl9jb2RlKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZlZWRiYWNrTW9kZWwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEljb25Sb3dNb2RlbF8gZmVlZGJhY2tNb2RlbCA9IGNyZWF0ZVN0eWxlZEljb25Sb3dNb2RlbChSLmRyYXdhYmxlLnBhcGVyX3BsYW5lLCBSLnN0cmluZy5naXZlX2ZlZWRiYWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi5ib29rQnV0dG9uLnNldE1pbmltdW1IZWlnaHQoUi5kaW1lbi5uMl9idXR0b25fcm93X2hlaWdodCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZlZWRiYWNrTW9kZWwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5idXlCdXR0b24uYm9va0J1dHRvbi5zZXRNaW5pbXVtSGVpZ2h0KFIuZGltZW4ubjJfYnV0dG9uX3Jvd19oZWlnaHQpOwo=</text>
+        <text encoding="base64">ICAgIEljb25Sb3dNb2RlbF8gZmVlZGJhY2tNb2RlbCA9IGNyZWF0ZVN0eWxlZEljb25Sb3dNb2RlbChSLmRyYXdhYmxlLnBhcGVyX3BsYW5lLCBSLnN0cmluZy5naXZlX2ZlZWRiYWNrKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5idXlCdXR0b24uc2V0RW5hYmxlZCgpO3NldEJhY2tncm91bmRDb2xvcihSLmNvbG9yLmJ1dHRvbl9ncmVlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi5ib29rQnV0dG9uLnNldE1pbmltdW1IZWlnaHQoUi5kaW1lbi5uMl9idXR0b25fcm93X2hlaWdodCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mercha</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>mercha</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1107,7 +1106,6 @@
         <entry>r\.</entry>
         <entry>R\.</entry>
         <entry encoding="base64">XDxzZXRJbWFnZXNcPg==</entry>
-        <entry>title</entry>
         <entry>des</entry>
         <entry>merch</entry>
         <entry>LayoutManager</entry>
@@ -1159,6 +1157,7 @@
         <entry>feedbackguest</entry>
         <entry encoding="base64">XDxmZWVkYmFja01vZGVsXD4=</entry>
         <entry>mercha</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
