@@ -222,11 +222,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/util/EntityUtils.java" timestamp="1530120917585">
         <mark key="'" line="290" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532045034117">
-        <mark key="'" line="138" column="49" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532056583939">
+        <mark key="'" line="139" column="49" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1515098593276">
         <mark key="'" line="219" column="13" />
@@ -275,6 +276,9 @@
       </file>
       <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/data/models/rows/BaseRowDataModel.java" timestamp="1531983475277">
         <mark key="'" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/repos/apps/android/authentication/src/main/java/com/airbnb/android/authentication/ui/login/LoginLandingFragment.java" timestamp="1532056748230">
+        <mark key="'" line="257" column="41" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
@@ -350,12 +354,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" timestamp="1529604748928">
         <mark key="'" line="44" column="19" />
-      </file>
-      <file name="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" timestamp="1532041697367">
-        <mark key="'" line="396" column="60" />
-        <mark key="[" line="358" column="3" />
-        <mark key="]" line="358" column="3" />
-        <mark key="." line="358" column="3" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" timestamp="1527190328278">
         <mark key="'" line="16" column="60" />
@@ -924,9 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="8" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
-      <jump line="48" column="15" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
-      <jump line="50" column="30" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
       <jump line="23" column="51" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
       <jump line="278" column="28" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
       <jump line="413" column="30" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
@@ -1024,19 +1019,22 @@
       <jump line="2219" column="14" filename="$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/view/View.class" />
       <jump line="114" column="20" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
       <jump line="353" column="13" filename="$USER_HOME$/repos/apps/android/buck-out/gen/.okbuck/cache/__com.airbnb.android.paris-1.0.0.aar#aar_prebuilt_jar__/classes.jar!/android/view/ViewStyleApplier.class" />
+      <jump line="286" column="27" filename="$USER_HOME$/repos/apps/android/authentication/src/main/java/com/airbnb/android/authentication/ui/login/LoginLandingFragment.java" />
+      <jump line="113" column="29" filename="$USER_HOME$/repos/apps/android/authentication/src/main/java/com/airbnb/android/authentication/ui/login/LoginLandingFragment.java" />
+      <jump line="257" column="41" filename="$USER_HOME$/repos/apps/android/authentication/src/main/java/com/airbnb/android/authentication/ui/login/LoginLandingFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setBackgroundResource</text>
+        <text>layout_height</text>
       </register>
       <register name="-" type="4">
-        <text>setBackgroundResource</text>
+        <text>layout_height</text>
       </register>
       <register name="/" type="4">
-        <text>setbbackgrou</text>
+        <text encoding="base64">XDxRUkNvZGVSZWFkZXJDb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSG9tZVJlc2VydmF0aW9uT2JqZWN0UmVxdWVzdChATm9uTnVsbCBTdHJpbmcgaWQsIGJvb2xlYW4gaXNQZW5kaW5nKSB7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL24yX2J1dHRvbl9yb3dfaGVpZ2h0Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi5ib29rQnV0dG9uLnNldE1pbmltdW1IZWlnaHQoUi5kaW1lbi5uMl9idXR0b25fcm93X2hlaWdodCk7Cg==</text>
@@ -1070,9 +1068,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setbbackgrou</last-search>
+      <last-search encoding="base64">XDxRUkNvZGVSZWFkZXJDb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern>setbbackgrou</last-pattern>
+      <last-pattern encoding="base64">XDxRUkNvZGVSZWFkZXJDb2RlXD4=</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1101,7 +1099,6 @@
         <entry>PDF</entry>
         <entry>PDP</entry>
         <entry>bar</entry>
-        <entry>barcode</entry>
         <entry encoding="base64">XDxtZXJjaGFuZGlzZUNhcmRcPg==</entry>
         <entry encoding="base64">XDxzZXR1cEdyaWRMYXlvdXRcPg==</entry>
         <entry encoding="base64">XDxyZWN5Y2xlcl92aWV3XD4=</entry>
@@ -1135,6 +1132,8 @@
         <entry>book_</entry>
         <entry encoding="base64">XDxleHBsb3JlX2Jvb2tfaXRcPg==</entry>
         <entry>setbbackgrou</entry>
+        <entry>barcode</entry>
+        <entry encoding="base64">XDxRUkNvZGVSZWFkZXJDb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
