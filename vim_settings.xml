@@ -39,8 +39,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/3.1.2/e7ea6428a95c689bbfbc426e0e5257f3e63eaca5/metrics-healthchecks-3.1.2-sources.jar!/com/codahale/metrics/health/HealthCheck.java" timestamp="1509658437497">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" timestamp="1532044080599">
-        <mark key="'" line="172" column="26" />
+      <file name="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" timestamp="1532047792311">
+        <mark key="'" line="114" column="20" />
+        <mark key="[" line="114" column="34" />
+        <mark key="]" line="114" column="34" />
+        <mark key="^" line="114" column="34" />
+        <mark key="." line="114" column="34" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/Emitter/PlatformWithPaymentEmitterReport.scala" timestamp="1516692280604">
         <mark key="'" line="105" column="28" />
@@ -51,12 +55,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" timestamp="1532043856602">
-        <mark key="'" line="75" column="29" />
-        <mark key="[" line="104" column="25" />
-        <mark key="]" line="104" column="23" />
-        <mark key="." line="104" column="23" />
-        <mark key="^" line="104" column="23" />
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" timestamp="1532047775176">
+        <mark key="'" line="81" column="31" />
+        <mark key="[" line="81" column="23" />
+        <mark key="]" line="81" column="44" />
+        <mark key="." line="81" column="44" />
+        <mark key="^" line="81" column="44" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
@@ -85,8 +89,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" timestamp="1529703618049">
         <mark key="'" line="250" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/p3/src/main/res/layout/fragment_p3.xml" timestamp="1532020880094">
-        <mark key="'" line="7" column="31" />
+      <file name="$USER_HOME$/repos/apps/android/p3/src/main/res/layout/fragment_p3.xml" timestamp="1532046496383">
+        <mark key="'" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/runners/DenormalizedEventsToAccountingEventsRunner.scala" timestamp="1511848981922">
         <mark key="'" line="39" column="40" />
@@ -218,12 +222,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/util/EntityUtils.java" timestamp="1530120917585">
         <mark key="'" line="290" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532043504450">
+      <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532045034117">
         <mark key="'" line="138" column="49" />
-        <mark key="[" line="138" column="27" />
-        <mark key="]" line="138" column="49" />
-        <mark key="^" line="138" column="49" />
-        <mark key="." line="138" column="49" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1515098593276">
         <mark key="'" line="219" column="13" />
@@ -465,6 +468,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/InjectMocks.java" timestamp="1509657163221">
         <mark key="'" line="162" column="18" />
+      </file>
+      <file name="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/res/layout/n2_pdp_book_button.xml" timestamp="1532046268183">
+        <mark key="'" line="146" column="39" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/PaymentReport.scala" timestamp="1516692945317">
         <mark key="'" line="552" column="40" />
@@ -918,44 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="27" filename="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3FragmentHelper.kt" />
-      <jump line="23" column="92" filename="$USER_HOME$/repos/apps/android/core/src/main/java/com/airbnb/android/core/utils/LayoutManagerUtils.kt" />
-      <jump line="99" column="15" filename="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3Fragment.kt" />
-      <jump line="69" column="26" filename="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3FragmentHelper.kt" />
-      <jump line="57" column="11" filename="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3FragmentHelper.kt" />
-      <jump line="38" column="51" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
-      <jump line="57" column="53" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
-      <jump line="81" column="11" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/com.android.support.recyclerview-v7-27.1.1-sources.jar!/android/support/v7/widget/GridLayoutManager.java" />
-      <jump line="359" column="37" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="194" column="36" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="255" column="39" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="256" column="60" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="260" column="31" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="261" column="52" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="299" column="30" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/controllers/ReservationNavigationController.java" />
-      <jump line="198" column="13" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
-      <jump line="199" column="47" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" />
-      <jump line="431" column="78" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="125" column="49" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="126" column="43" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="127" column="33" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="61" column="4" filename="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3FragmentHelper.kt" />
-      <jump line="45" column="42" filename="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3Fragment.kt" />
-      <jump line="32" column="30" filename="$USER_HOME$/repos/apps/android/utils/src/main/java/com/airbnb/android/utils/extensions/android/ViewBindingExtensions.kt" />
-      <jump line="56" column="14" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
-      <jump line="360" column="19" filename="$USER_HOME$/repos/apps/android/base/src/main/java/com/airbnb/android/base/fragments/AirFragment.java" />
-      <jump line="39" column="8" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
-      <jump line="17" column="18" filename="$USER_HOME$/repos/apps/android/.okbuck/cache/com.jakewharton.butterknife-annotations-8.8.1-sources.jar!/butterknife/BindView.java" />
-      <jump line="134" column="30" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
-      <jump line="143" column="49" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
-      <jump line="8" column="21" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
-      <jump line="226" column="22" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="416" column="10" filename="$USER_HOME$/repos/apps/android/reservations/src/main/java/com/airbnb/android/reservations/epoxycontrollers/HomeReservationController.java" />
-      <jump line="66" column="24" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
-      <jump line="135" column="34" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
-      <jump line="20" column="43" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" />
-      <jump line="57" column="54" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
-      <jump line="103" column="60" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
       <jump line="146" column="8" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
       <jump line="48" column="15" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
       <jump line="50" column="30" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/primitives/imaging/AirImageView.java" />
@@ -1018,55 +986,93 @@
       <jump line="190" column="12" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
       <jump line="172" column="26" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="43" column="40" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="63" column="19" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="48" column="38" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="87" column="26" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/res/layout/n2_pdp_book_button.xml" />
+      <jump line="7" column="38" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/res/layout/n2_pdp_book_button.xml" />
+      <jump line="134" column="56" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/res/layout/n2_pdp_book_button.xml" />
+      <jump line="88" column="29" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="62" column="56" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="222" column="16" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="182" column="16" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/base/BaseComponent.java" />
+      <jump line="146" column="39" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/res/layout/n2_pdp_book_button.xml" />
+      <jump line="223" column="8" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="228" column="8" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="79" column="28" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="142" column="16" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="227" column="9" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="226" column="48" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="1254" column="28" filename="$USER_HOME$/repos/apps/android/buck-out/bin/n2/homesguest/__src_release#dummy_r_dot_java_rdotjava_bin__/com/airbnb/n2/homesguest/R2.class" />
+      <jump line="56" column="34" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="3043" column="28" filename="$USER_HOME$/repos/apps/android/buck-out/bin/n2/homesguest/__src_release#dummy_r_dot_java_rdotjava_bin__/com/airbnb/n2/homesguest/R2.class" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/apps/android/p3/src/main/res/layout/fragment_p3.xml" />
+      <jump line="11" column="53" filename="$USER_HOME$/repos/apps/android/p3/src/main/res/layout/fragment_p3.xml" />
+      <jump line="165" column="17" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/res/values/dimens.xml" />
+      <jump line="114" column="17" filename="$USER_HOME$/repos/apps/android/base/src/main/res/values/colors.xml" />
+      <jump line="78" column="54" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="9" column="17" filename="$USER_HOME$/repos/apps/android/base/src/main/res/values/colors.xml" />
+      <jump line="77" column="41" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="175" column="44" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="80" column="34" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="2216" column="39" filename="$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/view/View.class" />
+      <jump line="96" column="11" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="853" column="14" filename="$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/view/View.class" />
+      <jump line="26" column="17" filename="$USER_HOME$/repos/apps/android/n2/base/src/main/res/values/colors.xml" />
+      <jump line="81" column="31" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/BuyMerchantFragment.java" />
+      <jump line="2219" column="14" filename="$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/view/View.class" />
+      <jump line="114" column="20" filename="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" />
+      <jump line="353" column="13" filename="$USER_HOME$/repos/apps/android/buck-out/gen/.okbuck/cache/__com.airbnb.android.paris-1.0.0.aar#aar_prebuilt_jar__/classes.jar!/android/view/ViewStyleApplier.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSG9tZVJlc2VydmF0aW9uT2JqZWN0UmVxdWVzdChATm9uTnVsbCBTdHJpbmcgaWQsIGJvb2xlYW4gaXNQZW5kaW5nKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>setBackgroundResource</text>
       </register>
       <register name="-" type="4">
-        <text>isPending</text>
+        <text>setBackgroundResource</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudW1SZXZpZXdzXD4=</text>
+        <text>setbbackgrou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgSG9tZVJlc2VydmF0aW9uT2JqZWN0UmVxdWVzdChATm9uTnVsbCBTdHJpbmcgaWQsIGJvb2xlYW4gaXNQZW5kaW5nKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi5ib29rQnV0dG9uLnNldE1pbmltdW1IZWlnaHQoUi5kaW1lbi5uMl9idXR0b25fcm93X2hlaWdodCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5idXlCdXR0b24uYm9va0J1dHRvbi5zZXRNaW5pbXVtSGVpZ2h0KFIuZGltZW4ubjJfYnV0dG9uX3Jvd19oZWlnaHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5idXlCdXR0b24uc2V0RW5hYmxlZCgpO3NldEJhY2tncm91bmRDb2xvcihSLmNvbG9yLmJ1dHRvbl9ncmVlbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFpcmJuYjpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAK2lkL3JlY3ljbGVyX3ZpZXciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeC5jYWxsZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi5zZXR0ZXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgZmluYWwgUmVxdWVzdE1hbmFnZXIgcmVxdWVzdE1hbmFnZXIgPSBuZXcgUmVxdWVzdE1hbmFnZXIoKTsK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3doaXRlIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGFuZHJvaWQ6bWF4TGluZXM9IjQiCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VmVydGljYWxfY2hhaW5TdHlsZT0icGFja2VkIgo=</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VmVydGljYWxfYmlhcz0iMC4wIgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1eUJ1dHRvbi5zZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudW1SZXZpZXdzXD4=</last-search>
+      <last-search>setbbackgrou</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudW1SZXZpZXdzXD4=</last-pattern>
+      <last-pattern>setbbackgrou</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1115,6 +1121,20 @@
         <entry encoding="base64">XDxyZXF1ZXN0TWFuYWdlclw+</entry>
         <entry encoding="base64">XDxidXR0b25UZXh0XD4=</entry>
         <entry encoding="base64">XDxudW1SZXZpZXdzXD4=</entry>
+        <entry encoding="base64">XDx0b29sYmFyXD4=</entry>
+        <entry>button</entry>
+        <entry>buttontext</entry>
+        <entry>button_text</entry>
+        <entry>reviews_and_</entry>
+        <entry encoding="base64">XDxyZXZpZXdUZXh0XD4=</entry>
+        <entry>book_button_container</entry>
+        <entry>book_button_conta</entry>
+        <entry encoding="base64">XDxib29rQnV0dG9uXD4=</entry>
+        <entry>setbookbutton</entry>
+        <entry encoding="base64">XDxzZXRCb29rQnV0dG9uQmFja2dyb3VuZFw+</entry>
+        <entry>book_</entry>
+        <entry encoding="base64">XDxleHBsb3JlX2Jvb2tfaXRcPg==</entry>
+        <entry>setbbackgrou</entry>
       </history-search>
       <history-cmd>
         <entry>s#_*\(\u\)\(\u*\)#\1\L\2#g</entry>
