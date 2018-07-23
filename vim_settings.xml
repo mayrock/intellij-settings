@@ -64,12 +64,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" timestamp="1532319454285">
-        <mark key="'" line="85" column="25" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="28" />
-        <mark key="^" line="260" column="23" />
-        <mark key="." line="40" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" timestamp="1532321225128">
+        <mark key="'" line="86" column="25" />
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="49" column="35" />
+        <mark key="^" line="49" column="35" />
+        <mark key="." line="49" column="35" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservation2sAccountingAudit.scala" timestamp="1516750888008">
         <mark key="'" line="44" column="6" />
@@ -1064,16 +1064,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Tot</text>
+        <text encoding="base64">bW9kZWwg</text>
       </register>
       <register name="-" type="4">
-        <text>Tot</text>
+        <text encoding="base64">bW9kZWwg</text>
       </register>
       <register name="/" type="4">
         <text>totjurisdictionmanager</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb2R1Y3REZXNjcmlwdGlvbi5zZXRUZXh0KCIzNTBtbCBDb2NhIENvbGEgaW4gdGhlIGZyaWRnZS4gRW5qb3kgeW91ciBzdW1tZXIhIDpEIik7Cg==</text>
+      <register name="0" type="4">
+        <text>totJurisdiction</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgcHJvdGVjdGVkIEp1cmlzZGljdGlvbiBnZXRKdXJpc2RpY3Rpb25Gcm9tT3lzdGVyT2JqZWN0KFRvdEp1cmlzZGljdGlvbiB0b3RKdXJpc2RpY3Rpb24pIHsKICAgIHJldHVybiBuZXcgSnVyaXNkaWN0aW9uKAogICAgICAgIHRvdEp1cmlzZGljdGlvbi5pZCgpLAogICAgICAgIHRvdEp1cmlzZGljdGlvbi5uYW1lKCksCiAgICAgICAgdG90SnVyaXNkaWN0aW9uLnRyYW5zbGF0aW9uS2V5KCksCiAgICAgICAgdG90SnVyaXNkaWN0aW9uLnRyYW5zbGF0aW9uRGVmYXVsdCgpLAogICAgICAgIG5ldyBHZW9SZWdpb24oCiAgICAgICAgICAgIHRvdEp1cmlzZGljdGlvbi5jaXR5KCksCiAgICAgICAgICAgIHRvdEp1cmlzZGljdGlvbi5jb3VudHkoKSwKICAgICAgICAgICAgdG90SnVyaXNkaWN0aW9uLnN0YXRlKCksCiAgICAgICAgICAgIHRvdEp1cmlzZGljdGlvbi5jb3VudHJ5KCksCiAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8PigpKSwKICAgICAgICB0b3RKdXJpc2RpY3Rpb24uY3JlYXRlZEF0KCksCiAgICAgICAgdG90SnVyaXNkaWN0aW9uLmRlbGV0ZWRBdCgpLAogICAgICAgIHRvdEp1cmlzZGljdGlvbi5yZW1pdHRhbmNlQ3VycmVuY3koKSk7CiAgfQo=</text>
