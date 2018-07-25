@@ -204,6 +204,9 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1532536919922">
+        <mark key="'" line="139" column="14" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
         <mark key="'" line="28" column="67" />
       </file>
@@ -968,7 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="53" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/apps/android/core/src/main/res/layout/fragment_recycler_view_with_toolbar_dark_foreground.xml" />
       <jump line="101" column="48" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
       <jump line="353" column="32" filename="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" />
@@ -1068,6 +1070,7 @@
       <jump line="16" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="24" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
       <jump line="26" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
+      <jump line="139" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1077,7 +1080,7 @@
         <text>io.vavr.collection.List.ofAll</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTb3VyY2VSYW5rTWFwXD4=</text>
+        <text encoding="base64">XDxUYXhBdXRob3JpdHlUeXBlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>WHEN source = 'GoogleReverseGeocode' THEN 2</text>
@@ -1114,9 +1117,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTb3VyY2VSYW5rTWFwXD4=</last-search>
+      <last-search encoding="base64">XDxUYXhBdXRob3JpdHlUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTb3VyY2VSYW5rTWFwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUYXhBdXRob3JpdHlUeXBlXD4=</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1145,6 +1148,7 @@
         <entry>private</entry>
         <entry encoding="base64">XDxjcmVhdGVKdXJpc2RpY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxTb3VyY2VSYW5rTWFwXD4=</entry>
+        <entry encoding="base64">XDxUYXhBdXRob3JpdHlUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9yZXFcLi9saXN0aW5nXC4vZw==</entry>
