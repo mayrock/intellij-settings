@@ -575,11 +575,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/monorailtls/src/main/java/com/airbnb/common/monorailtls/MonorailTlsClient.java" timestamp="1524592495185">
         <mark key="'" line="25" column="49" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/IdlHelper.java" timestamp="1532592185604">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/IdlHelper.java" timestamp="1532665431798">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="40" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/simple-strategy/src/main/java/com/airbnb/trebuchet/simplestrategy/strategy/BaseStrategy.java" timestamp="1528147199467">
         <mark key="'" line="8" column="67" />
@@ -850,8 +851,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/VatFxReport.scala" timestamp="1511325883051">
         <mark key="'" line="133" column="55" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/type/CurrencyTest.java" timestamp="1532627966460">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/type/CurrencyTest.java" timestamp="1532665394501">
+        <mark key="[" line="13" column="43" />
         <mark key="]" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/59a2c8e455540a16432725d6a1a1579dd952a476/scala-library-2.10.6-sources.jar!/scala/collection/TraversableLike.scala" timestamp="1516323615779">
@@ -1037,8 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1020" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="1021" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="1027" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="1118" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="1119" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -1137,6 +1136,8 @@
       <jump line="276" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="60" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="146" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="25" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/GeoRegion.java" />
+      <jump line="45" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/IdlHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
