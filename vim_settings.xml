@@ -992,6 +992,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/temporary_vat/src/temporary_vat_service.thrift" timestamp="1522128150176">
         <mark key="'" line="9" column="86" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" timestamp="1532713015419">
+        <mark key="'" line="711" column="49" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/config/RequestConfig.java" timestamp="1531192025224">
         <mark key="'" line="304" column="15" />
       </file>
@@ -1039,8 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1027" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="1118" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="1119" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="563" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="610" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -1139,6 +1140,8 @@
       <jump line="146" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="25" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/GeoRegion.java" />
       <jump line="45" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/IdlHelper.java" />
+      <jump line="707" column="6" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
+      <jump line="711" column="49" filename="$USER_HOME$/airlab/repos/treehouse/gradle/libraries.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1148,7 +1151,7 @@
         <text encoding="base64">Tm9uTnVsbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>createjuris</text>
+        <text>1.0.142</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CnB1YmxpYyBjbGFzcyA=</text>
@@ -1181,13 +1184,13 @@
         <text encoding="base64">ICAgIGFzc2VydEVxdWFscygiVGhlIFNldmVuIEtpbmdkb21zIiwgdXBkYXRlZEp1cmlzZGljdGlvbi5nZXRHZW9SZWdpb24oKS5nZXRDb3VudHJ5KCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>createjuris</last-search>
+      <last-search>1.0.142</last-search>
       <last-offset />
-      <last-pattern>createjuris</last-pattern>
+      <last-pattern>1.0.142</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1227,6 +1230,7 @@
         <entry encoding="base64">XDxEZWZhdWx0SnVyaXNkaWN0aW9uXD4=</entry>
         <entry encoding="base64">XDx2ZXJpZnlKdXJpc2RpY3Rpb25zXD4=</entry>
         <entry>createjuris</entry>
+        <entry>1.0.142</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
@@ -1242,13 +1246,13 @@
         <entry>w2</entry>
         <entry>2</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>fw</entry>
         <entry>ffw</entry>
         <entry>w'</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
