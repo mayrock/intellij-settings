@@ -223,8 +223,8 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1532814861848">
-        <mark key="'" line="61" column="35" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1532816461220">
+        <mark key="'" line="401" column="7" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
         <mark key="'" line="28" column="67" />
@@ -1057,13 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/Stream.java" />
-      <jump line="213" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
-      <jump line="221" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
-      <jump line="266" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
-      <jump line="25" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/GeoRegion.java" />
-      <jump line="254" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
-      <jump line="68" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="124" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="137" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="160" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
@@ -1153,10 +1146,17 @@
       <jump line="10" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" />
       <jump line="21" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" />
       <jump line="89" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="503" column="43" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="526" column="17" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="61" column="35" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="61" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="478" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="667" column="34" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="406" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="672" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="677" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="736" column="10" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="401" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1166,7 +1166,7 @@
         <text>State</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFTlRJUkVfSE9NRVw+</text>
+        <text>createrollout</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEltbXV0YWJsZUxpc3Q8VG90SnVyaXNkaWN0aW9uPiBjb3VudHJ5U3RhdGVDaXR5TGV2ZWwgPQogICAgICAgIFRvdEp1cmlzZGljdGlvbk1vZGVsLnN0b3JlKCkKICAgICAgICAgICAgLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICBUb3RKdXJpc2RpY3Rpb25JbmRleE9uQ291bnRyeVN0YXRlQ291bnR5Q2l0eS5xdWVyeSgKICAgICAgICAgICAgICAgICAgICAgICAgKEluc3RhbnQpIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIGxpc3RpbmdBZGRyZXNzLmdldENvdW50cnkoKSwKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGluZ0FkZHJlc3MuZ2V0U3RhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgKFN0cmluZykgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGluZ0FkZHJlc3MuZ2V0Q2l0eSgpKQogICAgICAgICAgICAgICAgICAgIC5hbGwoKQogICAgICAgICAgICAgICAgICAgIC5vYmplY3RzKCkpOwo=</text>
@@ -1203,9 +1203,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFTlRJUkVfSE9NRVw+</last-search>
+      <last-search>createrollout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFTlRJUkVfSE9NRVw+</last-pattern>
+      <last-pattern>createrollout</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1238,6 +1238,13 @@
         <entry>deletejuris</entry>
         <entry>fortester</entry>
         <entry encoding="base64">XDxFTlRJUkVfSE9NRVw+</entry>
+        <entry>updaterollout</entry>
+        <entry>update</entry>
+        <entry>getrollout</entry>
+        <entry>getrolloutby</entry>
+        <entry>taxengine</entry>
+        <entry>taxEngine</entry>
+        <entry>createrollout</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
