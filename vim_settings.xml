@@ -1006,6 +1006,7 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/helpers/CleanDataProvider.scala" timestamp="1525969231008">
         <mark key="'" line="369" column="88" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/McrouterStore.java" timestamp="1532967438822" />
       <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/fragments/AccountPageFragment.java" timestamp="1532057586499">
         <mark key="'" line="353" column="32" />
       </file>
@@ -1174,7 +1175,7 @@
         <text encoding="base64">Tm9uTnVsbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>comment</text>
+        <text>alias</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEltbXV0YWJsZUxpc3Q8VG90SnVyaXNkaWN0aW9uPiBjb3VudHJ5U3RhdGVDaXR5TGV2ZWwgPQogICAgICAgIFRvdEp1cmlzZGljdGlvbk1vZGVsLnN0b3JlKCkKICAgICAgICAgICAgLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICBUb3RKdXJpc2RpY3Rpb25JbmRleE9uQ291bnRyeVN0YXRlQ291bnR5Q2l0eS5xdWVyeSgKICAgICAgICAgICAgICAgICAgICAgICAgKEluc3RhbnQpIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIGxpc3RpbmdBZGRyZXNzLmdldENvdW50cnkoKSwKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGluZ0FkZHJlc3MuZ2V0U3RhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgKFN0cmluZykgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGluZ0FkZHJlc3MuZ2V0Q2l0eSgpKQogICAgICAgICAgICAgICAgICAgIC5hbGwoKQogICAgICAgICAgICAgICAgICAgIC5vYmplY3RzKCkpOwo=</text>
@@ -1211,9 +1212,9 @@
       </register>
     </registers>
     <search>
-      <last-search>comment</last-search>
+      <last-search>alias</last-search>
       <last-offset />
-      <last-pattern>comment</last-pattern>
+      <last-pattern>alias</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1256,6 +1257,7 @@
         <entry>updatejuris</entry>
         <entry>updateju</entry>
         <entry>comment</entry>
+        <entry>alias</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
