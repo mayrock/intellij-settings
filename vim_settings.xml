@@ -95,8 +95,8 @@
       <file name="$USER_HOME$/sabrix/WEB-INF/classes/com/sabrix/te/web/TaxInitializingHttpRequestHandlerServlet.class" timestamp="1521508584289">
         <mark key="'" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceLine.java" timestamp="1532975801473">
-        <mark key="'" line="40" column="35" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceLine.java" timestamp="1532976663922">
+        <mark key="'" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdiction.java" timestamp="1530157442922">
         <mark key="'" line="26" column="54" />
@@ -951,8 +951,12 @@
       <file name="$USER_HOME$/repos/apps/android/.okbuck/cache/com.airbnb.android.epoxy-2.14.0-sources.jar!/com/airbnb/epoxy/BaseEpoxyAdapter.java" timestamp="1531975115626">
         <mark key="'" line="68" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Invoice.java" timestamp="1532975549348">
-        <mark key="'" line="75" column="52" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Invoice.java" timestamp="1532977181733">
+        <mark key="'" line="75" column="38" />
+        <mark key="[" line="74" column="41" />
+        <mark key="]" line="75" column="40" />
+        <mark key="^" line="75" column="40" />
+        <mark key="." line="75" column="40" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Exception.java" timestamp="1523903423856">
         <mark key="'" line="83" column="11" />
@@ -1081,10 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" />
-      <jump line="68" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" />
-      <jump line="224" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
-      <jump line="29" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
       <jump line="308" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="537" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
       <jump line="541" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
@@ -1181,6 +1181,10 @@
       <jump line="130" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceResponse.java" />
       <jump line="40" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceLine.java" />
       <jump line="34" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlInvoiceLine.java" />
+      <jump line="28" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceLine.java" />
+      <jump line="42" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceLine.java" />
+      <jump line="183" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
+      <jump line="75" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Invoice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1190,7 +1194,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>sabrix_resp</text>
+        <text encoding="base64">XDxmcm9tWG1sXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEltbXV0YWJsZUxpc3Q8VG90SnVyaXNkaWN0aW9uPiBjb3VudHJ5U3RhdGVDaXR5TGV2ZWwgPQogICAgICAgIFRvdEp1cmlzZGljdGlvbk1vZGVsLnN0b3JlKCkKICAgICAgICAgICAgLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICBUb3RKdXJpc2RpY3Rpb25JbmRleE9uQ291bnRyeVN0YXRlQ291bnR5Q2l0eS5xdWVyeSgKICAgICAgICAgICAgICAgICAgICAgICAgKEluc3RhbnQpIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIGxpc3RpbmdBZGRyZXNzLmdldENvdW50cnkoKSwKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGluZ0FkZHJlc3MuZ2V0U3RhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgKFN0cmluZykgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGluZ0FkZHJlc3MuZ2V0Q2l0eSgpKQogICAgICAgICAgICAgICAgICAgIC5hbGwoKQogICAgICAgICAgICAgICAgICAgIC5vYmplY3RzKCkpOwo=</text>
@@ -1227,9 +1231,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sabrix_resp</last-search>
+      <last-search encoding="base64">XDxmcm9tWG1sXD4=</last-search>
       <last-offset />
-      <last-pattern>sabrix_resp</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tWG1sXD4=</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1278,6 +1282,7 @@
         <entry encoding="base64">XDx6b25lTGV2ZWxcPg==</entry>
         <entry encoding="base64">XDxUQVhcPg==</entry>
         <entry>sabrix_resp</entry>
+        <entry encoding="base64">XDxmcm9tWG1sXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
