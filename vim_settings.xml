@@ -109,12 +109,12 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/res/layout/fragment_p3.xml" timestamp="1532046496383">
         <mark key="'" line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1533072667400">
-        <mark key="'" line="240" column="36" />
-        <mark key="[" line="151" column="90" />
-        <mark key="]" line="152" column="57" />
-        <mark key="^" line="152" column="57" />
-        <mark key="." line="152" column="57" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1533077300026">
+        <mark key="'" line="239" column="36" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="154" column="13" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/runners/DenormalizedEventsToAccountingEventsRunner.scala" timestamp="1511848981922">
         <mark key="'" line="39" column="40" />
@@ -982,12 +982,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/Value.java" timestamp="1530246509376">
         <mark key="'" line="313" column="16" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" timestamp="1533072863804">
-        <mark key="'" line="209" column="4" />
-        <mark key="[" line="216" column="9" />
-        <mark key="]" line="216" column="10" />
-        <mark key="^" line="216" column="10" />
-        <mark key="." line="216" column="10" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" timestamp="1533077515104">
+        <mark key="'" line="236" column="36" />
+        <mark key="[" line="215" column="48" />
+        <mark key="]" line="215" column="48" />
+        <mark key="^" line="215" column="47" />
+        <mark key="." line="215" column="48" />
       </file>
       <file name="$USER_HOME$/repos/apps/android/core/src/main/java/com/airbnb/android/core/utils/LayoutManagerUtils.kt" timestamp="1532021068191">
         <mark key="'" line="23" column="17" />
@@ -1091,8 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" />
-      <jump line="21" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" />
       <jump line="503" column="43" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="526" column="17" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="61" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
@@ -1191,55 +1189,70 @@
       <jump line="305" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="203" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="209" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
+      <jump line="276" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
+      <jump line="257" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PT</text>
+        <text>);First(</text>
       </register>
       <register name="-" type="4">
-        <text>PT</text>
+        <text>);First(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlcl9SYXdGaXJzdFw+</text>
+        <text>raw</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZXRMaXN0aW5nQnlJZF9QVF9TdGF0ZSgpIHsKICAgIHRlc3RHZXRMaXN0aW5nQnlJZEZpZWxkSGVscGVyX1Jhd0ZpcnN0KAogICAgICAgICJQVCIsIE1vZGVsLkZpZWxkLlNUQVRFLCBDbGVhbnNlZEFkZHJlc3Nlcy5Sb3cuUm93QnVpbGRlcjo6c3RhdGUsIExpc3Rpbmc6OmdldFN0YXRlKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdGVzdEdldExpc3RpbmdCeUlkX1BUX0NpdHkoKSB7CiAgICB0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlcl9SYXdGaXJzdCgKICAgICAgICAiUFQiLCBNb2RlbC5GaWVsZC5DSVRZLCBDbGVhbnNlZEFkZHJlc3Nlcy5Sb3cuUm93QnVpbGRlcjo6Y2l0eSwgTGlzdGluZzo6Z2V0Q2l0eSk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZXRMaXN0aW5nQnlJZF9QVF9aaXBDb2RlKCkgewogICAgdGVzdEdldExpc3RpbmdCeUlkRmllbGRIZWxwZXJfUmF3Rmlyc3QoCiAgICAgICAgIlBUIiwgTW9kZWwuRmllbGQuWklQQ09ERSwgQ2xlYW5zZWRBZGRyZXNzZXMuUm93LlJvd0J1aWxkZXI6OnBvc3RhbENvZGUsIExpc3Rpbmc6OmdldFppcENvZGUpOwogIH0K</text>
+        <text>testGetListingByIdFieldHelper_CleansedFirst</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0R2V0TGlzdGluZ0J5SWRfQ0hfU3RhdGUoKSB7CiAgICB0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlcl9SYXdGaXJzdCgKICAgICAgICAiQ0giLCBNb2RlbC5GaWVsZC5TVEFURSwgQ2xlYW5zZWRBZGRyZXNzZXMuUm93LlJvd0J1aWxkZXI6OnN0YXRlLCBMaXN0aW5nOjpnZXRTdGF0ZSk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZXRMaXN0aW5nQnlJZF9DSF9DaXR5KCkgewogICAgdGVzdEdldExpc3RpbmdCeUlkRmllbGRIZWxwZXJfUmF3Rmlyc3QoCiAgICAgICAgIkNIIiwgTW9kZWwuRmllbGQuQ0lUWSwgQ2xlYW5zZWRBZGRyZXNzZXMuUm93LlJvd0J1aWxkZXI6OmNpdHksIExpc3Rpbmc6OmdldENpdHkpOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0R2V0TGlzdGluZ0J5SWRfQ0hfWmlwQ29kZSgpIHsKICAgIHRlc3RHZXRMaXN0aW5nQnlJZEZpZWxkSGVscGVyX1Jhd0ZpcnN0KAogICAgICAgICJDSCIsCiAgICAgICAgTW9kZWwuRmllbGQuWklQQ09ERSwKICAgICAgICBDbGVhbnNlZEFkZHJlc3Nlcy5Sb3cuUm93QnVpbGRlcjo6cG9zdGFsQ29kZSwKICAgICAgICBMaXN0aW5nOjpnZXRaaXBDb2RlKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRocm93bi5leHBlY3QoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRocm93bi5leHBlY3RNZXNzYWdlKG5ldyBJc0VxdWFsPD4oIkp1cmlzZGljdGlvbiBuYW1lIGhhcyBhbHJlYWR5IGJlZW4gdXNlZCIpKTsK</text>
+        <text encoding="base64">ICAgIGZpZWxkcy5wdXQoTW9kZWwuRmllbGQuQ09VTlRSWSwgY291bnRyeSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1V0aWxzLnNwbGl0KCkK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvdW50cnksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZUp1cmlzZGljdGlvbkhlbHBlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSAiQ0giOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldE9yTnVsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChhcnIgLT4gTGlzdC5vZkFsbChBcnJheXMuYXNMaXN0KGFycikpLmZpbHRlcihzIC0+ICFTdHJpbmdVdGlsLmlzQmxhbmsocykpCg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+      <register name="8" type="4">
+        <text>builder
+            .city(
+                m.getCity()
+                    .map(ListingDataLoader::nullIfBlank)
+                    .orElse(cleansedAddress.getCity().getOrElse(&quot;&quot;)))
+            .state(
+                m.getState()
+                    .map(ListingDataLoader::nullIfBlank)
+                    .orElse(cleansedAddress.getState().getOrElse(&quot;&quot;)))
+            .zipCode(
+                m.getZipcode()
+                    .map(ListingDataLoader::nullIfBlank)
+                    .orElse(cleansedAddress.getPostalCode().getOrElse(&quot;&quot;)));
+        break;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHppcFN0ciA9IHppcFN0ciA9PSAiIiA6IG51bGwgOiB6aXBTdHI7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">YnVpbGRlcgogICAgICAgICAgICAuY2l0eSgKICAgICAgICAgICAgICAgIGNsZWFuc2VkQWRkcmVzcwogICAgICAgICAgICAgICAgICAgIC5nZXRDaXR5KCkKICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcCh2IC0+IE9wdGlvbi5vZihudWxsSWZCbGFuayh2KSkpCiAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShtLmdldENpdHkoKS5vckVsc2UoIiIpKSkKICAgICAgICAgICAgLnN0YXRlKAogICAgICAgICAgICAgICAgY2xlYW5zZWRBZGRyZXNzCiAgICAgICAgICAgICAgICAgICAgLmdldFN0YXRlKCkKICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcCh2IC0+IE9wdGlvbi5vZihudWxsSWZCbGFuayh2KSkpCiAgICAgICAgICAgICAgICAgICAgLmdldE9yRWxzZShtLmdldFN0YXRlKCkub3JFbHNlKCIiKSkpCiAgICAgICAgICAgIC56aXBDb2RlKAogICAgICAgICAgICAgICAgY2xlYW5zZWRBZGRyZXNzCiAgICAgICAgICAgICAgICAgICAgLmdldFBvc3RhbENvZGUoKQogICAgICAgICAgICAgICAgICAgIC5mbGF0TWFwKHYgLT4gT3B0aW9uLm9mKG51bGxJZkJsYW5rKHYpKSkKICAgICAgICAgICAgICAgICAgICAuZ2V0T3JFbHNlKG0uZ2V0WmlwY29kZSgpLm9yRWxzZSgiIikpKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlcl9SYXdGaXJzdFw+</last-search>
+      <last-search>raw</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlcl9SYXdGaXJzdFw+</last-pattern>
+      <last-pattern>raw</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1273,6 +1286,7 @@
         <entry encoding="base64">XDx0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlclw+</entry>
         <entry>_PT_</entry>
         <entry encoding="base64">XDx0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlcl9SYXdGaXJzdFw+</entry>
+        <entry>raw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
