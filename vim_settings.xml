@@ -75,11 +75,10 @@
         <mark key="'" line="263" column="24" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" timestamp="1533070544122">
-        <mark key="'" line="264" column="32" />
-        <mark key="[" line="277" column="34" />
-        <mark key="]" line="277" column="34" />
-        <mark key="." line="277" column="34" />
-        <mark key="^" line="259" column="24" />
+        <mark key="'" line="263" column="32" />
+        <mark key="[" line="276" column="34" />
+        <mark key="]" line="276" column="34" />
+        <mark key="." line="276" column="34" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/cleaned/CleanReservation2sAccountingAudit.scala" timestamp="1516750888008">
         <mark key="'" line="44" column="6" />
@@ -110,8 +109,8 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/res/layout/fragment_p3.xml" timestamp="1532046496383">
         <mark key="'" line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1533063356406">
-        <mark key="'" line="29" column="13" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1533071827210">
+        <mark key="'" line="192" column="70" />
         <mark key="[" line="79" column="3" />
         <mark key="]" line="79" column="2" />
         <mark key="^" line="79" column="2" />
@@ -256,7 +255,7 @@
         <mark key="'" line="97" column="26" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
-        <mark key="^" line="99" column="65" />
+        <mark key="^" line="98" column="65" />
         <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/res/layout/fragment_buy_merchant.xml" timestamp="1532061380962">
@@ -1092,9 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="586" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="52" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/ListingAddress.java" />
-      <jump line="31" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" />
       <jump line="79" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TaxEngineCalculatorTest.java" />
       <jump line="127" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" />
       <jump line="259" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TaxEngineCalculatorTest.java" />
@@ -1192,6 +1188,9 @@
       <jump line="44" column="25" filename="$USER_HOME$/airlab/repos/treehouse/common/utils/src/main/java/com/airbnb/common/utils/misc/StringUtil.java" />
       <jump line="74" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar!/com/google/common/base/Strings.java" />
       <jump line="264" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
+      <jump line="109" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="192" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="5" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingNormalizer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
