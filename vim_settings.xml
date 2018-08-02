@@ -554,8 +554,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/eventgeneration/base/platform/PlatformEventEmitterBase.scala" timestamp="1522902969535">
         <mark key="'" line="132" column="29" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" timestamp="1532582822601">
-        <mark key="'" line="40" column="46" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" timestamp="1533183284907">
+        <mark key="'" line="17" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/utils/URIUtils.java" timestamp="1510697981067">
         <mark key="'" line="379" column="44" />
@@ -621,8 +621,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/service-framework/build/generated/thrift-gen/main/java/com/airbnb/common/services/AirbnbRequestContext.java" timestamp="1528147814951">
         <mark key="'" line="917" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" timestamp="1532973506989">
-        <mark key="'" line="53" column="26" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" timestamp="1533183276892">
+        <mark key="'" line="112" column="82" />
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="2" />
         <mark key="." line="23" column="2" />
@@ -1091,9 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="11" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
-      <jump line="43" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
       <jump line="451" column="2" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="454" column="13" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
@@ -1191,6 +1188,9 @@
       <jump line="348" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="248" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="246" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
+      <jump line="112" column="82" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Tax.java" />
+      <jump line="13" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlCurrencyConversion.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1200,7 +1200,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVMaXN0aW5nRGF0YUxvYWRlckZvclRlc3RcPg==</text>
+        <text>currency</text>
       </register>
       <register name="0" type="4">
         <text>createListingDataLoaderForTest</text>
@@ -1237,9 +1237,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVMaXN0aW5nRGF0YUxvYWRlckZvclRlc3RcPg==</last-search>
+      <last-search>currency</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVMaXN0aW5nRGF0YUxvYWRlckZvclRlc3RcPg==</last-pattern>
+      <last-pattern>currency</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1276,6 +1276,7 @@
         <entry>raw</entry>
         <entry encoding="base64">XDxjcmVhdGVMaXN0bmdEYXRhTG9hZGVyRm9yVGVzdFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVMaXN0aW5nRGF0YUxvYWRlckZvclRlc3RcPg==</entry>
+        <entry>currency</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
