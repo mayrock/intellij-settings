@@ -377,6 +377,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/datainfra/airevent-logging/src/example/LoggingConsumerExample.java" timestamp="1527286266950">
         <mark key="'" line="51" column="60" />
       </file>
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534281821709">
+        <mark key="'" line="47" column="27" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdictionIndexOnCountryStateCity.java" timestamp="1531254118166">
         <mark key="'" line="56" column="22" />
       </file>
@@ -873,10 +876,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/trebuchet-client/src/main/java/com/airbnb/trebuchet/client/TrebuchetClientModule.java" timestamp="1529176346624">
         <mark key="'" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/SabrixHealthCheckTest.java" timestamp="1532990420726">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="98" />
-      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/Conf.scala" timestamp="1516387681678">
         <mark key="'" line="21" column="11" />
       </file>
@@ -891,10 +890,6 @@
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/VatFxReport.scala" timestamp="1511325883051">
         <mark key="'" line="133" column="55" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/type/CurrencyTest.java" timestamp="1532665394501">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/59a2c8e455540a16432725d6a1a1579dd952a476/scala-library-2.10.6-sources.jar!/scala/collection/TraversableLike.scala" timestamp="1516323615779">
         <mark key="'" line="324" column="47" />
@@ -1097,7 +1092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="332" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="165" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/CalculatedOccupancyTax.java" />
       <jump line="293" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
@@ -1197,6 +1191,7 @@
       <jump line="4" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Constant.java" />
       <jump line="32" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="332" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="47" column="27" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
