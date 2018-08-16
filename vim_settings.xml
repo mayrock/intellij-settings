@@ -61,8 +61,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1533660882929">
-        <mark key="'" line="332" column="57" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1534434041817">
+        <mark key="'" line="327" column="68" />
         <mark key="[" line="332" column="88" />
         <mark key="]" line="332" column="96" />
         <mark key="." line="332" column="96" />
@@ -377,7 +377,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/datainfra/airevent-logging/src/example/LoggingConsumerExample.java" timestamp="1527286266950">
         <mark key="'" line="51" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534312034980">
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534434105536">
         <mark key="'" line="166" column="13" />
         <mark key="[" line="438" column="0" />
         <mark key="]" line="438" column="0" />
@@ -1096,7 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
       <jump line="75" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/Invoice.java" />
       <jump line="39" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/InvoiceLine.java" />
       <jump line="146" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Try.java" />
@@ -1196,6 +1195,7 @@
       <jump line="183" column="47" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="0" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="166" column="13" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="327" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1205,7 +1205,7 @@
         <text>jurisdiction_level</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvcnRfY3VycmVuY3lfYW1vdW50X21pY3Jvc1w+</text>
+        <text>getvalueadded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0YXhfYXV0aG9yaXR5X25hbWUgU1RSSU5HLAo=</text>
@@ -1242,9 +1242,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvcnRfY3VycmVuY3lfYW1vdW50X21pY3Jvc1w+</last-search>
+      <last-search>getvalueadded</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvcnRfY3VycmVuY3lfYW1vdW50X21pY3Jvc1w+</last-pattern>
+      <last-pattern>getvalueadded</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1283,6 +1283,7 @@
         <entry encoding="base64">XDxyZW1pdHRhbmNlX2VudGl0eVw+</entry>
         <entry encoding="base64">XDx0YXhfY29sbGVjdGVkX2Zyb21fZ3Vlc3RfYW1vdW50X3JlcG9ydF9jdXJyZW5jeV9taWNyb3NcPg==</entry>
         <entry encoding="base64">XDxyZXBvcnRfY3VycmVuY3lfYW1vdW50X21pY3Jvc1w+</entry>
+        <entry>getvalueadded</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
