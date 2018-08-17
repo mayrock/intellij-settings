@@ -377,8 +377,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/datainfra/airevent-logging/src/example/LoggingConsumerExample.java" timestamp="1527286266950">
         <mark key="'" line="51" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534527362684">
-        <mark key="'" line="469" column="0" />
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534539659824">
+        <mark key="'" line="227" column="2" />
         <mark key="[" line="9" column="95" />
         <mark key="]" line="10" column="1" />
         <mark key="^" line="10" column="1" />
@@ -1096,11 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
-      <jump line="76" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressSitarAliasNormalizer.java" />
-      <jump line="56" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
-      <jump line="215" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
-      <jump line="246" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="214" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="3798" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="260" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
@@ -1162,7 +1157,6 @@
       <jump line="4" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Constant.java" />
       <jump line="32" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="332" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="452" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="47" column="26" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="411" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
@@ -1181,7 +1175,6 @@
       <jump line="467" column="29" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="387" column="44" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="430" column="29" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
-      <jump line="0" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="37" column="29" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="68" column="29" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="105" column="29" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
@@ -1194,8 +1187,15 @@
       <jump line="449" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="351" column="4" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="248" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
-      <jump line="6" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="466" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="232" column="54" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="251" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="6" column="31" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="7" column="23" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="8" column="31" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="9" column="23" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="227" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
