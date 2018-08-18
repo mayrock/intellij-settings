@@ -378,12 +378,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/datainfra/airevent-logging/src/example/LoggingConsumerExample.java" timestamp="1527286266950">
         <mark key="'" line="51" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534557497526">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="597" column="0" />
-        <mark key="]" line="597" column="0" />
-        <mark key="^" line="476" column="0" />
-        <mark key="." line="597" column="0" />
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534561185701">
+        <mark key="'" line="570" column="2" />
+        <mark key="[" line="571" column="2" />
+        <mark key="]" line="571" column="2" />
+        <mark key="." line="571" column="2" />
+        <mark key="^" line="571" column="25" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdictionIndexOnCountryStateCity.java" timestamp="1531254118166">
         <mark key="'" line="56" column="22" />
@@ -1097,8 +1097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="571" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotJurisdictionManagerTest.java" />
-      <jump line="259" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="262" column="82" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotJurisdictionDAO.java" />
       <jump line="44" column="25" filename="$USER_HOME$/airlab/repos/treehouse/common/utils/src/main/java/com/airbnb/common/utils/misc/StringUtil.java" />
       <jump line="74" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar!/com/google/common/base/Strings.java" />
@@ -1181,7 +1179,6 @@
       <jump line="248" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="466" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="232" column="54" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="6" column="31" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="7" column="23" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="9" column="23" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
@@ -1197,46 +1194,49 @@
       <jump line="30" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/ArubaConfiguration.java" />
       <jump line="4" column="17" filename="$USER_HOME$/airlab/repos/treehouse/common/security/bagpiper/bagpiper-core/src/main/java/com/airbnb/bagpiper/BagpiperEnvironmentConfiguration.java" />
       <jump line="251" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="569" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="572" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>180</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWdwaXBlckVudmlyb25tZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RFJPUCBURU1QT1JBUlkgTUFDUk8gSUYgRVhJU1RTIGlzX2hvc3RfcmVtaXR0ZWRfdG90X3N1YmxlZGdlcjsKQ1JFQVRFIFRFTVBPUkFSWSBNQUNSTyBpc19ob3N0X3JlbWl0dGVkX3RvdF9zdWJsZWRnZXIoYWNjb3VudCBzdHJpbmcsIG1ldGEgbWFwPHN0cmluZyxzdHJpbmc+KSBhY2NvdW50IElOICgnRGVmZXJyZWRQYXlhYmxlQWNjb3VudCcsICdQYXlhYmxlQWNjb3VudCcpIGFuZCBtZXRhWydSZW1pdHRlZEJ5SG9zdCddIGlzIG5vdCBudWxsOwo=</text>
+        <text>jurisdiction_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzX2hvc3RfcmVtaXR0ZWRfdG90X3N1YmxlZGdlcihhY2NvdW50LCBtZXRhKSBBUyByZW1pdHRlZF9ieV9ob3N0Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">RFJPUCBURU1QT1JBUlkgTUFDUk8gSUYgRVhJU1RTIGlzX2hvc3RfcmVtaXR0ZWRfdG90X3N1YmxlZGdlcjsKQ1JFQVRFIFRFTVBPUkFSWSBNQUNSTyBpc19ob3N0X3JlbWl0dGVkX3RvdF9zdWJsZWRnZXIoYWNjb3VudCBzdHJpbmcsIG1ldGEgbWFwPHN0cmluZyxzdHJpbmc+KQogIGFjY291bnQgSU4gKCdEZWZlcnJlZFBheWFibGVBY2NvdW50JywgJ1BheWFibGVBY2NvdW50JykgYW5kIG1ldGFbJ1JlbWl0dGVkQnlIb3N0J10gaXMgbm90IG51bGw7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">RFJPUCBURU1QT1JBUlkgTUFDUk8gSUYgRVhJU1RTIGlzX2hvc3RfcmVtaXR0ZWRfdG90X3N1YmxlZGdlcjsKQ1JFQVRFIFRFTVBPUkFSWSBNQUNSTyBpc19ob3N0X3JlbWl0dGVkX3RvdF9zdWJsZWRnZXIoYWNjb3VudCBzdHJpbmcsIG1ldGEgbWFwPHN0cmluZyxzdHJpbmc+KQogIGFjY291bnQgSU4gKCdEZWZlcnJlZFBheWFibGVBY2NvdW50JywgJ1BheWFibGVBY2NvdW50JykgYW5kIG1ldGFbJ1JlbWl0dGVkQnlIb3N0J10gaXMgbm90IG51bGw7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gdG9kbyhqY2h1KTogY2hhbmdlIHRvIC0xIGFmdGVyIHByb2QK</text>
+        <text encoding="base64">ICBDT0FMRVNDRShtZXRhWyd0YXhfcnVsZV9pZCddLCBtZXRhWydSdWxlSWQnXSwgJycpIEFTIHJ1bGVfaWQsCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZW1pdHRlZF9ieV9ob3N0IEJPT0xFQU4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0YXhfYXJlYV9pZCBTVFJJTkcsCg==</text>
+        <text encoding="base64">ICBDT0FMRVNDRShtZXRhWydqdXJpc2RpY3Rpb25fbGV2ZWwnXSwgbWV0YVsnSnVyaXNkaWN0aW9uTGV2ZWwnXSwgJycpIEFTIGp1cmlzZGljdGlvbl9sZXZlbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGVtcHRfYW1vdW50X25hdGl2ZSBET1VCTEUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleGVtcHRfdGhpc19tb250aF9hbW91bnRfbmF0aXZlIERPVUJMRSwK</text>
+        <text encoding="base64">ICBDT0FMRVNDRShtZXRhWydqdXJpc2RpY3Rpb25faWQnXSwgbWV0YVsnSnVyaXNkaWN0aW9uSWQnXSwgJycpIEFTIGp1cmlzZGljdGlvbl9pZCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
