@@ -367,12 +367,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/datainfra/airevent-logging/src/example/LoggingConsumerExample.java" timestamp="1527286266950">
         <mark key="'" line="51" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534874011906">
-        <mark key="'" line="430" column="28" />
-        <mark key="[" line="461" column="41" />
-        <mark key="]" line="461" column="44" />
-        <mark key="^" line="461" column="44" />
-        <mark key="." line="461" column="44" />
+      <file name="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" timestamp="1534983292706">
+        <mark key="'" line="469" column="0" />
+        <mark key="[" line="559" column="68" />
+        <mark key="]" line="559" column="68" />
+        <mark key="^" line="559" column="68" />
+        <mark key="." line="559" column="68" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated-thrift/main/com/airbnb/oyster/schema/model/tot_jurisdiction/TotJurisdictionIndexOnCountryStateCity.java" timestamp="1531254118166">
         <mark key="'" line="56" column="22" />
@@ -1086,7 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingNormalizer.java" />
       <jump line="199" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="86" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="238" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
@@ -1186,6 +1185,7 @@
       <jump line="245" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="402" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="430" column="28" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
+      <jump line="469" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1242,23 +1242,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updatejuris</entry>
-        <entry>updateju</entry>
-        <entry>comment</entry>
-        <entry>alias</entry>
-        <entry>erp</entry>
-        <entry>authority</entry>
-        <entry encoding="base64">XDx6b25lTGV2ZWxcPg==</entry>
-        <entry encoding="base64">XDxUQVhcPg==</entry>
-        <entry>sabrix_resp</entry>
-        <entry encoding="base64">XDxmcm9tWG1sXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVKdXJpc2RpY3Rpb25IZWxwZXJcPg==</entry>
-        <entry>testCreat</entry>
-        <entry encoding="base64">XDxnZXRMaXN0aW5nQnlJZFNraXBDYWNoZUFuZE5vcm1hbGl6YXRpb25cPg==</entry>
-        <entry encoding="base64">XDx0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlclw+</entry>
-        <entry>_PT_</entry>
-        <entry encoding="base64">XDx0ZXN0R2V0TGlzdGluZ0J5SWRGaWVsZEhlbHBlcl9SYXdGaXJzdFw+</entry>
-        <entry>raw</entry>
         <entry encoding="base64">XDxjcmVhdGVMaXN0bmdEYXRhTG9hZGVyRm9yVGVzdFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVMaXN0aW5nRGF0YUxvYWRlckZvclRlc3RcPg==</entry>
         <entry>currency</entry>
