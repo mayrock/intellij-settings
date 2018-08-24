@@ -309,8 +309,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1535129425011">
-        <mark key="'" line="148" column="48" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1535130055426">
+        <mark key="'" line="148" column="50" />
         <mark key="[" line="327" column="85" />
         <mark key="]" line="327" column="85" />
         <mark key="^" line="327" column="85" />
@@ -993,6 +993,9 @@
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/BaseSpec.scala" timestamp="1516387668231">
         <mark key="'" line="20" column="59" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" timestamp="1535130073770">
+        <mark key="'" line="114" column="18" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/stages/data/adapting/converter/reservation/ReservationEventConverterBase.scala" timestamp="1515021954555">
         <mark key="'" line="135" column="66" />
       </file>
@@ -1086,8 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
-      <jump line="215" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="305" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="203" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="209" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
@@ -1181,11 +1182,13 @@
       <jump line="430" column="28" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="469" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="355" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="557" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="557" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="562" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="567" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="148" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="34" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" />
+      <jump line="148" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="34" column="141" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" />
+      <jump line="114" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
