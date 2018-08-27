@@ -218,6 +218,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1535390605082">
+        <mark key="'" line="632" column="0" />
+        <mark key="[" line="656" column="36" />
+        <mark key="]" line="656" column="36" />
+        <mark key="." line="656" column="36" />
+      </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
         <mark key="'" line="28" column="67" />
       </file>
@@ -1086,7 +1092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="348" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="248" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
       <jump line="246" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.java" />
@@ -1186,16 +1191,17 @@
       <jump line="93" column="43" filename="$USER_HOME$/airlab/repos/treehouse/common/schema-data/build/generated/thrift-gen/main/java/com/airbnb/temporaryvat/api/VatRateRequest.java" />
       <jump line="67" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoader.java" />
       <jump line="97" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoader.java" />
+      <jump line="632" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBVc2VyJ3MgQ09SIGRlcm1pbmF0aW5vLiBUaGlzIHdpbGwgYmUgdGhlIHNhbWUgYXMgdXNlck92ZXJyaWRlIGZyb20gaW5wdXQsIGJ1dCBmaWxsZWQKICAvLyBpbiB1bi1wcm92aWRlZCBmaWVsZHMgaWYgaXQncyBwYXNzZWQgaW4uIE90aGVyd2lzZSBpdCB3aWxsIGJlIGRldGVybWluZWQgYnkgdGhlIENPUgogIC8vIHNlcnZpY2UgcmVzdWx0LgogIDI6IG9wdGlvbmFsIFVzZXIgdXNlckRldGVybWluYXRpb24gKG5vbl9udWxsKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IChub25fbnVsbCk=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IChub25fbnVsbCk=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9kdWN0XD4=</text>
+        <text>getvaluea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBVc2VyJ3MgQ09SIGRlcm1pbmF0aW5vLiBUaGlzIHdpbGwgYmUgdGhlIHNhbWUgYXMgdXNlck92ZXJyaWRlIGZyb20gaW5wdXQsIGJ1dCBmaWxsZWQKICAvLyBpbiB1bi1wcm92aWRlZCBmaWVsZHMgaWYgaXQncyBwYXNzZWQgaW4uIE90aGVyd2lzZSBpdCB3aWxsIGJlIGRldGVybWluZWQgYnkgdGhlIENPUgogIC8vIHNlcnZpY2UgcmVzdWx0LgogIDI6IG9wdGlvbmFsIFVzZXIgdXNlckRldGVybWluYXRpb24gKG5vbl9udWxsKQo=</text>
@@ -1228,13 +1234,13 @@
         <text encoding="base64">ICB0b3QudGF4X2FyZWFfaWQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9kdWN0XD4=</last-search>
+      <last-search>getvaluea</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9kdWN0XD4=</last-pattern>
+      <last-pattern>getvaluea</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1265,6 +1271,7 @@
         <entry>getvalueadd</entry>
         <entry>getvalue</entry>
         <entry encoding="base64">XDxQcm9kdWN0XD4=</entry>
+        <entry>getvaluea</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
@@ -1279,7 +1286,6 @@
         <entry>q!</entry>
         <entry>w2</entry>
         <entry>2</entry>
-        <entry>wq</entry>
         <entry>fw</entry>
         <entry>ffw</entry>
         <entry>w'</entry>
@@ -1287,6 +1293,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
