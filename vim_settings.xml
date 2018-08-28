@@ -221,11 +221,12 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1535400589397">
-        <mark key="'" line="648" column="7" />
-        <mark key="[" line="656" column="36" />
-        <mark key="]" line="656" column="36" />
-        <mark key="." line="656" column="36" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1535434096617">
+        <mark key="'" line="649" column="7" />
+        <mark key="[" line="544" column="53" />
+        <mark key="]" line="545" column="65" />
+        <mark key="." line="545" column="65" />
+        <mark key="^" line="545" column="65" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
         <mark key="'" line="28" column="67" />
@@ -1237,7 +1238,7 @@
         <text encoding="base64">ICB0b3QudGF4X2FyZWFfaWQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1296,8 +1297,8 @@
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
