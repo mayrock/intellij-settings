@@ -45,6 +45,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/3.1.2/e7ea6428a95c689bbfbc426e0e5257f3e63eaca5/metrics-healthchecks-3.1.2-sources.jar!/com/codahale/metrics/health/HealthCheck.java" timestamp="1509658437497">
         <mark key="'" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/build/generated/thrift-gen/main/java/com/airbnb/vacherin/api/VacherinBase.java" timestamp="1535646088315">
+        <mark key="'" line="27" column="39" />
+      </file>
       <file name="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" timestamp="1532047792311">
         <mark key="'" line="114" column="20" />
         <mark key="[" line="114" column="34" />
@@ -570,8 +573,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/evaluation/budgeting/BudgetsManager.scala" timestamp="1507326197933">
         <mark key="'" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/api/Vacherin.java" timestamp="1535583419051">
-        <mark key="'" line="4" column="35" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/api/Vacherin.java" timestamp="1535646159460">
+        <mark key="'" line="22" column="35" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -1024,6 +1027,9 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/builders/state/ProductStateConverter.scala" timestamp="1511849134598">
         <mark key="'" line="19" column="12" />
       </file>
+      <file name="/sbtShell" timestamp="1535646210010">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/trebuchet/trebuchet-client/src/main/java/com/airbnb/trebuchet/client/FeatureHelper.java" timestamp="1529176251817">
         <mark key="'" line="11" column="50" />
       </file>
@@ -1099,10 +1105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
-      <jump line="47" column="26" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
-      <jump line="411" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
-      <jump line="447" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="18" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="54" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="148" column="12" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
@@ -1198,7 +1200,11 @@
       <jump line="2" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/api/Vacherin.java" />
       <jump line="39" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="4" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/api/Vacherin.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/api/Vacherin.java" />
       <jump line="14" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/config/VacherinConfiguration.java" />
+      <jump line="16" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/api/Vacherin.java" />
+      <jump line="27" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/build/generated/thrift-gen/main/java/com/airbnb/vacherin/api/VacherinBase.java" />
+      <jump line="22" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/src/main/java/com/airbnb/vacherin/api/Vacherin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
