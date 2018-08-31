@@ -82,6 +82,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/raw/Reservation2sAccountingAudit.scala" timestamp="1516737596515">
         <mark key="'" line="177" column="48" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoaderTest.java" timestamp="1535680705233">
+        <mark key="[" line="62" column="87" />
+        <mark key="]" line="62" column="87" />
+        <mark key="." line="62" column="87" />
+        <mark key="^" line="62" column="86" />
+      </file>
       <file name="$USER_HOME$/sabrix/WEB-INF/classes/com/sabrix/te/web/TaxInitializingHttpRequestHandlerServlet.class" timestamp="1521508584289">
         <mark key="'" line="24" column="17" />
       </file>
@@ -490,6 +496,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/model/braavos_data/helper/PlatformEventConverter.scala" timestamp="1511853005330">
         <mark key="'" line="29" column="65" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ValueAddedTaxCalculatorTest.java" timestamp="1535680727899">
+        <mark key="[" line="99" column="43" />
+        <mark key="]" line="99" column="61" />
+        <mark key="." line="99" column="61" />
+        <mark key="^" line="99" column="61" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/XmlResponse.java" timestamp="1523901388883">
         <mark key="'" line="20" column="14" />
       </file>
@@ -832,10 +844,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/org/apache/http/protocol/HttpRequestExecutor.java" timestamp="1515050127897">
         <mark key="'" line="236" column="29" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/util.java" timestamp="1533660779814">
-        <mark key="'" line="68" column="22" />
-        <mark key="[" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/interactive/Command.scala" timestamp="1516692487519">
         <mark key="'" line="299" column="45" />
@@ -1225,10 +1233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rate</text>
+        <text>UserPerspective</text>
       </register>
       <register name="-" type="4">
-        <text>rate</text>
+        <text>UserPerspective</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUYXhSYXRlXD4=</text>
