@@ -82,7 +82,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/raw/Reservation2sAccountingAudit.scala" timestamp="1516737596515">
         <mark key="'" line="177" column="48" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoaderTest.java" timestamp="1535680705233">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoaderTest.java" timestamp="1535739748431">
+        <mark key="'" line="44" column="23" />
         <mark key="[" line="62" column="87" />
         <mark key="]" line="62" column="87" />
         <mark key="." line="62" column="87" />
@@ -1130,8 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="2" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
-      <jump line="8" column="0" filename="$USER_HOME$/repos/braavos/src/main/resources/data/braavos_export/summary_table_scripts_cutover/tot.hql" />
       <jump line="88" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/ArubaConfiguration.java" />
       <jump line="16" column="18" filename="$USER_HOME$/airlab/repos/treehouse/common/security/bagpiper/bagpiper-core/src/main/java/com/airbnb/bagpiper/BagpiperProperty.java" />
       <jump line="29" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/ArubaConfiguration.java" />
@@ -1230,6 +1229,8 @@
       <jump line="167" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ValueAddedTaxCalculator.java" />
       <jump line="67" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ValueAddedTaxCalculator.java" />
       <jump line="143" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ValueAddedTaxCalculator.java" />
+      <jump line="44" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoaderTest.java" />
+      <jump line="289" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/Matchers.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
