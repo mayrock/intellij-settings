@@ -235,8 +235,8 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1535747776402">
-        <mark key="'" line="51" column="23" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1535761795939">
+        <mark key="'" line="545" column="15" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
         <mark key="'" line="28" column="67" />
@@ -1126,8 +1126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="557" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="562" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="567" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="148" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="34" column="141" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" />
@@ -1226,6 +1224,8 @@
       <jump line="527" column="33" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="531" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="51" column="23" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="327" column="5" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="545" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1235,7 +1235,7 @@
         <text>FR_VAT_RATE</text>
       </register>
       <register name="/" type="4">
-        <text>fortester</text>
+        <text encoding="base64">XDxDdXN0b21lclBlcnNwZWN0aXZlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIGRvdWJsZSBHT09EX1VTRVJfVkFUX1JBVEUgPSAzLjE0Owo=</text>
@@ -1275,9 +1275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fortester</last-search>
+      <last-search encoding="base64">XDxDdXN0b21lclBlcnNwZWN0aXZlXD4=</last-search>
       <last-offset />
-      <last-pattern>fortester</last-pattern>
+      <last-pattern encoding="base64">XDxDdXN0b21lclBlcnNwZWN0aXZlXD4=</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1319,6 +1319,7 @@
         <entry encoding="base64">XDxGUl9WQVRfUkFURVw+</entry>
         <entry>getvaluead</entry>
         <entry>fortester</entry>
+        <entry encoding="base64">XDxDdXN0b21lclBlcnNwZWN0aXZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
