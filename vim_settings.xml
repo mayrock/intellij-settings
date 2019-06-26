@@ -412,8 +412,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/59a2c8e455540a16432725d6a1a1579dd952a476/scala-library-2.10.6-sources.jar!/scala/Long.scala" timestamp="1516326935243">
         <mark key="'" line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" timestamp="1532585438158">
-        <mark key="'" line="49" column="19" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" timestamp="1561586586317">
+        <mark key="'" line="158" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" timestamp="1527190328278">
         <mark key="'" line="16" column="60" />
@@ -1126,7 +1126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="567" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="148" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="34" column="141" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" />
       <jump line="46" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/GetValueAddedTaxRateRequest.java" />
@@ -1226,6 +1225,7 @@
       <jump line="51" column="23" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="327" column="5" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="545" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="158" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1281,25 +1281,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>validation</entry>
-        <entry>vali</entry>
-        <entry>getacti</entry>
-        <entry>dofi</entry>
-        <entry encoding="base64">XDxDb25zdGFudFw+</entry>
-        <entry encoding="base64">IHRvdCA=</entry>
-        <entry encoding="base64">XDxyZW1pdHRhbmNlX2VudGl0eVw+</entry>
-        <entry encoding="base64">XDx0YXhfY29sbGVjdGVkX2Zyb21fZ3Vlc3RfYW1vdW50X3JlcG9ydF9jdXJyZW5jeV9taWNyb3NcPg==</entry>
-        <entry encoding="base64">XDxyZXBvcnRfY3VycmVuY3lfYW1vdW50X21pY3Jvc1w+</entry>
-        <entry>getvalueadded</entry>
-        <entry encoding="base64">XDxyZXBvcnRfY3VycmVuY3lcPg==</entry>
-        <entry encoding="base64">XDxjb25maXJtYXRpb25fY29kZVw+</entry>
-        <entry encoding="base64">XDxpc19ob3N0X3JlbWl0dGVkX3RvdF9zdWJsZWRnZXJcPg==</entry>
-        <entry encoding="base64">XDxiYWdwaXBlckVudmlyb25tZW50XD4=</entry>
-        <entry encoding="base64">XDxldmVudF9ncm91cF9pZFw+</entry>
         <entry encoding="base64">XDxQcm9kdWN0XD4=</entry>
         <entry>getvaluea</entry>
         <entry encoding="base64">XDxHZXRWYWx1ZUFkZGVkVGF4UmF0ZVJlc3BvbnNlXD4=</entry>
