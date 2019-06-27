@@ -676,7 +676,9 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/P3BaseFragment.kt" timestamp="1532018077965">
         <mark key="'" line="21" column="79" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/metrics/FunctionTimer.java" timestamp="1561670123502" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/metrics/FunctionTimer.java" timestamp="1561670703342">
+        <mark key="'" line="32" column="20" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" timestamp="1532385063018">
         <mark key="'" line="34" column="68" />
         <mark key="[" line="25" column="0" />
@@ -1130,8 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="51" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="657" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="81" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoader.java" />
       <jump line="93" column="43" filename="$USER_HOME$/airlab/repos/treehouse/common/schema-data/build/generated/thrift-gen/main/java/com/airbnb/temporaryvat/api/VatRateRequest.java" />
       <jump line="632" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
@@ -1230,6 +1230,8 @@
       <jump line="95" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" />
       <jump line="184" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" />
       <jump line="41" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/RolloutType.java" />
+      <jump line="32" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/metrics/FunctionTimer.java" />
+      <jump line="41" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.18/d65e72edec3424e45335602fc1a4ff6e614f4553/lombok-1.16.18-sources.jar!/lombok/AllArgsConstructor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
