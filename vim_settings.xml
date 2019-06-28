@@ -442,8 +442,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/model/src/main/java/com/airbnb/oyster/model/store/oysteridl/OysterQueryThriftMapper.java" timestamp="1531883170128">
         <mark key="'" line="162" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1561755423108">
-        <mark key="'" line="829" column="27" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1561758799802">
+        <mark key="'" line="730" column="83" />
         <mark key="[" line="730" column="56" />
         <mark key="]" line="733" column="20" />
         <mark key="^" line="733" column="20" />
@@ -900,12 +900,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1561754868142">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1561758836444">
         <mark key="'" line="109" column="32" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="87" column="41" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="75" column="83" />
+        <mark key="]" line="75" column="83" />
+        <mark key="^" line="75" column="83" />
+        <mark key="." line="75" column="83" />
       </file>
       <file name="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/epoxy/TypedAirEpoxyController.java" timestamp="1531975159043">
         <mark key="'" line="18" column="66" />
@@ -1167,7 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" />
       <jump line="220" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" />
       <jump line="223" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" />
       <jump line="242" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" />
@@ -1267,13 +1266,14 @@
       <jump line="109" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="121" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="827" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="730" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gSW5zdGFudC5NSU4=</text>
+        <text>rollouts</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gSW5zdGFudC5NSU4=</text>
+        <text>rollouts</text>
       </register>
       <register name="/" type="4">
         <text>vertex</text>
@@ -1282,31 +1282,31 @@
         <text encoding="base64">QEJ1aWxkZXIuRGVmYXVsdCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkUm9sbG91dFN0YXR1cy5zZXRSZW1pdHRhbmNlQ3VycmVuY3koT3B0aW9uLm5vbmUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkUm9sbG91dFN0YXR1cy5zZXRDYWxjdWxhdG9yVHlwZShPcHRpb24ubm9uZSgpKTsK</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkUm9sbG91dFN0YXR1cy5zZXRSZW1pdHRhbmNlQ3VycmVuY3koT3B0aW9uLm5vbmUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJvbGxvdXRTdGF0dXMgZXhwZWN0ZWRSb2xsb3V0U3RhdHVzID0gbmV3IFJvbGxvdXRTdGF0dXMoRW5hYmxlU3RhdHVzLk5PVF9FTkFCTEVEKTsK</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkUm9sbG91dFN0YXR1cy5zZXRDYWxjdWxhdG9yVHlwZShPcHRpb24ubm9uZSgpKTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIFJvbGxvdXRTdGF0dXMgZXhwZWN0ZWRSb2xsb3V0U3RhdHVzID0gbmV3IFJvbGxvdXRTdGF0dXMoRW5hYmxlU3RhdHVzLk5PVF9FTkFCTEVEKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIFJvbGxvdXRTdGF0dXMgZXhwZWN0ZWRSb2xsb3V0U3RhdHVzID0KICAgICAgICBSb2xsb3V0U3RhdHVzLmJ1aWxkZXIoKQogICAgICAgICAgICAuZW5hYmxlU3RhdHVzKEVuYWJsZVN0YXR1cy5FTkFCTEVEKQogICAgICAgICAgICAuY2FsY3VsYXRvclR5cGUoT3B0aW9uLm9mKFRPVENhbGN1bGF0b3JQcm92aWRlci5DYWxjdWxhdG9yVHlwZS5WZXJ0ZXhDYWxjdWxhdG9yKSkKICAgICAgICAgICAgLnJlbWl0dGFuY2VDdXJyZW5jeShDdXJyZW5jeS5vZigiRVVSIikudG9PcHRpb24oKSkKICAgICAgICAgICAgLnJvbGxvdXRJZChPcHRpb24ub2YoMjRMKSkKICAgICAgICAgICAgLmJ1aWxkKCk7</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0dXNMaXN0ID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
