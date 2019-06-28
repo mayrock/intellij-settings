@@ -750,12 +750,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1510698397874">
         <mark key="'" line="476" column="43" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" timestamp="1561708734924">
-        <mark key="'" line="49" column="54" />
-        <mark key="[" line="86" column="43" />
-        <mark key="]" line="86" column="63" />
-        <mark key="^" line="86" column="63" />
-        <mark key="." line="86" column="63" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" timestamp="1561739945090">
+        <mark key="'" line="193" column="2" />
+        <mark key="[" line="80" column="82" />
+        <mark key="]" line="80" column="82" />
+        <mark key="^" line="80" column="82" />
+        <mark key="." line="80" column="82" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/balboa_service.thrift" timestamp="1526338495731">
         <mark key="'" line="16" column="39" />
@@ -1170,7 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="331" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TaxRuleManager.java" />
       <jump line="770" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="104" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TaxRuleManager.java" />
@@ -1270,6 +1269,7 @@
       <jump line="568" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/java/com/airbnb/aruba/api/Rollout.java" />
       <jump line="85" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" />
       <jump line="48" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" />
+      <jump line="193" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TaxRuleManagerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
