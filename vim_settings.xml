@@ -934,12 +934,12 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1561784591278">
-        <mark key="'" line="373" column="45" />
-        <mark key="[" line="373" column="63" />
-        <mark key="]" line="373" column="69" />
-        <mark key="^" line="373" column="69" />
-        <mark key="." line="373" column="69" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1561785248045">
+        <mark key="'" line="112" column="38" />
+        <mark key="[" line="359" column="16" />
+        <mark key="]" line="359" column="15" />
+        <mark key="^" line="359" column="15" />
+        <mark key="." line="359" column="15" />
       </file>
       <file name="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/epoxy/TypedAirEpoxyController.java" timestamp="1531975159043">
         <mark key="'" line="18" column="66" />
@@ -1204,8 +1204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="376" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts_to_jurisdictions.sql" />
-      <jump line="9" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts_to_jurisdictions.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts.sql" />
       <jump line="27" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/VertexRollouts.java" />
       <jump line="825" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
@@ -1287,7 +1285,6 @@
       <jump line="681" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="303" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="91" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="362" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="375" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="221" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
@@ -1296,14 +1293,17 @@
       <jump line="47" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutJurisdictionRelationDAO.java" />
       <jump line="297" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="376" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="90" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="65" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="268" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="341" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" />
       <jump line="356" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" />
       <jump line="94" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TaxRuleManager.java" />
       <jump line="373" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="91" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="356" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="90" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="65" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="112" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1313,7 +1313,7 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRJbmNsdWRlQW5kRXhjbHVkZUFydWJhUm9sbG91dHNGb3JMaXN0aW5nXD4=</text>
+        <text encoding="base64">XDxnZXRSb2xsb3V0c0Zvckxpc3RpbmdcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QE5vdE51bGwg</text>
@@ -1350,9 +1350,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRJbmNsdWRlQW5kRXhjbHVkZUFydWJhUm9sbG91dHNGb3JMaXN0aW5nXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRSb2xsb3V0c0Zvckxpc3RpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRJbmNsdWRlQW5kRXhjbHVkZUFydWJhUm9sbG91dHNGb3JMaXN0aW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSb2xsb3V0c0Zvckxpc3RpbmdcPg==</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1389,9 +1389,10 @@
         <entry>base64</entry>
         <entry>pttbl</entry>
         <entry encoding="base64">XDxnZXRJbmNsdWRlQW5kRXhjbHVkZVJvbGxvdXRzRm9yTGlzdGluZ1w+</entry>
-        <entry encoding="base64">XDxnZXRSb2xsb3V0c0Zvckxpc3RpbmdcPg==</entry>
         <entry encoding="base64">XDxnZXRSb2xsb3V0c0J5SnVyaXNkaWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRJbmNsdWRlQW5kRXhjbHVkZUFydWJhUm9sbG91dHNGb3JMaXN0aW5nXD4=</entry>
+        <entry encoding="base64">XDxnZXRBY3RpdmF0ZWRJbmNsdWRlQW5kRXhjbHVkZUFydWJhVkNBUm9sbG91dHNGb3JMaXN0aW5nXD4=</entry>
+        <entry encoding="base64">XDxnZXRSb2xsb3V0c0Zvckxpc3RpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
