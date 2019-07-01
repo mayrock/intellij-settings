@@ -899,8 +899,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1561953711099">
-        <mark key="'" line="95" column="16" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1562001182905">
+        <mark key="'" line="120" column="23" />
         <mark key="[" line="102" column="2" />
         <mark key="]" line="102" column="2" />
         <mark key="^" line="101" column="19" />
@@ -1163,7 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="195" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotJurisdictionManager.java" />
       <jump line="1073" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="93" column="89" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
@@ -1263,6 +1262,7 @@
       <jump line="698" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="736" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="424" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="120" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1272,7 +1272,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>builder</text>
+        <text encoding="base64">XDxnZXRWZXJ0ZXhSb2xsb3V0c0Zvckxpc3RpbmdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>getActivatedPttBlacklistRolloutsForListing</text>
@@ -1309,9 +1309,9 @@
       </register>
     </registers>
     <search>
-      <last-search>builder</last-search>
+      <last-search encoding="base64">XDxnZXRWZXJ0ZXhSb2xsb3V0c0Zvckxpc3RpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>builder</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRWZXJ0ZXhSb2xsb3V0c0Zvckxpc3RpbmdcPg==</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1376,6 +1376,7 @@
         <entry>pttblacklist</entry>
         <entry>createRollout</entry>
         <entry>builder</entry>
+        <entry encoding="base64">XDxnZXRWZXJ0ZXhSb2xsb3V0c0Zvckxpc3RpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
