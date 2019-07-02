@@ -446,12 +446,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/model/src/main/java/com/airbnb/oyster/model/store/oysteridl/OysterQueryThriftMapper.java" timestamp="1531883170128">
         <mark key="'" line="162" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1561954618358">
-        <mark key="'" line="424" column="8" />
-        <mark key="[" line="993" column="32" />
-        <mark key="]" line="994" column="3" />
-        <mark key="^" line="994" column="3" />
-        <mark key="." line="994" column="3" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1562087876430">
+        <mark key="'" line="705" column="76" />
+        <mark key="[" line="703" column="74" />
+        <mark key="]" line="703" column="76" />
+        <mark key="." line="703" column="76" />
+        <mark key="^" line="703" column="76" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/ArubaConfiguration.java" timestamp="1534554878965">
         <mark key="'" line="30" column="27" />
@@ -1157,18 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" />
-      <jump line="317" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="713" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
-      <jump line="33" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
-      <jump line="76" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/CleansedAddressesDAO.java" />
-      <jump line="850" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
-      <jump line="108" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="318" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="422" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/Map.java" />
-      <jump line="1022" column="108" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/Value.java" />
-      <jump line="170" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
-      <jump line="110" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/List.java" />
       <jump line="314" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="91" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="128" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
@@ -1204,7 +1192,6 @@
       <jump line="420" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="443" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="476" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
-      <jump line="94" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="992" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="126" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="714" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
@@ -1257,55 +1244,68 @@
       <jump line="361" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
       <jump line="490" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
       <jump line="523" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="106" column="76" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="995" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="207" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="991" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="993" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="1003" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="204" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="704" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="95" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="981" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="703" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="705" column="76" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="94" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>PTT_BLACKLIST</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>PTT_BLACKLIST</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3RSdWxlTWFuYWdlclw+</text>
+        <text encoding="base64">XDxhc09mVGltZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>getActivatedPttBlacklistRolloutsForListing</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBhcnViYVB0dEJsYWNrbGlzdFJvbGxvdXQgPSBjcmVhdGVSb2xsb3V0Rm9yVmVydGV4Um9sbG91dElkKAogICAgICBJbnN0YW50LnBhcnNlKCIyMDE4LTA2LTAxVDEwOjAwOjAwWiIpLCB2ZXJ0ZXhSb2xsb3V0SWQsIFJvbGxvdXRUeXBlLlBUVF9CTEFDS0xJU1QpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCByb2xsb3V0cy5zaXplKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAyNkwsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBSb2xsb3V0VHlwZS5QVFRfQkxBQ0tMSVNUKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBudWxsLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBudWxsLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSW1tdXRhYmxlU2V0Lm9mKCkK</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUocm9sbG91dHMuaXNFbXB0eSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0ZXhSb2xsb3V0SWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvdFJvbGxvdXRzT2ZWZXJ0ZXhSb2xsb3V0SWRDYWNoZSA9IGNyZWF0ZVRlc3RLZXlWYWx1ZVN0b3JlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50LnBhcnNlKCIyMDE4LTA2LTAxVDEwOjAwOjAwWiIpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvdFJvbGxvdXRDYWNoZSA9IGNyZWF0ZVRlc3RLZXlWYWx1ZVN0b3JlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50LnBhcnNlKCIyMDE4LTA1LTIzVDEwOjAwOjAwWiIpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3RSdWxlTWFuYWdlclw+</last-search>
+      <last-search encoding="base64">XDxhc09mVGltZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3RSdWxlTWFuYWdlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxhc09mVGltZVw+</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1350,8 +1350,6 @@
         <entry>vertexrollout</entry>
         <entry>group</entry>
         <entry>totrolloutcache</entry>
-        <entry encoding="base64">XDxjcmVhdGVSb2xsb3V0XD4=</entry>
-        <entry>vertexrolloutid</entry>
         <entry>getPttblacklist</entry>
         <entry>getpttblacklistjur</entry>
         <entry encoding="base64">XDxnZXRBY3RpdmF0ZWRKdXJpc2RpY3Rpb25OYW1lc0Zvckxpc3RpbmdcPg==</entry>
@@ -1377,6 +1375,11 @@
         <entry encoding="base64">XDxEYXRhRmxvd0ZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxUb3RSdWxlTWFuYWdlclw+</entry>
         <entry encoding="base64">XDx0b3RSdWxlTWFuYWdlclw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVSb2xsb3V0XD4=</entry>
+        <entry>vertexrollotu</entry>
+        <entry>vertexrolloutid</entry>
+        <entry encoding="base64">XDxjcmVhdGVSb2xsb3V0Rm9yVmVydGV4Um9sbG91dElkXD4=</entry>
+        <entry encoding="base64">XDxhc09mVGltZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
