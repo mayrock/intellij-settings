@@ -885,8 +885,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/data_accessors/repositories/TextFileDataProvider.scala" timestamp="1516432696029">
         <mark key="'" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1562106746598">
-        <mark key="'" line="188" column="2" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1562125909357">
+        <mark key="'" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/vacherin/src/vacherin_service.thrift" timestamp="1535583251601">
         <mark key="'" line="6" column="17" />
@@ -1153,8 +1153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
-      <jump line="564" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="570" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="595" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
       <jump line="620" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
@@ -1253,6 +1251,8 @@
       <jump line="17" column="25" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics-util/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistryFactory.java" />
       <jump line="276" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TaxEngineCalculatorTest.java" />
       <jump line="617" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
+      <jump line="34" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1262,7 +1262,7 @@
         <text encoding="base64">VGFnZ2VkTWV0cmljUmVnaXN0cnkg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</text>
+        <text>clock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBtZXRyaWNzID0gVGFnZ2VkTWV0cmljUmVnaXN0cnlGYWN0b3J5LmdldCgpOwogICAgdmFsIGNsb2NrICA9IG1vY2soQ2xvY2suY2xhc3MpOwoK</text>
@@ -1299,9 +1299,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</last-search>
+      <last-search>clock</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</last-pattern>
+      <last-pattern>clock</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1387,6 +1387,7 @@
         <entry encoding="base64">XDx0YXhFbmdpbmVDYWxjdWxhdG9yXD4=</entry>
         <entry>metric</entry>
         <entry encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</entry>
+        <entry>clock</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
