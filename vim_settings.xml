@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" timestamp="1562339348487">
-        <mark key="'" line="180" column="56" />
-        <mark key="[" line="185" column="87" />
-        <mark key="]" line="185" column="91" />
-        <mark key="^" line="185" column="91" />
-        <mark key="." line="185" column="91" />
-      </file>
       <file name="$USER_HOME$/repos/apps/android/n2/homesguest/src/main/java/com/airbnb/n2/homesguest/PDPBookButton.java" timestamp="1532047792311">
         <mark key="'" line="114" column="20" />
         <mark key="[" line="114" column="34" />
@@ -119,7 +112,7 @@
         <mark key="." line="575" column="91" />
         <mark key="^" line="575" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562198510284">
+      <file name="/Dummy.txt" timestamp="1562341328695">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -190,7 +183,7 @@
         <mark key="." line="268" column="28" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1562303468857">
-        <mark key="'" line="360" column="0" />
+        <mark key="'" line="359" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/EnableStatus.java" timestamp="1562295511037">
         <mark key="'" line="2" column="20" />
@@ -250,16 +243,14 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts.sql" timestamp="1561760814069">
-        <mark key="'" line="91" column="16" />
-        <mark key="[" line="92" column="106" />
-        <mark key="]" line="92" column="107" />
-        <mark key="." line="92" column="107" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts.sql" timestamp="1562340626694">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="93" column="197" />
+        <mark key="]" line="93" column="197" />
+        <mark key="." line="93" column="197" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
-      <jump line="99" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="168" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="92" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="8" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.1.2/25177c6da71f42d7934040a2f5608e3a5f81464c/metrics-core-3.1.2-sources.jar!/com/codahale/metrics/Clock.java" />
@@ -358,55 +349,57 @@
       <jump line="47" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts_to_jurisdictions.sql" />
       <jump line="49" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts_to_jurisdictions.sql" />
       <jump line="180" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/db/vertex_rollouts.sql" />
+      <jump line="125" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toList</text>
+        <text encoding="base64">CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdGVzdEdldFZlcnRleFJvbGxvdXRzQnlUYXhBcmVhSWRBbmRaaXBDb2RlX251bGxaaXBDb2RlUm9sbG91dF9JbmNsdWRlZCgpIHsKICAgIHZhbCByb2xsb3V0cyA9IHRlc3RSZXBvc2l0b3J5LmdldFZlcnRleFJvbGxvdXRzQnlUYXhBcmVhSWRBbmRaaXBDb2RlKFRFU1RfVEFYX0FSRUFfSUQsICI3NDQwMCIpOwoKICAgIC8vIE1hdGNoZXMgYmFzZWQgb24gdGF4IGFyZWEgaWQ6IDc1TCwgMjZMLCA3MkwsIDczTCwgMjRMLCAxMDNMLCAxMDRMLgogICAgLy8gNzNMLCAxMDNMIGlzIGZpbHRlcmVkIG91dCB3aXRoIHppcCBjb2RlLgogICAgdmFsIGV4cGVjdGVkSWRzID0gSW1tdXRhYmxlU2V0Lm9mKDc1TCwgMjZMLCA3MkwsIDI0TCwgMTA0TCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRJZHMsIHJvbGxvdXRzLnN0cmVhbSgpLm1hcChSb2xsb3V0OjpnZXRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpKTsKCiAgICAvLyBQaWNrIG9uZSB0byB2ZXJpZnkgdGhlIHJvbGxvdXQKICAgIHZhbCBleHBlY3RlZFJvbGxvdXQ3NSA9IFJvbGxvdXQuYnVpbGRlcigpCiAgICAgIC5pZCg3NUwpCiAgICAgIC5uYW1lKCJDaXR5IG9mIExpbGxlLCBGUiIpCiAgICAgIC50cmFuc2xhdGlvbktleSgidGF4ZXMuanVyaXNkaWN0aW9ucy4yMDE2LTA3LTI5IDE2OjUxOjQwICswMDAwLkNpdHkgb2YgTGlsbGUsIEZSIikKICAgICAgLnRyYW5zbGF0aW9uRGVmYXVsdCgiQ2l0eSBvZiBMaWxsZSwgRlIiKQogICAgICAucmVtaXR0YW5jZUN1cnJlbmN5KE9wdGlvbi5zb21lKEN1cnJlbmN5Lm9mKCJFVVIiKS5nZXQoKSkpCiAgICAgIC5lbWFpbEF0KEluc3RhbnQucGFyc2UoIjIwMTctMDctMjlUMTg6MDA6MDBaIikpCiAgICAgIC5lbWFpbE9wdGlvbnMoIntcIlwidGF4X25hbWVzX3N0cmluZ1wiXCI6XCJcIlRvdXJpc3QgVGF4XCJcIn0iKQogICAgICAuYWxlcnRBdChJbnN0YW50LnBhcnNlKCIyMDE2LTA3LTI5VDE4OjAwOjAwWiIpKQogICAgICAuYWN0aXZhdGVBdChJbnN0YW50LnBhcnNlKCIyMDE4LTA4LTAxVDAwOjAwOjAwWiIpKQogICAgICAudmVydGV4Um9sbG91dElkKDc1TCkKICAgICAgLmNyZWF0ZWRBdChJbnN0YW50LnBhcnNlKCIyMDE2LTA3LTI5VDE2OjUxOjQwWiIpKQogICAgICAuY2FsY3VsYXRvclR5cGUoT3B0aW9uLnNvbWUoVE9UQ2FsY3VsYXRvclByb3ZpZGVyLkNhbGN1bGF0b3JUeXBlLlZlcnRleENhbGN1bGF0b3IpKQogICAgICAucm9sbG91dFR5cGUoUm9sbG91dFR5cGUuVkNBKS5idWlsZCgpOwoKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZFJvbGxvdXQ3NSwgcm9sbG91dHMuc3RyZWFtKCkuZmlsdGVyKHIgLT4gci5nZXRJZCgpLmVxdWFscyg3NUwpKS5maW5kRmlyc3QoKS5nZXQoKSk7CiAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>toList</text>
+        <text>From</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw3ODI4Mlw+</text>
+        <text>104L</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCByb2xsb3V0cyA9IHRlc3RSZXBvc2l0b3J5LmdldFZlcnRleFJvbGxvdXRzQnlUYXhBcmVhSWRBbmRaaXBDb2RlKFRFU1RfVEFYX0FSRUFfSUQsICI3NDQwMCIpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdGVzdEdldFZlcnRleFJvbGxvdXRzQnlUYXhBcmVhSWRBbmRaaXBDb2RlKCkgewogICAgdmFsIHJvbGxvdXRzID0gdGVzdFJlcG9zaXRvcnkuZ2V0VmVydGV4Um9sbG91dHNCeVRheEFyZWFJZEFuZFppcENvZGUoVEVTVF9UQVhfQVJFQV9JRCwgIjc0NDAwIik7CgogICAgLy8gTWF0Y2hlcyBiYXNlZCBvbiB0YXggYXJlYSBpZDogNzVMLCAyNkwsIDcyTCwgNzNMLCAyNEwsIDEwM0wsIDEwNEwuCiAgICAvLyA3M0wsIDEwM0wgaXMgZmlsdGVyZWQgb3V0IHdpdGggemlwIGNvZGUuCiAgICB2YWwgZXhwZWN0ZWRJZHMgPSBJbW11dGFibGVTZXQub2YoNzVMLCAyNkwsIDcyTCwgMjRMLCAxMDRMKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZElkcywgcm9sbG91dHMuc3RyZWFtKCkubWFwKFJvbGxvdXQ6OmdldElkKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSkpOwoKICAgIC8vIFBpY2sgb25lIHRvIHZlcmlmeSB0aGUgcm9sbG91dAogICAgdmFsIGV4cGVjdGVkUm9sbG91dDc1ID0gUm9sbG91dC5idWlsZGVyKCkKICAgICAgLmlkKDc1TCkKICAgICAgLm5hbWUoIkNpdHkgb2YgTGlsbGUsIEZSIikKICAgICAgLnRyYW5zbGF0aW9uS2V5KCJ0YXhlcy5qdXJpc2RpY3Rpb25zLjIwMTYtMDctMjkgMTY6NTE6NDAgKzAwMDAuQ2l0eSBvZiBMaWxsZSwgRlIiKQogICAgICAudHJhbnNsYXRpb25EZWZhdWx0KCJDaXR5IG9mIExpbGxlLCBGUiIpCiAgICAgIC5yZW1pdHRhbmNlQ3VycmVuY3koT3B0aW9uLnNvbWUoQ3VycmVuY3kub2YoIkVVUiIpLmdldCgpKSkKICAgICAgLmVtYWlsQXQoSW5zdGFudC5wYXJzZSgiMjAxNy0wNy0yOVQxODowMDowMFoiKSkKICAgICAgLmVtYWlsT3B0aW9ucygie1wiXCJ0YXhfbmFtZXNfc3RyaW5nXCJcIjpcIlwiVG91cmlzdCBUYXhcIlwifSIpCiAgICAgIC5hbGVydEF0KEluc3RhbnQucGFyc2UoIjIwMTYtMDctMjlUMTg6MDA6MDBaIikpCiAgICAgIC5hY3RpdmF0ZUF0KEluc3RhbnQucGFyc2UoIjIwMTgtMDgtMDFUMDA6MDA6MDBaIikpCiAgICAgIC52ZXJ0ZXhSb2xsb3V0SWQoNzVMKQogICAgICAuY3JlYXRlZEF0KEluc3RhbnQucGFyc2UoIjIwMTYtMDctMjlUMTY6NTE6NDBaIikpCiAgICAgIC5jYWxjdWxhdG9yVHlwZShPcHRpb24uc29tZShUT1RDYWxjdWxhdG9yUHJvdmlkZXIuQ2FsY3VsYXRvclR5cGUuVmVydGV4Q2FsY3VsYXRvcikpCiAgICAgIC5yb2xsb3V0VHlwZShSb2xsb3V0VHlwZS5WQ0EpLmJ1aWxkKCk7CgogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkUm9sbG91dDc1LCByb2xsb3V0cy5zdHJlYW0oKS5maWx0ZXIociAtPiByLmdldElkKCkuZXF1YWxzKDc1TCkpLmZpbmRGaXJzdCgpLmdldCgpKTsKICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdGVzdEdldFZlcnRleFJvbGxvdXRzQnlUYXhBcmVhSWRBbmRaaXBDb2RlX251bGxaaXBDb2RlUm9sbG91dF9JbmNsdWRlZCgpIHsKICAgIHZhbCByb2xsb3V0cyA9IHRlc3RSZXBvc2l0b3J5LmdldFZlcnRleFJvbGxvdXRzQnlUYXhBcmVhSWRBbmRaaXBDb2RlKFRFU1RfVEFYX0FSRUFfSUQsICI3NDQwMCIpOwoKICAgIC8vIE1hdGNoZXMgYmFzZWQgb24gdGF4IGFyZWEgaWQ6IDc1TCwgMjZMLCA3MkwsIDczTCwgMjRMLCAxMDNMLCAxMDRMLgogICAgLy8gNzNMLCAxMDNMIGlzIGZpbHRlcmVkIG91dCB3aXRoIHppcCBjb2RlLgogICAgdmFsIGV4cGVjdGVkSWRzID0gSW1tdXRhYmxlU2V0Lm9mKDc1TCwgMjZMLCA3MkwsIDI0TCwgMTA0TCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRJZHMsIHJvbGxvdXRzLnN0cmVhbSgpLm1hcChSb2xsb3V0OjpnZXRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpKTsKCiAgICAvLyBQaWNrIG9uZSB0byB2ZXJpZnkgdGhlIHJvbGxvdXQKICAgIHZhbCBleHBlY3RlZFJvbGxvdXQ3NSA9IFJvbGxvdXQuYnVpbGRlcigpCiAgICAgIC5pZCg3NUwpCiAgICAgIC5uYW1lKCJDaXR5IG9mIExpbGxlLCBGUiIpCiAgICAgIC50cmFuc2xhdGlvbktleSgidGF4ZXMuanVyaXNkaWN0aW9ucy4yMDE2LTA3LTI5IDE2OjUxOjQwICswMDAwLkNpdHkgb2YgTGlsbGUsIEZSIikKICAgICAgLnRyYW5zbGF0aW9uRGVmYXVsdCgiQ2l0eSBvZiBMaWxsZSwgRlIiKQogICAgICAucmVtaXR0YW5jZUN1cnJlbmN5KE9wdGlvbi5zb21lKEN1cnJlbmN5Lm9mKCJFVVIiKS5nZXQoKSkpCiAgICAgIC5lbWFpbEF0KEluc3RhbnQucGFyc2UoIjIwMTctMDctMjlUMTg6MDA6MDBaIikpCiAgICAgIC5lbWFpbE9wdGlvbnMoIntcIlwidGF4X25hbWVzX3N0cmluZ1wiXCI6XCJcIlRvdXJpc3QgVGF4XCJcIn0iKQogICAgICAuYWxlcnRBdChJbnN0YW50LnBhcnNlKCIyMDE2LTA3LTI5VDE4OjAwOjAwWiIpKQogICAgICAuYWN0aXZhdGVBdChJbnN0YW50LnBhcnNlKCIyMDE4LTA4LTAxVDAwOjAwOjAwWiIpKQogICAgICAudmVydGV4Um9sbG91dElkKDc1TCkKICAgICAgLmNyZWF0ZWRBdChJbnN0YW50LnBhcnNlKCIyMDE2LTA3LTI5VDE2OjUxOjQwWiIpKQogICAgICAuY2FsY3VsYXRvclR5cGUoT3B0aW9uLnNvbWUoVE9UQ2FsY3VsYXRvclByb3ZpZGVyLkNhbGN1bGF0b3JUeXBlLlZlcnRleENhbGN1bGF0b3IpKQogICAgICAucm9sbG91dFR5cGUoUm9sbG91dFR5cGUuVkNBKS5idWlsZCgpOwoKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZFJvbGxvdXQ3NSwgcm9sbG91dHMuc3RyZWFtKCkuZmlsdGVyKHIgLT4gci5nZXRJZCgpLmVxdWFscyg3NUwpKS5maW5kRmlyc3QoKS5nZXQoKSk7CiAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0VmVydGV4Um9sbG91dHMuc3RyZWFtKCkubWFwKHJvdyAtPiByb3cuZ2V0SWQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGphdmEudXRpbC5MaXN0PExvbmc+IGFjdHVhbFZlcnRleFJvbGxvdXRzSWRzID0K</text>
+        <text encoding="base64">IH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0VmVydGV4Um9sbG91dHMuc3RyZWFtKCkubWFwKHJvdyAtPiByb3cuZ2V0SWQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGphdmEudXRpbC5MaXN0PExvbmc+IGFjdHVhbFZlcnRleFJvbGxvdXRzSWRzID0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgZmluYWwgdm9pZCBnZXRWZXJ0ZXhSb2xsb3V0c0J5VGF4QXJlYUlkQW5kWmlwQ29kZV9maWx0ZXJCeVppcENvZGUoKSB7CiAgICB2YWwgcm9sbG91dHMgPSB0ZXN0UmVwb3NpdG9yeS5nZXRWZXJ0ZXhSb2xsb3V0c0J5VGF4QXJlYUlkQW5kWmlwQ29kZShURVNUX1RBWF9BUkVBX0lELCAiNzQ0MDAiKTsKCiAgICB2YWwgZXhwZWN0ZWRJZHMgPSBJbW11dGFibGVTZXQub2YoNzVMLCAyNkwsIDcyTCwgNzNMLCAyNEwsIDEwM0wsIDEwNEwpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkSWRzLCByb2xsb3V0cy5zdHJlYW0oKS5tYXAociAtPiByLmlkKCkpY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpKTsKICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgamF2YS51dGlsLkxpc3Q8TG9uZz4gZXhwZWN0ZWRWZXJ0ZXhSb2xsb3V0c0lkcyA9CiAgICAgICAgQXJyYXlzLmFzTGlzdCg=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEJhc2VkIG9uIHRheCBhcmVhIGlkIGFuZCB6aXBjb2RlIGZpbHRlcmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw3ODI4Mlw+</last-search>
+      <last-search>104L</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw3ODI4Mlw+</last-pattern>
+      <last-pattern>104L</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -507,6 +500,7 @@
         <entry>thrown</entry>
         <entry encoding="base64">XDxURVNUX1RBWF9BUkVBX0lEXD4=</entry>
         <entry encoding="base64">XDw3ODI4Mlw+</entry>
+        <entry>104L</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9MaXN0aW5nLy9n</entry>
