@@ -419,7 +419,7 @@
         <mark key="'" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" timestamp="1562350923831">
-        <mark key="'" line="177" column="23" />
+        <mark key="'" line="195" column="23" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" timestamp="1527190328278">
         <mark key="'" line="16" column="60" />
@@ -879,6 +879,11 @@
         <mark key="^" line="93" column="62" />
         <mark key="." line="93" column="62" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/VertexRollouts.java" timestamp="1561750548785">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="1" />
+        <mark key="." line="59" column="1" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Throwable.java" timestamp="1523903443800">
         <mark key="'" line="364" column="21" />
       </file>
@@ -899,6 +904,11 @@
         <mark key="[" line="268" column="28" />
         <mark key="]" line="268" column="28" />
         <mark key="." line="268" column="28" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1562359062991">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/repos/apps/android/n2/base/src/main/java/com/airbnb/n2/epoxy/TypedAirEpoxyController.java" timestamp="1531975159043">
         <mark key="'" line="18" column="66" />
@@ -977,11 +987,7 @@
         <mark key="'" line="67" column="46" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" timestamp="1562114543368">
-        <mark key="'" line="270" column="75" />
-        <mark key="[" line="94" column="6" />
-        <mark key="]" line="94" column="7" />
-        <mark key="^" line="94" column="7" />
-        <mark key="." line="94" column="7" />
+        <mark key="'" line="271" column="75" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/evaluation/budgeting/BudgetEvaluator.scala" timestamp="1507186717423">
         <mark key="'" line="12" column="49" />
@@ -1275,8 +1281,8 @@
       <jump line="173" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuZmlsdGVyKHJvbGxvdXQgLT4gcm9sbG91dC5nZXRSb2xsb3V0VHlwZSgpLmVxdWFscyhSb2xsb3V0VHlwZS5WQ0EpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>keys</text>
@@ -1288,31 +1294,31 @@
         <text encoding="base64">YXJnVGhhdChsIC0+IGwuZ2V0TGlzdGluZ0lkKCkuZXF1YWxzKDFMKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEluc3RhbnQgYW55QXNPZlRpbWUgPSBJbnN0YW50Lm5vdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZmlsdGVyKHJvbGxvdXQgLT4gcm9sbG91dC5nZXRSb2xsb3V0VHlwZSgpLmVxdWFscyhSb2xsb3V0VHlwZS5WQ0EpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0T3JFbHNlKEltbXV0YWJsZUxpc3Qub2YoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEluc3RhbnQgYW55QXNPZlRpbWUgPSBJbnN0YW50Lm5vdygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKHRvdEp1cmlzZGljdGlvbk1hbmFnZXI6OmdldEFjdGl2YXRlZEp1cmlzZGljdGlvbk5hbWVzRm9yTGlzdGluZykK</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0T3JFbHNlKEltbXV0YWJsZUxpc3Qub2YoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IGp1cmlzZGljdGlvbk5hbWVzID0K</text>
+        <text encoding="base64">ICAgICAgICAubWFwKHRvdEp1cmlzZGljdGlvbk1hbmFnZXI6OmdldEFjdGl2YXRlZEp1cmlzZGljdGlvbk5hbWVzRm9yTGlzdGluZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKHRvdEp1cmlzZGljdGlvbk1hbmFnZXI6OmdldEFjdGl2YXRlZEp1cmlzZGljdGlvbk5hbWVzRm9yTGlzdGluZykK</text>
+        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IGp1cmlzZGljdGlvbk5hbWVzID0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAubWFwKHRvdEp1cmlzZGljdGlvbk1hbmFnZXI6OmdldEFjdGl2YXRlZEp1cmlzZGljdGlvbk5hbWVzRm9yTGlzdGluZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAubWFwKHRvdEp1cmlzZGljdGlvbk1hbmFnZXI6OmdldEFjdGl2YXRlZEp1cmlzZGljdGlvbk5hbWVzRm9yTGlzdGluZykK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUobnVsbCA9PSBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAubWFwKHRvdEp1cmlzZGljdGlvbk1hbmFnZXI6OmdldEFjdGl2YXRlZEp1cmlzZGljdGlvbk5hbWVzRm9yTGlzdGluZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
