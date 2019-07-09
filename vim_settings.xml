@@ -882,8 +882,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1562640090984">
-        <mark key="'" line="177" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1562640170406">
+        <mark key="'" line="187" column="33" />
         <mark key="[" line="178" column="22" />
         <mark key="]" line="178" column="35" />
         <mark key="^" line="178" column="35" />
@@ -1014,8 +1014,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="57" column="46" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" timestamp="1562394315865">
-        <mark key="'" line="32" column="32" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" timestamp="1562640192863">
+        <mark key="'" line="39" column="89" />
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="48" column="3" />
+        <mark key="^" line="42" column="1" />
+        <mark key="." line="42" column="2" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" timestamp="1527530864886">
         <mark key="'" line="544" column="34" />
@@ -1156,9 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
-      <jump line="1076" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="162" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="136" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="142" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
@@ -1256,10 +1257,13 @@
       <jump line="144" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="177" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="51" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/Money.java" />
+      <jump line="187" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="39" column="89" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" />
+      <jump line="88" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Validation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pricingItem.getAmount()</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBWYWxpZGF0aW9uPFNlcTxPYmplY3Q+LCBQcmljaW5nSXRlbVdpdGhNb25leT4gZnJvbU1vbmV5KAogICAgICBQcmljaW5nSXRlbVR5cGUgdHlwZSwgTW9uZXkgbW9uZXkpIHsKICAgIHJldHVybiBWYWxpZGF0aW9uLmNvbWJpbmUoCiAgICAgICAgICAgIFZhbGlkYXRpb24udmFsaWQoSW5wdXRQcmljZUl0ZW1UeXBlLmZyb21QcmljaW5nSXRlbVR5cGUodHlwZSkpLCBWYWxpZGF0aW9uLnZhbGlkKG1vbmV5KSkKICAgICAgICAuYXAoUHJpY2luZ0l0ZW1XaXRoTW9uZXk6Om5ldyk7CiAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>pricingItem.getAmount()</text>
@@ -1268,7 +1272,7 @@
         <text encoding="base64">XDxwcm9jZXNzUHJpY2luZ0l0ZW1XaXRoTW9uZXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>request.getDoCurrencyConversion()</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBWYWxpZGF0aW9uPFNlcTxPYmplY3Q+LCBQcmljaW5nSXRlbVdpdGhNb25leT4gZnJvbU1vbmV5KAogICAgICBQcmljaW5nSXRlbVR5cGUgdHlwZSwgTW9uZXkgbW9uZXkpIHsKICAgIHJldHVybiBWYWxpZGF0aW9uLmNvbWJpbmUoCiAgICAgICAgICAgIFZhbGlkYXRpb24udmFsaWQoSW5wdXRQcmljZUl0ZW1UeXBlLmZyb21QcmljaW5nSXRlbVR5cGUodHlwZSkpLCBWYWxpZGF0aW9uLnZhbGlkKG1vbmV5KSkKICAgICAgICAuYXAoUHJpY2luZ0l0ZW1XaXRoTW9uZXk6Om5ldyk7CiAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
