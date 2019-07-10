@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1562768593612">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1562772639572">
         <mark key="'" line="1546" column="40" />
         <mark key="[" line="1550" column="96" />
-        <mark key="]" line="1550" column="95" />
-        <mark key="^" line="1550" column="95" />
-        <mark key="." line="1550" column="95" />
+        <mark key="]" line="1550" column="21" />
+        <mark key="^" line="1550" column="21" />
+        <mark key="." line="1550" column="21" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
@@ -576,6 +576,9 @@
       </file>
       <file name="/fragment.java" timestamp="1562355018756">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" timestamp="1562772719232">
+        <mark key="'" line="624" column="39" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/client/utils/URIUtils.java" timestamp="1510697981067">
         <mark key="'" line="379" column="44" />
@@ -1168,11 +1171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="319" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="25" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.java" />
-      <jump line="395" column="71" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="26" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Jurisdiction.java" />
       <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="396" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="15" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.java" />
@@ -1268,6 +1266,11 @@
       <jump line="604" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="1545" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="132" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="69" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" />
+      <jump line="250" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" />
+      <jump line="261" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" />
+      <jump line="624" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" />
+      <jump line="649" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1277,7 +1280,7 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>setArubaC</text>
+        <text>calculatepass</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEdldElzUHR0QWxsb3dlZEZvckxpc3RpbmdzUmVzcG9uc2UgcmVzID0KICAgICAgICBhcnViYS5nZXRJc1B0dEFsbG93ZWRGb3JMaXN0aW5ncygKICAgICAgICAgICAgU2VydmljZVJlcXVlc3RGYWN0b3J5LmNyZWF0ZVNlcnZpY2VSZXF1ZXN0V2l0aEVtcHR5UmVxdWVzdENvbnRleHQoCiAgICAgICAgICAgICAgICBuZXcgR2V0SXNQdHRBbGxvd2VkRm9yTGlzdGluZ3NSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5zZXRMaXN0aW5nSWRzKEltbXV0YWJsZUxpc3Qub2YoMUwsIDJMKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
@@ -1314,9 +1317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setArubaC</last-search>
+      <last-search>calculatepass</last-search>
       <last-offset />
-      <last-pattern>setArubaC</last-pattern>
+      <last-pattern>calculatepass</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1360,6 +1363,7 @@
         <entry>isptt</entry>
         <entry>setArubaCon</entry>
         <entry>setArubaC</entry>
+        <entry>calculatepass</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
