@@ -232,8 +232,8 @@
       <file name="$USER_HOME$/repos/braavos/src/test/resources/irsReports/taxInfos.json" timestamp="1516901099919">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1535761795939">
-        <mark key="'" line="545" column="15" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1562868628313">
+        <mark key="'" line="659" column="32" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/reports/mtl/MTLv3PayoutAllocationTest.scala" timestamp="1516692390536">
         <mark key="'" line="28" column="67" />
@@ -324,8 +324,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1562737385552">
-        <mark key="'" line="609" column="44" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1562868589704">
+        <mark key="'" line="429" column="29" />
         <mark key="[" line="591" column="38" />
         <mark key="]" line="591" column="44" />
         <mark key="." line="591" column="44" />
@@ -902,8 +902,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1562686581428">
         <mark key="'" line="172" column="17" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1562865298102">
-        <mark key="'" line="99" column="9" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1562868600398">
+        <mark key="'" line="209" column="24" />
         <mark key="[" line="393" column="3" />
         <mark key="]" line="393" column="3" />
         <mark key="^" line="393" column="3" />
@@ -1184,12 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="25" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
-      <jump line="161" column="25" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
-      <jump line="186" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
-      <jump line="69" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="70" column="11" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="21" column="41" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
       <jump line="32" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="23" column="41" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
       <jump line="114" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
@@ -1284,6 +1278,12 @@
       <jump line="7" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/taxengine/rules/TaxRuleMethod.java" />
       <jump line="14" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/taxengine/rules/CategoryAndNatureAssignmentRule.java" />
       <jump line="8" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/taxengine/params/CategoryAndNatureAssignmentParams.java" />
+      <jump line="204" column="40" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="1148" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="429" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="209" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="569" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="659" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1293,7 +1293,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>getrolloutsfor</text>
+        <text>createrollout</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEdldElzUHR0QWxsb3dlZEZvckxpc3RpbmdzUmVzcG9uc2UgcmVzID0KICAgICAgICBhcnViYS5nZXRJc1B0dEFsbG93ZWRGb3JMaXN0aW5ncygKICAgICAgICAgICAgU2VydmljZVJlcXVlc3RGYWN0b3J5LmNyZWF0ZVNlcnZpY2VSZXF1ZXN0V2l0aEVtcHR5UmVxdWVzdENvbnRleHQoCiAgICAgICAgICAgICAgICBuZXcgR2V0SXNQdHRBbGxvd2VkRm9yTGlzdGluZ3NSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5zZXRMaXN0aW5nSWRzKEltbXV0YWJsZUxpc3Qub2YoMUwsIDJMKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
@@ -1330,9 +1330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getrolloutsfor</last-search>
+      <last-search>createrollout</last-search>
       <last-offset />
-      <last-pattern>getrolloutsfor</last-pattern>
+      <last-pattern>createrollout</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1388,6 +1388,7 @@
         <entry encoding="base64">XDxidWlsZEZsZXhpYmxlRmllbGRzRm9yTGluZUl0ZW1cPg==</entry>
         <entry encoding="base64">XDxidWlsZExpbmVJdGVtUVNJXD4=</entry>
         <entry>getrolloutsfor</entry>
+        <entry>createrollout</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
