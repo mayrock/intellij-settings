@@ -324,7 +324,7 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1562872299076">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1562874024575">
         <mark key="'" line="188" column="54" />
         <mark key="[" line="591" column="38" />
         <mark key="]" line="591" column="44" />
@@ -406,10 +406,9 @@
         <mark key="'" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/taxengine/rules/TaxRuleMethod.java" timestamp="1562865940214">
-        <mark key="'" line="7" column="55" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/revenue/R2AAToAcceptedRevenueBuilderSpec.scala" timestamp="1516689305157">
         <mark key="'" line="331" column="24" />
@@ -431,6 +430,13 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" timestamp="1562350923831">
         <mark key="'" line="177" column="23" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" timestamp="1562874214271">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="5" column="86" />
+        <mark key="]" line="5" column="86" />
+        <mark key="." line="5" column="86" />
+        <mark key="^" line="5" column="85" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/build/libs/api-dropwizard1.0.jar!/com/airbnb/micasa/api/TypedModel.class" timestamp="1524073678416">
         <mark key="'" line="648" column="0" />
@@ -899,8 +905,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1562686581428">
-        <mark key="'" line="172" column="17" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1562874193204">
+        <mark key="'" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1562868600398">
         <mark key="'" line="209" column="24" />
@@ -1037,8 +1043,8 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="57" column="46" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" timestamp="1562865230128">
-        <mark key="'" line="17" column="34" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" timestamp="1562874180493">
+        <mark key="'" line="43" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/text/normalizer/NormalizerBase.class" timestamp="1527530864886">
         <mark key="'" line="544" column="34" />
@@ -1184,14 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="41" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
-      <jump line="114" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="180" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="198" column="5" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="112" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="183" column="5" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="22" column="41" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
-      <jump line="83" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="5" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="12" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="16" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
@@ -1284,6 +1282,14 @@
       <jump line="569" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="659" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="188" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="205" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="421" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="488" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="120" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="137" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1293,7 +1299,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>factory</text>
+        <text>negative</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEdldElzUHR0QWxsb3dlZEZvckxpc3RpbmdzUmVzcG9uc2UgcmVzID0KICAgICAgICBhcnViYS5nZXRJc1B0dEFsbG93ZWRGb3JMaXN0aW5ncygKICAgICAgICAgICAgU2VydmljZVJlcXVlc3RGYWN0b3J5LmNyZWF0ZVNlcnZpY2VSZXF1ZXN0V2l0aEVtcHR5UmVxdWVzdENvbnRleHQoCiAgICAgICAgICAgICAgICBuZXcgR2V0SXNQdHRBbGxvd2VkRm9yTGlzdGluZ3NSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5zZXRMaXN0aW5nSWRzKEltbXV0YWJsZUxpc3Qub2YoMUwsIDJMKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
@@ -1330,9 +1336,9 @@
       </register>
     </registers>
     <search>
-      <last-search>factory</last-search>
+      <last-search>negative</last-search>
       <last-offset />
-      <last-pattern>factory</last-pattern>
+      <last-pattern>negative</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1355,7 +1361,6 @@
         <entry>sabrixs</entry>
         <entry>====</entry>
         <entry encoding="base64">XDxyb2xsb3V0TWFuYWdlclw+</entry>
-        <entry>negative</entry>
         <entry encoding="base64">XDxORUdBVElWRV9QUklDRV9JVEVNX01FVFJJQ1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzUHJpY2luZ0l0ZW1XaXRoTW9uZXlcPg==</entry>
         <entry encoding="base64">XDxzaG91bGROb3RDaGFyZ2VUb3RcPg==</entry>
@@ -1394,6 +1399,10 @@
         <entry>Node.</entry>
         <entry>inputnode</entry>
         <entry>factory</entry>
+        <entry>taxinput</entry>
+        <entry>input</entry>
+        <entry>convertinput</entry>
+        <entry>negative</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
