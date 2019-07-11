@@ -324,8 +324,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1562868589704">
-        <mark key="'" line="429" column="29" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1562872299076">
+        <mark key="'" line="188" column="54" />
         <mark key="[" line="591" column="38" />
         <mark key="]" line="591" column="44" />
         <mark key="." line="591" column="44" />
@@ -1184,7 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="23" column="41" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
       <jump line="114" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="180" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
@@ -1284,6 +1283,7 @@
       <jump line="209" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="569" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="659" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="188" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1293,7 +1293,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>createrollout</text>
+        <text>factory</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEdldElzUHR0QWxsb3dlZEZvckxpc3RpbmdzUmVzcG9uc2UgcmVzID0KICAgICAgICBhcnViYS5nZXRJc1B0dEFsbG93ZWRGb3JMaXN0aW5ncygKICAgICAgICAgICAgU2VydmljZVJlcXVlc3RGYWN0b3J5LmNyZWF0ZVNlcnZpY2VSZXF1ZXN0V2l0aEVtcHR5UmVxdWVzdENvbnRleHQoCiAgICAgICAgICAgICAgICBuZXcgR2V0SXNQdHRBbGxvd2VkRm9yTGlzdGluZ3NSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5zZXRMaXN0aW5nSWRzKEltbXV0YWJsZUxpc3Qub2YoMUwsIDJMKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
@@ -1330,9 +1330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createrollout</last-search>
+      <last-search>factory</last-search>
       <last-offset />
-      <last-pattern>createrollout</last-pattern>
+      <last-pattern>factory</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1389,6 +1389,11 @@
         <entry encoding="base64">XDxidWlsZExpbmVJdGVtUVNJXD4=</entry>
         <entry>getrolloutsfor</entry>
         <entry>createrollout</entry>
+        <entry>future</entry>
+        <entry>node.</entry>
+        <entry>Node.</entry>
+        <entry>inputnode</entry>
+        <entry>factory</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
