@@ -431,6 +431,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotRolloutDAO.java" timestamp="1562350923831">
         <mark key="'" line="177" column="23" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1563052267450">
+        <mark key="'" line="94" column="55" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" timestamp="1562874214271">
         <mark key="[" line="5" column="86" />
         <mark key="]" line="5" column="86" />
@@ -777,6 +780,10 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1562127837696">
         <mark key="'" line="160" column="28" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/CacheConfig.java" timestamp="1563052413413">
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="66" column="48" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/collection/HashMap.java" timestamp="1527821174128">
         <mark key="'" line="146" column="42" />
       </file>
@@ -910,8 +917,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1563050984190">
-        <mark key="'" line="104" column="38" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1563052243765">
+        <mark key="'" line="112" column="22" />
         <mark key="[" line="404" column="3" />
         <mark key="]" line="404" column="3" />
         <mark key="^" line="404" column="3" />
@@ -1051,6 +1058,9 @@
       <file name="$USER_HOME$/repos/apps/android/.okbuck/cache/com.airbnb.android.epoxy-2.14.0-sources.jar!/com/airbnb/epoxy/EpoxyModel.java" timestamp="1531986798286">
         <mark key="'" line="334" column="16" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/KeyValueStoreModule.java" timestamp="1563052282280">
+        <mark key="'" line="202" column="33" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1530161445414">
         <mark key="'" line="215" column="31" />
       </file>
@@ -1189,13 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
-      <jump line="21" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
-      <jump line="158" column="25" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
-      <jump line="399" column="24" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
-      <jump line="410" column="23" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
-      <jump line="419" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
-      <jump line="148" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
       <jump line="219" column="22" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
       <jump line="352" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
       <jump line="143" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
@@ -1289,19 +1292,26 @@
       <jump line="720" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="93" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="104" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="137" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="368" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="111" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="112" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="362" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="94" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="202" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/KeyValueStoreModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>tot-rollout-by-vertex-rollout-id</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>isptt</text>
+        <text>writethrou</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEdldElzUHR0QWxsb3dlZEZvckxpc3RpbmdzUmVzcG9uc2UgcmVzID0KICAgICAgICBhcnViYS5nZXRJc1B0dEFsbG93ZWRGb3JMaXN0aW5ncygKICAgICAgICAgICAgU2VydmljZVJlcXVlc3RGYWN0b3J5LmNyZWF0ZVNlcnZpY2VSZXF1ZXN0V2l0aEVtcHR5UmVxdWVzdENvbnRleHQoCiAgICAgICAgICAgICAgICBuZXcgR2V0SXNQdHRBbGxvd2VkRm9yTGlzdGluZ3NSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5zZXRMaXN0aW5nSWRzKEltbXV0YWJsZUxpc3Qub2YoMUwsIDJMKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
+        <text>tot-rollout-by-vertex-rollout-id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -1335,9 +1345,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isptt</last-search>
+      <last-search>writethrou</last-search>
       <last-offset />
-      <last-pattern>isptt</last-pattern>
+      <last-pattern>writethrou</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1366,6 +1376,9 @@
         <entry>convertinput</entry>
         <entry>negative</entry>
         <entry>isptt</entry>
+        <entry encoding="base64">XDxnZXRWZXJ0ZXhSb2xsb3V0c0Zvckxpc3RpbmdcPg==</entry>
+        <entry encoding="base64">XDx0b3RSb2xsb3V0c09mVmVydGV4Um9sbG91dElkQ2FjaGVcPg==</entry>
+        <entry>writethrou</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
