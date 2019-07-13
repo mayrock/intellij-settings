@@ -324,8 +324,8 @@
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/reports/subledger/subledger_event_converter/BookEventHandler.scala" timestamp="1526338383758">
         <mark key="'" line="350" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1562874024575">
-        <mark key="'" line="188" column="54" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1563047440432">
+        <mark key="'" line="80" column="57" />
         <mark key="[" line="591" column="38" />
         <mark key="]" line="591" column="44" />
         <mark key="." line="591" column="44" />
@@ -1189,7 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="12" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="16" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/homes_common/src/homes_price_data.thrift" />
       <jump line="13" column="43" filename="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" />
@@ -1289,6 +1288,7 @@
       <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" />
       <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="16" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.java" />
+      <jump line="80" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1298,7 +1298,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>negative</text>
+        <text>isptt</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEdldElzUHR0QWxsb3dlZEZvckxpc3RpbmdzUmVzcG9uc2UgcmVzID0KICAgICAgICBhcnViYS5nZXRJc1B0dEFsbG93ZWRGb3JMaXN0aW5ncygKICAgICAgICAgICAgU2VydmljZVJlcXVlc3RGYWN0b3J5LmNyZWF0ZVNlcnZpY2VSZXF1ZXN0V2l0aEVtcHR5UmVxdWVzdENvbnRleHQoCiAgICAgICAgICAgICAgICBuZXcgR2V0SXNQdHRBbGxvd2VkRm9yTGlzdGluZ3NSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5zZXRMaXN0aW5nSWRzKEltbXV0YWJsZUxpc3Qub2YoMUwsIDJMKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
@@ -1335,9 +1335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>negative</last-search>
+      <last-search>isptt</last-search>
       <last-offset />
-      <last-pattern>negative</last-pattern>
+      <last-pattern>isptt</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,43 +1345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>taxrule</entry>
-        <entry>TaxRule</entry>
-        <entry>TAX_RULE_DATA</entry>
-        <entry encoding="base64">XDxUQVhfUlVMRV9EQVRBX0NBQ0hFX1BSRUZJWFw+</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZVRheFJ1bGVEYXRhQ2FjaGVLZXlcPg==</entry>
-        <entry encoding="base64">XDx0b3RSb2xsb3V0c09mVmVydGV4Um9sbG91dElkQ2FjaGVcPg==</entry>
-        <entry encoding="base64">XDxUT1RfUk9MTE9VVFNfT0ZfSlVSSVNESUNUSU9OXD4=</entry>
-        <entry encoding="base64">Um9sbG91dD4=</entry>
-        <entry encoding="base64">XDxUeXBlVG9rZW5cPg==</entry>
-        <entry encoding="base64">XDxJbmplY3RKdXJpc2RpY3Rpb25TdG9yZVw+</entry>
-        <entry>injectsabrix</entry>
-        <entry>sabrix</entry>
-        <entry>sabrixs</entry>
-        <entry>====</entry>
-        <entry encoding="base64">XDxyb2xsb3V0TWFuYWdlclw+</entry>
-        <entry encoding="base64">XDxORUdBVElWRV9QUklDRV9JVEVNX01FVFJJQ1w+</entry>
-        <entry encoding="base64">XDxwcm9jZXNzUHJpY2luZ0l0ZW1XaXRoTW9uZXlcPg==</entry>
-        <entry encoding="base64">XDxzaG91bGROb3RDaGFyZ2VUb3RcPg==</entry>
-        <entry encoding="base64">XDxDdXJyZW5jeVw+</entry>
-        <entry encoding="base64">XDx0ZXN0R2V0Um9sbG91dFN0YXR1c0Zvckxpc3RpbmdJbnRlcm5hbF93aXRoQ3VycmVuY3lcPg==</entry>
-        <entry encoding="base64">XDxKVVJJU0RJQ1RJT05fQ1VSUkVOQ1lfU1lNQk9MXD4=</entry>
-        <entry>USD</entry>
-        <entry>payment_period</entry>
-        <entry>micro</entry>
-        <entry encoding="base64">XDxQcmljZUFtb3VudEN1cnJlbmN5XD4=</entry>
-        <entry encoding="base64">XDxQcmljZVdpdGhEYXRlXD4=</entry>
-        <entry>response</entry>
-        <entry>paymentperiod</entry>
-        <entry encoding="base64">XDxDdXN0b21Mb25nVGVybVByaWNlc1w+</entry>
-        <entry>longterm</entry>
-        <entry>getrolloutsby</entry>
-        <entry>getisptt</entry>
-        <entry>isptt</entry>
-        <entry>setArubaCon</entry>
-        <entry>setArubaC</entry>
-        <entry>calculatepass</entry>
-        <entry>guest_fee</entry>
         <entry>guestfee</entry>
         <entry>guest</entry>
         <entry>guestf</entry>
@@ -1402,6 +1365,7 @@
         <entry>input</entry>
         <entry>convertinput</entry>
         <entry>negative</entry>
+        <entry>isptt</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
