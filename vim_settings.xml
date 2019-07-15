@@ -828,12 +828,12 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/HomeTourBaseFragment.kt" timestamp="1532021019588">
         <mark key="'" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563227647488">
-        <mark key="'" line="121" column="2" />
-        <mark key="[" line="63" column="48" />
-        <mark key="]" line="63" column="49" />
-        <mark key="^" line="63" column="51" />
-        <mark key="." line="63" column="49" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563228808574">
+        <mark key="'" line="246" column="2" />
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="55" column="43" />
+        <mark key="^" line="55" column="43" />
+        <mark key="." line="55" column="43" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/refined/CompactUserCountriesOfResidence.scala" timestamp="1516692997205">
         <mark key="'" line="17" column="40" />
@@ -1228,7 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegateTest.java" />
       <jump line="94" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegateTest.java" />
       <jump line="310" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegateTest.java" />
       <jump line="53" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/Constants.java" />
@@ -1328,10 +1327,11 @@
       <jump line="151" column="95" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="43" column="19" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="121" column="2" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="246" column="2" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text>other_data</text>
       </register>
       <register name="-" type="4">
         <text>other_data</text>
