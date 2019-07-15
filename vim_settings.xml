@@ -909,6 +909,9 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1563154851474">
+        <mark key="'" line="140" column="29" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1563052243765">
         <mark key="[" line="393" column="3" />
         <mark key="]" line="393" column="3" />
@@ -1196,8 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="368" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="111" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="112" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="362" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
@@ -1296,6 +1297,8 @@
       <jump line="13" column="36" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="45" column="34" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="80" column="35" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="127" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="140" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1305,7 +1308,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>currency</text>
+        <text encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>PRODUCT_CLASS_NIGHT_PRICE</text>
@@ -1342,9 +1345,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currency</last-search>
+      <last-search encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>currency</last-pattern>
+      <last-pattern encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1391,6 +1394,7 @@
         <entry encoding="base64">XDxtaWNhc2FDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxOQVRJVkVfQ1VSUkVOQ1lcPg==</entry>
         <entry>currency</entry>
+        <entry encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
