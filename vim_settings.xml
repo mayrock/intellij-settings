@@ -802,12 +802,12 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/HomeTourBaseFragment.kt" timestamp="1532021019588">
         <mark key="'" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563209340823">
-        <mark key="'" line="173" column="14" />
-        <mark key="[" line="171" column="36" />
-        <mark key="]" line="171" column="39" />
-        <mark key="." line="171" column="39" />
-        <mark key="^" line="171" column="39" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563212840623">
+        <mark key="'" line="72" column="53" />
+        <mark key="[" line="177" column="14" />
+        <mark key="]" line="177" column="14" />
+        <mark key="." line="177" column="14" />
+        <mark key="^" line="177" column="14" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/refined/CompactUserCountriesOfResidence.scala" timestamp="1516692997205">
         <mark key="'" line="17" column="40" />
@@ -1199,8 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="202" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/KeyValueStoreModule.java" />
       <jump line="31" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/WriteThroughStoreConfig.java" />
       <jump line="272" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegateTest.java" />
       <jump line="109" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegateTest.java" />
@@ -1299,16 +1297,18 @@
       <jump line="28" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="52" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="169" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="33" column="51" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="72" column="53" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b25lIA==</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b25lIA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</text>
+        <text>reservationAttributes</text>
       </register>
       <register name="0" type="4">
         <text>TaxItemReservationAttributes</text>
@@ -1345,9 +1345,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</last-search>
+      <last-search>reservationAttributes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</last-pattern>
+      <last-pattern>reservationAttributes</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1396,6 +1396,7 @@
         <entry>currency</entry>
         <entry encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</entry>
         <entry encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</entry>
+        <entry>reservationAttributes</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
