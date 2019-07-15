@@ -802,12 +802,12 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/HomeTourBaseFragment.kt" timestamp="1532021019588">
         <mark key="'" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563154812359">
-        <mark key="'" line="80" column="35" />
-        <mark key="[" line="93" column="28" />
-        <mark key="]" line="94" column="31" />
-        <mark key="^" line="94" column="31" />
-        <mark key="." line="94" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563204374397">
+        <mark key="'" line="172" column="14" />
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="66" column="4" />
+        <mark key="." line="66" column="4" />
+        <mark key="^" line="66" column="2" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/refined/CompactUserCountriesOfResidence.scala" timestamp="1516692997205">
         <mark key="'" line="17" column="40" />
@@ -1199,9 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="112" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="362" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="94" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="202" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/KeyValueStoreModule.java" />
       <jump line="31" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/WriteThroughStoreConfig.java" />
@@ -1299,55 +1296,58 @@
       <jump line="80" column="35" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="127" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="140" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="28" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="52" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="169" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</text>
+        <text encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>PRODUCT_CLASS_NIGHT_PRICE</text>
+        <text>TaxPriceItemAttributes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAxOiBvcHRpb25hbCBpNjQgbmlnaHRzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAxOiBvcHRpb25hbCBpNjQgbmlnaHRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAzOiBvcHRpb25hbCBpNjQgcGF5bWVudFBlcmlvZE5pZ2h0Q291bnQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogIHByaXZhdGUgaW50IGdldExpbmVJdGVtQ291bnRQZXJOaWdodCgpIHsKICAgIC8vIENBTkNFTExBVElPTiBGRUUgYW5kIEhPU1QgRkVFIHdvbid0IGhhdmUgbGluZSBpdGVtcy4KICAgIHJldHVybiBwcmljaW5nSXRlbXMubGVuZ3RoKCkgLSAyOwogIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAyOiBvcHRpb25hbCBkYXRlIHBheW1lbnRQZXJpb2RTdGFydERhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIENBTkNFTExBVElPTiBGRUUgYW5kIEhPU1QgRkVFIHdvbid0IGhhdmUgbGluZSBpdGVtcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0IChNYXRoLmFicyhleHBlY3RlZFByaWNlIC0gYWN0dWFsUHJpY2UpIDwgRkxPQVRfRVJST1JfVEhSRVNIT0xEKTsK</text>
+        <text encoding="base64">ICA3OiBvcHRpb25hbCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IEZMT0FUX0VSUk9SX1RIUkVTSE9MRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAoTWF0aC5hYnMoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1395,6 +1395,7 @@
         <entry encoding="base64">XDxOQVRJVkVfQ1VSUkVOQ1lcPg==</entry>
         <entry>currency</entry>
         <entry encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nXD4=</entry>
+        <entry encoding="base64">XDxUYXhQcmljZUl0ZW1BdHRyaWJ1dGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
