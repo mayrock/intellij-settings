@@ -42,6 +42,13 @@
       <file name="$USER_HOME$/repos/apps/android/flavor.full/src/main/java/com/airbnb/android/flavor/full/activities/HomeActivity.java" timestamp="1532022894325">
         <mark key="'" line="199" column="47" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" timestamp="1563311958541">
+        <mark key="'" line="467" column="14" />
+        <mark key="[" line="123" column="4" />
+        <mark key="]" line="123" column="41" />
+        <mark key="^" line="123" column="41" />
+        <mark key="." line="123" column="41" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/3.1.2/e7ea6428a95c689bbfbc426e0e5257f3e63eaca5/metrics-healthchecks-3.1.2-sources.jar!/com/codahale/metrics/health/HealthCheck.java" timestamp="1509658437497">
         <mark key="'" line="10" column="24" />
       </file>
@@ -1228,7 +1235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegateTest.java" />
       <jump line="104" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegateTest.java" />
       <jump line="103" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
       <jump line="105" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
@@ -1328,13 +1334,14 @@
       <jump line="128" column="58" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="45" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="80" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="465" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepositoryTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKioK</text>
+      <register name="&quot;" type="4">
+        <text>arubaco</text>
       </register>
       <register name="-" type="4">
-        <text>other_data</text>
+        <text>arubaco</text>
       </register>
       <register name="/" type="4">
         <text>guest</text>
