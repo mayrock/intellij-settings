@@ -828,12 +828,9 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/HomeTourBaseFragment.kt" timestamp="1532021019588">
         <mark key="'" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563229942997">
-        <mark key="'" line="128" column="58" />
-        <mark key="[" line="13" column="66" />
-        <mark key="]" line="13" column="77" />
-        <mark key="^" line="13" column="77" />
-        <mark key="." line="13" column="77" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563308630222">
+        <mark key="'" line="80" column="32" />
+        <mark key="[" line="93" column="28" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/refined/CompactUserCountriesOfResidence.scala" timestamp="1516692997205">
         <mark key="'" line="17" column="40" />
@@ -1287,7 +1284,6 @@
       <jump line="85" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/Model.java" />
       <jump line="600" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/Model.java" />
       <jump line="149" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/Model.java" />
-      <jump line="80" column="35" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="127" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="140" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="28" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
@@ -1307,7 +1303,6 @@
       <jump line="237" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/store/KeyValueStoreTest.java" />
       <jump line="231" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
       <jump line="20" column="57" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="45" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="9" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="13" column="27" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
@@ -1328,10 +1323,12 @@
       <jump line="51" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="741" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
       <jump line="128" column="58" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="45" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="80" column="32" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>other_data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="-" type="4">
         <text>other_data</text>
@@ -1343,31 +1340,31 @@
         <text encoding="base64">ICAgIGFzc2VydFRydWUoY2FwdHVyZWRDb250ZXh0LmdldCgpLmdldFNob3VsZEhhbmRsZVZlcnRleCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA1OiBvcHRpb25hbCBqc29uX29iamVjdCB0YXhJdGVtRGV0YWlscwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA1OiBvcHRpb25hbCBqc29uX29iamVjdCB0YXhJdGVtRGV0YWlscyAocHJpdmF0ZV9kYXRhKQo=</text>
+        <text encoding="base64">ICA1OiBvcHRpb25hbCBqc29uX29iamVjdCB0YXhJdGVtRGV0YWlscwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICA1OiBvcHRpb25hbCBqc29uX29iamVjdCB0YXhJdGVtRGV0YWlscyAocHJpdmF0ZV9kYXRhKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICB2YWwgY3R4ID0gQXJ1YmFDb250ZXh0LkNvbXBhbmlvbi5idWlsZGVyKCkuc2NlbmFyaW8oIkdldElzUHR0QWxsb3dlZEZvckxpc3RpbmdzU2NlbmFyaW8iKS5idWlsZCgpOwogICAgQXJ1YmFDb250ZXh0LkNvbXBhbmlvbi5zZXRDdXJyZW50KGN0eCk7CiAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGFzc2VydEZhbHNlKHRlc3RTdG9yZS5pbnZhbGlkYXRlKGtleSkuam9pbigpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW5UaHJvdyhuZXcgUnVudGltZUV4Y2VwdGlvbigiU2hvdWxkIGJlIGlnbm9yZWQiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1380,44 +1377,10 @@
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>customer</entry>
-        <entry>flexi</entry>
-        <entry>getrolloutsfor</entry>
-        <entry>createrollout</entry>
-        <entry>future</entry>
-        <entry>node.</entry>
-        <entry>Node.</entry>
-        <entry>inputnode</entry>
-        <entry>factory</entry>
-        <entry>taxinput</entry>
-        <entry>input</entry>
-        <entry>convertinput</entry>
-        <entry>negative</entry>
-        <entry encoding="base64">XDxnZXRWZXJ0ZXhSb2xsb3V0c0Zvckxpc3RpbmdcPg==</entry>
-        <entry encoding="base64">XDx0b3RSb2xsb3V0c09mVmVydGV4Um9sbG91dElkQ2FjaGVcPg==</entry>
-        <entry>writethrou</entry>
-        <entry>day_number</entry>
-        <entry>checkf</entry>
-        <entry>day_num</entry>
-        <entry>night_count</entry>
-        <entry encoding="base64">XDxGTE9BVF9FUlJPUl9USFJFU0hPTERcPg==</entry>
-        <entry encoding="base64">XDxwcmljaW5nSXRlbXNcPg==</entry>
-        <entry>pricingite</entry>
-        <entry encoding="base64">XDxQcmljaW5nSXRlbVdpdGhNb25leVw+</entry>
-        <entry encoding="base64">XDxnZXRGbGV4aWJsZUNvZGVUeXBlTWFwXD4=</entry>
-        <entry>- 2</entry>
-        <entry encoding="base64">XDxnZXRMaW5lSXRlbUNvdW50UGVyTmlnaHRcPg==</entry>
-        <entry encoding="base64">XDxjaGVja0ZsZXhpYmxlRmllbGRzXD4=</entry>
-        <entry>nightly</entry>
-        <entry encoding="base64">XDxiYXNlUHJpY2VQcm9kdWN0XD4=</entry>
-        <entry encoding="base64">XDxnZXRGbGV4aWJsZU51bWVyaWNUeXBlTWFwXD4=</entry>
-        <entry encoding="base64">XDxidWlsZEZsZXhpYmxlRmllbGRzRm9yTGluZUl0ZW1cPg==</entry>
-        <entry encoding="base64">XDxidWlsZExpbmVJdGVtUVNJXD4=</entry>
-        <entry encoding="base64">XDxjYWxjdWxhdGVBdmdOaWdodGx5UHJpY2VcPg==</entry>
         <entry>micasa</entry>
         <entry encoding="base64">XDxtaWNhc2FDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxOQVRJVkVfQ1VSUkVOQ1lcPg==</entry>
