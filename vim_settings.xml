@@ -1174,12 +1174,12 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactory.java" timestamp="1563570512758">
-        <mark key="'" line="151" column="50" />
-        <mark key="[" line="107" column="51" />
-        <mark key="]" line="107" column="56" />
-        <mark key="." line="107" column="56" />
-        <mark key="^" line="107" column="56" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactory.java" timestamp="1563573073544">
+        <mark key="'" line="56" column="31" />
+        <mark key="[" line="82" column="25" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="101" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/model/braavos_data/helper/MagicalTripPlatformEventConverter.scala" timestamp="1511852991184">
         <mark key="'" line="20" column="11" />
@@ -1268,8 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="487" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
-      <jump line="40" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" />
       <jump line="337" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="398" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="413" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
@@ -1368,46 +1366,48 @@
       <jump line="203" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="474" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="151" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactory.java" />
+      <jump line="56" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactory.java" />
+      <jump line="275" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiAhcmVxLnNob3VsZE5vdENoYXJnZVRvdCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>TOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJ0Q2FsY3VsYXRlZFRheFRvVGF4SXRlbVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGtleSA9PSBudWxsKSByZXR1cm4gbnVsbDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBOb2RlPEJvb2xlYW4+IHNob3VsZENhbGN1bGF0ZVRPVE5vZGUgPQogICAgICAgIHJlcU5vZGUubWFwKAogICAgICAgICAgICAic2hvdWxkQ2FsY3VsYXRlVE9UIiwKICAgICAgICAgICAgcmVxIC0+CiAgICAgICAgICAgICAgICBUYXhRdW90YXRpb25Bc3luY0NvbW1hbmQuVkNBX1RBWF9UWVBFUy5maW5kKHJlcTo6c2hvdWxkQ2FsY3VsYXRlRm9yVHlwZSkuaXNEZWZpbmVkKCkKICAgICAgICAgICAgICAgICAgICAmJiAhcmVxLnNob3VsZE5vdENoYXJnZVRvdCgpKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBATm90TnVsbCBwcml2YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiAhcmVxLnNob3VsZE5vdENoYXJnZVRvdCgpKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRUeXBlKGNvbnZlcnRUYXhUeXBlVG9UYXhBdXRob3JpdHlUeXBlKHRheC5nZXRUYXhUeXBlKCkpKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgJiY=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXROYW1lKHRheC5nZXRUYXhBdXRob3JpdHlOYW1lKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRheFF1b3RhdGlvbkFzeW5jQ29tbWFuZC5WQ0FfVEFYX1RZUEVTLmZpbmQocmVxOjpzaG91bGRDYWxjdWxhdGVGb3JUeXBlKS5pc0RlZmluZWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IGNvbS5haXJibmIucGF5bWVudHMudGF4LmNvbW1vbi5hcGkuVGF4QXV0aG9yaXR5LkJ1aWxkZXIoKQo=</text>
+        <text encoding="base64">ICBATm90TnVsbCBwcml2YXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0VGF4QXV0aG9yaXR5KAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRUeXBlKGNvbnZlcnRUYXhUeXBlVG9UYXhBdXRob3JpdHlUeXBlKHRheC5nZXRUYXhUeXBlKCkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXROYW1lKHRheC5nZXRUYXhBdXRob3JpdHlOYW1lKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IGNvbS5haXJibmIucGF5bWVudHMudGF4LmNvbW1vbi5hcGkuVGF4QXV0aG9yaXR5LkJ1aWxkZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiBTZXQgbGlzdGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0VGF4QXV0aG9yaXR5KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnREYXRlKHJlcXVlc3QuZ2V0U3RhcnREYXRlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1530,6 +1530,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
