@@ -856,10 +856,11 @@
       <file name="$USER_HOME$/repos/apps/android/p3/src/main/java/com/airbnb/android/p3/HomeTourBaseFragment.kt" timestamp="1532021019588">
         <mark key="'" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563577470288">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1563814449340">
+        <mark key="[" line="93" column="28" />
+        <mark key="]" line="94" column="36" />
+        <mark key="." line="94" column="36" />
+        <mark key="^" line="94" column="36" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos/models/refined/CompactUserCountriesOfResidence.scala" timestamp="1516692997205">
         <mark key="'" line="17" column="40" />
@@ -1178,11 +1179,11 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactory.java" timestamp="1563576610781">
-        <mark key="[" line="81" column="44" />
-        <mark key="]" line="81" column="45" />
-        <mark key="." line="81" column="45" />
-        <mark key="^" line="81" column="46" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactory.java" timestamp="1563814195183">
+        <mark key="[" line="102" column="31" />
+        <mark key="]" line="102" column="33" />
+        <mark key="." line="102" column="33" />
+        <mark key="^" line="102" column="33" />
       </file>
       <file name="$USER_HOME$/repos/braavos/src/main/scala/com/airbnb/braavos2/model/braavos_data/helper/MagicalTripPlatformEventConverter.scala" timestamp="1511852991184">
         <mark key="'" line="20" column="11" />
@@ -1373,8 +1374,8 @@
       <jump line="94" column="36" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAxMjogb3B0aW9uYWwgc3RyaW5nIGxpc3RpbmdDdXJyZW5jeQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIE5vZGU8Q2FsY3VsYXRlVE9UUmVxdWVzdD4gY3VycmVuY3lDb252ZXJ0ZWRSZXFOb2RlID0KICAgICAgICBOb2RlLmNvbWJpbmUoCiAgICAgICAgICAgICJnZXRDdXJyZW5jeUNvbnZlcnRlZFJlcSIsCiAgICAgICAgICAgIHJlcU5vZGUsCiAgICAgICAgICAgIHJvbGxvdXRTdGF0dXNOb2RlLAogICAgICAgICAgICAocmVxLCByb2xsb3V0U3RhdHVzKSAtPgogICAgICAgICAgICAgICAgdGF4UXVvdGF0aW9uQXN5bmNDb21tYW5kLmNvbnZlcnRJbnB1dFByaWNpbmdDdXJyZW5jeSgKICAgICAgICAgICAgICAgICAgICByZXEsIHJvbGxvdXRTdGF0dXMuZ2V0UmVtaXR0YW5jZUN1cnJlbmN5KCkpKTs=</text>
       </register>
       <register name="-" type="4">
         <text>notRolloutOutNode</text>
@@ -1382,8 +1383,8 @@
       <register name="/" type="4">
         <text>arubadatare</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlLjxCb29sZWFuPmlmQ29uZGl0aW9uKHNob3VsZENhbGN1bGF0ZVZDQU5vZGUpCiAgICAgIC5pZlRydWUoCiAgICAgICAgcm9sbG91dFN0YXR1c05vZGUubWFwKCJpc1ZDQVJvbGxlZE91dCIsIFJvbGxvdXRTdGF0dXM6OmlzRW5hYmxlZCkpCiAgICAgIC5pZkZhbHNlKE5vZGUudmFsdWUoIm5vdFJvbGxvdXRPdXROb2RlIiwgZmFsc2UpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIE5vZGU8Q2FsY3VsYXRlVE9UUmVxdWVzdD4gY3VycmVuY3lDb252ZXJ0ZWRSZXFOb2RlID0KICAgICAgICBOb2RlLmNvbWJpbmUoCiAgICAgICAgICAgICJnZXRDdXJyZW5jeUNvbnZlcnRlZFJlcSIsCiAgICAgICAgICAgIHJlcU5vZGUsCiAgICAgICAgICAgIHJvbGxvdXRTdGF0dXNOb2RlLAogICAgICAgICAgICAocmVxLCByb2xsb3V0U3RhdHVzKSAtPgogICAgICAgICAgICAgICAgdGF4UXVvdGF0aW9uQXN5bmNDb21tYW5kLmNvbnZlcnRJbnB1dFByaWNpbmdDdXJyZW5jeSgKICAgICAgICAgICAgICAgICAgICByZXEsIHJvbGxvdXRTdGF0dXMuZ2V0UmVtaXR0YW5jZUN1cnJlbmN5KCkpKTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAxMjogb3B0aW9uYWwgc3RyaW5nIGxpc3RpbmdDdXJyZW5jeQo=</text>
