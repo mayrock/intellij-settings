@@ -73,10 +73,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" timestamp="1530298950543">
         <mark key="'" line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1563831790050">
-        <mark key="'" line="316" column="13" />
-        <mark key="[" line="316" column="57" />
-      </file>
       <file name="$USER_HOME$/repos/braavos/src/test/scala/com/airbnb/braavos/builders/reservation/ReservationDataPublisherSpec.scala" timestamp="1511827132315">
         <mark key="'" line="22" column="79" />
       </file>
@@ -100,11 +96,9 @@
         <mark key="'" line="177" column="48" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/vat/VatRateDataLoaderTest.java" timestamp="1563577434571">
-        <mark key="'" line="54" column="31" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
-        <mark key="^" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/sabrix/WEB-INF/classes/com/sabrix/te/web/TaxInitializingHttpRequestHandlerServlet.class" timestamp="1521508584289">
         <mark key="'" line="24" column="17" />
@@ -535,7 +529,7 @@
         <mark key="." line="575" column="91" />
         <mark key="^" line="575" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563568305814">
+      <file name="/Dummy.txt" timestamp="1565020333037">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -950,12 +944,11 @@
       <file name="$USER_HOME$/repos/braavos/src/main/resources/data/acceptance_testing/tot/reservations.json" timestamp="1511892423774">
         <mark key="'" line="0" column="570" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1564157545313">
-        <mark key="'" line="141" column="51" />
-        <mark key="[" line="323" column="57" />
-        <mark key="]" line="323" column="57" />
-        <mark key="^" line="332" column="46" />
-        <mark key="." line="323" column="57" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1565020280596">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="71" />
+        <mark key="^" line="367" column="46" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1563052243765">
         <mark key="[" line="393" column="3" />
@@ -1247,7 +1240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.java" />
       <jump line="114" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="178" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="377" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
@@ -1347,6 +1339,7 @@
       <jump line="339" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="362" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="141" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1356,7 +1349,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>convertinp</text>
+        <text>====</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIE5vZGU8Q2FsY3VsYXRlVE9UUmVxdWVzdD4gY3VycmVuY3lDb252ZXJ0ZWRSZXFOb2RlID0KICAgICAgICBOb2RlLmNvbWJpbmUoCiAgICAgICAgICAgICJnZXRDdXJyZW5jeUNvbnZlcnRlZFJlcSIsCiAgICAgICAgICAgIHJlcU5vZGUsCiAgICAgICAgICAgIHJvbGxvdXRTdGF0dXNOb2RlLAogICAgICAgICAgICAocmVxLCByb2xsb3V0U3RhdHVzKSAtPgogICAgICAgICAgICAgICAgdGF4UXVvdGF0aW9uQXN5bmNDb21tYW5kLmNvbnZlcnRJbnB1dFByaWNpbmdDdXJyZW5jeSgKICAgICAgICAgICAgICAgICAgICByZXEsIHJvbGxvdXRTdGF0dXMuZ2V0UmVtaXR0YW5jZUN1cnJlbmN5KCkpKTs=</text>
@@ -1393,9 +1386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>convertinp</last-search>
+      <last-search>====</last-search>
       <last-offset />
-      <last-pattern>convertinp</last-pattern>
+      <last-pattern>====</last-pattern>
       <last-replace>originalListing</last-replace>
       <last-substitute>originalAddress</last-substitute>
       <last-dir>1</last-dir>
@@ -1403,7 +1396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR1cEFsY2hlbWlzdERhdGFMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxjb21iaW5lVmNhQW5kUHR0VGF4SXRlbXNcPg==</entry>
         <entry encoding="base64">XDxDYWxjdWxhdGVUT1RSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDx0YXhRdW90YXRpb25Db21tYW5kXD4=</entry>
@@ -1424,6 +1416,8 @@
         <entry>country</entry>
         <entry>company</entry>
         <entry>convertinp</entry>
+        <entry>==</entry>
+        <entry>====</entry>
       </history-search>
       <history-cmd>
         <entry>%s/98765/SomeString/g</entry>
