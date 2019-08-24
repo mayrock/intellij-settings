@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Scala" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin">
+        <added pattern="com.airbnb.aruba.service.model.TaxCurrencyAmountMicros(currency,taxAmountMicros,taxableAmountMicros,nonTaxableAmountMicros,exemptAmountMicros)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
