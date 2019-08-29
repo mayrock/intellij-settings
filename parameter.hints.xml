@@ -8,5 +8,6 @@
         <added pattern="com.airbnb.aruba.service.model.TaxCurrencyAmountMicros(currency,taxAmountMicros,taxableAmountMicros,nonTaxableAmountMicros,exemptAmountMicros)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>
