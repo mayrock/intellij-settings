@@ -46,6 +46,8 @@
         <entry encoding="base64">XDxwZXJzb25hbF9kYXRhXD4=</entry>
         <entry encoding="base64">XDxUYXhRdW90ZUV4cGVyaWVuY2VEZXRhaWxcPg==</entry>
         <entry>replic</entry>
+        <entry>logging</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -122,19 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587418111290">
-        <mark key="'" line="408" column="45" />
-        <mark key="[" line="436" column="20" />
-        <mark key="]" line="436" column="21" />
-        <mark key="^" line="97" column="21" />
-        <mark key="." line="436" column="21" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1587137610006">
-        <mark key="'" line="543" column="0" />
-        <mark key="[" line="543" column="0" />
-        <mark key="]" line="543" column="0" />
-        <mark key="^" line="542" column="21" />
-        <mark key="." line="543" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587420138726">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="106" />
+        <mark key="]" line="32" column="114" />
+        <mark key="^" line="32" column="114" />
+        <mark key="." line="32" column="113" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1587399920398">
         <mark key="'" line="142" column="20" />
@@ -146,8 +141,8 @@
         <mark key="." line="182" column="89" />
         <mark key="^" line="182" column="90" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1587085108362">
-        <mark key="'" line="60" column="34" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" timestamp="1587420669292">
+        <mark key="'" line="63" column="17" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1587400997063">
         <mark key="'" line="13" column="39" />
@@ -159,11 +154,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/ArubaConfiguration.java" timestamp="1587399800344">
         <mark key="'" line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1587095639986">
-        <mark key="[" line="173" column="34" />
-        <mark key="]" line="174" column="32" />
-        <mark key="." line="174" column="32" />
-        <mark key="^" line="174" column="32" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" timestamp="1587420732644">
+        <mark key="'" line="7" column="19" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/RetryUtil.kt" timestamp="1587400966956">
         <mark key="'" line="60" column="11" />
@@ -176,13 +172,6 @@
         <mark key="." line="102" column="29" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" timestamp="1587402814200" />
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1587097073419">
-        <mark key="'" line="571" column="30" />
-        <mark key="[" line="2144" column="4" />
-        <mark key="]" line="2144" column="65" />
-        <mark key="^" line="2144" column="65" />
-        <mark key="." line="2144" column="65" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" timestamp="1587398634732">
         <mark key="'" line="11" column="47" />
       </file>
@@ -198,28 +187,21 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/circuitbreaker/src/main/java/com/airbnb/common/circuitbreaker/strategies/failurepercentagelimit/FailurePercentageLimitStrategy.java" timestamp="1587157003395">
         <mark key="'" line="89" column="27" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/version" timestamp="1587086093035">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" timestamp="1587420616788">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1587420661917">
+        <mark key="'" line="124" column="55" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/circuitbreaker/ScenarioBasedFireflyHttpClient.kt" timestamp="1587401611517">
         <mark key="'" line="74" column="35" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1587420663638">
+        <mark key="'" line="381" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="47" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="331" column="33" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="335" column="31" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="60" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
-      <jump line="73" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
-      <jump line="301" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
-      <jump line="147" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
-      <jump line="259" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItem.java" />
-      <jump line="519" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="560" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="587" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="464" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="2221" column="74" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="571" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -259,7 +241,6 @@
       <jump line="99" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="242" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="409" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="361" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="419" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="414" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
@@ -308,21 +289,34 @@
       <jump line="399" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="405" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="408" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="436" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="30" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="31" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="174" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="538" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="35" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
+      <jump line="124" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
+      <jump line="381" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" />
+      <jump line="63" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" />
+      <jump line="43" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/4.10/9c7916059b7cc1f34a4574f1c8b5777e965d0066/logstash-logback-encoder-4.10-sources.jar!/net/logstash/logback/marker/Markers.java" />
+      <jump line="7" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Product</text>
+        <text>MetriwLffcUtil</text>
       </register>
       <register name="-" type="4">
-        <text>Product</text>
+        <text>MetriwLffcUtil</text>
       </register>
       <register name="/" type="4">
-        <text>replic</text>
+        <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVydGV4UGltYXJ5Q2xpZW50LAo=</text>
+        <text encoding="base64">b2JqZWN0IE1ldHJpY1V0aWwgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
@@ -358,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>replic</last-search>
+      <last-search encoding="base64">XDxsb2dcPg==</last-search>
       <last-offset />
-      <last-pattern>replic</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
