@@ -27,6 +27,8 @@
         <entry>geteffectiverollout</entry>
         <entry>exemption</entry>
         <entry>cache</entry>
+        <entry>experience</entry>
+        <entry encoding="base64">XDxleHBlcmllbmNlRGV0YWlsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -133,7 +135,7 @@
         <mark key="^" line="542" column="21" />
         <mark key="." line="543" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" timestamp="1587153646904">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" timestamp="1587398634732">
         <mark key="'" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/resources/serviceIdlSchema/idlDataFactories/aruba/getIndirectTaxQuotes/basic.yml" timestamp="1587080848959">
@@ -192,12 +194,12 @@
         <mark key="^" line="212" column="14" />
         <mark key="." line="212" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1587087827824">
-        <mark key="'" line="335" column="31" />
-        <mark key="[" line="376" column="32" />
-        <mark key="]" line="376" column="41" />
-        <mark key="^" line="376" column="41" />
-        <mark key="." line="376" column="41" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1587398787993">
+        <mark key="'" line="95" column="39" />
+        <mark key="[" line="95" column="49" />
+        <mark key="]" line="95" column="56" />
+        <mark key="^" line="95" column="56" />
+        <mark key="." line="95" column="55" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" timestamp="1586983720822">
         <mark key="'" line="579" column="21" />
@@ -208,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2069" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="2" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="508" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="509" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="528" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -308,18 +308,20 @@
       <jump line="89" column="27" filename="$USER_HOME$/airlab/repos/treehouse/common/circuitbreaker/src/main/java/com/airbnb/common/circuitbreaker/strategies/failurepercentagelimit/FailurePercentageLimitStrategy.java" />
       <jump line="14" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
       <jump line="69" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
+      <jump line="377" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="95" column="39" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb3lzdGVyQ2xpZW50Q29uZmlnOgogICAgICAgIGhvc3Q6IG95c3Rlci10ZXN0aW5nLWRpc3BhdGNoZXItc2VjdXJlc3RhY2suc3luYXBzZQogICAgICAgIHBvcnQ6IDcwODYKICAgICAgICBjbGllbnROYW1lOiBhcnViYS1zdGFnaW5nCiAgICAgICAgbWF4UG9vbFNpemU6IDMyCiAgICAgICAgbWluSWRsZVNpemU6IDgK</text>
+      <register name="&quot;" type="4">
+        <text>For now, only Reservation is supported.</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>For now, only Reservation is supported.</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text encoding="base64">XDxleHBlcmllbmNlRGV0YWlsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb3lzdGVyQ2xpZW50Q29uZmlnOgogICAgICAgIGhvc3Q6IG95c3Rlci10ZXN0aW5nLWRpc3BhdGNoZXItc2VjdXJlc3RhY2suc3luYXBzZQogICAgICAgIHBvcnQ6IDcwODYKICAgICAgICBjbGllbnROYW1lOiBhcnViYS1zdGFnaW5nCiAgICAgICAgbWF4UG9vbFNpemU6IDMyCiAgICAgICAgbWluSWRsZVNpemU6IDgK</text>
@@ -358,13 +360,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cache</last-search>
+      <last-search encoding="base64">XDxleHBlcmllbmNlRGV0YWlsXD4=</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern encoding="base64">XDxleHBlcmllbmNlRGV0YWlsXD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
