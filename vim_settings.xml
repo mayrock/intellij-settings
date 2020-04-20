@@ -41,6 +41,7 @@
         <entry encoding="base64">XDxTYWJyaXhQcmltYXJ5RmlyZWZseUNsaWVudFw+</entry>
         <entry>firefly</entry>
         <entry>tunable</entry>
+        <entry encoding="base64">XDxzYWJyaXhTZWNvbmRhcnlDYWxjdWxhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -117,9 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" timestamp="1587084927341">
-        <mark key="'" line="295" column="33" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587399716634">
         <mark key="'" line="356" column="6" />
         <mark key="[" line="419" column="12" />
@@ -183,6 +181,13 @@
         <mark key="^" line="102" column="30" />
         <mark key="." line="102" column="29" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" timestamp="1587402814200">
+        <mark key="'" line="154" column="19" />
+        <mark key="[" line="154" column="19" />
+        <mark key="]" line="154" column="20" />
+        <mark key="." line="154" column="19" />
+        <mark key="^" line="154" column="20" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1587097073419">
         <mark key="'" line="571" column="30" />
         <mark key="[" line="2144" column="4" />
@@ -219,11 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/resources/serviceIdlSchema/idlDataFactories/aruba/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1423" column="42" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="255" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="275" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="319" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="343" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="97" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" />
@@ -319,21 +319,26 @@
       <jump line="26" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/circuitbreaker/FireflyClientUtil.kt" />
       <jump line="197" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" />
       <jump line="19" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/InstrumentedThreadPool.kt" />
+      <jump line="149" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculatorProvider.kt" />
+      <jump line="151" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" />
+      <jump line="34" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" />
+      <jump line="154" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Pimary</text>
       </register>
       <register name="-" type="4">
-        <text>Primary</text>
+        <text>Pimary</text>
       </register>
       <register name="/" type="4">
-        <text>tunable</text>
+        <text encoding="base64">XDxzYWJyaXhTZWNvbmRhcnlDYWxjdWxhdG9yXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>TaggedMetricRegistry metricRegistry</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmVydGV4UGltYXJ5Q2xpZW50LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
@@ -369,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tunable</last-search>
+      <last-search encoding="base64">XDxzYWJyaXhTZWNvbmRhcnlDYWxjdWxhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern>tunable</last-pattern>
+      <last-pattern encoding="base64">XDxzYWJyaXhTZWNvbmRhcnlDYWxjdWxhdG9yXD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
