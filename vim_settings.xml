@@ -64,6 +64,8 @@
         <entry>extractend</entry>
         <entry>cor</entry>
         <entry encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</entry>
+        <entry>bathroom</entry>
+        <entry>legacy</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -147,8 +149,8 @@
         <mark key="^" line="30" column="114" />
         <mark key="." line="30" column="113" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1587487879681">
-        <mark key="'" line="87" column="38" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1587505012616">
+        <mark key="'" line="1293" column="36" />
         <mark key="[" line="1228" column="0" />
         <mark key="]" line="1228" column="0" />
         <mark key="^" line="1227" column="8" />
@@ -221,16 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
-      <jump line="128" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
-      <jump line="151" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
-      <jump line="156" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
-      <jump line="187" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
-      <jump line="209" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
-      <jump line="200" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" />
-      <jump line="157" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" />
-      <jump line="134" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" />
-      <jump line="60" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/RetryUtil.kt" />
       <jump line="716" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="13" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="60" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" />
@@ -321,6 +313,16 @@
       <jump line="165" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="180" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="254" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="2002" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="69" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="150" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="280" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="361" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="486" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="993" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="1077" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="1162" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="1293" column="36" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +334,7 @@
         <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</text>
+        <text>legacy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnY29tL2FpcmJuYi9hcnViYS9zZXJ2aWNlL0FydWJhQXBwbGljYXRpb24qKicsCg==</text>
@@ -371,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</last-search>
+      <last-search>legacy</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</last-pattern>
+      <last-pattern>legacy</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
