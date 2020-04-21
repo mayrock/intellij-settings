@@ -53,6 +53,8 @@
         <entry>cpu</entry>
         <entry>16</entry>
         <entry encoding="base64">XDxtZW1vcnlcPg==</entry>
+        <entry>convert</entry>
+        <entry>no remit</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -129,15 +131,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587420138726">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587430182094">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="106" />
         <mark key="]" line="30" column="114" />
         <mark key="^" line="30" column="114" />
         <mark key="." line="30" column="113" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1587399920398">
-        <mark key="'" line="142" column="20" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" timestamp="1587402058122">
         <mark key="'" line="197" column="21" />
@@ -149,27 +148,26 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" timestamp="1587420669292">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1587400997063">
-        <mark key="'" line="13" column="39" />
-        <mark key="[" line="648" column="0" />
-        <mark key="]" line="648" column="0" />
-        <mark key="." line="648" column="0" />
-        <mark key="^" line="647" column="49" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1587428639365">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/config/ArubaConfiguration.java" timestamp="1587399800344">
-        <mark key="'" line="30" column="13" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" timestamp="1587422063754">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" timestamp="1587430186761">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="68" />
+        <mark key="^" line="3" column="68" />
+        <mark key="." line="3" column="67" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/apps/shepherd.yml" timestamp="1587423730791">
         <mark key="'" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/containers/shepherd.yml" timestamp="1587424087295">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/containers/shepherd.yml" timestamp="1587428438416">
         <mark key="'" line="11" column="33" />
+        <mark key="[" line="79" column="65" />
+        <mark key="]" line="79" column="66" />
+        <mark key="^" line="79" column="66" />
+        <mark key="." line="79" column="65" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/RetryUtil.kt" timestamp="1587400966956">
         <mark key="'" line="60" column="11" />
@@ -177,19 +175,15 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/kube-gen.yml" timestamp="1587423740925">
         <mark key="'" line="112" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" timestamp="1587400277268">
-        <mark key="'" line="187" column="39" />
-        <mark key="[" line="102" column="26" />
-        <mark key="]" line="102" column="30" />
-        <mark key="^" line="102" column="30" />
-        <mark key="." line="102" column="29" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutStatus.java" timestamp="1587428582408">
+        <mark key="'" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" timestamp="1587402814200" />
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/client/VertexClientTest.java" timestamp="1587400326260">
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="93" column="60" />
-        <mark key="^" line="93" column="60" />
-        <mark key="." line="93" column="59" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/LogUtilTest.kt" timestamp="1587429960179">
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="10" column="87" />
+        <mark key="." line="10" column="86" />
+        <mark key="^" line="10" column="87" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" timestamp="1587420616788">
         <mark key="[" line="7" column="0" />
@@ -201,20 +195,14 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/circuitbreaker/ScenarioBasedFireflyHttpClient.kt" timestamp="1587401611517">
         <mark key="'" line="74" column="35" />
       </file>
+      <file name="/fragment.java" timestamp="1587429250687">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1587420663638">
         <mark key="'" line="381" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" />
-      <jump line="11" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" />
-      <jump line="21" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.java" />
-      <jump line="28" column="39" filename="$USER_HOME$/airlab/repos/treehouse/common/circuitbreaker/src/main/java/com/airbnb/common/circuitbreaker/strategies/failurepercentagelimit/FailurePercentageLimitStrategy.java" />
-      <jump line="89" column="27" filename="$USER_HOME$/airlab/repos/treehouse/common/circuitbreaker/src/main/java/com/airbnb/common/circuitbreaker/strategies/failurepercentagelimit/FailurePercentageLimitStrategy.java" />
-      <jump line="14" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="69" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="355" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="41" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="241" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="99" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="242" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
@@ -306,48 +294,57 @@
       <jump line="64" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/containers/shepherd.yml" />
       <jump line="67" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/containers/shepherd.yml" />
       <jump line="11" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/containers/shepherd.yml" />
+      <jump line="577" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="640" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="208" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="160" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="154" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="22" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutStatus.java" />
+      <jump line="6" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/EnableStatus.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(&quot;latency_ms&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>Latency</text>
+        <text>(&quot;latency_ms&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW1vcnlcPg==</text>
+        <text>no remit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">b2JqZWN0IE1ldHJpY1V0aWwgewo=</text>
+      <register name="0" type="4">
+        <text>tagNameOverride</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTQ0VOQVJJTygic2NlbmFyaW8iKSwKICAgICAgICBUQVhfQVVUSE9SSVRZX0lEKCJ0YXhfYXV0aG9yaXR5X2lkIiksCiAgICAgICAgVEFYX0FVVEhPUklUWV9TT1VSQ0UoInRheF9hdXRob3JpdHlfc291cmNlIiksCiAgICAgICAgTklHSFRfQ09VTlQoIm5pZ2h0X2NvdW50IiksCiAgICAgICAgUkVTVUxUKCJyZXN1bHQiKSwKICAgICAgICBMQVRFTkNZX01TKCJsYXRlbmN5X21zIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5jb21tb24uTG9nVXRpbC5UYWcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5sb2dzdGFzaC5sb2diYWNrLm1hcmtlci5NYXJrZXJzLmFwcGVuZEVudHJpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICghcm9sbG91dFN0YXR1cy5pc0VuYWJsZWQoKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBlbmRFbnRyaWVzKCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBpbmZvKGxvZzogTG9nZ2VyKSB7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBpZiAoIXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVmZmVyU2l6ZUluSGFsZk9wZW5TdGF0ZSgxMCkK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5sb2dzdGFzaC5sb2diYWNrLm1hcmtlci5NYXJrZXJzLmFwcGVuZEVudHJpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -356,13 +353,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtZW1vcnlcPg==</last-search>
+      <last-search>no remit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW1vcnlcPg==</last-pattern>
+      <last-pattern>no remit</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
