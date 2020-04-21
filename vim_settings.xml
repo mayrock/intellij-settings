@@ -149,10 +149,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" timestamp="1587420669292">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1587431393454">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1587431511979">
+        <mark key="'" line="677" column="28" />
+        <mark key="[" line="718" column="0" />
+        <mark key="]" line="718" column="0" />
+        <mark key="." line="718" column="0" />
+        <mark key="^" line="717" column="43" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" timestamp="1587430186761">
         <mark key="[" line="3" column="37" />
@@ -171,9 +173,6 @@
         <mark key="^" line="79" column="66" />
         <mark key="." line="79" column="65" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/RetryUtil.kt" timestamp="1587400966956">
-        <mark key="'" line="60" column="11" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/kube-gen.yml" timestamp="1587423740925">
         <mark key="'" line="112" column="14" />
       </file>
@@ -188,6 +187,9 @@
         <mark key="^" line="372" column="84" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorProviderTest.kt" timestamp="1587402814200" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1587431451872">
+        <mark key="'" line="571" column="30" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/LogUtilTest.kt" timestamp="1587429960179">
         <mark key="[" line="10" column="85" />
         <mark key="]" line="10" column="87" />
@@ -212,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="242" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="409" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="361" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
@@ -312,12 +313,13 @@
       <jump line="22" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/RolloutStatus.java" />
       <jump line="6" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/EnableStatus.java" />
       <jump line="114" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="677" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>User</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="-" type="4">
         <text>User</text>
@@ -329,31 +331,59 @@
         <text>tagNameOverride</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTQ0VOQVJJTygic2NlbmFyaW8iKSwKICAgICAgICBUQVhfQVVUSE9SSVRZX0lEKCJ0YXhfYXV0aG9yaXR5X2lkIiksCiAgICAgICAgVEFYX0FVVEhPUklUWV9TT1VSQ0UoInRheF9hdXRob3JpdHlfc291cmNlIiksCiAgICAgICAgTklHSFRfQ09VTlQoIm5pZ2h0X2NvdW50IiksCiAgICAgICAgUkVTVUxUKCJyZXN1bHQiKSwKICAgICAgICBMQVRFTkNZX01TKCJsYXRlbmN5X21zIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5jb21tb24uTG9nVXRpbC5UYWcuCg==</text>
+      <register name="2" type="4">
+        <text>new OccupancyTaxDetails.Builder()
+                .setRuleId(item.getTaxRuleId())
+                .setTaxableBasePriceItemType(item.getInputPriceItemType().toTaxInputPriceItemType())
+                // TODO: Eliminate the hard coded string literal.
+                .setNightCount(request.getNumberOfNights().longValue())
+                .setGuestCounts(
+                    new GuestCounts.Builder()
+                        .setAdultCount(request.getNumberOfGuests().longValue())
+                        .setChildCount(0L)
+                        .setInfantCount(0L)
+                        .build())
+                .setStartDate(request.getStartDate())
+                .setListing(
+                    new com.airbnb.payments.tax.common.api.Listing.Builder()
+                        .setAddress(
+                            new com.airbnb.payments.tax.common.api.ListingAddress.Builder()
+                                .country(l.getCountry())
+                                .state(l.getState())
+                                .city(l.getCity())
+                                .zipCode(l.getZipCode())
+                                .build())
+                        .setBathroomCount(l.getBathroomCount())
+                        .setBedroomCount(l.getBedroomCount())
+                        .setPersonCapacity(l.getPersonCapacity())
+                        .setPropertyTypeId(l.getPropertyTypeId().getOrNull())
+                        .setRoomType(l.getRoomType())
+                        .setVertexTaxAreaId(l.getTaxAreaId().map(Integer::longValue).getOrNull())
+                        .build())
+                .build()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTQ0VOQVJJTygic2NlbmFyaW8iKSwKICAgICAgICBUQVhfQVVUSE9SSVRZX0lEKCJ0YXhfYXV0aG9yaXR5X2lkIiksCiAgICAgICAgVEFYX0FVVEhPUklUWV9TT1VSQ0UoInRheF9hdXRob3JpdHlfc291cmNlIiksCiAgICAgICAgTklHSFRfQ09VTlQoIm5pZ2h0X2NvdW50IiksCiAgICAgICAgUkVTVUxUKCJyZXN1bHQiKSwKICAgICAgICBMQVRFTkNZX01TKCJsYXRlbmN5X21zIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghcm9sbG91dFN0YXR1cy5pc0VuYWJsZWQoKSkgewo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5jb21tb24uTG9nVXRpbC5UYWcuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBpZiAoIXIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXIK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICghcm9sbG91dFN0YXR1cy5pc0VuYWJsZWQoKSkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBpZiAoIXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5sb2dzdGFzaC5sb2diYWNrLm1hcmtlci5NYXJrZXJzLmFwcGVuZEVudHJpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
