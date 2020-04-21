@@ -62,6 +62,8 @@
         <entry>api</entry>
         <entry>endpoin</entry>
         <entry>extractend</entry>
+        <entry>cor</entry>
+        <entry encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -198,9 +200,8 @@
         <mark key="." line="10" column="86" />
         <mark key="^" line="10" column="87" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" timestamp="1587420616788">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="19" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1587503528501">
+        <mark key="'" line="254" column="53" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1587502821247">
         <mark key="'" line="124" column="55" />
@@ -220,11 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="82" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="109" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="142" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="245" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="104" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
       <jump line="128" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
       <jump line="151" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" />
@@ -320,6 +316,11 @@
       <jump line="31" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="155" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="87" column="38" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="46" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="79" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="165" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="180" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="254" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +332,7 @@
         <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>extractend</text>
+        <text encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnY29tL2FpcmJuYi9hcnViYS9zZXJ2aWNlL0FydWJhQXBwbGljYXRpb24qKicsCg==</text>
@@ -370,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>extractend</last-search>
+      <last-search encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</last-search>
       <last-offset />
-      <last-pattern>extractend</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyQ29yRGF0YUxvYWRlclw+</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
