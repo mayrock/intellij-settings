@@ -149,8 +149,8 @@
         <mark key="^" line="30" column="114" />
         <mark key="." line="30" column="113" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1587506680435">
-        <mark key="'" line="1293" column="36" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1587508932352">
+        <mark key="'" line="319" column="40" />
         <mark key="[" line="1228" column="0" />
         <mark key="]" line="1228" column="0" />
         <mark key="^" line="1227" column="8" />
@@ -208,10 +208,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1587502821247">
         <mark key="'" line="124" column="55" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="149" column="20" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/diffy.yml" timestamp="1587456109903">
         <mark key="'" line="25" column="9" />
@@ -221,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="716" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="13" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="60" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" />
       <jump line="85" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/TOTCalculatorModule.java" />
@@ -321,6 +316,7 @@
       <jump line="1077" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1162" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1293" column="36" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
+      <jump line="319" column="40" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
