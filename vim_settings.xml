@@ -71,6 +71,8 @@
         <entry>new taxq</entry>
         <entry encoding="base64">XDxWYXRlcnNheUludm9pY2VCaWxsR2VuZXJhdG9yXD4=</entry>
         <entry>taxitem</entry>
+        <entry>replica</entry>
+        <entry>minre</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -152,6 +154,13 @@
         <mark key="]" line="332" column="51" />
         <mark key="." line="332" column="51" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587576247903">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="106" />
+        <mark key="]" line="30" column="114" />
+        <mark key="^" line="30" column="114" />
+        <mark key="." line="30" column="113" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItem.java" timestamp="1587512033982">
         <mark key="'" line="347" column="80" />
       </file>
@@ -222,9 +231,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1587574048962">
         <mark key="'" line="261" column="19" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/service-framework/src/main/java/com/airbnb/services/data/util/AssertionUtil.java" timestamp="1587511575122">
-        <mark key="'" line="104" column="21" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/powergrid/CreateTaxInvoiceForBillDataFlowFactory.kt" timestamp="1587573833522">
         <mark key="'" line="33" column="41" />
       </file>
@@ -236,16 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="601" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="644" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="687" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="730" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="773" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="816" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="859" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="902" column="64" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="989" column="72" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="996" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1029" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1074" column="71" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1081" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
@@ -336,6 +332,16 @@
       <jump line="33" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/powergrid/CreateTaxInvoiceForBillDataFlowFactory.kt" />
       <jump line="377" column="1" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="261" column="19" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="166" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="22" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="48" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="137" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="140" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="263" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="456" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="480" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="569" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,7 +353,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>taxitem</text>
+        <text>minre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmN1cnJlbmN5KCJFVVIiKQo=</text>
@@ -386,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>taxitem</last-search>
+      <last-search>minre</last-search>
       <last-offset />
-      <last-pattern>taxitem</last-pattern>
+      <last-pattern>minre</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
