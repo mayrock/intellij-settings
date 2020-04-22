@@ -161,12 +161,11 @@
         <mark key="]" line="4" column="70" />
         <mark key="." line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1587530555171">
-        <mark key="'" line="76" column="35" />
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="77" column="36" />
-        <mark key="." line="77" column="35" />
-        <mark key="^" line="77" column="36" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1587532816301">
+        <mark key="[" line="123" column="34" />
+        <mark key="]" line="123" column="63" />
+        <mark key="^" line="123" column="63" />
+        <mark key="." line="123" column="62" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" timestamp="1587518377517">
         <mark key="'" line="18" column="16" />
@@ -231,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="993" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1077" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1162" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1293" column="36" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
@@ -331,48 +328,54 @@
       <jump line="76" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
       <jump line="10" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/Utils.kt" />
       <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/build/generated/thrift-gen/main/java/com/airbnb/vatersay/api/InvoiceBillTaxItem.java" />
+      <jump line="78" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
+      <jump line="270" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/build/generated/thrift-gen-data/main/java/com/airbnb/vatersay/api/InvoiceBillTaxItem.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGZyb21JZGxJbnZvaWNlQmlsbFRheEl0ZW0oCiAgICAgICAgcHJvZHVjdEN1cnJlbmN5OiBTdHJpbmcsCiAgICAgICAgaWRsSW52b2ljZUJpbGxUYXhJdGVtOiBJZGxJbnZvaWNlQmlsbFRheEl0ZW0KICAgICk6IFZhdGVyc2F5SW52b2ljZUJpbGxUYXhJdGVtIHsK</text>
+      <register name="&quot;" type="4">
+        <text>taxAmount</text>
       </register>
       <register name="-" type="4">
-        <text>(, )</text>
+        <text>taxAmount</text>
       </register>
       <register name="/" type="4">
         <text>new taxq</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGZyb21JZGxJbnZvaWNlQmlsbFRheEl0ZW0oCiAgICAgICAgcHJvZHVjdEN1cnJlbmN5OiBTdHJpbmcsCiAgICAgICAgaWRsSW52b2ljZUJpbGxUYXhJdGVtOiBJZGxJbnZvaWNlQmlsbFRheEl0ZW0KICAgICk6IFZhdGVyc2F5SW52b2ljZUJpbGxUYXhJdGVtIHsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGZyb21JZGxJbnZvaWNlQmlsbFRheEl0ZW0oCiAgICAgICAgcHJvZHVjdEN1cnJlbmN5OiBTdHJpbmcsCiAgICAgICAgaWRsSW52b2ljZUJpbGxUYXhJdGVtOiBJZGxJbnZvaWNlQmlsbFRheEl0ZW0KICAgICk6IFZhdGVyc2F5SW52b2ljZUJpbGxUYXhJdGVtIHsKICAgICAgICB2YWwgb3RoZXJDdXJyZW5jeUFtb3VudE1hcCA9CiAgICAgICAgICAgIGlkbEludm9pY2VCaWxsVGF4SXRlbS5vdGhlckN1cnJlbmN5QW1vdW50cy5hc3NvY2lhdGVCeSB7IGl0LmN1cnJlbmN5IH0KICAgICAgICB2YWwgaWRsVGF4SXRlbURldGFpbCA9IFRocmlmdENvZGVjLmRlc2VyaWFsaXplKAogICAgICAgICAgICBpZGxJbnZvaWNlQmlsbFRheEl0ZW0udGF4SXRlbS5zZXJpYWxpemVkVGF4SXRlbURldGFpbHMsCiAgICAgICAgICAgIFRheEl0ZW1EZXRhaWxzOjpjbGFzcy5qYXZhLAogICAgICAgICAgICB0cnVlCiAgICAgICAgKQoKICAgICAgICByZXR1cm4gVmF0ZXJzYXlJbnZvaWNlQmlsbFRheEl0ZW0oCiAgICAgICAgICAgIHRva2VuID0gaWRsSW52b2ljZUJpbGxUYXhJdGVtLnRva2VuLAogICAgICAgICAgICB0YXhUeXBlID0gY29udmVydFRheFR5cGUoaWRsSW52b2ljZUJpbGxUYXhJdGVtLnRheEl0ZW0udGF4VHlwZSksCiAgICAgICAgICAgIHRheEF1dGhvcml0eSA9IGNvbnZlcnRUYXhBdXRob3JpdHkoCiAgICAgICAgICAgICAgICBpZGxJbnZvaWNlQmlsbFRheEl0ZW0udGF4SXRlbS50YXhBdXRob3JpdHkKICAgICAgICAgICAgKSwKICAgICAgICAgICAgdGF4TmFtZSA9IGlkbEludm9pY2VCaWxsVGF4SXRlbS50YXhJdGVtLnRheE5hbWUsCiAgICAgICAgICAgIGd1ZXN0Q3VycmVuY3lBbW91bnRNaWNyb3MgPSBjb252ZXJ0VGF4QW1vdW50TWljcm9zKAogICAgICAgICAgICAgICAgaWRsSW52b2ljZUJpbGxUYXhJdGVtLnRheEl0ZW0udGF4QW1vdW50CiAgICAgICAgICAgICksCiAgICAgICAgICAgIHByb2R1Y3RDdXJyZW5jeUFtb3VudE1pY3JvcyA9IGNvbnZlcnRUYXhBbW91bnRNaWNyb3MoCiAgICAgICAgICAgICAgICBvdGhlckN1cnJlbmN5QW1vdW50TWFwLmdldFZhbHVlKHByb2R1Y3RDdXJyZW5jeSkKICAgICAgICAgICAgKSwKICAgICAgICAgICAgcmVtaXR0YW5jZUN1cnJlbmN5QW1vdW50TWljcm9zID0gY29udmVydFRheEFtb3VudE1pY3JvcygKICAgICAgICAgICAgICAgIGlkbFRheEl0ZW1EZXRhaWwuYW1vdW50TWljcm9zSW5SZW1pdHRhbmNlQ3VycmVuY3kKICAgICAgICAgICAgKSwKICAgICAgICAgICAgdXNkQ3VycmVuY3lBbW91bnRNaWNyb3MgPSBvdGhlckN1cnJlbmN5QW1vdW50TWFwWyJVU0QiXT8ubGV0IHsKICAgICAgICAgICAgICAgIGNvbnZlcnRUYXhBbW91bnRNaWNyb3MoaXQpCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHByb2R1Y3RJZGVudGlmaWVyID0gY29udmVydFByb2R1Y3RJZGVudGlmaWVyKGlkbEludm9pY2VCaWxsVGF4SXRlbS5wcm9kdWN0SWRlbnRpZmllciksCiAgICAgICAgICAgIGRldGFpbCA9IGNvbnZlcnRUYXhJdGVtRGV0YWlsKGlkbFRheEl0ZW1EZXRhaWwpLAogICAgICAgICAgICBwYXltZW50UGVyaW9kSW5kZXggPSBpZGxJbnZvaWNlQmlsbFRheEl0ZW0udGF4SXRlbS5kZXRhaWwKICAgICAgICAgICAgICAgIC5yZXNlcnZhdGlvbkF0dHJpYnV0ZXMucGF5bWVudFBlcmlvZEluZGV4LnRvTG9uZygpCiAgICAgICAgKQogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEluZGlyZWN0VGF4UXVvdGVQYXJhbXMuYnVpbGRlcigpLnByb2R1Y3RUeXBlKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>val idlTaxItemDetail = ThriftCodec.deserialize(
+            .taxItem.serializedTaxItemDetails,
+            TaxItemDetails::class.java,
+            true
+        )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBzdWl0ZTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWRsSW52b2ljZUJpbGxUYXhJdGVtLm90aGVyQ3VycmVuY3lBbW91bnRzLmFzc29jaWF0ZUJ5IHsgaXQuY3VycmVuY3kgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3Rfc3VpdGVzOgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3RoZXJDdXJyZW5jeUFtb3VudE1hcCA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvcnQ6IDkzNjAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaWRsSW52b2ljZUJpbGxUYXhJdGVtLnNlcmlhbGl6ZWRUYXhJdGVtRGV0YWlscz8ubGV0IHsgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIGVudjogYXJ1YmEtc3RhZ2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEluZGlyZWN0VGF4UXVvdGVQYXJhbXMuYnVpbGRlcigpLnByb2R1Y3RUeXBlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBzdWl0ZTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
