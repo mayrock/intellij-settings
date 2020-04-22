@@ -172,6 +172,12 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" timestamp="1587538523756">
+        <mark key="[" line="193" column="41" />
+        <mark key="]" line="193" column="38" />
+        <mark key="^" line="193" column="38" />
+        <mark key="." line="193" column="37" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/tests/test_config.yml" timestamp="1587524677984">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -188,12 +194,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1587503528501">
         <mark key="'" line="254" column="53" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/appraiser/appraiser-core/src/main/java/com/airbnb/marketplace/appraiser/service/dao/providers/PassthroughTaxTripBasedFactorsProvider.java" timestamp="1587529980970">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/appraiser/appraiser-core/src/main/java/com/airbnb/marketplace/appraiser/service/dao/providers/PassthroughTaxTripBasedFactorsProvider.java" timestamp="1587539006922">
         <mark key="'" line="120" column="8" />
-        <mark key="[" line="140" column="28" />
-        <mark key="]" line="140" column="51" />
-        <mark key="^" line="140" column="28" />
-        <mark key="." line="140" column="28" />
+        <mark key="[" line="144" column="56" />
+        <mark key="]" line="145" column="20" />
+        <mark key="^" line="145" column="20" />
+        <mark key="." line="145" column="19" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/GetIndirectTaxQuotesForTesterResponse.java" timestamp="1587511365449">
         <mark key="'" line="50" column="19" />
@@ -220,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="386" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="473" column="70" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="480" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
@@ -309,7 +314,6 @@
       <jump line="184" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
       <jump line="282" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
       <jump line="176" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
-      <jump line="316" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
       <jump line="132" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
       <jump line="78" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
       <jump line="166" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
@@ -319,13 +323,15 @@
       <jump line="124" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
       <jump line="156" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
       <jump line="77" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
-      <jump line="150" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
+      <jump line="134" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
+      <jump line="316" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
+      <jump line="150" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jdXJyZW5jeSgiVVNEIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leGVtcHRBbW91bnRNaWNyb3MoMCkK</text>
       </register>
       <register name="-" type="4">
         <text>actualVatersayInvoiceBill</text>
@@ -337,31 +343,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmN1cnJlbmN5KCJFVVIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jdXJyZW5jeSgiVVNEIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leGVtcHRBbW91bnRNaWNyb3MoMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ub25UYXhhYmxlQW1vdW50TWljcm9zKDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWYXRlcnNheUludm9pY2VCaWxsR2VuZXJhdG9yLmZyb21JZGxJbnZvaWNlQmlsbFRheEl0ZW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50YXhhYmxlQW1vdW50TWljcm9zKDc0NDk0MTQwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb25zdHJ1Y3RzIElETCBJbnZvaWNlQmlsbAogICAgICAgIHZhbCBpZGxQcm9kdWN0SWRlbnRpZmllciA9IGNyZWF0ZUlkbFByb2R1Y3RJZGVudGlmaWVyKCkKICAgICAgICB2YWwgaWRsQXV0aG9yaXR5VHcgPSBjcmVhdGVUd0lkbFRheEF1dGhvcml0eSgpCgogICAgICAgIHZhbCBpZGxUYXhJdGVtID0KICAgICAgICAgICAgY3JlYXRlSWRsSW52b2ljZVRheEl0ZW1XaXRoU2VyaWFsaXplZFRheEl0ZW1EZXRhaSgKICAgICAgICAgICAgICAgIFByaWNlSXRlbVR5cGUuT0NDVVBBTkNZX1RBWCwKICAgICAgICAgICAgICAgIGlkbEF1dGhvcml0eVR3LnRvQnVpbGRlcigpLmlkKCJBUlVCQU5BTUVfVGFpd2FuIikuYnVpbGQoKSwKICAgICAgICAgICAgICAgIGlkbFByb2R1Y3RJZGVudGlmaWVyCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50YXhBbW91bnRNaWNyb3MoMzczMDAwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jdXJyZW5jeSgiRVVSIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlSWRsVGF4QXV0aG9yaXR5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jdXJyZW5jeSgiVVNEIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWRsQXV0aG9yaXR5UmFuZG9tID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBWYXRlcnNheUludm9pY2VCaWxsR2VuZXJhdG9yLmZyb21JZGxJbnZvaWNlQmlsbFRheEl0ZW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBY3R1YWwgcGFyc2VkIFZhdGVyc2F5SW52b2ljZUJpbGwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBDb25zdHJ1Y3RzIElETCBJbnZvaWNlQmlsbAogICAgICAgIHZhbCBpZGxQcm9kdWN0SWRlbnRpZmllciA9IGNyZWF0ZUlkbFByb2R1Y3RJZGVudGlmaWVyKCkKICAgICAgICB2YWwgaWRsQXV0aG9yaXR5VHcgPSBjcmVhdGVUd0lkbFRheEF1dGhvcml0eSgpCgogICAgICAgIHZhbCBpZGxUYXhJdGVtID0KICAgICAgICAgICAgY3JlYXRlSWRsSW52b2ljZVRheEl0ZW1XaXRoU2VyaWFsaXplZFRheEl0ZW1EZXRhaSgKICAgICAgICAgICAgICAgIFByaWNlSXRlbVR5cGUuT0NDVVBBTkNZX1RBWCwKICAgICAgICAgICAgICAgIGlkbEF1dGhvcml0eVR3LnRvQnVpbGRlcigpLmlkKCJBUlVCQU5BTUVfVGFpd2FuIikuYnVpbGQoKSwKICAgICAgICAgICAgICAgIGlkbFByb2R1Y3RJZGVudGlmaWVyCiAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
