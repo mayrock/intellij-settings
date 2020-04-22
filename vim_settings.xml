@@ -155,17 +155,12 @@
         <mark key="]" line="332" column="51" />
         <mark key="." line="332" column="51" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587576247903">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1587581935444">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="106" />
         <mark key="]" line="30" column="114" />
         <mark key="^" line="30" column="114" />
         <mark key="." line="30" column="113" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1587516380840">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="70" />
-        <mark key="." line="4" column="70" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1587573904951" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" timestamp="1587518377517">
@@ -174,6 +169,11 @@
         <mark key="]" line="18" column="4" />
         <mark key="^" line="17" column="48" />
         <mark key="." line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/apps/aruba.yml" timestamp="1587581912941">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/Utils.kt" timestamp="1587530558491">
         <mark key="'" line="10" column="59" />
@@ -399,7 +399,7 @@
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
