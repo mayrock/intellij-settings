@@ -73,6 +73,7 @@
         <entry>taxitem</entry>
         <entry>replica</entry>
         <entry>minre</entry>
+        <entry>deploy-to-staging</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -161,9 +162,6 @@
         <mark key="^" line="30" column="114" />
         <mark key="." line="30" column="113" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItem.java" timestamp="1587512033982">
-        <mark key="'" line="347" column="80" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1587516380840">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="70" />
@@ -210,6 +208,9 @@
         <mark key="^" line="140" column="20" />
         <mark key="." line="140" column="19" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/cd/pipelines/default.yml" timestamp="1587577796522">
+        <mark key="'" line="157" column="22" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/version" timestamp="1587573769536">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="6" />
@@ -242,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1029" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1074" column="71" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1081" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1114" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
@@ -342,6 +342,7 @@
       <jump line="480" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="569" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="157" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/cd/pipelines/default.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +354,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>minre</text>
+        <text>deploy-to-staging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmN1cnJlbmN5KCJFVVIiKQo=</text>
@@ -392,9 +393,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>minre</last-search>
+      <last-search>deploy-to-staging</last-search>
       <last-offset />
-      <last-pattern>minre</last-pattern>
+      <last-pattern>deploy-to-staging</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
