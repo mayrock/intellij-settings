@@ -116,6 +116,8 @@
         <entry encoding="base64">XDxjcmVhdGVJZGxUYXhJdGVtRGV0YWlsc1w+</entry>
         <entry>serialize</entry>
         <entry>taxitemdetail</entry>
+        <entry>connection_close</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -195,6 +197,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TaxRuleManager.java" timestamp="1588027517035">
         <mark key="'" line="75" column="34" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/FireflyHttpClient.java" timestamp="1588057357798">
+        <mark key="'" line="66" column="32" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1588027617528">
         <mark key="'" line="163" column="8" />
         <mark key="[" line="670" column="36" />
@@ -202,8 +207,8 @@
         <mark key="." line="670" column="40" />
         <mark key="^" line="670" column="41" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1588025296369">
-        <mark key="'" line="284" column="70" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" timestamp="1588057480586">
+        <mark key="'" line="446" column="14" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/taxengine/TaxRuleEngine.java" timestamp="1588028356290">
         <mark key="'" line="94" column="54" />
@@ -224,13 +229,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/tax-parser/src/main/java/com/airbnb/aruba/taxParser/common/model/Formula.kt" timestamp="1588028461175">
         <mark key="'" line="24" column="8" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" timestamp="1588026067379">
-        <mark key="'" line="11" column="47" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/version" timestamp="1588035667335">
         <mark key="[" line="0" column="5" />
@@ -279,23 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/jvmMain/CommonPool.kt" />
-      <jump line="98" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/jvmMain/CommonPool.kt" />
-      <jump line="36" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/jvmMain/CommonPool.kt" />
-      <jump line="46" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/jvmMain/CommonPool.kt" />
-      <jump line="266" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/kube-gen.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/_infra/kube/kube-gen.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/vacherin/_infra/kube/kube-gen.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/service/_infra/kube/kube-gen.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tidal/_infra/kube/kube-gen.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/superglue/_infra/kube/kube-gen.yml" />
-      <jump line="45" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/apps/aruba.yml" />
-      <jump line="70" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="583" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="68" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="220" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="268" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="269" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="295" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="344" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
@@ -379,6 +360,23 @@
       <jump line="330" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
       <jump line="337" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
       <jump line="87" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
+      <jump line="1005" column="23" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="1335" column="38" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="66" column="32" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/FireflyHttpClient.java" />
+      <jump line="106" column="41" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/Defaults.java" />
+      <jump line="1411" column="48" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="48" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java" />
+      <jump line="1415" column="21" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="1203" column="67" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="33" column="29" filename="$USER_HOME$/airlab/repos/treehouse/common/services-platform/common/src/main/java/com/airbnb/common/CommonHeaders.java" />
+      <jump line="1416" column="45" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="43" column="49" filename="$USER_HOME$/airlab/repos/treehouse/common/services-platform/common/src/main/java/com/airbnb/common/CommonHeaders.java" />
+      <jump line="1420" column="31" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="1206" column="25" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="106" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.3.9.v20160517/1c08a78cd05cdb65fbea6b8b00bbce6155b5be75/jetty-client-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/client/http/HttpChannelOverHTTP.java" />
+      <jump line="1439" column="19" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="148" column="64" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
+      <jump line="446" column="14" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -390,7 +388,7 @@
         <text>item</text>
       </register>
       <register name="/" type="4">
-        <text>taxitemdetail</text>
+        <text>close</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBmdW4gZ2V0RWZmZWN0aXZlQ2FsY3VsYXRvclR5cGUoKTogT3B0aW9uPFRPVENhbGN1bGF0b3JQcm92aWRlci5DYWxjdWxhdG9yVHlwZT4gewogICAgICAgIHJldHVybiBnZXRFZmZlY3RpdmVSb2xsb3V0KCk/LmNhbGN1bGF0b3JUeXBlID86IE9wdGlvbi5ub25lKCkKICAgIH0=</text>
@@ -429,9 +427,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>taxitemdetail</last-search>
+      <last-search>close</last-search>
       <last-offset />
-      <last-pattern>taxitemdetail</last-pattern>
+      <last-pattern>close</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
