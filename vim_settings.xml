@@ -129,6 +129,7 @@
         <entry>encoded</entry>
         <entry>binary</entry>
         <entry>serialized</entry>
+        <entry>deprecated</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -207,13 +208,18 @@
     <filemarks>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" timestamp="1588223010036">
         <mark key="'" line="344" column="8" />
-        <mark key="[" line="347" column="16" />
-        <mark key="]" line="347" column="22" />
-        <mark key="." line="347" column="21" />
-        <mark key="^" line="347" column="22" />
+        <mark key="[" line="344" column="16" />
+        <mark key="]" line="344" column="22" />
+        <mark key="." line="344" column="21" />
+        <mark key="^" line="344" column="22" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Base64.java" timestamp="1588213234295">
         <mark key="'" line="956" column="63" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/version" timestamp="1588277817097">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1588216925909">
         <mark key="[" line="51" column="47" />
@@ -230,9 +236,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" timestamp="1588222069410">
         <mark key="'" line="620" column="22" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/thrift/service-platform/src/main/java/com/airbnb/service/idl/ThriftCodec.java" timestamp="1588142546444">
-        <mark key="'" line="195" column="32" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/files/config.yml" timestamp="1588195937613">
         <mark key="'" line="308" column="13" />
       </file>
@@ -240,9 +243,6 @@
         <mark key="]" line="66" column="29" />
         <mark key="." line="66" column="28" />
         <mark key="^" line="66" column="29" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.swift/swift-codec/0.53.6/d2ede5cd0f3e24cfd3bc18f99656ec326732ab03/swift-codec-0.53.6-sources.jar!/com/facebook/swift/codec/internal/TProtocolReader.java" timestamp="1588144447934">
-        <mark key="'" line="73" column="19" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/TestableDataLoader.kt" timestamp="1588195786142">
         <mark key="'" line="51" column="17" />
@@ -256,23 +256,36 @@
         <mark key="]" line="202" column="33" />
         <mark key="." line="202" column="9" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" timestamp="1588222730422">
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1588277895276">
+        <mark key="'" line="774" column="5" />
+        <mark key="[" line="917" column="39" />
+        <mark key="]" line="917" column="48" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/version" timestamp="1588277752548">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" timestamp="1588277907334">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="256" column="57" />
+        <mark key="]" line="256" column="59" />
+        <mark key="." line="256" column="58" />
+        <mark key="^" line="256" column="59" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/CleansedAddressDataLoader.kt" timestamp="1588195794370">
         <mark key="'" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" timestamp="1588144491108">
-        <mark key="'" line="892" column="19" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/version" timestamp="1588277673704">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/fragment.java" timestamp="1588146203380">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
-      <jump line="87" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" />
-      <jump line="1005" column="23" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
       <jump line="1335" column="38" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/JettyFireflyHttpClient.java" />
       <jump line="66" column="32" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/FireflyHttpClient.java" />
       <jump line="106" column="41" filename="$USER_HOME$/airlab/repos/treehouse/common/clients/firefly/src/main/java/com/airbnb/common/clients/firefly/Defaults.java" />
@@ -370,21 +383,24 @@
       <jump line="305" column="29" filename="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" />
       <jump line="330" column="38" filename="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" />
       <jump line="344" column="8" filename="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="323" column="5" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="774" column="5" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>binary</text>
+        <text>deprecated</text>
       </register>
       <register name="-" type="4">
         <text>binary</text>
       </register>
       <register name="/" type="4">
-        <text>serialized</text>
+        <text>deprecated</text>
       </register>
       <register name="0" type="4">
-        <text>encodedTaxItemDetails</text>
+        <text>deprecated</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -426,9 +442,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>serialized</last-search>
+      <last-search>deprecated</last-search>
       <last-offset />
-      <last-pattern>serialized</last-pattern>
+      <last-pattern>deprecated</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
