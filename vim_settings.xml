@@ -132,6 +132,7 @@
         <entry>deprecated</entry>
         <entry>getrolloutstatus</entry>
         <entry>bug</entry>
+        <entry>wrapper</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -226,23 +227,19 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1588280090447">
-        <mark key="'" line="335" column="29" />
-        <mark key="[" line="73" column="61" />
-        <mark key="]" line="90" column="4" />
-        <mark key="^" line="90" column="4" />
-        <mark key="." line="90" column="3" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/files/config.yml" timestamp="1588195937613">
-        <mark key="'" line="308" column="13" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1588282255200">
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="71" column="72" />
+        <mark key="." line="71" column="71" />
+        <mark key="^" line="71" column="72" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588216303932">
         <mark key="]" line="66" column="29" />
         <mark key="." line="66" column="28" />
         <mark key="^" line="66" column="29" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" timestamp="1588279216515">
-        <mark key="'" line="77" column="43" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" timestamp="1588283115249">
+        <mark key="'" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoice/InvoiceGeneratorNew.kt" timestamp="1588280700649">
         <mark key="'" line="94" column="16" />
@@ -252,15 +249,17 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1588280094109">
-        <mark key="'" line="755" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1588282689893">
+        <mark key="'" line="485" column="49" />
+        <mark key="]" line="1491" column="11" />
+        <mark key="^" line="1491" column="11" />
+        <mark key="." line="1491" column="10" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1588280081365">
-        <mark key="'" line="784" column="32" />
-        <mark key="[" line="797" column="0" />
-        <mark key="]" line="797" column="10" />
-        <mark key="^" line="783" column="24" />
-        <mark key="." line="797" column="10" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1588281870615">
+        <mark key="'" line="1462" column="27" />
+        <mark key="[" line="807" column="72" />
+        <mark key="]" line="807" column="73" />
+        <mark key="." line="807" column="73" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1588216925909">
         <mark key="[" line="51" column="47" />
@@ -270,6 +269,9 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1588213808872">
         <mark key="'" line="353" column="44" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/build.gradle" timestamp="1588281974288">
+        <mark key="'" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/griphook/src/griphook_data.thrift" timestamp="1588222069410">
         <mark key="'" line="620" column="22" />
@@ -281,12 +283,7 @@
         <mark key="." line="277" column="20" />
         <mark key="^" line="277" column="21" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" timestamp="1588212267792">
-        <mark key="'" line="272" column="2" />
-        <mark key="[" line="202" column="9" />
-        <mark key="]" line="202" column="33" />
-        <mark key="." line="202" column="9" />
-      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/gradle/wrapper/gradle-wrapper.properties" timestamp="1588283425690" />
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1588277895276">
         <mark key="'" line="774" column="5" />
         <mark key="[" line="917" column="39" />
@@ -302,22 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="22" filename="$USER_HOME$/airlab/repos/treehouse/common/thrift/service-platform/src/main/java/com/airbnb/service/idl/ThriftCodec.java" />
-      <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItemDetails.java" />
-      <jump line="147" column="17" filename="$USER_HOME$/airlab/repos/treehouse/common/thrift/service-platform/src/main/java/com/airbnb/service/idl/ThriftCodec.java" />
-      <jump line="163" column="25" filename="$USER_HOME$/airlab/repos/treehouse/common/thrift/service-platform/src/main/java/com/airbnb/service/idl/ThriftCodec.java" />
-      <jump line="195" column="32" filename="$USER_HOME$/airlab/repos/treehouse/common/thrift/service-platform/src/main/java/com/airbnb/service/idl/ThriftCodec.java" />
-      <jump line="178" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" />
-      <jump line="39" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
-      <jump line="538" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" />
-      <jump line="41" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" />
-      <jump line="557" column="37" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" />
-      <jump line="872" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" />
-      <jump line="98" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" />
-      <jump line="873" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" />
-      <jump line="73" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.swift/swift-codec/0.53.6/d2ede5cd0f3e24cfd3bc18f99656ec326732ab03/swift-codec-0.53.6-sources.jar!/com/facebook/swift/codec/internal/TProtocolReader.java" />
-      <jump line="892" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.9.3/b1dba1062e44be848e2d8eb24cca16dc701ca2c9/libthrift-0.9.3-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="315" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="317" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="330" column="47" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
@@ -387,7 +368,6 @@
       <jump line="87" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.java" />
       <jump line="171" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="280" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
-      <jump line="70" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="77" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" />
       <jump line="52" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.java" />
       <jump line="71" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
@@ -402,48 +382,65 @@
       <jump line="29" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoice/InvoiceGeneratorNew.kt" />
       <jump line="94" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoice/InvoiceGeneratorNew.kt" />
       <jump line="433" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/generated/_Sequences.kt" />
+      <jump line="765" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="1462" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" />
+      <jump line="69" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="147" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="602" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="609" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="628" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="448" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="463" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="454" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="485" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="404" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
+      <jump line="70" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/airlab/repos/treehouse/build.gradle" />
+      <jump line="5" column="15" filename="$USER_HOME$/airlab/repos/treehouse/build.gradle" />
+      <jump line="32" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" />
+      <jump line="1711" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/generated/_Collections.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Um9sbG91dCA=</text>
+        <text>getRolloutsForListing(listing, RolloutType.VCA)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Um9sbG91dCA=</text>
+        <text>getRolloutsForListing(listing, RolloutType.VCA)</text>
       </register>
       <register name="/" type="4">
-        <text>bug</text>
+        <text>wrapper</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgZmluYWwgdm9pZAogICAgICB0ZXN0R2V0Um9sbG91dFN0YXR1c0Zvckxpc3RpbmdJbnRlcm5hbF9mb3JUaW1lV2l0aGluVmFsaWRhdGlvblBlcmlvZF9yZXR1cm5Ub0JlRW5hYmxlZCgpIHsKICAgIFRvdEp1cmlzZGljdGlvbiBqdXJpc2RpY3Rpb24gPSBjcmVhdGVUZXN0SnVyaXNkaWN0aW9uKCk7CgogICAgUm9sbG91dCByb2xsb3V0ID0KICAgICAgICB0ZXN0VG90Um9sbG91dE1hbmFnZXIuY3JlYXRlUm9sbG91dCgKICAgICAgICAgICAgIlRoZSBOb3J0aCIsCiAgICAgICAgICAgICJUaGUgTm9ydGggdHJhbnNsYXRpb24ga2V5IiwKICAgICAgICAgICAgIlRoZSBOb3J0aCB0cmFuc2xhdGlvbiBkZWZhdWx0IiwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgSW5zdGFudC5wYXJzZSgiMjAxOC0wNS0yM1QxMDowMDowMFoiKSwKICAgICAgICAgICAgLyphY3RpdmVBdCovIEluc3RhbnQucGFyc2UoIjIwMTgtMDctMDFUMDA6MDA6MDBaIiksCiAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoanVyaXNkaWN0aW9uLmlkKCkpLAogICAgICAgICAgICBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgUm9sbG91dFR5cGUuVkNBLAogICAgICAgICAgICBudWxsKTsKCiAgICBhc3NlcnRTYW1lUm9sbG91dFN0YXR1cygKICAgICAgICBSb2xsb3V0U3RhdHVzLmJ1aWxkZXIoKQogICAgICAgICAgICAuZW5hYmxlU3RhdHVzKEVuYWJsZVN0YXR1cy5UT19CRV9FTkFCTEVEKQogICAgICAgICAgICAucm9sbG91dElkKE9wdGlvbi5vZihyb2xsb3V0LmdldElkKCkpKQogICAgICAgICAgICAucmVtaXR0YW5jZUN1cnJlbmN5KE9wdGlvbi5zb21lKEpVUklTRElDVElPTl9DVVJSRU5DWSkpCiAgICAgICAgICAgIC5hY3RpdmF0ZWRBdChyb2xsb3V0LmdldEFjdGl2YXRlQXQoKSkKICAgICAgICAgICAgLmJ1aWxkKCksCiAgICAgICAgdGVzdFRvdFJvbGxvdXRNYW5hZ2VyLmdldFJvbGxvdXRTdGF0dXNGb3JMaXN0aW5nSW50ZXJuYWwoCiAgICAgICAgICAgIGNyZWF0ZVRlc3RMaXN0aW5nQnVpbGRlcigpLmJ1aWxkKCksIEluc3RhbnQucGFyc2UoIjIwMTgtMDYtMTdUMDA6MDA6MDBaIikpKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlVGVzdExpc3RpbmdCdWlsZGVyKCkuYnVpbGQoKSwgSW5zdGFudC5wYXJzZSgiMjAxOC0wNi0xN1QwMDowMDowMFoiKSkpOwo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0VG90Um9sbG91dE1hbmFnZXIuZ2V0Um9sbG91dFN0YXR1c0Zvckxpc3RpbmdJbnRlcm5hbCgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCksCg==</text>
+        <text encoding="base64">ICAgIEluc3RhbnQgdmFsaWRhdGlvbkFzT2ZUaW1lID0gYXNPZlRpbWUucGx1cyhDb25zdGFudC5WQUxJREFUSU9OX1BFUklPRCk7CiAgICB2YWwgcm9sbG91dCA9CiAgICAgICAgQWN0aXZlUm9sbG91dFNldC5Db21wYW5pb24ub2YoCiAgICAgICAgICAgICAgICBnZXRSb2xsb3V0c0Zvckxpc3RpbmcobGlzdGluZywgUm9sbG91dFR5cGUuVkNBKSwgdmFsaWRhdGlvbkFzT2ZUaW1lKQogICAgICAgICAgICAuZ2V0RWZmZWN0aXZlUm9sbG91dCgpOwogICAgcmV0dXJuIE9wdGlvbi5vZihyb2xsb3V0KQogICAgICAgIC5tYXAociAtPiBSb2xsb3V0U3RhdHVzLmdldFJvbGxvdXRTdGF0dXNGcm9tUm9sbG91dChyLCBhc09mVGltZSwgdmFsaWRhdGlvbkFzT2ZUaW1lKSkKICAgICAgICAuZ2V0T3JFbHNlKFJvbGxvdXRTdGF0dXMuTk9UX0VOQUJMRURfUk9MTE9VVF9TVEFUVVMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFjdGl2YXRlZEF0KHJvbGxvdXQuZ2V0QWN0aXZhdGVBdCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlbWl0dGFuY2VDdXJyZW5jeShPcHRpb24uc29tZShKVVJJU0RJQ1RJT05fQ1VSUkVOQ1kpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvbGxvdXRJZChPcHRpb24ub2Yocm9sbG91dC5nZXRJZCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlVGVzdExpc3RpbmdCdWlsZGVyKCkuYnVpbGQoKSwgSW5zdGFudC5wYXJzZSgiMjAxOC0wNi0xN1QwMDowMDowMFoiKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmVuYWJsZVN0YXR1cyhFbmFibGVTdGF0dXMuVE9fQkVfRU5BQkxFRCkK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0VG90Um9sbG91dE1hbmFnZXIuZ2V0Um9sbG91dFN0YXR1c0Zvckxpc3RpbmdJbnRlcm5hbCgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -452,13 +449,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bug</last-search>
+      <last-search>wrapper</last-search>
       <last-offset />
-      <last-pattern>bug</last-pattern>
+      <last-pattern>wrapper</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
