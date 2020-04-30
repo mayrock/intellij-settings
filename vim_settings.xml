@@ -248,12 +248,12 @@
       <file name="/Dummy.txt" timestamp="1588142478789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588213763852">
-        <mark key="'" line="2221" column="94" />
-        <mark key="[" line="2221" column="23" />
-        <mark key="]" line="2221" column="23" />
-        <mark key="." line="2221" column="23" />
-        <mark key="^" line="2221" column="121" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588216303932">
+        <mark key="'" line="571" column="44" />
+        <mark key="[" line="2273" column="72" />
+        <mark key="]" line="2274" column="29" />
+        <mark key="." line="2274" column="28" />
+        <mark key="^" line="2274" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.swift/swift-codec/0.53.6/d2ede5cd0f3e24cfd3bc18f99656ec326732ab03/swift-codec-0.53.6-sources.jar!/com/facebook/swift/codec/internal/TProtocolReader.java" timestamp="1588144447934">
         <mark key="'" line="73" column="19" />
@@ -284,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/IndirectTaxItemSplitter.kt" />
       <jump line="92" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
       <jump line="278" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
@@ -384,15 +383,16 @@
       <jump line="50" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/wormhole/common/src/main/java/com/airbnb/services/smartclient/util/CodecUtil.java" />
       <jump line="173" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
       <jump line="172" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
+      <jump line="570" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Serialized</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Serialized</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>encoded</text>
