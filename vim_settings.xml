@@ -222,12 +222,12 @@
         <mark key="." line="649" column="19" />
         <mark key="^" line="649" column="19" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1588214312343">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1588216925909">
         <mark key="'" line="172" column="20" />
-        <mark key="[" line="51" column="18" />
-        <mark key="]" line="51" column="23" />
-        <mark key="^" line="51" column="23" />
-        <mark key="." line="51" column="22" />
+        <mark key="[" line="260" column="47" />
+        <mark key="]" line="260" column="68" />
+        <mark key="^" line="260" column="68" />
+        <mark key="." line="260" column="67" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shepherd/_infra/kube/kube-gen.yml" timestamp="1588195923578">
         <mark key="'" line="462" column="15" />
@@ -249,11 +249,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588216303932">
-        <mark key="'" line="571" column="44" />
-        <mark key="[" line="2273" column="72" />
-        <mark key="]" line="2274" column="29" />
-        <mark key="." line="2274" column="28" />
-        <mark key="^" line="2274" column="29" />
+        <mark key="]" line="66" column="29" />
+        <mark key="." line="66" column="28" />
+        <mark key="^" line="66" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.swift/swift-codec/0.53.6/d2ede5cd0f3e24cfd3bc18f99656ec326732ab03/swift-codec-0.53.6-sources.jar!/com/facebook/swift/codec/internal/TProtocolReader.java" timestamp="1588144447934">
         <mark key="'" line="73" column="19" />
@@ -284,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
       <jump line="278" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
       <jump line="51" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
@@ -384,15 +381,16 @@
       <jump line="173" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
       <jump line="172" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
       <jump line="570" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="524" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Base64.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>serializedTaxItemDetails</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>serializedTaxItemDetails</text>
       </register>
       <register name="/" type="4">
         <text>encoded</text>
