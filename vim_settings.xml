@@ -97,7 +97,6 @@
         <entry encoding="base64">XDxnZXRQdHROb2RlXD4=</entry>
         <entry encoding="base64">XDxnZXRWQ0FOb2RlXD4=</entry>
         <entry>activerolloutset</entry>
-        <entry>should</entry>
         <entry encoding="base64">XDxzaG91bGRDYWxjdWxhdGVWQ0FOb2RlXD4=</entry>
         <entry encoding="base64">XDxkb1ByZVJvbGxvdXRWYWxpZGF0aW9uXD4=</entry>
         <entry>exemption</entry>
@@ -155,6 +154,8 @@
         <entry>idl</entry>
         <entry>context</entry>
         <entry>arubacontext</entry>
+        <entry>should</entry>
+        <entry>loadbatchwith</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -234,17 +235,14 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1588305347730">
         <mark key="'" line="643" column="38" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/manager/TotRolloutManagerTest.java" timestamp="1588284452415">
-        <mark key="'" line="1462" column="27" />
-        <mark key="[" line="807" column="72" />
-        <mark key="]" line="807" column="73" />
-        <mark key="." line="807" column="73" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" timestamp="1588304907416">
         <mark key="'" line="74" column="30" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/Currency.java" timestamp="1588303516774">
         <mark key="'" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" timestamp="1588308229688">
+        <mark key="'" line="213" column="25" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1588304870498">
         <mark key="'" line="105" column="28" />
@@ -268,21 +266,15 @@
         <mark key="." line="277" column="20" />
         <mark key="^" line="277" column="21" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" timestamp="1588307138728">
-        <mark key="[" line="322" column="41" />
-        <mark key="]" line="322" column="42" />
-        <mark key="." line="322" column="41" />
-        <mark key="^" line="322" column="42" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" timestamp="1588308257657">
+        <mark key="'" line="323" column="34" />
+        <mark key="[" line="323" column="51" />
+        <mark key="]" line="323" column="52" />
+        <mark key="." line="323" column="51" />
+        <mark key="^" line="323" column="52" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateTOTRequestTest.java" timestamp="1588306870543">
-        <mark key="'" line="455" column="33" />
-        <mark key="[" line="458" column="0" />
-        <mark key="]" line="458" column="0" />
         <mark key="^" line="454" column="70" />
-        <mark key="." line="458" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" timestamp="1588283115249">
-        <mark key="'" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/halp/build.gradle" timestamp="1588288051291">
         <mark key="'" line="118" column="55" />
@@ -304,6 +296,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" timestamp="1588303754579">
         <mark key="'" line="445" column="40" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1588307769257" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Currency.java" timestamp="1588303455638">
         <mark key="'" line="96" column="45" />
       </file>
@@ -315,12 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/halp/build.gradle" />
-      <jump line="162" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/halp/build.gradle" />
-      <jump line="170" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/halp/build.gradle" />
-      <jump line="173" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/halp/build.gradle" />
-      <jump line="191" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/halp/build.gradle" />
-      <jump line="118" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/halp/build.gradle" />
       <jump line="332" column="36" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="147" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="824" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
@@ -415,18 +402,24 @@
       <jump line="536" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateTOTRequestTest.java" />
       <jump line="457" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateTOTRequestTest.java" />
       <jump line="488" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateTOTRequestTest.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="116" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="196" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="213" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="323" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
+      <jump line="409" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.1/10a0594ac5a2ca7229a94f3a3eb33df96eedff7f/vavr-0.9.1-sources.jar!/io/vavr/control/Option.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>PRICE_SUGGESTION</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>arubacontext</text>
+        <text>loadbatchwith</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGluZGlyZWN0VGF4UXVvdGVQYXJhbXNfaG9zdFVzZXJNYXJrZXRNaXNzaW5nKCkgewogICAgVGF4UXVvdGVSZXNlcnZhdGlvbkRldGFpbC5CdWlsZGVyIHJiID0KICAgICAgICBVdGlsLnRheFF1b3RlUmVzZXJ2YXRpb25EZXRhaWxCdWlsZGVyKCJ1c2QiKS5zZXRIb3N0VXNlck1hcmtldChudWxsKTsKICAgIEluZGlyZWN0VGF4UXVvdGVQYXJhbXMuQnVpbGRlciBidWlsZGVyID0gZ2V0SW5kaXJlY3RUYXhRdW90ZUZvclZhdChyYi5idWlsZCgpKTsKCiAgICBWYWxpZGF0aW9uPFNlcTxTdHJpbmc+LCBDYWxjdWxhdGVUT1RSZXF1ZXN0PiB2ID0KICAgICAgICBDYWxjdWxhdGVUT1RSZXF1ZXN0Lm9mKGJ1aWxkZXIuYnVpbGQoKSwgZmFsc2UsIHRyZWJ1Y2hldENsaWVudCk7CgogICAgYXNzZXJ0VHJ1ZSh2LmlzSW52YWxpZCgpKTsKICAgIGFzc2VydEVxdWFscygiaG9zdFVzZXJNYXJrZXQ6IGNhbm5vdCBiZSBudWxsISIsIHYuZ2V0RXJyb3IoKS5nZXQoKSk7CiAgfQo=</text>
@@ -465,9 +458,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>arubacontext</last-search>
+      <last-search>loadbatchwith</last-search>
       <last-offset />
-      <last-pattern>arubacontext</last-pattern>
+      <last-pattern>loadbatchwith</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
