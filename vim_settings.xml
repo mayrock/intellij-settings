@@ -75,9 +75,7 @@
         <entry encoding="base64">XDxpZGxfY2xhc3NfY29kZWNfd2FybXVwXD4=</entry>
         <entry encoding="base64">XDx0YXhRdW90ZXNSZXNwb25zZU1hcE5vZGVcPg==</entry>
         <entry encoding="base64">XDx0YXhRdW90ZXNSZXNwb25zZU1hcFw+</entry>
-        <entry>taxitemde</entry>
         <entry>remittance</entry>
-        <entry encoding="base64">XDx2ZXJpZnlJbmRpcmVjdFRheFF1b3Rlc1Jlc3BvbnNlXD4=</entry>
         <entry>no rem</entry>
         <entry encoding="base64">XDxjb252ZXJ0SW5wdXRQcmljaW5nQ3VycmVuY3lcPg==</entry>
         <entry>listingcurr</entry>
@@ -110,7 +108,6 @@
         <entry>split</entry>
         <entry encoding="base64">XDxzcGxpdHRlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVJZGxUYXhJdGVtRGV0YWlsc1w+</entry>
-        <entry>taxitemdetail</entry>
         <entry>connection_close</entry>
         <entry>close</entry>
         <entry>serialize</entry>
@@ -158,6 +155,14 @@
         <entry>loadbatchwith</entry>
         <entry>metric</entry>
         <entry>metricshelper</entry>
+        <entry>details</entry>
+        <entry>taxitemdtails</entry>
+        <entry>taxitemde</entry>
+        <entry encoding="base64">XDxjb25zdHJ1Y3RJZGxSZXNwb25zZVw+</entry>
+        <entry>taxitemdetail</entry>
+        <entry encoding="base64">XDxleHBlY3RlZFRheEl0ZW1EZXRhaWxcPg==</entry>
+        <entry>verify</entry>
+        <entry encoding="base64">XDx2ZXJpZnlJbmRpcmVjdFRheFF1b3Rlc1Jlc3BvbnNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -234,8 +239,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1588310456447">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1588312299074">
+        <mark key="'" line="740" column="45" />
+        <mark key="[" line="739" column="43" />
+        <mark key="]" line="740" column="49" />
+        <mark key="^" line="740" column="49" />
+        <mark key="." line="740" column="48" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1588312643221">
+        <mark key="'" line="107" column="12" />
+        <mark key="[" line="173" column="26" />
+        <mark key="]" line="173" column="27" />
+        <mark key="^" line="173" column="27" />
+        <mark key="." line="173" column="26" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" timestamp="1588304907416">
         <mark key="'" line="74" column="30" />
@@ -246,27 +262,29 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" timestamp="1588308229688">
         <mark key="'" line="213" column="25" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1588304870498">
-        <mark key="'" line="105" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1588312197362">
+        <mark key="'" line="337" column="28" />
+        <mark key="[" line="381" column="31" />
+        <mark key="]" line="381" column="35" />
+        <mark key="^" line="381" column="35" />
+        <mark key="." line="381" column="34" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1588306122089">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588306105342">
-        <mark key="'" line="693" column="26" />
-        <mark key="]" line="66" column="29" />
-        <mark key="." line="66" column="28" />
-        <mark key="^" line="66" column="29" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588312703107">
+        <mark key="'" line="463" column="29" />
+        <mark key="[" line="2264" column="29" />
+        <mark key="]" line="2265" column="38" />
+        <mark key="." line="2265" column="37" />
+        <mark key="^" line="2265" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588289261752">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" timestamp="1588310890248">
-        <mark key="'" line="90" column="26" />
-        <mark key="[" line="277" column="13" />
-        <mark key="]" line="277" column="21" />
-        <mark key="." line="277" column="20" />
-        <mark key="^" line="277" column="21" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" timestamp="1588313141794">
+        <mark key="'" line="97" column="33" />
+        <mark key="[" line="97" column="87" />
+        <mark key="]" line="98" column="16" />
+        <mark key="." line="98" column="15" />
+        <mark key="^" line="98" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" timestamp="1588310441968" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoaderTest.java" timestamp="1588303404697">
@@ -286,12 +304,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" timestamp="1588303754579">
         <mark key="'" line="445" column="40" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" timestamp="1588310969188">
-        <mark key="'" line="30" column="41" />
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" timestamp="1588313130191">
+        <mark key="'" line="32" column="42" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="58" />
+        <mark key="." line="18" column="57" />
+        <mark key="^" line="18" column="58" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1588307769257" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Currency.java" timestamp="1588303455638">
@@ -305,35 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/Currency.java" />
-      <jump line="31" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/PassThroughTaxCalculationDelegate.kt" />
-      <jump line="245" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/PassThroughTaxCalculationDelegate.kt" />
-      <jump line="172" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/PassThroughTaxCalculationDelegate.kt" />
-      <jump line="32" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/PassThroughTaxCalculationDelegate.kt" />
-      <jump line="75" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/PassThroughTaxCalculationDelegate.kt" />
-      <jump line="308" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="359" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="298" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="364" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="208" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="218" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="233" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="244" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="414" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="450" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="455" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="445" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" />
-      <jump line="19" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/PricingItemWithMoney.java" />
-      <jump line="17" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/type/Money.java" />
-      <jump line="2" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="162" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="144" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
-      <jump line="194" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="249" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="318" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="19" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/Validations.kt" />
-      <jump line="493" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
       <jump line="83" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
       <jump line="154" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
       <jump line="181" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
@@ -352,8 +341,6 @@
       <jump line="311" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
       <jump line="357" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
       <jump line="195" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
-      <jump line="595" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
-      <jump line="643" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="5" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="60" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
@@ -362,7 +349,6 @@
       <jump line="453" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateTOTRequestTest.java" />
       <jump line="20" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
       <jump line="569" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="195" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="405" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="419" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
@@ -401,52 +387,84 @@
       <jump line="129" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="8" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
-      <jump line="90" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="25" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
       <jump line="28" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
       <jump line="39" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
+      <jump line="13" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
+      <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItemDetails.java" />
+      <jump line="11" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
+      <jump line="91" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
+      <jump line="90" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
+      <jump line="37" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="88" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="315" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="317" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="328" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="329" column="31" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="332" column="72" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="333" column="61" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="337" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="586" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="595" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="643" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="740" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" />
+      <jump line="56" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
+      <jump line="79" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
+      <jump line="306" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
+      <jump line="6" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" />
+      <jump line="174" column="87" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
+      <jump line="107" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
+      <jump line="694" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="705" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2166" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="463" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="30" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
+      <jump line="512" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItemDetails.java" />
+      <jump line="97" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TaxCurrencyAmountMicros</text>
+        <text>TaxItemDetails</text>
       </register>
       <register name="-" type="4">
-        <text>TaxCurrencyAmountMicros</text>
+        <text>TaxItemDetails</text>
       </register>
       <register name="/" type="4">
-        <text>metricshelper</text>
+        <text encoding="base64">XDx2ZXJpZnlJbmRpcmVjdFRheFF1b3Rlc1Jlc3BvbnNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGluZGlyZWN0VGF4UXVvdGVQYXJhbXNfaG9zdFVzZXJNYXJrZXRNaXNzaW5nKCkgewogICAgVGF4UXVvdGVSZXNlcnZhdGlvbkRldGFpbC5CdWlsZGVyIHJiID0KICAgICAgICBVdGlsLnRheFF1b3RlUmVzZXJ2YXRpb25EZXRhaWxCdWlsZGVyKCJ1c2QiKS5zZXRIb3N0VXNlck1hcmtldChudWxsKTsKICAgIEluZGlyZWN0VGF4UXVvdGVQYXJhbXMuQnVpbGRlciBidWlsZGVyID0gZ2V0SW5kaXJlY3RUYXhRdW90ZUZvclZhdChyYi5idWlsZCgpKTsKCiAgICBWYWxpZGF0aW9uPFNlcTxTdHJpbmc+LCBDYWxjdWxhdGVUT1RSZXF1ZXN0PiB2ID0KICAgICAgICBDYWxjdWxhdGVUT1RSZXF1ZXN0Lm9mKGJ1aWxkZXIuYnVpbGQoKSwgZmFsc2UsIHRyZWJ1Y2hldENsaWVudCk7CgogICAgYXNzZXJ0VHJ1ZSh2LmlzSW52YWxpZCgpKTsKICAgIGFzc2VydEVxdWFscygiaG9zdFVzZXJNYXJrZXQ6IGNhbm5vdCBiZSBudWxsISIsIHYuZ2V0RXJyb3IoKS5nZXQoKSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0cmljVXRpbC5yZWNvcmRUYXhBbW91bnQobWV0cmljcywgQXJ1YmFDb250ZXh0LmN1cnJlbnQsIGl0ZW1zLCBsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0VHJ1ZSh2LmlzVmFsaWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFV0aWwudGF4UXVvdGVSZXNlcnZhdGlvbkRldGFpbEJ1aWxkZXIoInVzZCIpLnNldEhvc3RVc2VyTWFya2V0KG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0VHJ1ZSh2LmlzVmFsaWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVGF4UXVvdGVSZXNlcnZhdGlvbkRldGFpbC5CdWlsZGVyIHJiID0K</text>
+        <text encoding="base64">ICAgICAgICAgIFV0aWwudGF4UXVvdGVSZXNlcnZhdGlvbkRldGFpbEJ1aWxkZXIoInVzZCIpLnNldEhvc3RVc2VyTWFya2V0KG51bGwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKCJob3N0VXNlck1hcmtldDogY2Fubm90IGJlIG51bGwhIiwgdi5nZXRFcnJvcigpLmdldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgVGF4UXVvdGVSZXNlcnZhdGlvbkRldGFpbC5CdWlsZGVyIHJiID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSW5kaXJlY3RUYXhRdW90ZVBhcmFtcy5CdWlsZGVyIGJ1aWxkZXIgPSBnZXRJbmRpcmVjdFRheFF1b3RlRm9yVmF0KHJiLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKCJob3N0VXNlck1hcmtldDogY2Fubm90IGJlIG51bGwhIiwgdi5nZXRFcnJvcigpLmdldCgpKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgSW5kaXJlY3RUYXhRdW90ZVBhcmFtcy5CdWlsZGVyIGJ1aWxkZXIgPSBnZXRJbmRpcmVjdFRheFF1b3RlRm9yVmF0KHJiLmJ1aWxkKCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">VGF4UXVvdGVSZXNlcnZhdGlvbkRldGFpbC5CdWlsZGVyIHJiID0KICAgICAgICBVdGlsLnRheFF1b3RlUmVzZXJ2YXRpb25EZXRhaWxCdWlsZGVyKCJ1c2QiKS5zZXRIb3N0VXNlck1hcmtldChudWxsKTsKICAgIEluZGlyZWN0VGF4UXVvdGVQYXJhbXMuQnVpbGRlciBidWlsZGVyID0gZ2V0SW5kaXJlY3RUYXhRdW90ZUZvclZhdChyYi5idWlsZCgpKTsKCiAgICBWYWxpZGF0aW9uPFNlcTxTdHJpbmc+LCBDYWxjdWxhdGVUT1RSZXF1ZXN0PiB2ID0KICAgICAgICBDYWxjdWxhdGVUT1RSZXF1ZXN0Lm9mKGJ1aWxkZXIuYnVpbGQoKSwgZmFsc2UsIHRyZWJ1Y2hldENsaWVudCk7CgogICAgYXNzZXJ0VHJ1ZSh2LmlzSW52YWxpZCgpKTsKICAgIGFzc2VydEVxdWFscygiaG9zdFVzZXJNYXJrZXQ6IGNhbm5vdCBiZSBudWxsISIsIHYuZ2V0RXJyb3IoKS5nZXQoKSk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBsb25nIHRlcm0gc29sdXRpb24gd291bGQgYmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -455,9 +473,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>metricshelper</last-search>
+      <last-search encoding="base64">XDx2ZXJpZnlJbmRpcmVjdFRheFF1b3Rlc1Jlc3BvbnNlXD4=</last-search>
       <last-offset />
-      <last-pattern>metricshelper</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJpZnlJbmRpcmVjdFRheFF1b3Rlc1Jlc3BvbnNlXD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
