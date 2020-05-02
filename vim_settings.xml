@@ -171,6 +171,7 @@
         <entry encoding="base64">XDxvY2N1cGFuY3lUYXhBdXRob3JpdHlUeXBlXD4=</entry>
         <entry>arubacontext</entry>
         <entry>trebuchet</entry>
+        <entry encoding="base64">XDxUcmVidWNoZXRDbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -269,12 +270,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1588373337952">
         <mark key="'" line="69" column="19" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1588313756118">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="49" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/version" timestamp="1588362349110">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -293,6 +288,13 @@
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="26" />
         <mark key="." line="50" column="26" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588378069330">
+        <mark key="'" line="2036" column="6" />
+        <mark key="[" line="2264" column="29" />
+        <mark key="]" line="2265" column="38" />
+        <mark key="." line="2265" column="37" />
+        <mark key="^" line="2265" column="38" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" timestamp="1588374681756">
         <mark key="'" line="98" column="9" />
@@ -328,17 +330,14 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" timestamp="1588315698914">
         <mark key="'" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1588377198746">
-        <mark key="'" line="31" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1588457454327">
+        <mark key="'" line="31" column="50" />
         <mark key="[" line="45" column="25" />
         <mark key="]" line="45" column="25" />
-        <mark key="^" line="31" column="65" />
         <mark key="." line="45" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2166" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="463" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="30" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/MetricUtil.kt" />
       <jump line="512" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItemDetails.java" />
       <jump line="97" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
@@ -436,7 +435,9 @@
       <jump line="33" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculatorProvider.kt" />
       <jump line="187" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="45" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
-      <jump line="31" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
+      <jump line="418" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2036" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="31" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -448,37 +449,37 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>trebuchet</text>
+        <text encoding="base64">XDxUcmVidWNoZXRDbGllbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>datadogTags</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZ1biBpc0ZlYXR1cmVFbmFibGVkKHRyZWJ1Y2hldENsaWVudDogVHJlYnVjaGV0Q2xpZW50LCBmZWF0dXJlTmFtZTogU3RyaW5nKTogQm9vbGVhbiB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9nIGJ5IAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBmdW4gaXNGZWF0dXJlRW5hYmxlZChmZWF0dXJlTmFtZTogU3RyaW5nKTogQm9vbGVhbiB7CgogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBUT1BfQ09VTlRSSUVTID0gc2V0T2YoIlVTIiwgIkZSIiwgIkNBIiwgIkRFIiwgIkdCIiwgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9nIGJ5IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBUT1BfQ09VTlRSSUVTID0gc2V0T2YoIlVTIiwgIkZSIiwgIkNBIiwgIkRFIiwgIkdCIiwgIiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5tb2RlbC5UYXhDdXJyZW5jeUFtb3VudE1pY3Jvcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5jb21tb24udHlwZS5DdXJyZW5jeQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5tb2RlbC5UYXhDdXJyZW5jeUFtb3VudE1pY3Jvcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRheEN1cnJlbmN5QW1vdW50TWljcm9zKEN1cnJlbmN5Lm9mKCJDTlkiKS5nZXQoKSwgMSwgMiwgMywgNCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuc2VydmljZS5jb21tb24udHlwZS5DdXJyZW5jeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbWl0dGFuY2VDdXJyZW5jeUFtb3VudE1pY3JvcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRheEN1cnJlbmN5QW1vdW50TWljcm9zKEN1cnJlbmN5Lm9mKCJDTlkiKS5nZXQoKSwgMSwgMiwgMywgNCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRheFR5cGUgPSAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbWl0dGFuY2VDdXJyZW5jeUFtb3VudE1pY3JvcyA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0cmljVXRpbC5yZWNvcmRUYXhBbW91bnQobWV0cmljcywgQXJ1YmFDb250ZXh0LmN1cnJlbnQsIGl0ZW1zLCBsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRheFR5cGUgPSAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -487,9 +488,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>trebuchet</last-search>
+      <last-search encoding="base64">XDxUcmVidWNoZXRDbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>trebuchet</last-pattern>
+      <last-pattern encoding="base64">XDxUcmVidWNoZXRDbGllbnRcPg==</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
