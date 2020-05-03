@@ -284,11 +284,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman.mockitokotlin2/mockito-kotlin/2.1.0/9698b904be4f627c2f9d7dd095298fcb3aa3e6cb/mockito-kotlin-2.1.0-sources.jar!/com/nhaarman/mockitokotlin2/Matchers.kt" timestamp="1588475378646">
         <mark key="'" line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" timestamp="1588467826042">
-        <mark key="'" line="63" column="17" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/LogUtil.kt" timestamp="1588474975133">
         <mark key="'" line="17" column="35" />
+      </file>
+      <file name="/fragment.kt" timestamp="1588478162980">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/LogUtilTest.kt" timestamp="1588476174485">
         <mark key="'" line="20" column="29" />
@@ -296,14 +296,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ArubaException.kt" timestamp="1588474290656">
         <mark key="'" line="97" column="11" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1588467678360">
-        <mark key="'" line="140" column="20" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/4.10/9c7916059b7cc1f34a4574f1c8b5777e965d0066/logstash-logback-encoder-4.10-sources.jar!/net/logstash/logback/marker/MapEntriesAppendingMarker.java" timestamp="1588476159134">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/4.10/9c7916059b7cc1f34a4574f1c8b5777e965d0066/logstash-logback-encoder-4.10-sources.jar!/net/logstash/logback/marker/MapEntriesAppendingMarker.java" timestamp="1588478158169">
         <mark key="'" line="91" column="31" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1588467823760">
-        <mark key="'" line="355" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/4.10/9c7916059b7cc1f34a4574f1c8b5777e965d0066/logstash-logback-encoder-4.10-sources.jar!/net/logstash/logback/marker/LogstashBasicMarker.java" timestamp="1588475908736">
         <mark key="'" line="0" column="0" />
@@ -314,12 +308,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/4.10/9c7916059b7cc1f34a4574f1c8b5777e965d0066/logstash-logback-encoder-4.10-sources.jar!/net/logstash/logback/marker/Markers.java" timestamp="1588476180954">
         <mark key="'" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" timestamp="1588477581963">
-        <mark key="'" line="39" column="50" />
-        <mark key="[" line="63" column="30" />
-        <mark key="]" line="63" column="31" />
-        <mark key="." line="63" column="31" />
-        <mark key="^" line="66" column="49" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" timestamp="1588478523183">
+        <mark key="'" line="64" column="60" />
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="10" />
+        <mark key="^" line="44" column="11" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TestCalculator.kt" timestamp="1588476791325">
         <mark key="'" line="19" column="9" />
@@ -337,12 +331,15 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1588475617538">
         <mark key="'" line="1146" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" timestamp="1588476963519">
-        <mark key="'" line="50" column="33" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" timestamp="1588477748773">
+        <mark key="'" line="53" column="84" />
         <mark key="[" line="25" column="36" />
         <mark key="]" line="25" column="36" />
         <mark key="^" line="25" column="50" />
         <mark key="." line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/kotlin/collections/Sets.kt" timestamp="1588477751511">
+        <mark key="'" line="50" column="43" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman.mockitokotlin2/mockito-kotlin/2.1.0/9698b904be4f627c2f9d7dd095298fcb3aa3e6cb/mockito-kotlin-2.1.0-sources.jar!/com/nhaarman/mockitokotlin2/Stubber.kt" timestamp="1588468762159">
         <mark key="'" line="64" column="38" />
@@ -353,12 +350,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman.mockitokotlin2/mockito-kotlin/2.1.0/9698b904be4f627c2f9d7dd095298fcb3aa3e6cb/mockito-kotlin-2.1.0-sources.jar!/com/nhaarman/mockitokotlin2/internal/CreateInstance.kt" timestamp="1588468333677">
         <mark key="'" line="35" column="14" />
       </file>
+      <file name="/fragment.java" timestamp="1588478459775">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="50" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/BuildIndirectTaxUtil.kt" />
-      <jump line="94" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/BuildIndirectTaxUtil.kt" />
-      <jump line="51" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
       <jump line="1247" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/generated/_Collections.kt" />
       <jump line="490" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
@@ -430,7 +426,6 @@
       <jump line="1319" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="62" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
       <jump line="66" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="63" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
       <jump line="1117" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="1118" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="1125" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.0/cdd452f898001f5dc35448c623e16bde4f4817c6/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
@@ -455,15 +450,20 @@
       <jump line="76" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
       <jump line="39" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
       <jump line="19" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TestCalculator.kt" />
+      <jump line="53" column="84" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
+      <jump line="50" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/kotlin/collections/Sets.kt" />
+      <jump line="35" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/kotlin/collections/Sets.kt" />
+      <jump line="63" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
+      <jump line="1304" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>BeforeTest</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>BeforeTest</text>
       </register>
       <register name="/" type="4">
         <text>contains</text>
