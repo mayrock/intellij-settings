@@ -216,6 +216,12 @@
         <entry encoding="base64">XDxsaXN0aW5nc0JhdGNoRGF0YUZsb3dcPg==</entry>
         <entry encoding="base64">XDxub3JtYWxpemVMaXN0aW5nXD4=</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry encoding="base64">XDxMSVNUSU5HX0NBQ0hFX0tFWV9QUkVGSVhcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZUNhY2hlS2V5XD4=</entry>
+        <entry>refresh</entry>
+        <entry>getindirecttax</entry>
+        <entry encoding="base64">XDxob3N0VXNlcklkXD4=</entry>
+        <entry>usercor</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -292,12 +298,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" timestamp="1588536983343" />
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1588534850593">
-        <mark key="'" line="195" column="38" />
-        <mark key="[" line="187" column="26" />
-        <mark key="]" line="187" column="26" />
-        <mark key="." line="187" column="26" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/TypedModel.java" timestamp="1588538057812">
+        <mark key="'" line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" timestamp="1588537717541">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="307" column="4" />
+        <mark key="." line="307" column="3" />
+        <mark key="^" line="307" column="4" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1588537637256">
+        <mark key="'" line="2" column="72" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588533626379">
         <mark key="[" line="195" column="35" />
@@ -305,17 +316,27 @@
         <mark key="." line="195" column="49" />
         <mark key="^" line="195" column="50" />
       </file>
-      <file name="/fragment.kt" timestamp="1588535894141">
+      <file name="/fragment.kt" timestamp="1588538213976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/TestableDataLoader.kt" timestamp="1588533231339">
         <mark key="'" line="23" column="8" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/MicasaListingWithCountry.kt" timestamp="1588538025375">
+        <mark key="'" line="7" column="8" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" timestamp="1588485093201">
         <mark key="'" line="112" column="61" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1588536714228">
-        <mark key="'" line="278" column="60" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1588537341976">
+        <mark key="'" line="97" column="19" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" timestamp="1588537550577">
+        <mark key="'" line="149" column="20" />
+        <mark key="[" line="20" column="228" />
+        <mark key="]" line="20" column="254" />
+        <mark key="." line="20" column="253" />
+        <mark key="^" line="20" column="254" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/4.10/9c7916059b7cc1f34a4574f1c8b5777e965d0066/logstash-logback-encoder-4.10-sources.jar!/net/logstash/logback/marker/MapEntriesAppendingMarker.java" timestamp="1588478158169">
         <mark key="'" line="91" column="31" />
@@ -323,15 +344,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1588533152300">
         <mark key="'" line="305" column="66" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" timestamp="1588535898609">
-        <mark key="'" line="57" column="46" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="56" column="51" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/4.10/9c7916059b7cc1f34a4574f1c8b5777e965d0066/logstash-logback-encoder-4.10-sources.jar!/net/logstash/logback/marker/Markers.java" timestamp="1588476180954">
-        <mark key="'" line="44" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" timestamp="1588538417563">
+        <mark key="'" line="12" column="47" />
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="60" />
+        <mark key="." line="12" column="59" />
+        <mark key="^" line="12" column="60" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" timestamp="1588482294943">
         <mark key="[" line="46" column="57" />
@@ -339,26 +357,18 @@
         <mark key="." line="46" column="82" />
         <mark key="^" line="46" column="83" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TestCalculator.kt" timestamp="1588476791325">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="42" column="75" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/UserCorDataLoader.kt" timestamp="1588538367254">
+        <mark key="'" line="79" column="98" />
+        <mark key="[" line="81" column="50" />
+        <mark key="]" line="81" column="72" />
+        <mark key="." line="81" column="71" />
+        <mark key="^" line="81" column="72" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/UserCorDataLoader.kt" timestamp="1588534721882">
-        <mark key="'" line="101" column="35" />
-        <mark key="[" line="99" column="35" />
-        <mark key="]" line="99" column="38" />
-        <mark key="." line="99" column="37" />
-        <mark key="^" line="99" column="38" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" timestamp="1588536042794">
-        <mark key="'" line="672" column="51" />
-        <mark key="[" line="674" column="41" />
-        <mark key="]" line="674" column="41" />
-        <mark key="^" line="668" column="63" />
-        <mark key="." line="674" column="41" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" timestamp="1588538546202">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="37" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" timestamp="1588485079184">
         <mark key="'" line="60" column="65" />
@@ -367,38 +377,15 @@
         <mark key="^" line="60" column="107" />
         <mark key="." line="60" column="106" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/kotlin/collections/Sets.kt" timestamp="1588477751511">
-        <mark key="'" line="50" column="43" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/TrebuchetKeys.java" timestamp="1588484804057">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-        <mark key="^" line="19" column="42" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/TrebuchetKeys.java" timestamp="1588537633129">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1588478459775">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TestCalculator.kt" />
-      <jump line="53" column="84" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
-      <jump line="50" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/kotlin/collections/Sets.kt" />
-      <jump line="35" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/6eefff69d45d17fb1b50591729853e9f6a15d09/kotlin-stdlib-common-1.3.70-sources.jar!/kotlin/collections/Sets.kt" />
-      <jump line="63" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="1304" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="45" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="13" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit/1.3.70/5e010aa43cefb54f0872f07b44a6ace8be9359db/kotlin-test-junit-1.3.70-sources.jar!/Annotations.kt" />
-      <jump line="73" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="406" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" />
-      <jump line="8" column="42" filename="$USER_HOME$/airlab/repos/treehouse/common/kotlin/src/main/kotlin/com/airbnb/common/kotlin/slf4j/LoggerProperty.kt" />
-      <jump line="90" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="52" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
-      <jump line="220" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" />
-      <jump line="60" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
-      <jump line="112" column="61" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" />
-      <jump line="256" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" />
       <jump line="92" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="262" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="261" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
@@ -428,14 +415,10 @@
       <jump line="50" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
       <jump line="15" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/RegistrationNumberDataLoader.kt" />
       <jump line="56" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
-      <jump line="58" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
-      <jump line="81" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/UserCorDataLoader.kt" />
-      <jump line="47" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/TestableDataLoader.kt" />
       <jump line="101" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/UserCorDataLoader.kt" />
       <jump line="32" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/ShepherdDataLoader.java" />
       <jump line="38" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
-      <jump line="195" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="385" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="648" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="446" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
@@ -447,19 +430,15 @@
       <jump line="116" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="664" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="668" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
-      <jump line="18" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
-      <jump line="58" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="114" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="115" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="167" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="548" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="652" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="669" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
-      <jump line="79" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/UserCorDataLoader.kt" />
       <jump line="672" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
       <jump line="86" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="91" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="57" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
       <jump line="100" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="359" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="50" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
@@ -481,48 +460,74 @@
       <jump line="138" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
       <jump line="169" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
       <jump line="192" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="52" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="360" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="101" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="144" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="98" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="49" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="195" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="318" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="2" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="296" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="85" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
+      <jump line="7" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/MicasaListingWithCountry.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/MicasaListingWithCountry.kt" />
+      <jump line="679" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
+      <jump line="133" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
+      <jump line="450" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/TypedModel.java" />
+      <jump line="58" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/api/src/main/java/com/airbnb/micasa/api/TypedModel.java" />
+      <jump line="57" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
+      <jump line="81" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/UserCorDataLoader.kt" />
+      <jump line="47" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/TestableDataLoader.kt" />
+      <jump line="79" column="98" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/vat/UserCorDataLoader.kt" />
+      <jump line="167" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
+      <jump line="58" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
+      <jump line="681" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
+      <jump line="18" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
+      <jump line="58" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dcPg==</text>
+        <text>usercor</text>
       </register>
-      <register name="0" type="4">
-        <text>SomeCountry</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkb1JldHVybihDb21wbGV0YWJsZUZ1dHVyZS5jb21wbGV0ZWRGdXR1cmUoIiIpKQogICAgICAgICAgICAud2hlbmV2ZXIodXNlckNvckRhdGFMb2FkZXIpCiAgICAgICAgICAgIC5nZXRJbmRpYUhvc3RDb3IoYW55KCksIGFueSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxpc3RpbmcgPSAoTGlzdGluZykgcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBCVUdCVUc6IFJlbW92ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEJVR0JVRzogVGhpcyBpcyBhIHRlbXBvcmFyeSBoYWNrIHRvIG9ubHkgcmVmcmVzaCBjYWNoZSBmb3IgSU4gbGlzdGluZ3MKICAgIGlmIChsaXN0aW5nLmdldENvdW50cnkoKS5lcXVhbHMoIklOIikgJiYKICAgICAgICBBcnViYUNvbnRleHQuQ29tcGFuaW9uLmdldEN1cnJlbnQoKS5pc0ZlYXR1cmVFbmFibGVkKHRyZWJ1Y2hldENsaWVudCwiYXJ1YmFfc2tpcF9jYWNoZV9pbmRpYV9saXN0aW5nIikpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIEJVR0JVRzogUmVtb3ZlCiAgICB2YWwgcmVmcmVzaEluZGlhTGlzdGluZ0NhY2hlOiBCb29sZWFuLAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyQ29yRGF0YUxvYWRlci5nZXRJbmRpYUhvc3RDb3IoaWQsIGx3Yy5jb3VudHJ5KQo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbmNsdWRlRGVidWdJbmZvOiBCb29sZWFuLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldFJlZ2lzdHJhdGlvbk51bWJlcnMoYW55KCkpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGxpc3RpbmcgPSAoTGlzdGluZykgcmVzdWx0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndoZW5ldmVyKHJlZ2lzdHJhdGlvbk51bWJlckRhdGFMb2FkZXIpCg==</text>
+        <text encoding="base64">ICAgIC8vIEJVR0JVRzogVGhpcyBpcyBhIHRlbXBvcmFyeSBoYWNrIHRvIG9ubHkgcmVmcmVzaCBjYWNoZSBmb3IgSU4gbGlzdGluZ3MKICAgIGlmIChsaXN0aW5nLmdldENvdW50cnkoKS5lcXVhbHMoIklOIikgJiYKICAgICAgICBBcnViYUNvbnRleHQuQ29tcGFuaW9uLmdldEN1cnJlbnQoKS5pc0ZlYXR1cmVFbmFibGVkKHRyZWJ1Y2hldENsaWVudCwiYXJ1YmFfc2tpcF9jYWNoZV9pbmRpYV9saXN0aW5nIikpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb1JldHVybihtYXBPZigxTCB0byBPcHRpb24uc29tZSgiSUQiKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -531,9 +536,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dcPg==</last-search>
+      <last-search>usercor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
+      <last-pattern>usercor</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
