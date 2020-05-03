@@ -196,6 +196,8 @@
         <entry>logde</entry>
         <entry encoding="base64">XDxpbmNsdWRlRGVidWdJbmZvXD4=</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry>completion</entry>
+        <entry>completionexception</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -281,15 +283,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" timestamp="1588467826042">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1588464211695">
-        <mark key="'" line="571" column="39" />
-        <mark key="[" line="777" column="51" />
-        <mark key="]" line="777" column="51" />
-        <mark key="^" line="777" column="51" />
-        <mark key="." line="777" column="50" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoice/InvoiceGeneratorNew.kt" timestamp="1588466418422">
         <mark key="'" line="228" column="44" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ArubaException.kt" timestamp="1588474290656">
+        <mark key="'" line="97" column="11" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/BuildIndirectTaxUtil.kt" timestamp="1588466005243">
         <mark key="'" line="58" column="12" />
@@ -329,6 +327,12 @@
         <mark key="^" line="42" column="75" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Util.java" timestamp="1588474350001">
+        <mark key="'" line="194" column="23" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588466890739">
         <mark key="[" line="0" column="0" />
       </file>
@@ -350,9 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="97" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="52" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
       <jump line="15" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
       <jump line="81" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
@@ -450,6 +451,9 @@
       <jump line="43" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
       <jump line="40" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
       <jump line="97" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" />
+      <jump line="97" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ArubaException.kt" />
+      <jump line="34" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Util.java" />
+      <jump line="194" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Util.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -461,7 +465,7 @@
         <text>throw NotImplementedError()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dcPg==</text>
+        <text>completionexception</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNhbGN1bGF0b3I6IFRlc3RDYWxjdWxhdG9yID0gc3B5KFRlc3RDYWxjdWxhdG9yKHRhZ2dlZE1ldHJpY1JlZ2lzdHJ5KSkK</text>
@@ -470,28 +474,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlaW5pdFZhbHVlPD4oKQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFRocm93YWJsZSBnZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGFueVN0cm5nCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXRlaW5pdFZhbHVlPD4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGFueVN0cm5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZvckVhY2ggeyAoaWQsIHRheEVuZ2luZU5hbWUpIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmtleXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtcy5ncm91cEJ5IHsgUGFpcihpdC5hdXRob3JpdHkuaWQsIGl0LnRheEVuZ2luZU5hbWUpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZvckVhY2ggeyAoaWQsIHRheEVuZ2luZU5hbWUpIC0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -500,9 +504,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dcPg==</last-search>
+      <last-search>completionexception</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
+      <last-pattern>completionexception</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
