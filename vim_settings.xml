@@ -349,12 +349,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Base64.java" timestamp="1588896799043">
         <mark key="'" line="548" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaResponseNodeFactory.java" timestamp="1588896267980">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaResponseNodeFactory.java" timestamp="1588910394317">
         <mark key="'" line="31" column="13" />
-        <mark key="[" line="167" column="35" />
-        <mark key="]" line="167" column="59" />
-        <mark key="." line="167" column="58" />
-        <mark key="^" line="167" column="59" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="166" column="99" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" timestamp="1588898628327">
         <mark key="'" line="150" column="49" />
@@ -503,8 +503,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>serializedTaxItemDetails</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuaWZQcmVzZW50KHRheEl0ZW1CdWlsZGVyOjpzZXRFbmNvZGVkVGF4SXRlbURldGFpbHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>serializedTaxItemDetails</text>
@@ -516,31 +516,31 @@
         <text>non_null,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnVlKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAuaWZQcmVzZW50KHRheEl0ZW1CdWlsZGVyOjpzZXRFbmNvZGVkVGF4SXRlbURldGFpbHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoVGhyaWZ0Q29kZWMuc2VyaWFsaXplKAo=</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0RW5jb2RlZFRheEl0ZW1EZXRhaWxzT3B0aW9uYWwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRheEl0ZW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyaWZ0Q29kZWMuc2VyaWFsaXplKGNyZWF0ZUlkbFRheEl0ZW1EZXRhaWxzKHRheFR5cGUsIGF1dGhvcml0eSwgZ3Vlc3RDdXJyZW5jeUFtb3VudHMsIHVzZEFtb3VudHMsIHJlbWl0dGFuY2VDdXJyZW5jeUFtb3VudHMsIHBheW1lbnRQZXJpb2RJbmRleCksIHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnVlKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKiogKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoVGhyaWZ0Q29kZWMuc2VyaWFsaXplKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFydWJhQ29udGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyaWZ0Q29kZWMuc2VyaWFsaXplKGNyZWF0ZUlkbFRheEl0ZW1EZXRhaWxzKHRheFR5cGUsIGF1dGhvcml0eSwgZ3Vlc3RDdXJyZW5jeUFtb3VudHMsIHVzZEFtb3VudHMsIHJlbWl0dGFuY2VDdXJyZW5jeUFtb3VudHMsIHBheW1lbnRQZXJpb2RJbmRleCksIHRydWUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAvKiogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIEFydWJhQ29udGV4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
