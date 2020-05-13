@@ -253,6 +253,7 @@
         <entry>country)of</entry>
         <entry>metadata</entry>
         <entry>audit</entry>
+        <entry>attested</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -359,16 +360,14 @@
         <mark key="]" line="760" column="0" />
         <mark key="." line="760" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/version" timestamp="1588882281149">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" timestamp="1589317559741">
         <mark key="'" line="79" column="31" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1589317684408">
         <mark key="'" line="441" column="18" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" timestamp="1589405861567">
+        <mark key="'" line="332" column="29" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1588882413035">
         <mark key="'" line="764" column="19" />
@@ -412,15 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1101" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1108" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1141" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1186" column="16" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1187" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1194" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1227" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1315" column="16" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1316" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1323" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1356" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="183" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
@@ -512,6 +502,15 @@
       <jump line="656" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="438" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="441" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="31" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="333" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="334" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="327" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="328" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="329" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="330" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="331" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="332" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -523,7 +522,7 @@
         <text>getTaxType</text>
       </register>
       <register name="/" type="4">
-        <text>audit</text>
+        <text>attested</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBUlVCQV9MT0dfRkFJTFVSRV9SRVFVRVNUUyA9ICJwYXltZW50cy5hcnViYS5sb2dfZmFpbHVyZV9yZXF1ZXN0cyI7Cg==</text>
@@ -562,9 +561,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>audit</last-search>
+      <last-search>attested</last-search>
       <last-offset />
-      <last-pattern>audit</last-pattern>
+      <last-pattern>attested</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
