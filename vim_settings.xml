@@ -256,6 +256,7 @@
         <entry>attested</entry>
         <entry>attest</entry>
         <entry>update</entry>
+        <entry>permanent</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -374,9 +375,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" timestamp="1589316861391">
         <mark key="'" line="349" column="48" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/invoiceBill/VatersayInvoiceBillGeneratorTest.kt" timestamp="1588898628327">
-        <mark key="'" line="150" column="49" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/354d5dd5f75febe40347abfa2d9517bae6281e73/google-http-client-1.22.0-sources.jar!/com/google/api/client/util/Base64.java" timestamp="1588976150158">
         <mark key="'" line="52" column="60" />
       </file>
@@ -401,6 +399,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/db/ThriftUtil.kt" timestamp="1588976147322">
         <mark key="'" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1589408703990">
+        <mark key="'" line="247" column="10" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/TrebuchetKeys.java" timestamp="1589313876959">
         <mark key="[" line="22" column="73" />
         <mark key="]" line="22" column="88" />
@@ -409,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="31" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="114" column="30" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="53" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/client/VertexClientTest.java" />
       <jump line="67" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/vertex/client/VertexClientTest.java" />
       <jump line="147" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/ArubaContext.kt" />
@@ -509,6 +508,8 @@
       <jump line="1127" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="1118" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
       <jump line="300" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRuleManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
+      <jump line="247" column="10" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -520,7 +521,7 @@
         <text>getTaxType</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>permanent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBUlVCQV9MT0dfRkFJTFVSRV9SRVFVRVNUUyA9ICJwYXltZW50cy5hcnViYS5sb2dfZmFpbHVyZV9yZXF1ZXN0cyI7Cg==</text>
@@ -559,9 +560,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>update</last-search>
+      <last-search>permanent</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>permanent</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
