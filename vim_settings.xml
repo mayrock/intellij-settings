@@ -262,6 +262,10 @@
         <entry encoding="base64">XDx1c2Vfc3RhcnRfZGF0ZV9hc19kb2N1bWVudF9kYXRlXD4=</entry>
         <entry>usestart</entry>
         <entry encoding="base64">XDxyZXFOb2RlXD4=</entry>
+        <entry>cleaning</entry>
+        <entry>events</entry>
+        <entry>spv</entry>
+        <entry encoding="base64">XDxidWlsZFRheEl0ZW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -339,8 +343,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" timestamp="1589317612729">
-        <mark key="'" line="175" column="20" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" timestamp="1589417974485">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="199" column="25" />
         <mark key="]" line="200" column="19" />
         <mark key="^" line="200" column="19" />
@@ -358,8 +362,8 @@
         <mark key="]" line="760" column="0" />
         <mark key="." line="760" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" timestamp="1589317559741">
-        <mark key="'" line="79" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" timestamp="1589417944510">
+        <mark key="'" line="117" column="27" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1589317684408">
         <mark key="'" line="441" column="18" />
@@ -411,10 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="46" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TOTCalculatorTest.kt" />
-      <jump line="739" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="31" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaResponseNodeFactory.java" />
       <jump line="35" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
       <jump line="73" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
       <jump line="80" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
@@ -473,7 +473,6 @@
       <jump line="109" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="78" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="79" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" />
-      <jump line="118" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
       <jump line="175" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
       <jump line="5" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxAuthority.kt" />
       <jump line="656" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
@@ -511,6 +510,11 @@
       <jump line="341" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="345" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
+      <jump line="117" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" />
+      <jump line="108" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="154" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="118" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -522,7 +526,7 @@
         <text>getTaxType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXFOb2RlXD4=</text>
+        <text encoding="base64">XDxidWlsZFRheEl0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBUlVCQV9MT0dfRkFJTFVSRV9SRVFVRVNUUyA9ICJwYXltZW50cy5hcnViYS5sb2dfZmFpbHVyZV9yZXF1ZXN0cyI7Cg==</text>
@@ -561,9 +565,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXFOb2RlXD4=</last-search>
+      <last-search encoding="base64">XDxidWlsZFRheEl0ZW1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXFOb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZFRheEl0ZW1cPg==</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
