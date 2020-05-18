@@ -272,6 +272,8 @@
         <entry>loadtry</entry>
         <entry>load</entry>
         <entry>loadwithcache</entry>
+        <entry>loadwithcacheasync</entry>
+        <entry>oadbatch</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -395,8 +397,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TaxEngineCalculator.kt" timestamp="1589405888809">
         <mark key="'" line="215" column="15" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" timestamp="1589826283892">
-        <mark key="'" line="112" column="30" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" timestamp="1589827004592">
+        <mark key="'" line="217" column="22" />
         <mark key="m" line="106" column="30" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/McrouterStore.java" timestamp="1589821357697">
@@ -425,10 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="619" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/org/apache/commons/codec/binary/Base64.java" />
-      <jump line="8" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/db/ThriftUtil.kt" />
-      <jump line="52" column="60" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/354d5dd5f75febe40347abfa2d9517bae6281e73/google-http-client-1.22.0-sources.jar!/com/google/api/client/util/Base64.java" />
-      <jump line="568" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/org/apache/commons/codec/binary/Base64.java" />
       <jump line="620" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/org/apache/commons/codec/binary/Base64.java" />
       <jump line="639" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/org/apache/commons/codec/binary/Base64.java" />
       <jump line="659" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/org/apache/commons/codec/binary/Base64.java" />
@@ -525,6 +523,10 @@
       <jump line="106" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
       <jump line="108" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
       <jump line="112" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="144" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="145" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="110" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
+      <jump line="217" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/store/KeyValueStore.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -536,7 +538,7 @@
         <text>getTaxType</text>
       </register>
       <register name="/" type="4">
-        <text>loadwithcache</text>
+        <text>oadbatch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBUlVCQV9MT0dfRkFJTFVSRV9SRVFVRVNUUyA9ICJwYXltZW50cy5hcnViYS5sb2dfZmFpbHVyZV9yZXF1ZXN0cyI7Cg==</text>
@@ -575,9 +577,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>loadwithcache</last-search>
+      <last-search>oadbatch</last-search>
       <last-offset />
-      <last-pattern>loadwithcache</last-pattern>
+      <last-pattern>oadbatch</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
