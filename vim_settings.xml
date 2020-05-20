@@ -387,6 +387,13 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request.xml" timestamp="1589998554761">
         <mark key="'" line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1590003067419">
+        <mark key="'" line="255" column="32" />
+        <mark key="[" line="263" column="13" />
+        <mark key="]" line="255" column="69" />
+        <mark key="." line="255" column="69" />
+        <mark key="^" line="255" column="44" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1589934717614">
         <mark key="'" line="231" column="32" />
       </file>
@@ -442,7 +449,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistHistoricalClient.java" timestamp="1589991682596">
         <mark key="'" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" timestamp="1589998530523">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" timestamp="1590002709259">
         <mark key="'" line="242" column="28" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" timestamp="1589997142151">
@@ -453,9 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="65" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
-      <jump line="79" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="147" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="79" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
       <jump line="3" column="77" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" />
@@ -553,15 +557,18 @@
       <jump line="11" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request_SabrixClientTest_default.xml" />
       <jump line="918" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
+      <jump line="253" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="254" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="5290" column="35" filename="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>100.00</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>100.00</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>propertytyp</text>
@@ -569,32 +576,32 @@
       <register name="0" type="4">
         <text encoding="base64">PFVTRVJfRUxFTUVOVD48TkFNRT5BVFRSSUJVVEU3PC9OQU1FPjxWQUxVRT4xMDAuMDA8L1ZBTFVFPg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsY2hlbWlzdENsaWVudC5nZXRFeGNoYW5nZVJhdGUoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">SW1tdXRhYmxlTGlzdC5vZigKICAgICAgICAgICAgICAgIFVzZXJFbGVtZW50Lm9mKCJBVFRSSUJVVEU0IiwgbGlzdGluZy5nZXRIb3N0VXNlcklkKCkudG9TdHJpbmcoKSksCiAgICAgICAgICAgICAgICBVc2VyRWxlbWVudC5vZigKICAgICAgICAgICAgICAgICAgICAiQVRUUklCVVRFNSIsCiAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRIb3N0aW5nSWQoKS5mbGF0TWFwKGlkIC0+IE9wdGlvbi5vZihpZC50b1N0cmluZygpKSkuZ2V0T3JFbHNlKCIiKSksCiAgICAgICAgICAgICAgICBVc2VyRWxlbWVudC5vZigiQVRUUklCVVRFNiIsIHJlcXVlc3QuZ2V0SXNDYW5jZWxlZCgpLnRvU3RyaW5nKCkpLAogICAgICAgICAgICAgICAgVXNlckVsZW1lbnQub2YoCiAgICAgICAgICAgICAgICAgICAgIkFUVFJJQlVURTciLCBTdHJpbmcuZm9ybWF0KCIlLjJmIiwgcmVxdWVzdC5nZXRBY2NvbW1vZGF0aW9uUHJpY2UoKSkpLAogICAgICAgICAgICAgICAgVXNlckVsZW1lbnQub2YoIkFUVFJJQlVURTgiLCBsaXN0aW5nLmdldFByb3BlcnR5VHlwZU5hbWUoKSkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxjaGVtaXN0Q2FjaGVDbGllbnQuZ2V0ZXgK</text>
+        <text encoding="base64">ICAgIGFsY2hlbWlzdENsaWVudC5nZXRFeGNoYW5nZVJhdGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxjaGVtaXN0Q2FjaGVDbGllbnQuZ2V0ZXgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNpdGFyTm9ybWFsaXplZExpc3Rpbmc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2l0YXJMaXN0aW5nTm9ybWFsaXplci5nZXROb3JtYWxpemVkTGlzdGluZyhsaXN0aW5nKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2l0YXJOb3JtYWxpemVkTGlzdGluZzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Rpbmcgc2l0YXJOb3JtYWxpemVkTGlzdGluZyA9IHNpdGFyTGlzdGluZ05vcm1hbGl6ZXIuZ2V0Tm9ybWFsaXplZExpc3RpbmcobGlzdGluZyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIGJ1aWxkTGlzdGluZ0Zyb21UZXN0ZXJMaXN0aW5nX1NpdGFyRW1wdHlVc2VEQigpIHsKICAgICAgICBkb1JldHVybih0cnVlKQogICAgICAgICAgICAud2hlbmV2ZXIodHJlYnVjaGV0Q2xpZW50KQogICAgICAgICAgICAubGF1bmNoKCJwYXltZW50cy50b3QudXNlX2RiX2dlb19hbGlhcyIpCgogICAgICAgIHZhbCBkYkxpc3RpbmdOb3JtYWxpemVyUmVzdWx0ID0KICAgICAgICAgICAgVXRpbC5idWlsZExpc3RpbmcoKS50b0J1aWxkZXIoKS5jaXR5KCJTLiBGLiIpLmJ1aWxkKCkKICAgICAgICBkb1JldHVybihkYkxpc3RpbmdOb3JtYWxpemVyUmVzdWx0KQogICAgICAgICAgICAud2hlbmV2ZXIoZGVmYXVsdERiTGlzdGluZ05vcm1hbGl6ZXIpCiAgICAgICAgICAgIC5nZXROb3JtYWxpemVkTGlzdGluZyhhbnkoKSkKCiAgICAgICAgdmFsIHNpdGFyTGlzdGluZ05vcm1hbGl6ZXJSZXN1bHQgPQogICAgICAgICAgICBVdGlsLmJ1aWxkTGlzdGluZygpCiAgICAgICAgZG9SZXR1cm4oc2l0YXJMaXN0aW5nTm9ybWFsaXplclJlc3VsdCkKICAgICAgICAgICAgLndoZW5ldmVyKGRlZmF1bHRTaXRhckxpc3RpbmdOb3JtYWxpemVyKQogICAgICAgICAgICAuZ2V0Tm9ybWFsaXplZExpc3RpbmcoYW55KCkpCgogICAgICAgIHZhbCBsaXN0aW5nID0gZGVmYXVsdExpc3RpbmdEYXRhTG9hZGVyCiAgICAgICAgICAgIC5idWlsZExpc3RpbmdGcm9tUmVxdWVzdExpc3RpbmcoVXRpbC5idWlsZFJlcXVlc3RMaXN0aW5nKCkpLmdldCgpCgogICAgICAgIC8vIERCIHZlcnNpb24gcmV0dXJuZWQKICAgICAgICBhc3NlcnRFcXVhbHMoZGJMaXN0aW5nTm9ybWFsaXplclJlc3VsdCwgbGlzdGluZykKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIGJ1aWxkTGlzdGluZ0Zyb21UZXN0ZXJMaXN0aW5nX0RCRW1wdHlVc2VTaXRhcigpIHsKICAgICAgICBkb1JldHVybih0cnVlKQogICAgICAgICAgICAud2hlbmV2ZXIodHJlYnVjaGV0Q2xpZW50KQogICAgICAgICAgICAubGF1bmNoKCJwYXltZW50cy50b3QudXNlX2RiX2dlb19hbGlhcyIpCgogICAgICAgIHZhbCBkYkxpc3RpbmdOb3JtYWxpemVyUmVzdWx0ID0gVXRpbC5idWlsZExpc3RpbmcoKQogICAgICAgIGRvUmV0dXJuKGRiTGlzdGluZ05vcm1hbGl6ZXJSZXN1bHQpCiAgICAgICAgICAgIC53aGVuZXZlcihkZWZhdWx0RGJMaXN0aW5nTm9ybWFsaXplcikKICAgICAgICAgICAgLmdldE5vcm1hbGl6ZWRMaXN0aW5nKGFueSgpKQoKICAgICAgICB2YWwgc2l0YXJMaXN0aW5nTm9ybWFsaXplclJlc3VsdCA9CiAgICAgICAgICAgIFV0aWwuYnVpbGRMaXN0aW5nKCkudG9CdWlsZGVyKCkuY2l0eSgiUy4gRi4iKS5idWlsZCgpCiAgICAgICAgZG9SZXR1cm4oc2l0YXJMaXN0aW5nTm9ybWFsaXplclJlc3VsdCkKICAgICAgICAgICAgLndoZW5ldmVyKGRlZmF1bHRTaXRhckxpc3RpbmdOb3JtYWxpemVyKQogICAgICAgICAgICAuZ2V0Tm9ybWFsaXplZExpc3RpbmcoYW55KCkpCgogICAgICAgIHZhbCBsaXN0aW5nID0gZGVmYXVsdExpc3RpbmdEYXRhTG9hZGVyCiAgICAgICAgICAgIC5idWlsZExpc3RpbmdGcm9tUmVxdWVzdExpc3RpbmcoVXRpbC5idWlsZFJlcXVlc3RMaXN0aW5nKCkpLmdldCgpCgogICAgICAgIC8vIFNpdGFyIHZlcnNpb24gcmV0dXJuZWQKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHNpdGFyTGlzdGluZ05vcm1hbGl6ZXJSZXN1bHQsIGxpc3RpbmcpCiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNpdGFyTm9ybWFsaXplZExpc3Rpbmc7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2l0YXJMaXN0aW5nTm9ybWFsaXplci5nZXROb3JtYWxpemVkTGlzdGluZyhsaXN0aW5nKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2l0YXJOb3JtYWxpemVkTGlzdGluZzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIExpc3Rpbmcgc2l0YXJOb3JtYWxpemVkTGlzdGluZyA9IHNpdGFyTGlzdGluZ05vcm1hbGl6ZXIuZ2V0Tm9ybWFsaXplZExpc3RpbmcobGlzdGluZyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
