@@ -95,7 +95,6 @@
         <entry>.of</entry>
         <entry encoding="base64">XDxnZXRUYXhSdWxlRGF0YUZyb21QYXJhbUlkc1w+</entry>
         <entry>calculatetaxes</entry>
-        <entry>attribute</entry>
         <entry>attribu</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVUYXhSZXN1bHRGcm9tU2luZ2xlVGF4UnVsZVw+</entry>
         <entry>split</entry>
@@ -302,6 +301,9 @@
         <entry>getexchangeratesnapshot</entry>
         <entry>getexchangerate</entry>
         <entry encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</entry>
+        <entry>sabrix_request</entry>
+        <entry>attribute</entry>
+        <entry>propertytyp</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -379,42 +381,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoaderTest.kt" timestamp="1589918666107">
-        <mark key="'" line="112" column="48" />
-        <mark key="[" line="324" column="52" />
-        <mark key="]" line="324" column="53" />
-        <mark key="." line="324" column="53" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589919346155">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/VertexRollouts.java" timestamp="1589934721766">
         <mark key="'" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/test/java/com/airbnb/alchemist/client/AlchemistCacheTest.java" timestamp="1589997348506">
-        <mark key="[" line="54" column="85" />
-        <mark key="]" line="55" column="8" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="8" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/http/HttpAlchemistClient.java" timestamp="1589992655214">
-        <mark key="'" line="45" column="33" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" timestamp="1589925059813">
-        <mark key="'" line="54" column="96" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request.xml" timestamp="1589998554761">
+        <mark key="'" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1589934717614">
         <mark key="'" line="231" column="32" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" timestamp="1589918308113">
-        <mark key="'" line="110" column="24" />
-        <mark key="[" line="108" column="4" />
-        <mark key="]" line="107" column="42" />
-        <mark key="." line="107" column="41" />
-        <mark key="^" line="107" column="42" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" timestamp="1589995918340">
-        <mark key="'" line="3" column="45" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" timestamp="1589991702937">
         <mark key="'" line="25" column="32" />
@@ -423,15 +397,6 @@
         <mark key="." line="82" column="51" />
         <mark key="^" line="82" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/service/src/main/java/com/airbnb/alchemist/db/repositories/AlchemistDataRepository.java" timestamp="1589992940792">
-        <mark key="'" line="201" column="51" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" timestamp="1589918627178">
-        <mark key="'" line="280" column="42" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" timestamp="1589995931969">
         <mark key="'" line="43" column="67" />
         <mark key="[" line="63" column="0" />
@@ -439,6 +404,31 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1589922551403">
         <mark key="'" line="196" column="23" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/service/src/main/java/com/airbnb/alchemist/AlchemistApplication.java" timestamp="1589992797054">
+        <mark key="'" line="86" column="65" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/http/HttpAlchemistClient.java" timestamp="1589992655214">
+        <mark key="'" line="45" column="33" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" timestamp="1589925059813">
+        <mark key="'" line="54" column="96" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1589999435641">
+        <mark key="'" line="918" column="20" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" timestamp="1589995918340">
+        <mark key="'" line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request_SabrixClientTest_default.xml" timestamp="1589999046648">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="738" />
+        <mark key="]" line="0" column="739" />
+        <mark key="^" line="0" column="739" />
+        <mark key="." line="0" column="738" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/service/src/main/java/com/airbnb/alchemist/db/repositories/AlchemistDataRepository.java" timestamp="1589992940792">
+        <mark key="'" line="201" column="51" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1589990892635">
         <mark key="'" line="6" column="30" />
@@ -452,27 +442,17 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistHistoricalClient.java" timestamp="1589991682596">
         <mark key="'" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/service/src/main/java/com/airbnb/alchemist/AlchemistApplication.java" timestamp="1589992797054">
-        <mark key="'" line="86" column="65" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotGeoAliasDAO.kt" timestamp="1589917973617">
-        <mark key="'" line="28" column="40" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" timestamp="1589998530523">
+        <mark key="'" line="242" column="28" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" timestamp="1589997142151">
-        <mark key="'" line="93" column="49" />
-        <mark key="[" line="94" column="69" />
-        <mark key="]" line="94" column="74" />
-        <mark key="." line="94" column="73" />
-        <mark key="^" line="94" column="74" />
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="74" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="684" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="102" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotGeoAliasDAO.kt" />
-      <jump line="105" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotGeoAliasDAO.kt" />
-      <jump line="44" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressGeoAliasNormalizer.java" />
-      <jump line="65" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressGeoAliasNormalizer.java" />
-      <jump line="42" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressGeoAliasNormalizer.java" />
       <jump line="46" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="65" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="79" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
@@ -567,21 +547,27 @@
       <jump line="43" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
       <jump line="26" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/common/src/main/java/com/airbnb/alchemist/common/sitar/AlchemistSitarReader.java" />
       <jump line="93" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" />
+      <jump line="51" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/test/java/com/airbnb/alchemist/client/AlchemistCacheTest.java" />
+      <jump line="73" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
+      <jump line="242" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClientTest.java" />
+      <jump line="11" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request_SabrixClientTest_default.xml" />
+      <jump line="918" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoZW4oYWxjaGVtaXN0Q2xpZW50LmdldEV4Y2hhbmdlUmF0ZShmcm9tQ3VycmVuY3ksIHRvQ3VycmVuY3kpKS50aGVuUmV0dXJuKGV4Y2hhbmdlUmF0ZVF1b3RlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>100.00</text>
       </register>
       <register name="-" type="4">
-        <text>getExchangeRate</text>
+        <text>100.00</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</text>
+        <text>propertytyp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoZW4oYWxjaGVtaXN0Q2xpZW50LmdldEV4Y2hhbmdlUmF0ZShmcm9tQ3VycmVuY3ksIHRvQ3VycmVuY3kpKS50aGVuUmV0dXJuKGV4Y2hhbmdlUmF0ZVF1b3RlKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PFVTRVJfRUxFTUVOVD48TkFNRT5BVFRSSUJVVEU3PC9OQU1FPjxWQUxVRT4xMDAuMDA8L1ZBTFVFPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFsY2hlbWlzdENsaWVudC5nZXRFeGNoYW5nZVJhdGUoKQo=</text>
@@ -617,9 +603,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</last-search>
+      <last-search>propertytyp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</last-pattern>
+      <last-pattern>propertytyp</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
