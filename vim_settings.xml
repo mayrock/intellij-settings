@@ -301,6 +301,7 @@
         <entry>time</entry>
         <entry>getexchangeratesnapshot</entry>
         <entry>getexchangerate</entry>
+        <entry encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -406,8 +407,8 @@
         <mark key="." line="107" column="41" />
         <mark key="^" line="107" column="42" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" timestamp="1589993056982">
-        <mark key="'" line="182" column="23" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" timestamp="1589995918340">
+        <mark key="'" line="3" column="45" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" timestamp="1589991702937">
         <mark key="'" line="25" column="32" />
@@ -425,8 +426,8 @@
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" timestamp="1589995807680">
-        <mark key="'" line="23" column="71" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" timestamp="1589995931969">
+        <mark key="'" line="43" column="67" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="64" column="93" />
       </file>
@@ -451,25 +452,15 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotGeoAliasDAO.kt" timestamp="1589917973617">
         <mark key="'" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" timestamp="1589993540105">
-        <mark key="'" line="36" column="27" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" timestamp="1589995963044">
+        <mark key="'" line="85" column="32" />
+        <mark key="[" line="95" column="3" />
+        <mark key="]" line="96" column="2" />
+        <mark key="." line="96" column="1" />
+        <mark key="^" line="96" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
-      <jump line="495" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="152" column="27" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="918" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="616" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="77" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="149" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="150" column="77" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="177" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="139" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotGeoAliasManager.java" />
       <jump line="5" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/GeoAlias.kt" />
       <jump line="684" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="102" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/TotGeoAliasDAO.kt" />
@@ -548,17 +539,28 @@
       <jump line="11" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/data-model/src/main/java/com/airbnb/alchemist/datamodel/models/ExchangeRate.java" />
       <jump line="189" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
-      <jump line="43" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
       <jump line="69" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
-      <jump line="47" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
-      <jump line="75" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
       <jump line="15" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
       <jump line="81" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
       <jump line="182" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
       <jump line="14" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
-      <jump line="36" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" />
       <jump line="23" column="71" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
       <jump line="8" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistHistoricalClient.java" />
+      <jump line="36" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" />
+      <jump line="85" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" />
+      <jump line="47" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
+      <jump line="75" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="91" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="20" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="63" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="66" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="67" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="71" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="143" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="3" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" />
+      <jump line="43" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" />
+      <jump line="26" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/common/src/main/java/com/airbnb/alchemist/common/sitar/AlchemistSitarReader.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -570,7 +572,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>getexchangerate</text>
+        <text encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgRXhjaGFuZ2VSYXRlUXVvdGUgZ2V0RXhjaGFuZ2VSYXRlKAogICAgICBTdHJpbmcgZnJvbUN1cnJlbmN5LCBTdHJpbmcgdG9DdXJyZW5jeSwgYm9vbGVhbiBpbmNsdWRlQ29udmVyc2lvbkZlZSwgVGltZXN0YW1wIGFzT2YpIHsK</text>
@@ -609,13 +611,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getexchangerate</last-search>
+      <last-search encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</last-search>
       <last-offset />
-      <last-pattern>getexchangerate</last-pattern>
+      <last-pattern encoding="base64">XDxleGNoYW5nZVJhdGVTbmFwc2hvdFw+</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
