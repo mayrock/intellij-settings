@@ -306,6 +306,8 @@
         <entry>propertytyp</entry>
         <entry>add</entry>
         <entry encoding="base64">XDxpc0ZlYXR1cmVFbmFibGVkXD4=</entry>
+        <entry>display</entry>
+        <entry>shortname</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -383,17 +385,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/VertexRollouts.java" timestamp="1589934721766">
-        <mark key="'" line="28" column="33" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request.xml" timestamp="1589998554761">
         <mark key="'" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1590004460709">
         <mark key="'" line="266" column="9" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" timestamp="1589934717614">
-        <mark key="'" line="231" column="32" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" timestamp="1589991702937">
         <mark key="'" line="25" column="32" />
@@ -413,11 +409,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/http/HttpAlchemistClient.java" timestamp="1589992655214">
         <mark key="'" line="45" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/TOTCalculator.kt" timestamp="1589925059813">
-        <mark key="'" line="54" column="96" />
-      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" timestamp="1590079432101" />
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1589999435641">
         <mark key="'" line="918" column="20" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexEnvelopeToIndirectTaxMapper.kt" timestamp="1590079436154">
+        <mark key="'" line="85" column="12" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistSnapshotClient.java" timestamp="1589995918340">
         <mark key="'" line="3" column="45" />
@@ -432,6 +429,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/service/src/main/java/com/airbnb/alchemist/db/repositories/AlchemistDataRepository.java" timestamp="1589992940792">
         <mark key="'" line="201" column="51" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/BuildIndirectTaxUtil.kt" timestamp="1590079413976" />
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1589990892635">
         <mark key="'" line="6" column="30" />
       </file>
@@ -462,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingNormalizer.java" />
-      <jump line="308" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/ListingDataLoader.java" />
       <jump line="96" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/module/ArubaModule.java" />
       <jump line="6" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/normalizer/ListingAddressFormatNormalizer.java" />
       <jump line="26" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/oyster-schemas/main/java/com/airbnb/oyster/schema/model/tot_geo_alias_item/TotGeoAliasItemModel.java" />
@@ -562,6 +558,8 @@
       <jump line="3172" column="59" filename="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="3184" column="50" filename="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="265" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
+      <jump line="63" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexEnvelopeToIndirectTaxMapper.kt" />
+      <jump line="85" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexEnvelopeToIndirectTaxMapper.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -573,7 +571,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0ZlYXR1cmVFbmFibGVkXD4=</text>
+        <text>shortname</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdoZW4obW9ja1RyZWJ1Y2hldENsaWVudC5sYXVuY2goCiAgICAgICAgICAgIGVxKFRyZWJ1Y2hldEtleXMuQVJVQkFfU0FCUklYX0NBQ0hFX0VOQUJMRUQpLCBhbnkoQWlyYm5iUmVxdWVzdENvbnRleHQuY2xhc3MpKSkKICAgICAgICAudGhlblJldHVybihmYWxzZSk7Cg==</text>
@@ -613,9 +611,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc0ZlYXR1cmVFbmFibGVkXD4=</last-search>
+      <last-search>shortname</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0ZlYXR1cmVFbmFibGVkXD4=</last-pattern>
+      <last-pattern>shortname</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
