@@ -389,16 +389,18 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request.xml" timestamp="1589998554761">
         <mark key="'" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1590179878703">
-        <mark key="'" line="302" column="23" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" timestamp="1589995931969">
-        <mark key="'" line="43" column="67" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="93" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" timestamp="1590180586124">
         <mark key="'" line="138" column="36" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" timestamp="1590530341908">
+        <mark key="'" line="175" column="30" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="176" column="48" />
+        <mark key="." line="176" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1590179878703">
+        <mark key="'" line="302" column="23" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/resources/serviceIdlSchema/idlDataFactories/aruba/getIndirectTaxQuotes/basic.yml" timestamp="1590189860000">
         <mark key="'" line="361" column="30" />
@@ -407,7 +409,6 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" timestamp="1590079432101" />
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" timestamp="1589999435641">
         <mark key="'" line="918" column="20" />
       </file>
@@ -433,7 +434,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/taxengine/rules/CategoryAndNatureAssignmentRule.java" timestamp="1590176159605">
         <mark key="'" line="26" column="70" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/response/BuildIndirectTaxUtil.kt" timestamp="1590079413976" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistClient.java" timestamp="1589995931969">
+        <mark key="'" line="43" column="67" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="64" column="93" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/TrebuchetKeys.java" timestamp="1590171660515">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="67" />
@@ -449,6 +454,13 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" timestamp="1590530508610">
+        <mark key="'" line="240" column="0" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="49" />
+        <mark key="^" line="111" column="48" />
+        <mark key="." line="210" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" timestamp="1589997142151">
         <mark key="[" line="13" column="69" />
         <mark key="]" line="13" column="74" />
@@ -457,11 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/VertexRollouts.java" />
-      <jump line="28" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/tables/VertexRollouts.java" />
-      <jump line="6" column="30" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
-      <jump line="52" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" />
-      <jump line="82" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" />
       <jump line="97" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" />
       <jump line="12" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/lib/src/main/java/com/airbnb/alchemist/lib/AlchemistHistoricalClient.java" />
       <jump line="31" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/alchemist/AlchemistDataLoader.java" />
@@ -557,12 +564,17 @@
       <jump line="121" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
       <jump line="138" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
       <jump line="361" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen/main/resources/serviceIdlSchema/idlDataFactories/aruba/getIndirectTaxQuotes/basic.yml" />
+      <jump line="118" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="175" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="5" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxAuthority.kt" />
+      <jump line="34" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" />
+      <jump line="240" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIlZBVF8iICsgQ09SLmdldENvdW50cnlPZlJlc2lkZW5jZSgpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -571,35 +583,35 @@
         <text>sabri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja1RyZWJ1Y2hldENsaWVudC5sYXVuY2goCiAgICAgICAgICAgIGVxKFRyZWJ1Y2hldEtleXMuQVJVQkFfU0FCUklYX0NBQ0hFX0VOQUJMRUQpLCBhbnkoQWlyYm5iUmVxdWVzdENvbnRleHQuY2xhc3MpKSkKICAgICAgICAudGhlblJldHVybihmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlZBVF8iICsgQ09SLmdldENvdW50cnlPZlJlc2lkZW5jZSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIsCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiIsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogYWRkIGNvdW50cnkgYXV0aG9yaXR5IGlkLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>)
         .</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">SW1tdXRhYmxlTGlzdC5vZigKICAgICAgICAgICAgICAgIFVzZXJFbGVtZW50Lm9mKCJBVFRSSUJVVEU0IiwgbGlzdGluZy5nZXRIb3N0VXNlcklkKCkudG9TdHJpbmcoKSksCiAgICAgICAgICAgICAgICBVc2VyRWxlbWVudC5vZigKICAgICAgICAgICAgICAgICAgICAiQVRUUklCVVRFNSIsCiAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRIb3N0aW5nSWQoKS5mbGF0TWFwKGlkIC0+IE9wdGlvbi5vZihpZC50b1N0cmluZygpKSkuZ2V0T3JFbHNlKCIiKSksCiAgICAgICAgICAgICAgICBVc2VyRWxlbWVudC5vZigiQVRUUklCVVRFNiIsIHJlcXVlc3QuZ2V0SXNDYW5jZWxlZCgpLnRvU3RyaW5nKCkpLAogICAgICAgICAgICAgICAgVXNlckVsZW1lbnQub2YoCiAgICAgICAgICAgICAgICAgICAgIkFUVFJJQlVURTciLCBTdHJpbmcuZm9ybWF0KCIlLjJmIiwgcmVxdWVzdC5nZXRBY2NvbW1vZGF0aW9uUHJpY2UoKSkpLAogICAgICAgICAgICAgICAgVXNlckVsZW1lbnQub2YoIkFUVFJJQlVURTgiLCBsaXN0aW5nLmdldFByb3BlcnR5VHlwZU5hbWUoKSkp</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsY2hlbWlzdENsaWVudC5nZXRFeGNoYW5nZVJhdGUoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxjaGVtaXN0Q2FjaGVDbGllbnQuZ2V0ZXgK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNpdGFyTm9ybWFsaXplZExpc3Rpbmc7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2l0YXJMaXN0aW5nTm9ybWFsaXplci5nZXROb3JtYWxpemVkTGlzdGluZyhsaXN0aW5nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -614,7 +626,7 @@
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
