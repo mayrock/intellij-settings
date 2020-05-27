@@ -319,6 +319,7 @@
         <entry>verify</entry>
         <entry encoding="base64">XDx2ZXJpZnlJbmRpcmVjdFRheFF1b3Rlc1Jlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxUYXhBdXRob3JpdHlcPg==</entry>
+        <entry encoding="base64">XDx0YXhfYXV0aG9yaXR5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -396,12 +397,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1590593794036">
-        <mark key="'" line="2206" column="47" />
-        <mark key="[" line="2207" column="13" />
-        <mark key="]" line="2207" column="19" />
-        <mark key="." line="2207" column="18" />
-        <mark key="^" line="2207" column="19" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1590597452820">
+        <mark key="'" line="2334" column="18" />
+        <mark key="[" line="2334" column="13" />
+        <mark key="]" line="2334" column="19" />
+        <mark key="." line="2334" column="18" />
+        <mark key="^" line="2334" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590597551058">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" timestamp="1590539970757">
         <mark key="[" line="73" column="11" />
@@ -477,13 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/resources/sabrix_request_SabrixClientTest_default.xml" />
-      <jump line="918" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/aruba_data.thrift" />
-      <jump line="253" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="254" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
-      <jump line="5290" column="35" filename="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
-      <jump line="257" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" />
       <jump line="3798" column="30" filename="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="3799" column="25" filename="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="3811" column="8" filename="/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
@@ -577,6 +574,13 @@
       <jump line="2194" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="464" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="2206" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2327" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2335" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2952" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2986" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2300" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="571" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
+      <jump line="2334" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -588,10 +592,10 @@
         <text>setName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYXhBdXRob3JpdHlcPg==</text>
+        <text encoding="base64">XDx0YXhfYXV0aG9yaXR5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldE5hbWUoIk5ldGhlcmxhbmRzIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldE5hbWUoInRheF9hdXRob3JpdHkiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCkK</text>
@@ -627,9 +631,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUYXhBdXRob3JpdHlcPg==</last-search>
+      <last-search encoding="base64">XDx0YXhfYXV0aG9yaXR5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYXhBdXRob3JpdHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0YXhfYXV0aG9yaXR5XD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
