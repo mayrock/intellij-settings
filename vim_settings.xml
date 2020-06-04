@@ -332,6 +332,7 @@
         <entry>initialDelay</entry>
         <entry>warmupconfig</entry>
         <entry>warmup</entry>
+        <entry>exception</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -421,6 +422,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" timestamp="1591130523986">
         <mark key="'" line="469" column="34" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ExceptionUtils.kt" timestamp="1591307869586">
+        <mark key="'" line="47" column="26" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" timestamp="1591223479169">
         <mark key="'" line="42" column="15" />
         <mark key="[" line="2004" column="0" />
@@ -432,11 +436,11 @@
         <mark key="'" line="545" column="47" />
         <mark key="[" line="546" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1590540133113">
-        <mark key="'" line="77" column="45" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/Constants.kt" timestamp="1590790500767">
         <mark key="'" line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1591307844098">
+        <mark key="'" line="3" column="87" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1590597452820">
         <mark key="'" line="2334" column="18" />
@@ -453,10 +457,6 @@
         <mark key="]" line="89" column="0" />
         <mark key="^" line="88" column="2" />
         <mark key="." line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" timestamp="1590539970757">
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="78" column="15" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" timestamp="1591130608276">
         <mark key="'" line="596" column="16" />
@@ -493,12 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="514" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
-      <jump line="596" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
-      <jump line="70" column="70" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
-      <jump line="224" column="19" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
-      <jump line="223" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
       <jump line="229" column="21" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
       <jump line="544" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
       <jump line="58" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.java" />
@@ -593,6 +587,12 @@
       <jump line="304" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="353" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="354" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="3" column="87" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" />
+      <jump line="27" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ExceptionUtils.kt" />
+      <jump line="13" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ExceptionUtils.kt" />
+      <jump line="47" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ExceptionUtils.kt" />
+      <jump line="8" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ExceptionUtils.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -604,7 +604,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>warmup</text>
+        <text>exception</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbml0aWFsRGVsYXlTZWNvbmRzOiB7eyAuRW52LlBhcmFtcy53YXJtdXBDb25maWcud2FybXVwRHVyYXRpb25JblNlY29uZHMgfX0Ke3sgZWxzZSB9fQogIGluaXRpYWxEZWxheVNlY29uZHM6IDQwCg==</text>
@@ -643,9 +643,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>warmup</last-search>
+      <last-search>exception</last-search>
       <last-offset />
-      <last-pattern>warmup</last-pattern>
+      <last-pattern>exception</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
