@@ -327,6 +327,11 @@
         <entry>sde</entry>
         <entry>ait</entry>
         <entry>minre</entry>
+        <entry>warm</entry>
+        <entry>initialde</entry>
+        <entry>initialDelay</entry>
+        <entry>warmupconfig</entry>
+        <entry>warmup</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -405,12 +410,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1591293689902">
-        <mark key="'" line="234" column="17" />
-        <mark key="[" line="461" column="21" />
-        <mark key="]" line="461" column="21" />
-        <mark key="^" line="461" column="21" />
-        <mark key="." line="461" column="20" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" timestamp="1591298589174">
+        <mark key="'" line="354" column="48" />
+        <mark key="[" line="183" column="34" />
+        <mark key="]" line="183" column="35" />
+        <mark key="^" line="183" column="35" />
+        <mark key="." line="183" column="34" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/TaxableBaseType.kt" timestamp="1591135122806" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" timestamp="1591130523986">
@@ -422,13 +427,6 @@
         <mark key="]" line="2004" column="69" />
         <mark key="." line="2004" column="0" />
         <mark key="^" line="468" column="22" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1590539606302">
-        <mark key="'" line="643" column="39" />
-        <mark key="[" line="687" column="30" />
-        <mark key="]" line="688" column="43" />
-        <mark key="^" line="688" column="43" />
-        <mark key="." line="688" column="42" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" timestamp="1591219160739">
         <mark key="'" line="545" column="47" />
@@ -449,6 +447,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1590597551058">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/containers/aruba.yml" timestamp="1591298659383">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="88" column="2" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/test/java/com/airbnb/vatersay/manager/generator/GeneratorTestData.kt" timestamp="1590539970757">
         <mark key="[" line="73" column="11" />
@@ -472,8 +476,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/Listing.java" timestamp="1590683268229">
         <mark key="'" line="67" column="14" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" timestamp="1590790544170">
-        <mark key="'" line="139" column="29" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" timestamp="1591298610984">
+        <mark key="'" line="147" column="7" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="84" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" timestamp="1590540138069">
         <mark key="[" line="795" column="19" />
@@ -486,39 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2327" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="2335" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="2952" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="2986" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="2300" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="571" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="2334" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
-      <jump line="24" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/Listing.java" />
-      <jump line="67" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/dataloader/listing/model/Listing.java" />
-      <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/build/generated/thrift-gen-data/main/java/com/airbnb/micasa/idl/v1/Hierarchy.java" />
-      <jump line="262" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
-      <jump line="27" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/Constants.kt" />
-      <jump line="11" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="136" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="137" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="138" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="139" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
-      <jump line="11" column="85" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="101" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="161" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="169" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="105" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="519" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="508" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="468" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="538" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="8" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="469" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/dataloaders/ArubaDataLoader.java" />
-      <jump line="159" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
-      <jump line="179" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
-      <jump line="237" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
-      <jump line="402" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
       <jump line="514" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
       <jump line="596" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaRequestNodeFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" />
@@ -586,48 +560,81 @@
       <jump line="4" column="8" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="42" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="234" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="462" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="218" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="219" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="267" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="268" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="298" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="343" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="344" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="69" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="147" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/files/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/containers/aruba.yml" />
+      <jump line="94" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/containers/aruba.yml" />
+      <jump line="85" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/containers/aruba.yml" />
+      <jump line="191" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="229" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="230" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="279" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="280" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="307" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="356" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="357" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="68" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="180" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="183" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="186" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="226" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="227" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="276" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="277" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="303" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="304" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="353" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="354" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkYWl0LmFzc2VydCh0YXhUeXBlKTogaXQubmFtZSgpLmVxdWFscygiT0NDVVBBTkNZX1RBWCIpCg==</text>
+        <text encoding="base64">ICBpbml0aWFsRGVsYXlTZWNvbmRzOiAxNQo=</text>
       </register>
       <register name="-" type="4">
-        <text>OCCUPANCY_TAX_REMITTED_BY_HOST</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>minre</text>
+        <text>warmup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkYWl0LmFzc2VydCh0YXhUeXBlKTogaXQubmFtZSgpLmVxdWFscygiT0NDVVBBTkNZX1RBWCIpCg==</text>
+        <text encoding="base64">ICBpbml0aWFsRGVsYXlTZWNvbmRzOiB7eyAuRW52LlBhcmFtcy53YXJtdXBDb25maWcud2FybXVwRHVyYXRpb25JblNlY29uZHMgfX0Ke3sgZWxzZSB9fQogIGluaXRpYWxEZWxheVNlY29uZHM6IDQwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkYWl0LmFzc2VydCh0YXhUeXBlKTogaXQubG9uZ1ZhbHVlKCkgPT0gNDY3MDAwMAo=</text>
+        <text encoding="base64">ICBpbml0aWFsRGVsYXlTZWNvbmRzOiAxNQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7eyBlbHNlIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICBpbml0aWFsRGVsYXlTZWNvbmRzOiAxMzUgIyBTaG91bGQgYmUgbGFyZ2VyIHRoYW4gc2VydmljZSB3YXJtdXBfZHVyYXRpb25faW5fc2Vjb25kcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRvQnVpbGRlcigpCg==</text>
+        <text encoding="base64">ICA6IDEzNSAjIFNob3VsZCBiZSBsYXJnZXIgdGhhbiBzZXJ2aWNlIHdhcm11cF9kdXJhdGlvbl9pbl9zZWNvbmRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmlkKCJWQVRfVFciKQo=</text>
+        <text encoding="base64">ICAgICAgIyBzZXJ2aWNlIHdhcm11cCAtLSBkaXNhYmxlZCBieSBkZWZhdWx0CiAgICAgIHdhcm11cEVuYWJsZWQ6IGZhbHNlCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm5hbWUoIlRhaXdhbiIpCg==</text>
+        <text encoding="base64">ICAgICAgd2FybXVwRW5hYmxlZDogdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmlkKG51bGwpCiAgICAgICAgICAgIC5uYW1lKCJDTiIpCg==</text>
+        <text encoding="base64">ICAgICAgIyBlbmFibGUgc2VydmljZSB3YXJtdXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrawo=</text>
+        <text encoding="base64">ICAgICAgd2FybXVwRW5hYmxlZDogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBlbmFibGUgc2VydmljZSB3YXJtdXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -636,9 +643,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>minre</last-search>
+      <last-search>warmup</last-search>
       <last-offset />
-      <last-pattern>minre</last-pattern>
+      <last-pattern>warmup</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
