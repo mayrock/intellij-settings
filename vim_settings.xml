@@ -253,7 +253,6 @@
         <entry encoding="base64">XDxyZXFOb2RlXD4=</entry>
         <entry>cleaning</entry>
         <entry>events</entry>
-        <entry>spv</entry>
         <entry encoding="base64">XDxidWlsZFRheEl0ZW1cPg==</entry>
         <entry encoding="base64">XDx0dGxcPg==</entry>
         <entry>MX</entry>
@@ -340,6 +339,10 @@
         <entry>priceitemtype</entry>
         <entry>experienc</entry>
         <entry>vertex</entry>
+        <entry>cleanin</entry>
+        <entry>spv</entry>
+        <entry encoding="base64">XDxWQVRfVEFYX1ZBU0VfUFJJQ0VfSVRFTV9UWVBFU19TUFZcPg==</entry>
+        <entry>guest</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -430,11 +433,14 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/currency/MicrosHelper.java" timestamp="1591318750034">
         <mark key="'" line="378" column="30" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/exceptions/ExceptionUtils.kt" timestamp="1591307869586">
-        <mark key="'" line="47" column="26" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/pricing-representation/src/main/java/com/airbnb/griphook/pricing/representation/generator/DisplayPriceGenerator.java" timestamp="1591319585966">
         <mark key="'" line="114" column="15" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" timestamp="1591649448350">
+        <mark key="'" line="204" column="29" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" timestamp="1591650222202">
+        <mark key="'" line="48" column="19" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/pricing-representation/build/generated/thrift-gen-data/main/java/com/airbnb/homes/api/price/v1/FormattedPriceAmount.java" timestamp="1591319625526">
         <mark key="'" line="65" column="255" />
@@ -465,9 +471,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/currency/src/main/java/com/airbnb/currency/Currency.java" timestamp="1591319989620">
         <mark key="'" line="421" column="41" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1591307844098">
-        <mark key="'" line="3" column="87" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/pricing-representation/src/main/java/com/airbnb/griphook/pricing/representation/generator/itemgenerators/ItemGenerator.java" timestamp="1591319974142">
         <mark key="'" line="391" column="44" />
       </file>
@@ -485,10 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1662" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1671" column="17" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1748" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
-      <jump line="1757" column="17" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1832" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1841" column="17" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
       <jump line="1918" column="15" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/datafactories/getIndirectTaxQuotes/basic.yml" />
@@ -585,6 +584,10 @@
       <jump line="266" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="267" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="344" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
+      <jump line="82" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="204" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="46" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
+      <jump line="48" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -596,7 +599,7 @@
         <text encoding="base64">IFRlc3RJbnRlcmZhY2U8U3RyaW5nPg==</text>
       </register>
       <register name="/" type="4">
-        <text>vertex</text>
+        <text>guest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbml0aWFsRGVsYXlTZWNvbmRzOiB7eyAuRW52LlBhcmFtcy53YXJtdXBDb25maWcud2FybXVwRHVyYXRpb25JblNlY29uZHMgfX0Ke3sgZWxzZSB9fQogIGluaXRpYWxEZWxheVNlY29uZHM6IDQwCg==</text>
@@ -635,9 +638,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>vertex</last-search>
+      <last-search>guest</last-search>
       <last-offset />
-      <last-pattern>vertex</last-pattern>
+      <last-pattern>guest</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
