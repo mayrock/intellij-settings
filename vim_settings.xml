@@ -347,6 +347,7 @@
         <entry>gettaxrule</entry>
         <entry encoding="base64">XDxUQVhfUlVMRV9QQVJBTV9JRFNfQllfUk9MTE9VVF9LRVlfUFJFRklYXD4=</entry>
         <entry encoding="base64">XDxnZXRUYXhSdWxlUGFyYW1JZHNCeVJvbGxvdXRJZENhY2hlS2V5XD4=</entry>
+        <entry encoding="base64">XDxjYWxjdWxhdGVOaWdodGx5UHJpY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -428,8 +429,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/pricing-representation/build/generated/thrift-gen-data/main/java/com/airbnb/griphook/api/v1/DisplayPriceLineItem.java" timestamp="1591319616693">
         <mark key="'" line="66" column="273" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/griphook/pricing-representation/src/main/java/com/airbnb/griphook/pricing/representation/generator/DisplayPriceGenerator.java" timestamp="1591319585966">
-        <mark key="'" line="114" column="15" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" timestamp="1592327837334">
+        <mark key="'" line="161" column="42" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" timestamp="1591650858349">
         <mark key="'" line="32" column="41" />
@@ -496,13 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="357" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="68" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="180" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="183" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="186" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
-      <jump line="226" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="227" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="276" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
       <jump line="277" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/_infra/kube/kube-gen.yml" />
@@ -596,6 +590,13 @@
       <jump line="1220" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
       <jump line="27" column="64" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/oyster-schemas/main/java/com/airbnb/oyster/schema/model/tax_rule_param_to_rollout_relation/TaxRuleParamToRolloutRelation.java" />
       <jump line="26" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/oyster-schemas/main/java/com/airbnb/oyster/schema/model/tax_rule_param_to_rollout_relation/TaxRuleParamToRolloutRelationModel.java" />
+      <jump line="47" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
+      <jump line="316" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
+      <jump line="312" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
+      <jump line="354" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/wsdlJava/main/com/airbnb/aruba/external/vertex/QuotationRequestType.java" />
+      <jump line="111" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
+      <jump line="146" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
+      <jump line="161" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -607,7 +608,7 @@
         <text encoding="base64">IFRlc3RJbnRlcmZhY2U8U3RyaW5nPg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUYXhSdWxlUGFyYW1JZHNCeVJvbGxvdXRJZENhY2hlS2V5XD4=</text>
+        <text encoding="base64">XDxjYWxjdWxhdGVOaWdodGx5UHJpY2VzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbml0aWFsRGVsYXlTZWNvbmRzOiB7eyAuRW52LlBhcmFtcy53YXJtdXBDb25maWcud2FybXVwRHVyYXRpb25JblNlY29uZHMgfX0Ke3sgZWxzZSB9fQogIGluaXRpYWxEZWxheVNlY29uZHM6IDQwCg==</text>
@@ -646,9 +647,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRUYXhSdWxlUGFyYW1JZHNCeVJvbGxvdXRJZENhY2hlS2V5XD4=</last-search>
+      <last-search encoding="base64">XDxjYWxjdWxhdGVOaWdodGx5UHJpY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUYXhSdWxlUGFyYW1JZHNCeVJvbGxvdXRJZENhY2hlS2V5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjdWxhdGVOaWdodGx5UHJpY2VzXD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
