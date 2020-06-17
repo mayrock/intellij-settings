@@ -373,6 +373,7 @@
         <entry encoding="base64">XDxJbnB1dFByaWNlSXRlbVR5cGVcPg==</entry>
         <entry>lomb</entry>
         <entry encoding="base64">XDxQUklDRV9JVEVNX1RZUEVfTUFQXD4=</entry>
+        <entry>productpricequote</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -451,6 +452,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/BillManager.java" timestamp="1592375951789">
+        <mark key="'" line="277" column="61" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1592370219383">
         <mark key="'" line="48" column="34" />
         <mark key="[" line="222" column="86" />
@@ -458,14 +462,11 @@
         <mark key="." line="222" column="86" />
         <mark key="^" line="222" column="87" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" timestamp="1592368453205">
-        <mark key="'" line="119" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/processes/products/ExecuteProduct.java" timestamp="1592375847954">
+        <mark key="'" line="41" column="21" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/build/generated/thrift-gen-data/main/java/com/airbnb/balboa/api/ProductUnitDetails.java" timestamp="1592369224061">
         <mark key="'" line="65" column="255" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1592369067482">
-        <mark key="'" line="162" column="35" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/version" timestamp="1592370164463">
         <mark key="[" line="0" column="5" />
@@ -484,9 +485,6 @@
         <mark key="]" line="20" column="57" />
         <mark key="." line="20" column="56" />
         <mark key="^" line="20" column="57" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" timestamp="1592369195232">
-        <mark key="'" line="1375" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1592369563819">
         <mark key="[" line="0" column="0" />
@@ -513,24 +511,17 @@
         <mark key="'" line="15" column="26" />
         <mark key="[" line="577" column="40" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/build/generated/thrift-gen-data/main/java/com/airbnb/balboa/api/ProductUnit.java" timestamp="1592369209921">
-        <mark key="'" line="67" column="196" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/products/TripHandler.java" timestamp="1592375765637">
+        <mark key="'" line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" timestamp="1592376042491">
+        <mark key="'" line="439" column="34" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" timestamp="1592374114436">
         <mark key="'" line="294" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1360" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" />
-      <jump line="1335" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" />
-      <jump line="1274" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" />
-      <jump line="182" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
-      <jump line="214" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
-      <jump line="31" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaResponseNodeFactory.java" />
-      <jump line="165" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/src/main/java/com/airbnb/griphook/powergrid/nodefactories/ArubaResponseNodeFactory.java" />
-      <jump line="388" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/griphook/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxItem.java" />
-      <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/build.gradle" />
-      <jump line="144" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="201" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="97" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="252" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
@@ -621,6 +612,16 @@
       <jump line="294" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
       <jump line="1250" column="23" filename="$USER_HOME$/airlab/repos/treehouse/schemas/lombard/src/lombard_data.thrift" />
       <jump line="4" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/storage/token/PanamaTokenManager.java" />
+      <jump line="53" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/products/TripHandler.java" />
+      <jump line="41" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/processes/products/ExecuteProduct.java" />
+      <jump line="15" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/workflow/IdempotentRPC.java" />
+      <jump line="273" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/BillManager.java" />
+      <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/build/generated/thrift-gen-data/main/java/com/airbnb/panama/bill/api/CreateBillRequest.java" />
+      <jump line="277" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/BillManager.java" />
+      <jump line="114" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
+      <jump line="189" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
+      <jump line="333" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
+      <jump line="439" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -632,7 +633,7 @@
         <text>BASE_PRICE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQUklDRV9JVEVNX1RZUEVfTUFQXD4=</text>
+        <text>productpricequote</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5wdXRQcmljZUl0ZW1UeXBlLkJBU0VfUFJJQ0UsCg==</text>
@@ -672,9 +673,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQUklDRV9JVEVNX1RZUEVfTUFQXD4=</last-search>
+      <last-search>productpricequote</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQUklDRV9JVEVNX1RZUEVfTUFQXD4=</last-pattern>
+      <last-pattern>productpricequote</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
