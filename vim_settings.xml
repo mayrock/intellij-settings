@@ -494,12 +494,12 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1592504294103">
-        <mark key="'" line="88" column="44" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1592505957564">
+        <mark key="'" line="87" column="59" />
         <mark key="[" line="87" column="36" />
-        <mark key="]" line="87" column="61" />
-        <mark key="." line="87" column="60" />
-        <mark key="^" line="87" column="61" />
+        <mark key="]" line="87" column="62" />
+        <mark key="." line="87" column="61" />
+        <mark key="^" line="87" column="62" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1592503445481">
         <mark key="'" line="608" column="83" />
@@ -664,7 +664,6 @@
       <jump line="56" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
       <jump line="698" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build.gradle" />
-      <jump line="87" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
       <jump line="67" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="158" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="605" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
@@ -692,12 +691,13 @@
       <jump line="131" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
       <jump line="440" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
       <jump line="431" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
+      <jump line="87" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRheFF1b3RhdGlvbkFzeW5jQ29tbWFuZAogICAgICAgICAgICAgICAgICAgIC5nZXRFZmZlY3RpdmVDYWxjdWxhdG9ycyhhY3RpdmVSb2xsb3V0U2V0LmdldEVmZmVjdGl2ZUNhbGN1bGF0b3JUeXBlKGwuZW50aXR5VHlwZSksIE9wdGlvbi5ub25lKCkpCiAgICAgICAgICAgIHRheFF1b3RhdGlvbkFzeW5jQ29tbWFuZC5kb0NhbGN1bGF0aW9uQXN5bmNOZXcobCwgcmVxLCBjYWxjdWxhdG9ycykK</text>
+      <register name="&quot;" type="4">
+        <text>TaxItemDetailsExtensionKt</text>
       </register>
       <register name="-" type="4">
         <text>TaxItemDetailsExtensionKt</text>
