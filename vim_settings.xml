@@ -406,6 +406,9 @@
         <entry>taxitemde</entry>
         <entry>idl</entry>
         <entry>pricekey</entry>
+        <entry>base6</entry>
+        <entry>decoder</entry>
+        <entry>common</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -493,23 +496,37 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" timestamp="1592500571146">
+        <mark key="'" line="56" column="7" />
+        <mark key="[" line="87" column="61" />
+        <mark key="]" line="87" column="61" />
+        <mark key="." line="87" column="61" />
+        <mark key="^" line="87" column="61" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1592500484895">
+        <mark key="'" line="698" column="35" />
+        <mark key="[" line="699" column="13" />
+        <mark key="]" line="699" column="22" />
+        <mark key="^" line="699" column="22" />
+        <mark key="." line="699" column="21" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/storage/BillVersionItemUnitPriceItemStore.java" timestamp="1592430498914">
         <mark key="'" line="116" column="29" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" timestamp="1592498341667">
-        <mark key="'" line="14" column="46" />
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="52" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" timestamp="1592500266508">
+        <mark key="'" line="15" column="46" />
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="62" />
+        <mark key="." line="26" column="61" />
+        <mark key="^" line="26" column="62" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" timestamp="1592464534579">
         <mark key="'" line="1369" column="55" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build.gradle" timestamp="1592464664102">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="1" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build.gradle" timestamp="1592500539174">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="32" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/build.gradle" timestamp="1592465242996">
         <mark key="[" line="10" column="27" />
@@ -528,14 +545,16 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/PriceItemTypeExtension.kt" timestamp="1592498160226">
-        <mark key="[" line="24" column="73" />
-        <mark key="]" line="24" column="111" />
-        <mark key="." line="24" column="110" />
-        <mark key="^" line="24" column="111" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/PriceItemTypeExtension.kt" timestamp="1592499579204">
+        <mark key="[" line="33" column="82" />
+        <mark key="]" line="33" column="82" />
+        <mark key="." line="33" column="82" />
+        <mark key="^" line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/BillManager.java" timestamp="1592375951789">
-        <mark key="'" line="277" column="61" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/build.gradle" timestamp="1592500549457">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592463991621">
         <mark key="'" line="471" column="17" />
@@ -556,24 +575,14 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/panama/src/bill_data.thrift" timestamp="1592430348425">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/balboa/src/product_price_quote_data.thrift" timestamp="1592429710212">
-        <mark key="'" line="249" column="26" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/application-spec.yml" timestamp="1592464921044">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" timestamp="1592376042491">
-        <mark key="'" line="439" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/BillManager.java" />
-      <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/build/generated/thrift-gen-data/main/java/com/airbnb/panama/bill/api/CreateBillRequest.java" />
-      <jump line="277" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/BillManager.java" />
-      <jump line="114" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
       <jump line="189" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
       <jump line="333" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
       <jump line="439" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/actions/BillCreation.java" />
@@ -670,48 +679,52 @@
       <jump line="12" column="46" filename="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" />
       <jump line="1141" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
       <jump line="1197" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
+      <jump line="77" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="56" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
+      <jump line="698" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>New</text>
+        <text encoding="base64">IC5pZGxJbnZvaWNlQmlsbFRheEl0ZW0uZW5jb2RlZFRheEl0ZW1EZXRhaWxz</text>
       </register>
       <register name="-" type="4">
-        <text>New</text>
+        <text encoding="base64">IC5pZGxJbnZvaWNlQmlsbFRheEl0ZW0uZW5jb2RlZFRheEl0ZW1EZXRhaWxz</text>
       </register>
       <register name="/" type="4">
-        <text>pricekey</text>
+        <text>common</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIFByaWNlSXRlbVR5cGUuaXNOZXdUYXhUeXBlKCk6IEJvb2xlYW4gPSBBTExfTkVXX1RBWF9UWVBFUy5jb250YWlucyh0aGlzKQo=</text>
+        <text encoding="base64">ICBjb21waWxlIHByb2plY3QoJzpjb21tb246dGF4JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIGRlY29kZVRheEl0ZW1EZXRhaWxzKGVuY29kZWRUYXhJdGVtRGV0YWlsczogU3RyaW5nKSA9IEJhc2U2NC5nZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoVGhyaWZ0Q29kZWMuc2VyaWFsaXplKHRoaXMsIHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIEJhc2U2NC5nZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoVGhyaWZ0Q29kZWMuc2VyaWFsaXplKHRheEl0ZW1EZXRhaWxzLCB0cnVlKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJpY2VUeXBlLlZBVAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vIGJ1aWxkIHNlcnZpY2UgZGVwZW5kZW5jeQpidWlsZFNlcnZpY2VJREwgewogIGFwcFNwZWNGaWxlIHByb2plY3QuZmlsZSgiYXBwbGljYXRpb24tc3BlYy55bWwiKQogIHNjaGVtYXNEaXIgIiRyb290RGlyL3NjaGVtYXMvIgogIGdlbkRyb3B3aXphcmRTZXJ2aWNlIGZhbHNlCiAgZW5hYmxlU2VwYXJhdGVUaHJpZnRDb21waWxhdGlvbiBmYWxzZQp9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFmdGVyIHdlIGFkZCB0aGUgcmVsZXZhbnQgZmllbGQgdG8gVGF4SXRlbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIGRlY29kZVRheEl0ZW1EZXRhaWxzKGVuY29kZWRUYXhJdGVtRGV0YWlsczogU3RyaW5nKSA9IEJhc2U2NC5nZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoVGhyaWZ0Q29kZWMuc2VyaWFsaXplKHRoaXMsIHRydWUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuYXBpLkNhbGN1bGF0ZU9jY3VwYW5jeVRheGVzRXJyb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAtIHRocmlmdF9jb21tb24=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ci8vIGJ1aWxkIHNlcnZpY2UgZGVwZW5kZW5jeQpidWlsZFNlcnZpY2VJREwgewogIGFwcFNwZWNGaWxlIHByb2plY3QuZmlsZSgiYXBwbGljYXRpb24tc3BlYy55bWwiKQogIHNjaGVtYXNEaXIgIiRyb290RGlyL3NjaGVtYXMvIgogIGdlbkRyb3B3aXphcmRTZXJ2aWNlIGZhbHNlCiAgZW5hYmxlU2VwYXJhdGVUaHJpZnRDb21waWxhdGlvbiBmYWxzZQp9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHJlcXVlc3Rfc2Vzc2lvbl9kYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIGZhdWx0X2luamVjdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuYXJ1YmEuYXBpLkNhbGN1bGF0ZU9jY3VwYW5jeVRheGVzRXJyb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGNvbW1vbgo=</text>
+        <text encoding="base64">ICAtIHRocmlmdF9jb21tb24=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -720,9 +733,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pricekey</last-search>
+      <last-search>common</last-search>
       <last-offset />
-      <last-pattern>pricekey</last-pattern>
+      <last-pattern>common</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
