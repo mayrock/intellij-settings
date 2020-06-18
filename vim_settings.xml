@@ -360,7 +360,6 @@
         <entry>taxName</entry>
         <entry>paymentp</entry>
         <entry>paymentperiod</entry>
-        <entry>spv</entry>
         <entry>coupon</entry>
         <entry encoding="base64">XDxJbnB1dFByaWNlSXRlbVR5cGVcPg==</entry>
         <entry>lomb</entry>
@@ -414,6 +413,7 @@
         <entry encoding="base64">XDxjcmVhdGVJZGxUYXhJdGVtRGV0YWlsc1w+</entry>
         <entry>aruba</entry>
         <entry encoding="base64">XDxpbmRpcmVjdF90YXhfZGF0YVw+</entry>
+        <entry>spv</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -543,16 +543,18 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/application-spec.xml" timestamp="1592464894474">
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/PriceItemTypeExtension.kt" timestamp="1592499579204">
         <mark key="[" line="33" column="82" />
         <mark key="]" line="33" column="82" />
         <mark key="." line="33" column="82" />
         <mark key="^" line="33" column="67" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1592509969028">
+        <mark key="'" line="86" column="32" />
+        <mark key="[" line="94" column="55" />
+        <mark key="]" line="94" column="56" />
+        <mark key="." line="94" column="55" />
+        <mark key="^" line="94" column="56" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/build.gradle" timestamp="1592500549457">
         <mark key="[" line="59" column="0" />
@@ -593,9 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="257" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="365" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="578" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="376" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="268" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
@@ -693,26 +692,32 @@
       <jump line="5" column="25" filename="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" />
       <jump line="333" column="45" filename="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" />
       <jump line="346" column="44" filename="$USER_HOME$/airlab/repos/treehouse/schemas/vatersay/src/vatersay_data.thrift" />
+      <jump line="74" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
+      <jump line="83" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
+      <jump line="85" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmRpcmVjdF90YXhfZGF0YVw+</text>
+        <text>spv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhhc1ZhbHVlQWRkZWRUYXhEZXRhaWw6IEJvb2xlYW4gPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHMgPSAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.let {
             if (!hasValueAddedTaxDetail) {
                 it.toBuilder().valueAddedTaxDetails(null).build()
@@ -721,13 +726,13 @@
             }
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZmCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.valueAddedTaxDetails(
             ValueAddedTaxDetails.builder()
                 .auditTrailId(0)
@@ -738,21 +743,14 @@
                 .build()
         )</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICApKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (!hasValueAddedTaxDetail) {
-        idlTaxItemDetails.toBuilder().valueAddedTaxDetails(null).build()
-    } else {
-        idlTaxItemDetails
-    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -761,9 +759,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbmRpcmVjdF90YXhfZGF0YVw+</last-search>
+      <last-search>spv</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmRpcmVjdF90YXhfZGF0YVw+</last-pattern>
+      <last-pattern>spv</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
