@@ -419,9 +419,12 @@
         <entry encoding="base64">XDxwYXllclRheGFibGVBbW91bnRNaWNyb3NcPg==</entry>
         <entry>guestvat</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUd1ZXN0VmF0XD4=</entry>
-        <entry>tax</entry>
         <entry encoding="base64">XDxHVUVTVF9WQVRfQ09VTlRSWVw+</entry>
         <entry>generateguestvat</entry>
+        <entry>currencyrate</entry>
+        <entry encoding="base64">XDxwYXllZVZhdFJlbWl0dGFuY2VDdXJyZW5jeVJhdGVcPg==</entry>
+        <entry>tax</entry>
+        <entry encoding="base64">XDx1c2RBbW91bnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -509,7 +512,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/91a4d115400e904f22b03a78deb355e9ea803cd4/guava-19.0-sources.jar!/com/google/common/collect/ImmutableCollection.java" timestamp="1592529362830">
         <mark key="'" line="154" column="53" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/ReservationPlatformEventParams.java" timestamp="1592531078470" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/ReservationPlatformEventParams.java" timestamp="1592532065796">
+        <mark key="'" line="127" column="9" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/build.gradle" timestamp="1592514520820">
         <mark key="[" line="59" column="27" />
         <mark key="]" line="59" column="30" />
@@ -536,12 +541,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592530865549">
-        <mark key="'" line="358" column="49" />
-        <mark key="[" line="331" column="50" />
-        <mark key="]" line="331" column="58" />
-        <mark key="^" line="331" column="58" />
-        <mark key="." line="331" column="57" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592549691384">
+        <mark key="'" line="332" column="68" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="346" column="20" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" timestamp="1592518979794">
         <mark key="'" line="15" column="46" />
@@ -559,8 +564,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/scrapers/PlatformEventEntryScraper.java" timestamp="1592531192745">
         <mark key="'" line="205" column="47" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" timestamp="1592530875017">
-        <mark key="'" line="1087" column="72" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" timestamp="1592532070562">
+        <mark key="'" line="1089" column="29" />
         <mark key="[" line="920" column="0" />
         <mark key="]" line="921" column="38" />
       </file>
@@ -573,8 +578,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/91a4d115400e904f22b03a78deb355e9ea803cd4/guava-19.0-sources.jar!/com/google/common/collect/ImmutableList.java" timestamp="1592529359781">
         <mark key="'" line="53" column="52" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" timestamp="1592531256740">
-        <mark key="'" line="922" column="19" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" timestamp="1592532048817">
+        <mark key="'" line="762" column="18" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/PriceItemTypeExtension.kt" timestamp="1592530291824">
         <mark key="[" line="42" column="44" />
@@ -593,24 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
-      <jump line="34" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" />
-      <jump line="54" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.kt" />
-      <jump line="20" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/Rollout.kt" />
-      <jump line="18" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/rollout/ActiveRolloutSet.kt" />
-      <jump line="40" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="143" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="233" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/TotRolloutManager.java" />
-      <jump line="233" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="83" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/VertexRolloutsDAO.java" />
-      <jump line="241" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/repositories/ArubaDataRepository.java" />
-      <jump line="284" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
-      <jump line="316" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
-      <jump line="89" column="90" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
-      <jump line="131" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetSingleTaxQuoteDataFlowFactoryNew.kt" />
-      <jump line="440" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
-      <jump line="431" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" />
       <jump line="88" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
       <jump line="46" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
       <jump line="100" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/vatersay/src/main/kotlin/com/airbnb/vatersay/manager/generator/invoicebill/VatersayInvoiceBillGenerator.kt" />
@@ -662,7 +649,6 @@
       <jump line="88" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/price/calculator/BillPriceCalculator.java" />
       <jump line="104" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/price/calculator/BillPriceCalculator.java" />
       <jump line="220" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/price/calculator/BillPriceCalculator.java" />
-      <jump line="334" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="195" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/balance/BillAggregator.java" />
       <jump line="338" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/balance/BillAggregator.java" />
       <jump line="1140" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
@@ -676,7 +662,6 @@
       <jump line="324" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="329" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="71" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="323" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="336" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="380" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="920" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
@@ -692,49 +677,69 @@
       <jump line="1087" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
       <jump line="205" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/scrapers/PlatformEventEntryScraper.java" />
       <jump line="525" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" />
-      <jump line="922" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" />
+      <jump line="16" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/ReservationPlatformEventParams.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PanamaPlatformEventParams.java" />
+      <jump line="356" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="156" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" />
+      <jump line="198" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" />
+      <jump line="922" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" />
+      <jump line="762" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" />
+      <jump line="74" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/alchemist/client/src/main/java/com/airbnb/alchemist/client/AlchemistCache.java" />
+      <jump line="33" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/ReservationPlatformEventParams.java" />
+      <jump line="75" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/ReservationPlatformEventParams.java" />
+      <jump line="127" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/ReservationPlatformEventParams.java" />
+      <jump line="1089" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
+      <jump line="80" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="82" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="109" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="307" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="334" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="366" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="379" column="81" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="323" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="333" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>getPayerVatRemittanceCurrencyRate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuY29tbW9uLnRheC5UYXhQcmljZUl0ZW1UeXBlVXRpbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>getPayerVatRemittanceCurrencyRate</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>generateguestvat</text>
+        <text encoding="base64">XDx1c2RBbW91bnRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>params.getPayerVatRemittanceCurrencyRate()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoUHJpY2VJdGVtVHlwZUV4dGVuc2lvbkt0LmlzTmV3SG9zdFRheChidml1cGkuZ2V0UHJpY2VJdGVtVHlwZSgpKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLmdldFBheWVyQ291bnRyeU9mUmVzaWRlbmNlKCksCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuY29tbW9uLnRheC5UYXhQcmljZUl0ZW1UeXBlVXRpbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLmdldFBheWVySWQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0IGV4dHJhRGF0YSA9IG5ldyBKc29uT2JqZWN0KCk7CiAgICAgICAgZXh0cmFEYXRhLmFkZFByb3BlcnR5KEVOQ09ERURfVEFYX0lURU1fREVUQUlMUywgZW5jb2RlZFRheEl0ZW1EZXRhaWxzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0IGV4dHJhRGF0YSA9IG5ldyBKc29uT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICBUYXhDdXJyZW5jeUFtb3VudE1pY3JvcyB1c2RBbW91bnRzID0gdGF4SXRlbURldGFpbHMuZ2V0QW1vdW50TWljcm9zSW5Vc2QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFByaWNlSXRlbVR5cGUuSE9TVF9JTkNMVVNJVkVfVEFYX1JFTUlUVEVEX0JZX0FJUkJOQgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFByaWNlSXRlbVR5cGUuR1VFU1RfSU5DTFVTSVZFX1RBWF9SRU1JVFRFRF9CWV9IT1NULAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHN1YlR5cGUgPSBHVUVTVF9WQVRfU1VCX1RZUEU7CiAgICAgICAgbG9uZyB1c2VySWQgPSBwYXJhbXMuZ2V0UGF5ZXJJZCgpOwogICAgICAgIFN0cmluZyB1c2VyQ29yID0gcGFyYW1zLmdldFBheWVyQ291bnRyeU9mUmVzaWRlbmNlKCk7CiAgICAgICAgaWYgKFByaWNlSXRlbVR5cGVFeHRlbnNpb25LdC5pc05ld0hvc3RUYXgoYnZpdXBpLmdldFByaWNlSXRlbVR5cGUoKSkpIHsKICAgICAgICAgIHN1YlR5cGUgPSBIT1NUX1ZBVF9TVUJfVFlQRTsKICAgICAgICAgIHVzZXJJZCA9IHBhcmFtcy5nZXRQYXllZUlkKCk7CiAgICAgICAgICB1c2VyQ29yID0gcGFyYW1zLmdldFBheWVlQ291bnRyeU9mUmVzaWRlbmNlKCk7CiAgICAgICAgfQogICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByaWNlSXRlbVR5cGUuR1VFU1RfSU5DTFVTSVZFX1RBWF9SRU1JVFRFRF9CWV9BSVJCTkIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -743,9 +748,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>generateguestvat</last-search>
+      <last-search encoding="base64">XDx1c2RBbW91bnRzXD4=</last-search>
       <last-offset />
-      <last-pattern>generateguestvat</last-pattern>
+      <last-pattern encoding="base64">XDx1c2RBbW91bnRzXD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
