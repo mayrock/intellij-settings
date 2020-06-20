@@ -427,8 +427,9 @@
         <entry>total</entry>
         <entry>build</entry>
         <entry>generateprice</entry>
-        <entry>tax</entry>
         <entry>generatetax</entry>
+        <entry>remittanc</entry>
+        <entry>tax</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -526,6 +527,9 @@
         <mark key="^" line="56" column="50" />
         <mark key="." line="56" column="49" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592619980696">
+        <mark key="'" line="386" column="3" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" timestamp="1592611300444">
         <mark key="'" line="15" column="46" />
         <mark key="[" line="7" column="18" />
@@ -547,9 +551,9 @@
         <mark key="]" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" timestamp="1592603236654">
-        <mark key="'" line="1606" column="0" />
-        <mark key="[" line="948" column="0" />
-        <mark key="]" line="949" column="38" />
+        <mark key="'" line="1592" column="0" />
+        <mark key="[" line="934" column="0" />
+        <mark key="]" line="935" column="38" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/ReservationPlatformEventHandlerTest.java" timestamp="1592603103228">
         <mark key="'" line="354" column="23" />
@@ -588,7 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PanamaPlatformEventParams.java" />
       <jump line="332" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="371" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="88" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/price/calculator/BillPriceCalculator.java" />
@@ -688,6 +691,7 @@
       <jump line="1592" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
       <jump line="311" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="65" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="276" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -699,7 +703,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>generatetax</text>
+        <text>tax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFBhaXI8PihJbnB1dFByaWNlSXRlbVR5cGUuQ1VSUkVOQ1lfRkVFLCAyXzAwMEwpLAo=</text>
@@ -738,9 +742,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>generatetax</last-search>
+      <last-search>tax</last-search>
       <last-offset />
-      <last-pattern>generatetax</last-pattern>
+      <last-pattern>tax</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
