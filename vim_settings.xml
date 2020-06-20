@@ -232,7 +232,6 @@
         <entry>valueaddedtaxdetail</entry>
         <entry>valueaddedtaxdetails</entry>
         <entry>valueaddedtaxde</entry>
-        <entry>valueadded</entry>
         <entry>guestcor</entry>
         <entry>country)of</entry>
         <entry>metadata</entry>
@@ -429,6 +428,8 @@
         <entry>generateprice</entry>
         <entry>generatetax</entry>
         <entry>remittanc</entry>
+        <entry>valueadded</entry>
+        <entry>taxes</entry>
         <entry>tax</entry>
       </history-search>
       <history-cmd>
@@ -508,9 +509,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/91a4d115400e904f22b03a78deb355e9ea803cd4/guava-19.0-sources.jar!/com/google/common/collect/ImmutableCollection.java" timestamp="1592529362830">
-        <mark key="'" line="154" column="53" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/ReservationPlatformEventParams.java" timestamp="1592532065796">
         <mark key="'" line="127" column="9" />
       </file>
@@ -527,8 +525,11 @@
         <mark key="^" line="56" column="50" />
         <mark key="." line="56" column="49" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592619980696">
-        <mark key="'" line="386" column="3" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592620703080">
+        <mark key="'" line="287" column="17" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1592620360812">
+        <mark key="'" line="390" column="14" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" timestamp="1592611300444">
         <mark key="'" line="15" column="46" />
@@ -592,9 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="371" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="88" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/price/calculator/BillPriceCalculator.java" />
       <jump line="104" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/price/calculator/BillPriceCalculator.java" />
       <jump line="220" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/price/calculator/BillPriceCalculator.java" />
       <jump line="195" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/bill/balance/BillAggregator.java" />
@@ -692,6 +690,9 @@
       <jump line="311" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="65" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="276" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="390" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="287" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
