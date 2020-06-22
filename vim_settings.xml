@@ -434,6 +434,7 @@
         <entry encoding="base64">XDxhZGRWYXRJdGVtc0xlZ2FjeVw+</entry>
         <entry encoding="base64">XDx2YXRQcmljZUl0ZW1zQnlQYXltZW50UGVyaW9kSW5kZXhcPg==</entry>
         <entry>detail</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVRheFF1b3RlV2l0aE5ld1RheFR5cGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -519,12 +520,12 @@
         <mark key="^" line="56" column="61" />
         <mark key="." line="57" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" timestamp="1592845095498">
-        <mark key="'" line="59" column="39" />
-        <mark key="[" line="228" column="17" />
-        <mark key="]" line="228" column="8" />
-        <mark key="." line="228" column="7" />
-        <mark key="^" line="228" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" timestamp="1592857569192">
+        <mark key="'" line="227" column="19" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="136" column="16" />
+        <mark key="^" line="136" column="16" />
+        <mark key="." line="136" column="15" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1592591471935">
         <mark key="'" line="36" column="21" />
@@ -601,7 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="336" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="380" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="920" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
@@ -701,48 +701,49 @@
       <jump line="75" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
       <jump line="55" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
       <jump line="21" column="27" filename="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" />
+      <jump line="226" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFRheFF1b3RlIGdlbmVyYXRlVGF4UXVvdGVXaXRoTmV3VGF4VHlwZXMoU3RyaW5nIGN1cnJlbmN5KSB7CiAgICBNYXA8UHJpY2VJdGVtVHlwZSwgTG9uZz4gdmFsdWVNYXAgPSBQcmljZUl0ZW1UeXBlRXh0ZW5zaW9uS3QKICAgICAgICAuZ2V0QUxMX05FV19UQVhfVFlQRVMoKQogICAgICAgIC5zdHJlYW0oKQogICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoCiAgICAgICAgICAgIHR5cGUgLT4gdHlwZSwKICAgICAgICAgICAgdHlwZSAtPiAxMDAwMDAwTCkpOwogICAgcmV0dXJuIGdlbmVyYXRlVGF4UXVvdGVGb3JUeXBlcyhjdXJyZW5jeSwgdmFsdWVNYXApOwogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>, 10_000_000L, 8_346_700L</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text encoding="base64">XDxnZW5lcmF0ZVRheFF1b3RlV2l0aE5ld1RheFR5cGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcmljZUl0ZW1UeXBlLkdVRVNUX0lOQ0xVU0lWRV9UQVhfUkVNSVRURURfQllfQUlSQk5CLCBpbmNsdXNpdmVBbW91bnRNaWNyb3MsCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFRheFF1b3RlIGdlbmVyYXRlVGF4UXVvdGVXaXRoTmV3VGF4VHlwZXMoU3RyaW5nIGN1cnJlbmN5KSB7CiAgICBNYXA8UHJpY2VJdGVtVHlwZSwgTG9uZz4gdmFsdWVNYXAgPSBQcmljZUl0ZW1UeXBlRXh0ZW5zaW9uS3QKICAgICAgICAuZ2V0QUxMX05FV19UQVhfVFlQRVMoKQogICAgICAgIC5zdHJlYW0oKQogICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoCiAgICAgICAgICAgIHR5cGUgLT4gdHlwZSwKICAgICAgICAgICAgdHlwZSAtPiAxMDAwMDAwTCkpOwogICAgcmV0dXJuIGdlbmVyYXRlVGF4UXVvdGVGb3JUeXBlcyhjdXJyZW5jeSwgdmFsdWVNYXApOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFMTF9ORVdmZgo=</text>
+        <text encoding="base64">ICAgICkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRheAo=</text>
+        <text encoding="base64">ICAgICAgICBQcmljZUl0ZW1UeXBlLkhPU1RfSU5DTFVTSVZFX1RBWF9SRU1JVFRFRF9CWV9BSVJCTkIsIGluY2x1c2l2ZUFtb3VudE1pY3JvcywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgVGF4UXVvdGUuQnVpbGRlcigpLnNldFRheEl0ZW1zKHRheEl0ZW1zQnVpbGRlci5idWlsZCgpKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQcmljZUl0ZW1UeXBlLkhPU1RfSU5DTFVTSVZFX1RBWF9SRU1JVFRFRF9CWV9BSVJCTkIsIGluY2x1c2l2ZUFtb3VudE1pY3JvcywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRheEl0ZW1zQnVpbGRlci5hZGQoaG9zdFZhdEl0ZW1zMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmljZUl0ZW1UeXBlLkdVRVNUX0lOQ0xVU0lWRV9UQVhfUkVNSVRURURfQllfSE9TVCwgaW5jbHVzaXZlQW1vdW50TWljcm9zLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRheEl0ZW1zQnVpbGRlci5hZGQoZ3Vlc3RWYXRJdGVtczApOwo=</text>
+        <text encoding="base64">ICAgICAgICBQcmljZUl0ZW1UeXBlLkdVRVNUX0lOQ0xVU0lWRV9UQVhfUkVNSVRURURfQllfSE9TVCwgaW5jbHVzaXZlQW1vdW50TWljcm9zLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmljZUl0ZW1UeXBlLkdVRVNUX0VYQ0xVU0lWRV9UQVhfUkVNSVRURURfQllfQUlSQk5CLCBleGNsdXNpdmVBbW91bnRNaWNyb3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmljZUl0ZW1UeXBlLkdVRVNUX0lOQ0xVU0lWRV9UQVhfUkVNSVRURURfQllfQUlSQk5CLCBpbmNsdXNpdmVBbW91bnRNaWNyb3MsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZW5lcmF0ZVRheFF1b3RlRm9yVHlwZXMoY3VycmVuY3ksIEltbXV0YWJsZU1hcC5vZigKICAgICAgICBQcmljZUl0ZW1UeXBlLkdVRVNUX0lOQ0xVU0lWRV9UQVhfUkVNSVRURURfQllfQUlSQk5CLCBpbmNsdXNpdmVBbW91bnRNaWNyb3MsCiAgICAgICAgUHJpY2VJdGVtVHlwZS5HVUVTVF9FWENMVVNJVkVfVEFYX1JFTUlUVEVEX0JZX0FJUkJOQiwgZXhjbHVzaXZlQW1vdW50TWljcm9zCiAgICAgICAgUHJpY2VJdGVtVHlwZS5HVUVTVF9JTkNMVVNJVkVfVEFYX1JFTUlUVEVEX0JZX0hPU1QsIGluY2x1c2l2ZUFtb3VudE1pY3JvcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFRheEl0ZW1SZXNlcnZhdGlvbkF0dHJpYnV0ZXMuQnVpbGRlcigpLnBheW1lbnRQZXJpb2RJbmRleCgwKS5idWlsZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -751,9 +752,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>detail</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZVRheFF1b3RlV2l0aE5ld1RheFR5cGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZVRheFF1b3RlV2l0aE5ld1RheFR5cGVzXD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
