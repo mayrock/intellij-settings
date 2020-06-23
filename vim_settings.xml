@@ -401,7 +401,6 @@
         <entry>details</entry>
         <entry encoding="base64">XDxjcmVhdGVTZXJpYWxpemVkSWRsSW52b2ljZUJpbGxFeHRyYURldGFpbFw+</entry>
         <entry encoding="base64">XDxzZXJpYWxpemVkSWRsSW52b2ljZUJpbGxFeHRyYURldGFpbHNcPg==</entry>
-        <entry>taxitemdetails</entry>
         <entry encoding="base64">XDxjcmVhdGVJZGxUYXhJdGVtRGV0YWlsc1w+</entry>
         <entry>aruba</entry>
         <entry encoding="base64">XDxpbmRpcmVjdF90YXhfZGF0YVw+</entry>
@@ -437,6 +436,7 @@
         <entry encoding="base64">XDxWYWx1ZUFkZGVkVGF4RGV0YWlsc1w+</entry>
         <entry>= 51</entry>
         <entry>pricetyp</entry>
+        <entry>taxitemdetails</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -529,13 +529,6 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="136" column="15" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/sabrix/client/SabrixClient.java" timestamp="1592591471935">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="62" />
-        <mark key="^" line="36" column="62" />
-        <mark key="." line="36" column="61" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" timestamp="1592593018368">
         <mark key="[" line="56" column="51" />
         <mark key="]" line="56" column="50" />
@@ -548,8 +541,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" timestamp="1592870857728">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1592870854924">
-        <mark key="'" line="420" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1592872533174">
+        <mark key="'" line="368" column="28" />
         <mark key="[" line="75" column="5" />
         <mark key="]" line="75" column="25" />
       </file>
@@ -569,6 +562,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas-panama/3.7620.0/65120621fdcd0c0c932fab49c086ea4a8bd519ff/jitney-schemas-panama-3.7620.0.jar!/com/airbnb/jitney/event/panama/platform_event/v7/PriceType.class" timestamp="1592872527518" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" timestamp="1592603236654">
         <mark key="'" line="1606" column="0" />
         <mark key="[" line="948" column="0" />
@@ -608,14 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="67" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="361" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="40" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PanamaPlatformEventParams.java" />
-      <jump line="352" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="395" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="1087" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" />
-      <jump line="205" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/scrapers/PlatformEventEntryScraper.java" />
       <jump line="525" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PlatformEventParamsFactory.java" />
       <jump line="24" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/params/PanamaPlatformEventParams.java" />
       <jump line="356" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
@@ -708,6 +694,14 @@
       <jump line="12" column="19" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
       <jump line="376" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="713" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
+      <jump line="84" column="34" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="346" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="348" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="359" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="360" column="31" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="363" column="72" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="364" column="61" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="368" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -719,7 +713,7 @@
         <text>, 10_000_000L, 8_346_700L</text>
       </register>
       <register name="/" type="4">
-        <text>pricetyp</text>
+        <text>taxitemdetails</text>
       </register>
       <register name="0" type="4">
         <text>TaxInputPriceItemType</text>
@@ -758,9 +752,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pricetyp</last-search>
+      <last-search>taxitemdetails</last-search>
       <last-offset />
-      <last-pattern>pricetyp</last-pattern>
+      <last-pattern>taxitemdetails</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
