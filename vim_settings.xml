@@ -558,8 +558,14 @@
         <mark key="^" line="110" column="39" />
         <mark key="." line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" timestamp="1592937970824">
-        <mark key="'" line="114" column="46" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/testdatabuilder/bill/BillVersionItemUnitPriceItemBuilder.java" timestamp="1592938305208">
+        <mark key="'" line="64" column="52" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" timestamp="1592938275509">
+        <mark key="'" line="139" column="42" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/powergrid/GetListingsBatchDataFlowFactory.kt" timestamp="1592593018368">
         <mark key="[" line="56" column="51" />
@@ -608,13 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" />
-      <jump line="360" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" />
-      <jump line="27" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/MagicalTripsProductPlatformEventHandler.java" />
-      <jump line="152" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/ReservationPlatformEventHandlerTest.java" />
-      <jump line="102" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/ReservationPlatformEventHandlerTest.java" />
-      <jump line="57" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/server/PanamaTestRule.java" />
-      <jump line="34" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/server/testmodules/MockClientTestModule.java" />
       <jump line="56" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/server/PanamaTestRule.java" />
       <jump line="12" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/server/testmodules/MeraxesTestModule.java" />
       <jump line="55" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/server/PanamaTestRule.java" />
@@ -708,48 +707,55 @@
       <jump line="279" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
       <jump line="114" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
+      <jump line="129" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
+      <jump line="29" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/testdatabuilder/bill/BillVersionItemUnitPriceItemBuilder.java" />
+      <jump line="7" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/token/PaymentsTokenManager.java" />
+      <jump line="145" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
+      <jump line="145" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/testdatabuilder/bill/BillVersionItemUnitPriceItemBuilder.java" />
+      <jump line="139" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
+      <jump line="64" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/testdatabuilder/bill/BillVersionItemUnitPriceItemBuilder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnBhc3NUaHJvdWdoVG90KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmljZUl0ZW1CdWlsZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFRFeGNlcHRpb24gZSkgewogICAgICBsb2cuZXJyb3IoU3RyaW5nLmZvcm1hdCgiRmFpbCB0byBnZW5lcmF0ZSBUT1QgZXh0cmFEYXRhIGZvciBCVklVICVzIiwgYnZpdS5nZXRUb2tlbigpKSwgZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXR1cCgpIHRocm93cyBFeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBlbmNvZGVkVGF4SXRlbURldGFpbHMgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnBhc3NUaHJvdWdoVG90KCkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBlbmNvZGVkVGF4SXRlbURldGFpbHMgPQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoU3RyaW5nLmZvcm1hdCgiRmFpbCB0byBnZW5lcmF0ZSBUT1QgZXh0cmFEYXRhIGZvciBCVklVICVzIiwgYnZpdS5nZXRUb2tlbigpKSwgZSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBTdHJpbmcgdmF0VGF4YWJsZU1pY3Jvc1RhZyA9IEdVRVNUX1ZBVF9UQVhBQkxFX01JQ1JPUzsKICAgIFN0cmluZyB2YXRSYXRlVGFnID0gR1VFU1RfVkFUX1JBVEU7CiAgICBTdHJpbmcgdmF0Q291bnRyeVRhZyA9IEdVRVNUX1ZBVF9DT1VOVFJZOwogICAgU3RyaW5nIHZhdFJlbWl0dGFuY2VDdXJyZW5jeVRhZyA9IEdVRVNUX1ZBVF9SRU1JVFRBTkNFX0NVUlJFTkNZOwogICAgU3RyaW5nIHZhdFJlbWl0dGFuY2VDdXJyZW5jeVJhdGVUYWcgPSBHVUVTVF9WQVRfUkVNSVRUQU5DRV9DVVJSRU5DWV9SQVRFOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBBZGQgYSBmZXcgbmV3IHR5cGVzIHRvIEJhbGJvYSBuZXcgVkFUIHBhdGgK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIFByaWNlSXRlbVR5cGUuSE9TVF9JTkNMVVNJVkVfVEFYX1JFTUlUVEVEX0JZX0FJUkJOQi5uYW1lKCkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFByaWNlSXRlbVR5cGUuR1VFU1RfSU5DTFVTSVZFX1RBWF9SRU1JVFRFRF9CWV9BSVJCTkIubmFtZSgpLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFByaWNlSXRlbVR5cGUuR1VFU1RfRVhDTFVTSVZFX1RBWF9SRU1JVFRFRF9CWV9BSVJCTkIubmFtZSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFByaWNlSXRlbVR5cGUuR1VFU1RfSU5DTFVTSVZFX1RBWF9SRU1JVFRFRF9CWV9BSVJCTkIubmFtZSgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
