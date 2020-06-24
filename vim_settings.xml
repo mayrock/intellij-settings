@@ -427,7 +427,6 @@
         <entry encoding="base64">XDx2YXRQcmljZUl0ZW1zQnlQYXltZW50UGVyaW9kSW5kZXhcPg==</entry>
         <entry>detail</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVRheFF1b3RlV2l0aE5ld1RheFR5cGVzXD4=</entry>
-        <entry encoding="base64">XDxWYWx1ZUFkZGVkVGF4RGV0YWlsc1w+</entry>
         <entry>= 51</entry>
         <entry>pricetyp</entry>
         <entry>taxitemdetails</entry>
@@ -450,6 +449,7 @@
         <entry>event</entry>
         <entry>idl</entry>
         <entry>audit</entry>
+        <entry encoding="base64">XDxWYWx1ZUFkZGVkVGF4RGV0YWlsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -592,8 +592,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1592871308530">
         <mark key="'" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1592961509565">
-        <mark key="'" line="420" column="1" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1592962952770">
+        <mark key="'" line="462" column="7" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" timestamp="1592844981714">
         <mark key="'" line="21" column="27" />
@@ -636,7 +636,6 @@
       <jump line="55" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
       <jump line="21" column="27" filename="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" />
       <jump line="226" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
-      <jump line="462" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_common_data.thrift" />
       <jump line="12" column="19" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
       <jump line="376" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
@@ -714,6 +713,7 @@
       <jump line="200" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" />
       <jump line="420" column="1" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="117" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" />
+      <jump line="462" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -725,7 +725,7 @@
         <text>country</text>
       </register>
       <register name="/" type="4">
-        <text>audit</text>
+        <text encoding="base64">XDxWYWx1ZUFkZGVkVGF4RGV0YWlsc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBjb3VudHJ5OiBTdHJpbmc/ID0gbnVsbCwK</text>
@@ -764,9 +764,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>audit</last-search>
+      <last-search encoding="base64">XDxWYWx1ZUFkZGVkVGF4RGV0YWlsc1w+</last-search>
       <last-offset />
-      <last-pattern>audit</last-pattern>
+      <last-pattern encoding="base64">XDxWYWx1ZUFkZGVkVGF4RGV0YWlsc1w+</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
