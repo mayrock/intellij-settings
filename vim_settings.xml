@@ -464,6 +464,7 @@
         <entry encoding="base64">XDxUYXhRdW90ZVByb2R1Y3REZXRhaWxcPg==</entry>
         <entry>expected</entry>
         <entry>taxrate</entry>
+        <entry encoding="base64">XDx0b0xlZ2FjeVRvdEl0ZW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -563,8 +564,11 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1593045058058">
-        <mark key="'" line="808" column="51" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1593122435307">
+        <mark key="'" line="783" column="24" />
+        <mark key="[" line="784" column="0" />
+        <mark key="]" line="784" column="0" />
+        <mark key="." line="784" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" timestamp="1592961579480">
         <mark key="'" line="117" column="30" />
@@ -572,8 +576,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592940147578">
         <mark key="'" line="404" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593120565489">
-        <mark key="'" line="433" column="66" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593122825675">
+        <mark key="'" line="433" column="69" />
         <mark key="[" line="392" column="0" />
         <mark key="]" line="392" column="19" />
         <mark key="." line="392" column="0" />
@@ -620,12 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="360" column="31" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="363" column="72" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="364" column="61" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="368" column="28" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="390" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="423" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="427" column="24" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="624" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
@@ -720,48 +718,54 @@
       <jump line="79" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="431" column="66" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="179" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
+      <jump line="786" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="682" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/ArgumentedUserDetail.java" />
+      <jump line="783" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
+      <jump line="184" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
+      <jump line="433" column="69" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKiogRGVwcmVjYXRlZCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZHJlc3NPZlJlc2lkZW5jZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">UmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>taxrate</text>
+        <text encoding="base64">XDx0b0xlZ2FjeVRvdEl0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKiogRGVwcmVjYXRlZCAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZHJlc3NPZlJlc2lkZW5jZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiovCg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAyOiBvcHRpb25hbCAK</text>
+        <text encoding="base64">KiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAyOiBvcHRpb25hbCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAxNjogb3B0aW9uYWwgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAxNjogb3B0aW9uYWwgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RydWN0IFRheFJ1bGVEZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RydWN0IFRheFJ1bGVEZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -770,9 +774,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>taxrate</last-search>
+      <last-search encoding="base64">XDx0b0xlZ2FjeVRvdEl0ZW1cPg==</last-search>
       <last-offset />
-      <last-pattern>taxrate</last-pattern>
+      <last-pattern encoding="base64">XDx0b0xlZ2FjeVRvdEl0ZW1cPg==</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
