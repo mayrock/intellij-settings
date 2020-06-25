@@ -462,6 +462,7 @@
         <entry>productdetailoverride</entry>
         <entry>listing</entry>
         <entry encoding="base64">XDxUYXhRdW90ZVByb2R1Y3REZXRhaWxcPg==</entry>
+        <entry>expected</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -570,8 +571,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592940147578">
         <mark key="'" line="404" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593116657746">
-        <mark key="'" line="93" column="7" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593117559855">
+        <mark key="'" line="422" column="40" />
         <mark key="[" line="424" column="68" />
         <mark key="]" line="426" column="41" />
         <mark key="^" line="426" column="41" />
@@ -618,7 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="346" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="348" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="359" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
@@ -718,6 +718,7 @@
       <jump line="428" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="38" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="93" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="422" column="40" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -729,7 +730,7 @@
         <text encoding="base64">dXNlckRldGFpbCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYXhRdW90ZVByb2R1Y3REZXRhaWxcPg==</text>
+        <text>expected</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAxMzogb3B0aW9uYWwgQXJndW1lbnRlZFVzZXJEZXRhaWwgdXNlckRldGFpbCAocGVyc29uYWxfZGF0YSkK</text>
@@ -768,9 +769,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUYXhRdW90ZVByb2R1Y3REZXRhaWxcPg==</last-search>
+      <last-search>expected</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYXhRdW90ZVByb2R1Y3REZXRhaWxcPg==</last-pattern>
+      <last-pattern>expected</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
