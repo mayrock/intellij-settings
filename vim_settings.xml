@@ -560,7 +560,7 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1593043877288">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1593045058058">
         <mark key="'" line="808" column="51" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" timestamp="1592961579480">
@@ -600,8 +600,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/db/daos/VatRatesDAO.java" timestamp="1592959276355">
         <mark key="'" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexEnvelopeToIndirectTaxMapper.kt" timestamp="1593043471710">
-        <mark key="'" line="72" column="54" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexEnvelopeToIndirectTaxMapper.kt" timestamp="1593045890134">
+        <mark key="'" line="113" column="57" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/payments/tax/common/api/TaxAuthorityLevel.java" timestamp="1593042892469">
         <mark key="'" line="14" column="27" />
@@ -618,8 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="713" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
-      <jump line="369" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="72" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="311" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" />
@@ -718,6 +716,8 @@
       <jump line="690" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="808" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" />
       <jump line="8" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxAuthority.kt" />
+      <jump line="113" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexEnvelopeToIndirectTaxMapper.kt" />
+      <jump line="49" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/wsdlJava/main/com/airbnb/aruba/external/vertex/JurisdictionLevelCodeType.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
