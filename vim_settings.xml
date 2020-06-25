@@ -454,6 +454,7 @@
         <entry>level</entry>
         <entry>parse</entry>
         <entry>legacy</entry>
+        <entry>argumented</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -569,12 +570,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1592940147578">
         <mark key="'" line="404" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593042195698">
-        <mark key="'" line="385" column="22" />
-        <mark key="[" line="423" column="21" />
-        <mark key="]" line="423" column="28" />
-        <mark key="^" line="423" column="28" />
-        <mark key="." line="423" column="27" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593109057902">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="423" column="29" />
+        <mark key="]" line="425" column="0" />
+        <mark key="^" line="425" column="0" />
+        <mark key="." line="425" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" timestamp="1593042643354">
         <mark key="'" line="320" column="27" />
@@ -618,7 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" />
       <jump line="320" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
       <jump line="12" column="4" filename="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" />
       <jump line="321" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" />
@@ -718,18 +718,19 @@
       <jump line="49" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/wsdlJava/main/com/airbnb/aruba/external/vertex/JurisdictionLevelCodeType.java" />
       <jump line="114" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexEnvelopeToIndirectTaxMapper.kt" />
       <jump line="57" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/wsdlJava/main/com/airbnb/aruba/external/vertex/JurisdictionLevelCodeType.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UGFyYW1ldGVycyA=</text>
+        <text>ProductParameters</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGFyYW1ldGVycyA=</text>
+        <text>ProductParameters</text>
       </register>
       <register name="/" type="4">
-        <text>legacy</text>
+        <text>argumented</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBjb3VudHJ5OiBTdHJpbmc/ID0gbnVsbCwK</text>
@@ -768,9 +769,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>legacy</last-search>
+      <last-search>argumented</last-search>
       <last-offset />
-      <last-pattern>legacy</last-pattern>
+      <last-pattern>argumented</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
