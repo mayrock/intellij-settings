@@ -585,12 +585,12 @@
         <mark key="'" line="404" column="31" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/application-spec.yml" timestamp="1593129947429" />
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593131496081">
-        <mark key="'" line="439" column="67" />
-        <mark key="[" line="438" column="28" />
-        <mark key="]" line="439" column="68" />
-        <mark key="." line="439" column="67" />
-        <mark key="^" line="439" column="68" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593189877270">
+        <mark key="'" line="440" column="67" />
+        <mark key="[" line="328" column="63" />
+        <mark key="]" line="328" column="66" />
+        <mark key="." line="328" column="65" />
+        <mark key="^" line="328" column="66" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/client/VertexClient.java" timestamp="1593042643354">
         <mark key="'" line="320" column="27" />
@@ -622,8 +622,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/CoreLoggingUtils.java" timestamp="1593038105345">
         <mark key="'" line="273" column="67" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1593110439154">
-        <mark key="'" line="88" column="14" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1593189660326">
+        <mark key="'" line="194" column="4" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -723,52 +727,52 @@
       <jump line="38" column="14" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="93" column="7" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="440" column="68" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
-      <jump line="189" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="425" column="26" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
       <jump line="439" column="67" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="189" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAxOiBvcHRpb25hbCBwYXltZW50c19jb21tb25fZGF0YQo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2Yg</text>
+        <text>For example VALUE_ADDED_TAX_GUEST, OCCUPANCY_TAX, etc..</text>
       </register>
       <register name="/" type="4">
         <text>userdetail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvKiogUHJvZHVjdCBkYXRhIChpbmNsdWRpbmcgcHJvZHVjdCBpbnN0YW5jZSBhbmQgcHJvZHVjdCB0ZW1wbGF0ZSkgdGhhdCBpcyBub3QgcGFydCBvZiB0aGUgcmVxdWVzdAo=</text>
+        <text encoding="base64">ICAgKiBUeXBlIG9mIHRoZSB0YXggaXRlbSB0aGF0IGRlZmluZXMgbW9uZXkgbW92ZW1lbnQgYmVoYXZpb3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAxOiBvcHRpb25hbCBwYXltZW50c19jb21tb25fZGF0YQo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiovCg==</text>
+        <text encoding="base64">ICAgKiBUeXBlIG9mIHRoZSB0YXggaXRlbS4gRm9yIGV4YW1wbGUgVkFMVUVfQURERURfVEFYX0dVRVNULCBPQ0NVUEFOQ1lfVEFYLCBldGMuLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAxOiBvcHRpb25hbCBUYXhRdW90ZVByb2R1Y3REZXRhaWwgcmVxdWVzdFByb2R1Y3REZXRhaWwgKG5vbl9udWxsLCBwcml2YXRlX2RhdGEpCg==</text>
+        <text encoding="base64">KiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKiogUHJvZHVjdCBkZXRhaWwgaW5mb3JtYXRpb24gaW4gdGhlIHJlcXVlc3QuIFByb2R1Y3QgdHlwZSBpcyBhIHN1YiBmaWVsZCBoZXJlLiAqLwo=</text>
+        <text encoding="base64">ICAqIHB1dQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZHJlc3NPZlJlc2lkZW5jZSgpCg==</text>
+        <text encoding="base64">ICAgKiBUeXBlIG9mIHRoZSB0YXggaXRlbS4gRm9yIGV4YW1wbGUgVkFMVUVfQURERURfVEFYX0dVRVNULCBPQ0NVUEFOQ1lfVEFYLCBldGMuLgogICAqLwogIDQ6IG9wdGlvbmFsIHBheW1lbnRzX2NvbW1vbl9kYXRhLlByaWNlSXRlbVR5cGUgdGF4VHlwZSAob3RoZXJfZGF0YSkKICAvKioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAxOiBvcHRpb25hbCBwYXltZW50c19jb21tb25fZGF0YQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">KiovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAyOiBvcHRpb25hbCAK</text>
+        <text encoding="base64">ICAxOiBvcHRpb25hbCBUYXhRdW90ZVByb2R1Y3REZXRhaWwgcmVxdWVzdFByb2R1Y3REZXRhaWwgKG5vbl9udWxsLCBwcml2YXRlX2RhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAvKiogUHJvZHVjdCBkZXRhaWwgaW5mb3JtYXRpb24gaW4gdGhlIHJlcXVlc3QuIFByb2R1Y3QgdHlwZSBpcyBhIHN1YiBmaWVsZCBoZXJlLiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
