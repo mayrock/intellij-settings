@@ -577,11 +577,11 @@
         <mark key="'" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommand.java" timestamp="1593215730465">
-        <mark key="'" line="275" column="64" />
-        <mark key="[" line="700" column="55" />
-        <mark key="]" line="700" column="54" />
-        <mark key="." line="700" column="53" />
-        <mark key="^" line="700" column="54" />
+        <mark key="'" line="272" column="64" />
+        <mark key="[" line="697" column="55" />
+        <mark key="]" line="697" column="54" />
+        <mark key="." line="697" column="53" />
+        <mark key="^" line="697" column="54" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/version" timestamp="1593123718027">
         <mark key="[" line="0" column="5" />
@@ -623,9 +623,6 @@
         <mark key="^" line="18" column="95" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/payments/tax/common/api/TaxAuthorityLevel.java" timestamp="1593042892469">
-        <mark key="'" line="14" column="27" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1593213641467">
         <mark key="'" line="32" column="0" />
       </file>
@@ -634,6 +631,15 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Scenario.kt" timestamp="1593459355204">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="39" />
+      </file>
+      <file name="/fragment.java" timestamp="1593459073457">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -742,44 +748,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKENhY2hlTG9hZGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CacheLoader</text>
+        <text>scenario</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGFzeW5jTG9hZA==</text>
       </register>
       <register name="0" type="4">
-        <text>convertIdlScenario(</text>
+        <text>fromIdl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKENhY2hlTG9hZGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmIK</text>
+        <text encoding="base64">ZnVuIGNvbnZlcnRJZGxTY2VuYXJpbyhpZGxTY2VuYXJpbzogU2NlbmFyaW8pOiBTdHJpbmcgPQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>expireAfterWrite(config.getExpireAfterWriteSeconds(), TimeUnit.SECONDS)
-            .</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2FsQ2FjaGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zZXREZXRhaWwodGF4SXRlbURldGFpbHMuZ2V0QXR0cmlidXRlcygpKTsK</text>
+        <text encoding="base64">Y29uc3QgdmFsIFRUVDogU3RyaW5nID0gIlRUVCIK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBib29sZWFuIHNob3VsZEluY2x1ZGVEZXRhaWxzSW5JZGwoKSB7CgogICAgcmV0dXJuIGZhbHNlOwogIH0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHJpdmF0ZSB2YWwgU0NFTkFSSU9TX1dJVEhfREVUQUlMUyA9CiAgICBzZXRPZigKICAgICAgICBjb252ZXJ0SWRsU2NlbmFyaW8oU2NlbmFyaW8uREVGQVVMVCksCiAgICAgICAgY29udmVydElkbFNjZW5hcmlvKFNjZW5hcmlvLkNIRUNLT1VUKSwKICAgICAgICBjb252ZXJ0SWRsU2NlbmFyaW8oU2NlbmFyaW8uQUxURVIpLAogICAgICAgIGNvbnZlcnRJZGxTY2VuYXJpbyhTY2VuYXJpby5DQU5DRUwpLAoKICAgICAgICBUVFQKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYwo=</text>
+        <text encoding="base64">ZnVuIHNob3VsZEluY2x1ZGVJZGxUYXhJdGVtRGV0YWlscyhzY2VuYXJpbzogU3RyaW5nKSA9IFNDRU5BUklPU19XSVRIX0RFVEFJTFMuY29udGFpbnMoc2NlbmFyaW8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEp2bUZpZWxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKENhY2hlTG9hZGVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
