@@ -660,21 +660,21 @@
         <mark key="^" line="47" column="59" />
         <mark key="." line="47" column="58" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/taxengine/TaxEngineShadowJobTest.kt" timestamp="1593467153917">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/taxengine/TaxEngineShadowJobTest.kt" timestamp="1593470353596">
+        <mark key="'" line="151" column="70" />
         <mark key="[" line="151" column="64" />
         <mark key="]" line="151" column="70" />
         <mark key="." line="151" column="69" />
         <mark key="^" line="151" column="70" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Scenario.kt" timestamp="1593466803188">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="28" column="5" />
-        <mark key="^" line="28" column="5" />
-        <mark key="." line="28" column="4" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Scenario.kt" timestamp="1593470463686">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="18" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
       <jump line="126" column="16" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
       <jump line="129" column="20" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
       <jump line="121" column="35" filename="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" />
@@ -774,12 +774,13 @@
       <jump line="47" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
       <jump line="332" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/external/vertex/request/QuotationRequestDelegate.java" />
       <jump line="30" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/common/PriceSplitter.kt" />
+      <jump line="151" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/taxengine/TaxEngineShadowJobTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjZW5hcmlvIiB0byAicDIiLAo=</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;p2&quot;</text>
@@ -791,31 +792,31 @@
         <text encoding="base64">ICAgICAgICAgICAgInNjZW5hcmlvIiB0byBBcnViYVNjZW5hcmlvLmZyb21JZGwoU2NlbmFyaW8uU0VBUkNIKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjZW5hcmlvIiB0byAicDIiLAo=</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInNjZW5hcmlvIiB0byAicDIiLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInNjZW5hcmlvIiB0byAicDIiLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgRk9SQ0VfREVURVJNSU5FX0NPUl9TQ0VOQVJJT0VTLmNvbnRhaW5zKA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJvbUlkbChTY2VuYXJpby5ERUZBVUxUKSwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBzaG91bGRJbmNsdWRlSWRsVGF4SXRlbURldGFpbHMoKSA9IFNDRU5BUklPU19XSVRIX0RFVEFJTFMuY29udGFpbnModGhpcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBzaG91bGRJbmNsdWRlSWRsVGF4SXRlbURldGFpbHMoKSA9IFNDRU5BUklPU19XSVRIX0RFVEFJTFMuY29udGFpbnModGhpcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZhbCBTQ0VOQVJJT1NfV0lUSF9ERVRBSUxTID0KICAgICAgICBzZXRPZigKICAgICAgICAgICAgZnJvbUlkbChTY2VuYXJpby5ERUZBVUxUKSwKICAgICAgICAgICAgZnJvbUlkbChTY2VuYXJpby5DSEVDS09VVCksCiAgICAgICAgICAgIGZyb21JZGwoU2NlbmFyaW8uQUxURVIpLAogICAgICAgICAgICBmcm9tSWRsKFNjZW5hcmlvLkNBTkNFTCksCgogICAgICAgICAgICBUVFQKICAgICAgICAp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
