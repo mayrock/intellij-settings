@@ -574,18 +574,18 @@
         <mark key="." line="285" column="30" />
         <mark key="^" line="283" column="120" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1593472370555">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/Aruba.java" timestamp="1593472664448">
         <mark key="'" line="174" column="34" />
-        <mark key="[" line="1132" column="68" />
-        <mark key="]" line="1132" column="68" />
+        <mark key="[" line="161" column="30" />
+        <mark key="]" line="161" column="30" />
         <mark key="^" line="343" column="39" />
-        <mark key="." line="1132" column="68" />
+        <mark key="." line="161" column="30" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1593472322611">
-        <mark key="[" line="1945" column="48" />
-        <mark key="]" line="1945" column="48" />
-        <mark key="." line="1945" column="48" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1593472686034">
+        <mark key="[" line="452" column="22" />
+        <mark key="]" line="452" column="22" />
         <mark key="^" line="452" column="72" />
+        <mark key="." line="452" column="22" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateVatRequestTest.java" timestamp="1593465594360">
         <mark key="'" line="75" column="13" />
@@ -623,9 +623,6 @@
         <mark key="'" line="46" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/common/store/KeyValueStoreTest.java" timestamp="1593472333507">
-        <mark key="[" line="252" column="62" />
-        <mark key="]" line="252" column="62" />
-        <mark key="." line="252" column="62" />
         <mark key="^" line="12" column="111" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/TaxEngineCalculatorTest.java" timestamp="1593472382565">
@@ -646,18 +643,15 @@
         <mark key="^" line="171" column="69" />
         <mark key="." line="171" column="68" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" timestamp="1593466042338">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/request/CalculateTOTRequest.java" timestamp="1593472674881">
         <mark key="'" line="92" column="27" />
-        <mark key="[" line="214" column="92" />
-        <mark key="]" line="214" column="112" />
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="36" />
         <mark key="^" line="214" column="112" />
-        <mark key="." line="214" column="111" />
+        <mark key="." line="52" column="36" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateTOTRequestTest.java" timestamp="1593465575833">
-        <mark key="[" line="610" column="0" />
-        <mark key="]" line="610" column="108" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/request/CalculateTOTRequestTest.java" timestamp="1593472702345">
         <mark key="^" line="610" column="88" />
-        <mark key="." line="610" column="96" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/taxengine/TaxEngineShadowJobTest.kt" timestamp="1593470353596">
         <mark key="'" line="151" column="70" />
@@ -666,11 +660,11 @@
         <mark key="." line="151" column="69" />
         <mark key="^" line="151" column="70" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Scenario.kt" timestamp="1593472406365">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="23" column="10" />
-        <mark key="." line="23" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/util/Scenario.kt" timestamp="1593472634379">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -779,10 +773,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
