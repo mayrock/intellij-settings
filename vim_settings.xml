@@ -375,7 +375,6 @@
         <entry encoding="base64">XDxiaWxsVmVyc2lvbkl0ZW1Vbml0XD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50QmlsbFZlcnNpb25JdGVtVW5pdFw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVRvdEV4dHJhRGF0YVw+</entry>
-        <entry>taxitemde</entry>
         <entry>pricekey</entry>
         <entry>base6</entry>
         <entry>decoder</entry>
@@ -472,7 +471,6 @@
         <entry>taxitemdetai</entry>
         <entry>detail</entry>
         <entry>taxitemdetail</entry>
-        <entry encoding="base64">XDxnZXRWYXRQcmljZUl0ZW1Gb3JTcHZcPg==</entry>
         <entry>spvitem</entry>
         <entry>spv</entry>
         <entry>taxitemdetails</entry>
@@ -489,6 +487,9 @@
         <entry>calculateguest</entry>
         <entry>@before</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVHdWVzdFZhdFRheGVzXD4=</entry>
+        <entry>taxitemde</entry>
+        <entry>taxablebase</entry>
+        <entry encoding="base64">XDxnZXRWYXRQcmljZUl0ZW1Gb3JTcHZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -597,19 +598,19 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/models/ProductParamContext.java" timestamp="1593485976462">
         <mark key="'" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1593491180489">
-        <mark key="'" line="341" column="38" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1593492059990">
+        <mark key="'" line="279" column="20" />
         <mark key="[" line="98" column="86" />
         <mark key="]" line="98" column="119" />
         <mark key="." line="98" column="118" />
         <mark key="^" line="98" column="119" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" timestamp="1593491489543">
-        <mark key="'" line="338" column="15" />
-        <mark key="[" line="425" column="21" />
-        <mark key="]" line="425" column="21" />
-        <mark key="." line="425" column="21" />
-        <mark key="^" line="425" column="21" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" timestamp="1593492508834">
+        <mark key="'" line="363" column="15" />
+        <mark key="[" line="410" column="23" />
+        <mark key="]" line="410" column="23" />
+        <mark key="." line="410" column="22" />
+        <mark key="^" line="410" column="23" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1593479033586">
         <mark key="[" line="68" column="65" />
@@ -644,12 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
-      <jump line="92" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
-      <jump line="14" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/build/generated/thrift-gen-data/main/java/com/airbnb/aruba/api/TaxInputPriceItemType.java" />
-      <jump line="99" column="92" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
-      <jump line="109" column="76" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
-      <jump line="119" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="125" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="158" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="331" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
@@ -744,49 +739,58 @@
       <jump line="359" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" />
       <jump line="419" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" />
       <jump line="338" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" />
+      <jump line="8" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" />
+      <jump line="319" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
+      <jump line="279" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
+      <jump line="363" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" />
+      <jump line="285" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculatorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxjdWxhdGVHdWVzdFZhdFRheGVzXD4=</text>
+        <text encoding="base64">XDxnZXRWYXRQcmljZUl0ZW1Gb3JTcHZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExpc3Q8UHJpY2VJdGVtPiBwcmljZUl0ZW1zU3B2ID0K</text>
+      <register name="0" type="4">
+        <text>2_000_000L</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHRheEl0ZW1EZXRhaWxzLmdldEFtb3VudE1pY3Jvc0luUmVtaXR0YW5jZUN1cnJlbmN5KCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHRheEl0ZW1EZXRhaWxzLmdldEFtb3VudE1pY3Jvc0luUHJvZHVjdEN1cnJlbmN5KCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMTRfMDAwXzAwMEwsIGl0ZW0uZ2V0R3Vlc3RBbW91bnRNaWNyb3MoKS5nZXRBbW91bnRNaWNyb3MoKS5sb25nVmFsdWUoKSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>=
         addVatItemsLegacy(productParam, currencyInfo, reservationDetail</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RQYXJhbS5nZXQpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudXNlcklkKHByb2R1Y3RVbml0LikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5idWlsZCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wdXQoUHJpY2VJdGVtVHlwZS5HVUVTVF9JTkNMVVNJVkVfVEFYX1JFTUlUVEVEX0JZX0FJUkJOQikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wdXQoUHJpY2VJdGVtVHlwZS5HVUVTVF9JTkNMVVNJVkVfVEFYX1JFTUlUVEVEX0JZX0FJUkJOQikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -795,9 +799,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYWxjdWxhdGVHdWVzdFZhdFRheGVzXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRWYXRQcmljZUl0ZW1Gb3JTcHZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxjdWxhdGVHdWVzdFZhdFRheGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRWYXRQcmljZUl0ZW1Gb3JTcHZcPg==</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
