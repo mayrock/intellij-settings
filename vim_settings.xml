@@ -613,8 +613,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" timestamp="1593496156784">
         <mark key="'" line="34" column="37" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593485971585">
-        <mark key="'" line="427" column="15" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" timestamp="1593497372059">
+        <mark key="'" line="430" column="24" />
         <mark key="[" line="328" column="63" />
         <mark key="]" line="328" column="66" />
         <mark key="." line="328" column="65" />
@@ -626,12 +626,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" timestamp="1593496382687">
-        <mark key="'" line="18" column="44" />
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="69" />
-        <mark key="^" line="18" column="69" />
-        <mark key="." line="18" column="68" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" timestamp="1593497415969">
+        <mark key="'" line="21" column="44" />
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/payments_tax_common_data.thrift" timestamp="1593485640339">
         <mark key="'" line="215" column="10" />
@@ -641,8 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
-      <jump line="91" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="96" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="102" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
       <jump line="115" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
@@ -741,12 +739,14 @@
       <jump line="34" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" />
       <jump line="50" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/build/generated/thrift-gen-data/main/java/com/airbnb/payments/tax/common/api/UserCountryOfResidenceDetermination.java" />
       <jump line="17" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" />
+      <jump line="463" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
+      <jump line="430" column="24" filename="$USER_HOME$/airlab/repos/treehouse/schemas/aruba/src/indirect_tax_data.thrift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>UserCORDeterminatiqn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBydWxlSWQ6IFN0cmluZwo=</text>
       </register>
       <register name="-" type="4">
         <text>UserCORDeterminatiqn</text>
@@ -758,7 +758,7 @@
         <text>2_000_000L</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0aQo=</text>
+        <text encoding="base64">ICAgIHZhbCBydWxlSWQ6IFN0cmluZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -767,26 +767,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc2V0aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHRheEl0ZW1EZXRhaWxzLmdldEFtb3VudE1pY3Jvc0luUmVtaXR0YW5jZUN1cnJlbmN5KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHRheEl0ZW1EZXRhaWxzLmdldEFtb3VudE1pY3Jvc0luUHJvZHVjdEN1cnJlbmN5KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMTRfMDAwXzAwMEwsIGl0ZW0uZ2V0R3Vlc3RBbW91bnRNaWNyb3MoKS5nZXRBbW91bnRNaWNyb3MoKS5sb25nVmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHRheEl0ZW1EZXRhaWxzLmdldEFtb3VudE1pY3Jvc0luUmVtaXR0YW5jZUN1cnJlbmN5KCkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>=
-        addVatItemsLegacy(productParam, currencyInfo, reservationDetail</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHRheEl0ZW1EZXRhaWxzLmdldEFtb3VudE1pY3Jvc0luUHJvZHVjdEN1cnJlbmN5KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RQYXJhbS5nZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMTRfMDAwXzAwMEwsIGl0ZW0uZ2V0R3Vlc3RBbW91bnRNaWNyb3MoKS5nZXRBbW91bnRNaWNyb3MoKS5sb25nVmFsdWUoKSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>=
+        addVatItemsLegacy(productParam, currencyInfo, reservationDetail</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
