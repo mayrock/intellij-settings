@@ -477,7 +477,6 @@
         <entry>legacy</entry>
         <entry>guest</entry>
         <entry>guestid</entry>
-        <entry>userid</entry>
         <entry encoding="base64">XDxhZGRWYXRJdGVtc0xlZ2FjeVw+</entry>
         <entry encoding="base64">XDxhZGRWYXRJdGVtc1w+</entry>
         <entry encoding="base64">XDxwcm9kdWN0UGFyYW1Db250ZXh0XD4=</entry>
@@ -507,6 +506,7 @@
         <entry>reservationmanager</entry>
         <entry>productparam</entry>
         <entry>productparamcontext</entry>
+        <entry>userid</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -601,12 +601,12 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" timestamp="1593542676368">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" timestamp="1593543138299">
         <mark key="'" line="225" column="61" />
-        <mark key="[" line="795" column="71" />
-        <mark key="]" line="795" column="92" />
-        <mark key="^" line="795" column="92" />
-        <mark key="." line="795" column="91" />
+        <mark key="[" line="1280" column="16" />
+        <mark key="]" line="1280" column="22" />
+        <mark key="^" line="1280" column="22" />
+        <mark key="." line="1280" column="21" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/ProductPriceQuoteManager.java" timestamp="1593542734082">
         <mark key="'" line="321" column="32" />
@@ -619,8 +619,8 @@
         <mark key="]" line="1047" column="0" />
         <mark key="." line="1047" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1593542330367">
-        <mark key="'" line="431" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1593542936020">
+        <mark key="'" line="351" column="29" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1593501098557">
         <mark key="[" line="2" column="33" />
@@ -628,7 +628,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" timestamp="1593542579973">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" timestamp="1593542758442">
         <mark key="'" line="111" column="14" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/manager/VatQuoteManager.java" timestamp="1593498836351">
@@ -651,8 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" />
-      <jump line="489" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="2355" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" />
       <jump line="24" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/model/IndirectTaxItem.kt" />
       <jump line="136" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" />
@@ -738,7 +736,6 @@
       <jump line="30" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" />
       <jump line="92" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" />
       <jump line="138" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" />
-      <jump line="111" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" />
       <jump line="785" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" />
       <jump line="10" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ReservationManager.java" />
@@ -751,21 +748,24 @@
       <jump line="322" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/ProductPriceQuoteManager.java" />
       <jump line="321" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/ProductPriceQuoteManager.java" />
       <jump line="27" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/ProductManager.java" />
+      <jump line="111" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" />
+      <jump line="430" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
+      <jump line="351" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>productParamContext.getUserId()</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>productParamContext.getUserId()</text>
       </register>
       <register name="/" type="4">
-        <text>productparamcontext</text>
+        <text>userid</text>
       </register>
       <register name="0" type="4">
-        <text>IndirectTaxType</text>
+        <text>productParamContext.getUserId()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgZmllbGQgaW4gYXV0aG9yaXR5IGxldmVsLiBXZSBzaG91bGQgcmV2aXNpdCB0aGlzLCBwb3NzaWJseSBhZGQgYSBuZXcgZmllbGQgdG8gdGhlIGRldGFpbHMgc3RydWN0Cg==</text>
@@ -811,9 +811,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>productparamcontext</last-search>
+      <last-search>userid</last-search>
       <last-offset />
-      <last-pattern>productparamcontext</last-pattern>
+      <last-pattern>userid</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
