@@ -513,6 +513,7 @@
         <entry>taxitemdetail</entry>
         <entry encoding="base64">XDxiaWxsVmVyc2lvbkl0ZW1Vbml0VG9rZW5cPg==</entry>
         <entry encoding="base64">XDxob3N0RmVlUHJpY2VJdGVtXD4=</entry>
+        <entry encoding="base64">XDxleGNsdWRlZFRlc3RzUGFyc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -592,13 +593,65 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1593542936020">
+        <mark key="'" line="351" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593561905771">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/schemas/payments_common/src/version" timestamp="1593539495146">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" timestamp="1593557307144">
+        <mark key="'" line="1050" column="16" />
+        <mark key="[" line="1086" column="0" />
+        <mark key="]" line="1088" column="14" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/main/java/com/airbnb/aruba/service/api/VATCalculator.java" timestamp="1593501464521">
         <mark key="]" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/MagicalTripsProductPlatformEventHandler.java" timestamp="1593557453976">
+        <mark key="'" line="79" column="44" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/testdatabuilder/bill/BillVersionItemUnitPriceItemBuilder.java" timestamp="1593558457875">
+        <mark key="'" line="215" column="29" />
+        <mark key="[" line="215" column="23" />
+        <mark key="]" line="215" column="24" />
+        <mark key="." line="215" column="23" />
+        <mark key="^" line="215" column="24" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" timestamp="1593558998615">
+        <mark key="'" line="282" column="5" />
+        <mark key="[" line="287" column="17" />
+        <mark key="]" line="287" column="20" />
+        <mark key="^" line="287" column="20" />
+        <mark key="." line="287" column="19" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" timestamp="1593501245542">
+        <mark key="[" line="1047" column="0" />
+        <mark key="]" line="1047" column="0" />
+        <mark key="." line="1047" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1593501098557">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" timestamp="1593542758442">
+        <mark key="'" line="111" column="14" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1593557409993">
+        <mark key="'" line="66" column="32" />
+        <mark key="[" line="387" column="95" />
+        <mark key="]" line="387" column="95" />
+        <mark key="." line="387" column="95" />
+        <mark key="^" line="387" column="96" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/tax/src/main/java/com/airbnb/common/tax/TaxItemDetailsExtension.kt" timestamp="1593541524199">
         <mark key="'" line="31" column="0" />
@@ -617,62 +670,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/ProductPriceQuoteManager.java" timestamp="1593542734082">
         <mark key="'" line="321" column="32" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/Util.java" timestamp="1593501245542">
-        <mark key="[" line="1047" column="0" />
-        <mark key="]" line="1047" column="0" />
-        <mark key="." line="1047" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/ReservationVatCalculator.java" timestamp="1593542936020">
-        <mark key="'" line="351" column="29" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/testdatabuilder/bill/BillVersionItemUnitPriceItemBuilder.java" timestamp="1593558457875">
-        <mark key="'" line="215" column="29" />
-        <mark key="[" line="215" column="23" />
-        <mark key="]" line="215" column="24" />
-        <mark key="." line="215" column="23" />
-        <mark key="^" line="215" column="24" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" timestamp="1593558998615">
-        <mark key="'" line="282" column="5" />
-        <mark key="[" line="287" column="17" />
-        <mark key="]" line="287" column="20" />
-        <mark key="^" line="287" column="20" />
-        <mark key="." line="287" column="19" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/command/TaxQuotationAsyncCommandTest.kt" timestamp="1593501098557">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/powergrid/nodefactory/BillQuoteNodeFactoryTest.java" timestamp="1593542758442">
-        <mark key="'" line="111" column="14" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/GeneralProductPlatformEventHandler.java" timestamp="1593557409993">
-        <mark key="'" line="66" column="32" />
-        <mark key="[" line="387" column="95" />
-        <mark key="]" line="387" column="95" />
-        <mark key="." line="387" column="95" />
-        <mark key="^" line="387" column="96" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593500945054">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/ReservationPlatformEventHandler.java" timestamp="1593557307144">
-        <mark key="'" line="1050" column="16" />
-        <mark key="[" line="1086" column="0" />
-        <mark key="]" line="1088" column="14" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/MagicalTripsProductPlatformEventHandler.java" timestamp="1593557453976">
-        <mark key="'" line="79" column="44" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/build.gradle" timestamp="1593562354458">
+        <mark key="'" line="23" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" />
-      <jump line="141" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" />
       <jump line="294" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" />
       <jump line="324" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" />
       <jump line="322" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/VATCalculatorTest.java" />
@@ -771,6 +773,8 @@
       <jump line="150" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
       <jump line="210" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/testdatabuilder/bill/BillVersionItemUnitPriceItemBuilder.java" />
       <jump line="282" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/MagicalTripsPlatformEventHandlerTest.java" />
+      <jump line="2" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/build.gradle" />
+      <jump line="23" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -782,7 +786,7 @@
         <text>taxRecoveryFee</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob3N0RmVlUHJpY2VJdGVtXD4=</text>
+        <text encoding="base64">XDxleGNsdWRlZFRlc3RzUGFyc2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJpbGxWZXJzaW9uSXRlbVVuaXRQcmljZUl0ZW1zLmFkZChiaWxsVmVyc2lvbkl0ZW1Vbml0UHJpY2VJdGVtKTsK</text>
@@ -824,9 +828,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxob3N0RmVlUHJpY2VJdGVtXD4=</last-search>
+      <last-search encoding="base64">XDxleGNsdWRlZFRlc3RzUGFyc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob3N0RmVlUHJpY2VJdGVtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxleGNsdWRlZFRlc3RzUGFyc2VyXD4=</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
