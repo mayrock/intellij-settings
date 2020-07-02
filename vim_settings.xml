@@ -554,6 +554,8 @@
         <entry encoding="base64">XDxnZW5lcmF0ZVRheFF1b3RlV2l0aE5ld1RheFR5cGVzXD4=</entry>
         <entry>generateproduct</entry>
         <entry>throw</entry>
+        <entry encoding="base64">XDx0b2tlbk1hbmFnZXJcPg==</entry>
+        <entry>tokentype</entry>
       </history-search>
       <history-cmd>
         <entry>f]w</entry>
@@ -638,8 +640,8 @@
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="98" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" timestamp="1593718452581">
-        <mark key="'" line="51" column="22" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" timestamp="1593718897719">
+        <mark key="'" line="193" column="68" />
         <mark key="[" line="192" column="22" />
         <mark key="]" line="192" column="62" />
       </file>
@@ -661,8 +663,9 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aruba/service/src/test/java/com/airbnb/aruba/service/api/ArubaTest.java" timestamp="1593583725606">
-        <mark key="[" line="3" column="17" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/testdatabuilder/response/ProductParamBuilder.java" timestamp="1593719037767">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/test/java/com/airbnb/panama/pubsub/platformevent/ReservationPlatformEventHandlerTest.java" timestamp="1593587620817">
         <mark key="'" line="552" column="23" />
@@ -675,12 +678,15 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/MagicalTripsProductPlatformEventHandler.java" timestamp="1593587199575">
         <mark key="'" line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" timestamp="1593718489646">
-        <mark key="'" line="54" column="34" />
-        <mark key="[" line="44" column="7" />
-        <mark key="]" line="45" column="9" />
-        <mark key="^" line="45" column="9" />
-        <mark key="." line="45" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/token/PaymentsTokenManager.java" timestamp="1593718966356">
+        <mark key="'" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" timestamp="1593719081395">
+        <mark key="'" line="49" column="51" />
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="62" column="30" />
+        <mark key="." line="62" column="30" />
+        <mark key="^" line="76" column="30" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" timestamp="1593714741670">
         <mark key="'" line="110" column="33" />
@@ -704,23 +710,15 @@
       <file name="/fragment.java" timestamp="1593716180168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" timestamp="1593715862931">
-        <mark key="'" line="252" column="28" />
-        <mark key="[" line="349" column="87" />
-        <mark key="]" line="349" column="101" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" timestamp="1593718978594">
+        <mark key="'" line="169" column="39" />
+        <mark key="[" line="170" column="20" />
+        <mark key="]" line="170" column="48" />
         <mark key="." line="349" column="100" />
         <mark key="^" line="349" column="101" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
-      <jump line="309" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
-      <jump line="347" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
-      <jump line="359" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
-      <jump line="631" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
-      <jump line="87" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverter.java" />
-      <jump line="151" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/build/generated/thrift-gen-data/main/java/com/airbnb/griphook/api/v1/TaxQuote.java" />
-      <jump line="169" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverter.java" />
       <jump line="222" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
       <jump line="78" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
       <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
@@ -772,7 +770,6 @@
       <jump line="101" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/TaxWithholdingPlatformEventHandler.java" />
       <jump line="91" column="76" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/panama/src/main/java/com/airbnb/panama/pubsub/platformevent/handlers/TaxWithholdingPlatformEventHandler.java" />
       <jump line="339" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
-      <jump line="25" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/token/PaymentsTokenManager.java" />
       <jump line="305" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
       <jump line="139" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
       <jump line="283" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
@@ -813,51 +810,60 @@
       <jump line="179" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
       <jump line="190" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
       <jump line="51" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
+      <jump line="42" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
+      <jump line="191" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
+      <jump line="193" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
+      <jump line="48" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" />
+      <jump line="25" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/token/PaymentsTokenManager.java" />
+      <jump line="2" column="17" filename="$USER_HOME$/airlab/repos/treehouse/common/token/src/main/java/com/airbnb/common/token/TokenType.java" />
+      <jump line="738" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
+      <jump line="14" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
+      <jump line="169" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CurrencyInfoBuilder.USD_EUR_CURRENCY_INFO</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>CNY</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>tokentype</text>
       </register>
       <register name="0" type="4">
-        <text>CurrencyInfoBuilder.USD_EUR_CURRENCY_INFO</text>
+        <text>productPriceQuoteToken</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEN1cnJlbmN5SW5mbyBjdXJyZW5jeUluZm8gPSBDdXJyZW5jeUluZm8ub2YocHJvZHVjdFBhcmFtLmdldEN1cnJlbmN5SW5mbygpKTsK</text>
+        <text encoding="base64">ICBARXhjZXB0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuY3VycmVuY3lJbmZvKEN1cnJlbmN5SW5mb0J1aWxkZXIuVVNEX0VVUl9DVVJSRU5DWV9JTkZPKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFByb2R1Y3RQYXJhbSBwcm9kdWN0UGFyYW0gPSBuZXcgUHJvZHVjdFBhcmFtQnVpbGRlcih0b2tlbk1hbmFnZXIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIEN1cnJlbmN5SW5mbyBjdXJyZW5jeUluZm8gPSBDdXJyZW5jeUluZm8ub2YocHJvZHVjdFBhcmFtLmdldEN1cnJlbmN5SW5mbygpKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAuY3VycmVuY3lJbmZvKEN1cnJlbmN5SW5mb0J1aWxkZXIuVVNEX0VVUl9DVVJSRU5DWV9JTkZPKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFByb2R1Y3RQYXJhbSBwcm9kdWN0UGFyYW0gPSBuZXcgUHJvZHVjdFBhcmFtQnVpbGRlcih0b2tlbk1hbmFnZXIpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEN1cnJlbmN5SW5mbyBjdXJyZW5jeUluZm8gPSBDdXJyZW5jeUluZm8ub2YocHJvZHVjdFBhcmFtLmdldEN1cnJlbmN5SW5mbygpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJpY2VJdGVtVHlwZS5WQUxVRV9BRERFRF9UQVhfSE9TVCwgMjBfMDAwTCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJpY2VJdGVtVHlwZS5WQUxVRV9BRERFRF9UQVhfSE9TVCwgMjBfMDAwTCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -866,9 +872,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>throw</last-search>
+      <last-search>tokentype</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>tokentype</last-pattern>
       <last-replace encoding="base64">cHVibGljIA==</last-replace>
       <last-substitute encoding="base64">cHJpdmF0ZSA=</last-substitute>
       <last-dir>1</last-dir>
