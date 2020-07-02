@@ -681,12 +681,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/libs/src/main/java/com/airbnb/payments/token/PaymentsTokenManager.java" timestamp="1593718966356">
         <mark key="'" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" timestamp="1593719081395">
-        <mark key="'" line="49" column="51" />
-        <mark key="[" line="62" column="30" />
-        <mark key="]" line="62" column="30" />
-        <mark key="." line="62" column="30" />
-        <mark key="^" line="76" column="30" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" timestamp="1593719903267">
+        <mark key="'" line="62" column="55" />
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="67" column="90" />
+        <mark key="." line="67" column="89" />
+        <mark key="^" line="67" column="90" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" timestamp="1593714741670">
         <mark key="'" line="110" column="33" />
@@ -719,8 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
-      <jump line="78" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
       <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
       <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
       <jump line="15" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
@@ -801,7 +799,6 @@
       <jump line="50" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" />
       <jump line="54" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverter.java" />
       <jump line="52" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" />
-      <jump line="18" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/testdatabuilder/response/CurrencyInfoBuilder.java" />
       <jump line="192" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
       <jump line="57" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
       <jump line="93" column="71" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/PaymentPeriodVatResponseConverterTest.java" />
@@ -819,51 +816,54 @@
       <jump line="738" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
       <jump line="14" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
       <jump line="169" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/main/java/com/airbnb/balboa/server/productpricequote/managers/products/TripManager.java" />
+      <jump line="59" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" />
+      <jump line="62" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/productpricequote/managers/products/reservation/converters/TaxQuoteConverterTest.java" />
+      <jump line="18" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/payments/balboa/server/src/test/java/com/airbnb/balboa/server/testdatabuilder/response/CurrencyInfoBuilder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>GuestA</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>GuestA</text>
       </register>
       <register name="/" type="4">
         <text>tokentype</text>
       </register>
-      <register name="0" type="4">
-        <text>productPriceQuoteToken</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygiVVNEIiwgYWN0dWFsSXRlbS5nZXRHdWVzdEFtb3VudE1pY3JvcygpLmdldEN1cnJlbmN5KCkpOwogICAgYXNzZXJ0RXF1YWxzKDEwXzAwMEwsIGFjdHVhbEl0ZW0uZ2V0R3Vlc3RBbW91bnRNaWNyb3MoKS5nZXRBbW91bnRNaWNyb3MoKS5sb25nVmFsdWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBARXhjZXB0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEN1cnJlbmN5SW5mbyBjdXJyZW5jeUluZm8gPSBDdXJyZW5jeUluZm8ub2YocHJvZHVjdFBhcmFtLmdldEN1cnJlbmN5SW5mbygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuY3VycmVuY3lJbmZvKEN1cnJlbmN5SW5mb0J1aWxkZXIuVVNEX0VVUl9DVVJSRU5DWV9JTkZPKQo=</text>
+        <text encoding="base64">ICBARXhjZXB0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFByb2R1Y3RQYXJhbSBwcm9kdWN0UGFyYW0gPSBuZXcgUHJvZHVjdFBhcmFtQnVpbGRlcih0b2tlbk1hbmFnZXIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIEN1cnJlbmN5SW5mbyBjdXJyZW5jeUluZm8gPSBDdXJyZW5jeUluZm8ub2YocHJvZHVjdFBhcmFtLmdldEN1cnJlbmN5SW5mbygpKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAuY3VycmVuY3lJbmZvKEN1cnJlbmN5SW5mb0J1aWxkZXIuVVNEX0VVUl9DVVJSRU5DWV9JTkZPKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIFByb2R1Y3RQYXJhbSBwcm9kdWN0UGFyYW0gPSBuZXcgUHJvZHVjdFBhcmFtQnVpbGRlcih0b2tlbk1hbmFnZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJpY2VJdGVtVHlwZS5WQUxVRV9BRERFRF9UQVhfSE9TVCwgMjBfMDAwTCkpOwo=</text>
+        <text encoding="base64">ICAgIEN1cnJlbmN5SW5mbyBjdXJyZW5jeUluZm8gPSBDdXJyZW5jeUluZm8ub2YocHJvZHVjdFBhcmFtLmdldEN1cnJlbmN5SW5mbygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
