@@ -1,6 +1,13 @@
 <application>
   <component name="ApplicationConfig">
+    <option name="instanceType" value="ENTERPRISE" />
+    <option name="url" value="https://src.dev.databricks.com/" />
+    <option name="accessToken" value="a7dd032928a6a0ac2529ffffd31df78d0062ddb4" />
+    <option name="defaultBranch" value="main" />
+    <option name="remoteUrlReplacements" value="" />
     <option name="anonymousUserId" value="7f1f5c62-04d5-416a-af5d-5677d0b91d4b" />
+    <option name="isInstallEventLogged" value="true" />
+    <option name="authenticationFailedLastTime" value="false" />
     <option name="lastUpdateNotificationPluginVersion" value="2.0.1" />
   </component>
 </application>
