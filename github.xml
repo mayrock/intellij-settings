@@ -1,11 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="eaf0705b-0e0d-48cf-ba7e-5a60c32abff4" name="yuanchao-ma">
-      <server useHttp="false" host="git.musta.ch" />
+    <account name="yuanchaoma-db" id="2ced17bd-4afa-42e8-9bf3-7360799a1fce">
+      <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="HOST" value="https://git.musta.ch/" />
-    <option name="AUTH_TYPE" value="TOKEN" />
   </component>
 </application>
