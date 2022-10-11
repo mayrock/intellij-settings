@@ -1,5 +1,9 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
   <action id="FileChooser.TogglePathShowing" />
+  <action id="MakeBazelEnclosingTarget">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="ParameterInfo" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -8,4 +12,5 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>

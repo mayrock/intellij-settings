@@ -1,13 +1,43 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Blaze.UpdateDirectories" is_action="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.NewPackageAction" is_action="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Hotswap" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="space.actions.MainToolbarActionGroup" is_group="true" action_type="-1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Blaze.UpdateDirectories" is_action="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.FullSyncProject" is_action="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="space.actions.MainToolbarActionGroup" is_group="true" action_type="-1" position="9">
@@ -18,6 +48,12 @@
     <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="8">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.FullSyncProject" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
@@ -35,9 +71,39 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Blaze.CopyBlazeTargetPathAction" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.DetachAllSourceJars" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.ExcludeLibraryAction" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.ExpandSyncToWorkingSet" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MakeModule" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="3">
@@ -45,15 +111,115 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Blaze.AddDirectoryToProjectView" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.AddLibraryTargetDirectoryToProjectView" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.AddSourceToProject" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.AttachSourceJarAction" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.ImportProject2" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.PartialSync" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CodeWithMeNavbarGroup" is_group="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.ImportProject2" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.AddDirectoryToProjectView" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Databricks Bazel" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="2" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="2" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="2" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="2" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="3" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="2" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="4" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="2" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="5" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="2" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="6" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="2" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Databricks Bazel" />
+      <option name="myInitialPosition" value="7" />
     </group>
   </component>
 </application>
