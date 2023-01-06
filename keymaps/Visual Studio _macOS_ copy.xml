@@ -1,4 +1,8 @@
 <keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="FileChooser.TogglePathBar" />
   <action id="ParameterInfo" />
   <action id="SearchEverywhere">
