@@ -1,6 +1,5 @@
 <application>
   <component name="BlazeUserSettings">
-    <option name="bazelBinaryPath" value="/usr/local/bin/bazel --local_ram_resources=HOST_RAM*.5" />
     <option name="showProblemsViewOnRun" value="On error" />
     <option name="syncStatusPopupShown" value="true" />
   </component>
