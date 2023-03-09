@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="srcjar" type="ARCHIVE" />
       <mapping pattern="STRICT_REVIEWERS" type="AUTO_DETECTED" />
+      <mapping ext="dump" type="AUTO_DETECTED" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
